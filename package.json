@@ -9,5 +9,8 @@
   "scripts": {
     "lint": "eslint .",
     "install_hugo": "brew update && brew install hugo"
+  },
+  "dependencies": {
+    "netlify-cms": "^1.3.5"
   }
 }
