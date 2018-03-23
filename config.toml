@@ -1,4 +1,4 @@
-baseurl = "https://sysbiowebsite.netlify.com"
+baseurl = "https://sysbiowebsite.netlify.com/"
 title = "Systems and Synthetic Biology - SYSBIO"
 # theme = "hugo-universal-theme"
 # themesDir = "../.."
