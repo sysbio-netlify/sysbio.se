@@ -1,5 +1,5 @@
-baseurl = "https://example.org"
-title = "Univeral"
+baseurl = "https://sysbiowebsite.netlify.com"
+title = "Systems and Synthetic Biology - SYSBIO"
 # theme = "hugo-universal-theme"
 # themesDir = "../.."
 languageCode = "en-us"
