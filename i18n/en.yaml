@@ -56,7 +56,7 @@
   translation: "By"
 
 - id: recentPosts
-  translation: "News"
+  translation: "Recent posts"
 
 - id: aboutUs
   translation: "About us"
@@ -69,3 +69,6 @@
 
 - id: publishedOn
   translation: "on"
+
+- id: Labs
+  translation: "Labs"

@@ -3,8 +3,35 @@ title = "Contact"
 id = "contact"
 +++
 
-# We are here to help you
+# Header
+## Subheader
+### Subsubheader
 
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+Phone, switchboard: +46 31 772 1000  
+Administration – Erica Dahlin: +46 31 772 3835  
+Direct dial: +46 31 772 + extension  
+Fax: +46 31 772 3801  
 
-Please feel free to contact us, our customer service center is working for you 24/7.
+**Postal and delivery address**  
+Chalmers University of Technology  
+Department of Biology and Biological Engineering  
+Division of Systems and Synthetic Biology  
+Kemivägen 10  
+SE-412 96 Göteborg  
+Sweden  
+Please include reference to a person at Systems and Synthetic Biology.  
+
+**Visiting address**  
+Chalmers University of Technology  
+Department of Biology and Biological Engineering  
+Division of Systems and Synthetic Biology  
+Kemigården 4, Forskarhus I (Research building I), 6th floor →map (pdf)  
+SE-412 96 Göteborg  
+Sweden  
+
+**Invoice address**  
+Chalmers University of Technology  
+Invoice Service  
+SE-412 96 Göteborg  
+Sweden  
+Reference to Erica Dahlin, cost center 284000.  
