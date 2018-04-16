@@ -97,13 +97,13 @@ paginate = 10
   # Enable the contact form by entering your Formspree.io email
   email = "your@email.com"
 
-  about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+  about_us = "img/chalmers.png"
   copyright = "Sysbio © 2018 "
 
   # Format dates with Go's time formatting
   date_format = "January 2, 2006"
 
-  logo = "img/logo.svg"
+  logo = "img/logo.png"
   address = """<p><strong>Chalmers University of Technology</strong>
       <br>Department of Biology and Biological Engineering
       <br>Division of Systems and Synthetic Biology

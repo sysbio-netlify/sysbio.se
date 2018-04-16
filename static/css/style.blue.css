@@ -2565,12 +2565,9 @@ fieldset[disabled] .btn-template-primary.active {
 #copyright {
   background: #333;
   color: #ccc;
-  padding: 10px 0;
-  font-size: 12px;
+  padding-top: 10px;
+  font-size: 13px;
   line-height: 28px;
-}
-#copyright p {
-  margin: 0;
 }
 @media (max-width: 991px) {
   #copyright p {
@@ -3516,4 +3513,12 @@ a.list-group-item.active > .badge,
 .yamm .dropdown.yamm-fw .dropdown-menu {
   left: 15px;
   right: 15px;
+}
+
+.footer-logo {
+  width: 70%;
+  max-width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
