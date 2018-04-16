@@ -11,13 +11,35 @@ paginate = 10
 
 # Main menu
 [[menu.main]]
-  name = "People"
-  url  = "/people/"
-  weight = 1
-[[menu.main]]
   name = "News"
   url  = "/news/"
+  weight = 1
+[[menu.main]]
+  name = "whatever"
+  identifier = "whatever"
+  url  = "/whatever/"
   weight = 2
+  hasChildren = true
+[[menu.main]]
+  Name = "International projects"
+  parent = "whatever"
+  URL = "/about/iprojects.md"
+  Weight = 1.0
+[[menu.main]]
+  Name = "Software"
+  parent = "whatever"
+  URL = "/about/software.md"
+  Weight = 1.0
+[[menu.main]]
+  Name = "Databases"
+  parent = "whatever"
+  URL = "/about/databases.md"
+  Weight = 2.0
+[[menu.main]]
+  Name = "Finished projects"
+  parent = "whatever"
+  URL = "/about/fproj.md"
+  Weight = 2.0
 [[menu.main]]
   name = "About"
   identifier = "about"
@@ -25,14 +47,14 @@ paginate = 10
   weight = 3
   hasChildren = true
 [[menu.main]]
-  Name = "Organization"
+  Name = "People"
   parent = "about"
-  URL = "/about/organization.md"
+  URL = "/about/people.md"
   Weight = 1.0
 [[menu.main]]
-  Name = "Alumni"
+  Name = "Group Photos"
   parent = "about"
-  URL = "/about/alumni.md"
+  URL = "/about/photos.md"
   Weight = 2.0
 [[menu.main]]
   name = "Contact"
@@ -81,7 +103,7 @@ paginate = 10
   # Format dates with Go's time formatting
   date_format = "January 2, 2006"
 
-  logo = "img/logo.png"
+  logo = "img/logo.svg"
   address = """<p><strong>Chalmers University of Technology</strong>
       <br>Department of Biology and Biological Engineering
       <br>Division of Systems and Synthetic Biology
@@ -134,8 +156,8 @@ paginate = 10
   # All clients are defined in their own files. You can find example items
   # at 'data/clients'.
   # For more informtion take a look at the README.
-  title = "Centres of Excellence"
-  subtitle = "Text here?"
+  title = "Centers of Excellence"
+  subtitle = "Systems and Synthetic Biology is part of two large center structures that operate with satellite facilities at Chalmers."
 
 [params.recent_posts]
   enable = true
