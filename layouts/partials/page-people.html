@@ -1,9 +1,28 @@
 <div class="container" role="main">
-  <div class="row">
-    {{ range $.Site.Data.people.tenured }}
-    <div class="col-md-6 col-sm-12">
-      {{ partial "person.html" . }}
-    </div>
-    {{ end }}
-  </div>
+  <h3>Tenured Faculty</h3>
+  {{ partial "page-people-section.html" $.Site.Data.people.tenured }}
+  <h3>Non-tenured Faculty</h3>
+  {{ partial "page-people-section.html" $.Site.Data.people.nontenured }}
+  <h3>Affiliated Faculty</h3>
+  {{ partial "page-people-section.html" $.Site.Data.people.affiliated }}
+  <h3>Senior Researchers</h3>
+  {{ partial "page-people-section.html" $.Site.Data.people.senior }}
+  <h3>Post Docs</h3>
+  {{ partial "page-people-section.html" $.Site.Data.people.postdocs }}
+  <h3>PhD Students</h3>
+  {{ partial "page-people-section.html" $.Site.Data.people.phd }}
+  <h3>Master Students</h3>
+  {{ partial "page-people-section.html" $.Site.Data.people.master }}
+  <h3>Visiting researchers</h3>
+  {{ partial "page-people-section.html" $.Site.Data.people.visiting }}
+  <h3>Guests</h3>
+  {{ partial "page-people-section.html" $.Site.Data.people.guests }}
+  <h3>Research Engineers - Wet Lab</h3>
+  {{ partial "page-people-section.html" $.Site.Data.people.wetlab }}
+  <h3>Research Engineers - Dry Lab</h3>
+  {{ partial "page-people-section.html" $.Site.Data.people.drylab }}
+  <h3>Assistant manager</h3>
+  {{ partial "page-people-section.html" $.Site.Data.people.assistant }}
+  <h3>Chalmers Computational Systems Biology Infrastructure (CSB</h3>
+  {{ partial "page-people-section.html" $.Site.Data.people.csb }}
 </div>
