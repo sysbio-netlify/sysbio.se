@@ -1,0 +1,36 @@
+<section class="bar background-pentagon no-mb">
+    <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+              <div class="heading text-center">
+                  <h2>{{ .Site.Params.labs.title }}</h2>
+              </div>
+
+              <p class="lead">
+                {{ .Site.Params.labs.subtitle | markdownify }}
+              </p>
+          </div>
+        </div>
+
+        <div class="row">
+          {{ range .Site.Data.labs }}
+            <div class="col-md-3 col-sm-4 col-xs-6 narrow-labs" style="height: 450px;" >
+              <div class="labs">
+                <div class="item" style="height: 100%;">
+                  <div class="lab" >
+                    <div class="name-picture">
+                      <h3>{{ .name }}</h3>
+                      <img class="" alt="{{ .name }}" src="{{ .avatar | absURL }}">
+                    </div>
+                    <div class="text" style="height: 100%;">
+                        <p>{{ .text | markdownify }}</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          {{ end }}
+        </div>
+
+    </div>
+</section>
