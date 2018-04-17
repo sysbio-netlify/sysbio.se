@@ -136,12 +136,12 @@ paginate = 10
   # at 'exampleSite/data/features'.
   # For more informtion take a look at the README.
 
-[params.testimonials]
+[params.labs]
   enable = true
   # All testimonials are defined in their own files. You can find example items
   # at 'data/testimonials'. For more information take a look at the README.
   title = "Labs"
-  subtitle = "We could have a one-liner here."
+  subtitle = ""
 
 [params.see_more]
   enable = true
@@ -162,4 +162,4 @@ paginate = 10
 [params.recent_posts]
   enable = true
   title = "Latest news"
-  subtitle = "Optional one-liner."
+  subtitle = ""

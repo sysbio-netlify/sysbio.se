@@ -1249,6 +1249,50 @@ fieldset[disabled] .btn-template-primary.active {
   filter: none;
   -webkit-filter: none;
 }
+
+
+.narrow-labs {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-right: 0;
+  padding-bottom: 20px;
+}
+
+.labs {
+  height: 100%;
+}
+
+.labs .item {
+  list-style-type: none;
+  background: #fff;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.labs .item .lab {
+  position: relative;
+  padding: 20px;
+  height: 100%;
+}
+
+.labs .item .lab .text {
+  padding-top: 20px;
+  color: #999999;
+}
+
+.labs .item .lab .name-picture h3 {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.labs .item .lab .name-picture img {
+  width: 100%;
+}
+
 .testimonials {
   padding: 0;
   margin-bottom: 40px;
