@@ -1,80 +1,59 @@
 <footer id="footer">
-    <div class="container">
+  <div class="container">
+    <div class="row">
 
-        <div class="col-md-3 col-sm-6">
-            {{ if isset .Site.Params "recent_posts" }} {{ if .Site.Params.recent_posts.enable }}
-            <div class="blog-entries">
-                {{ range .Site.Data.testimonials1 }}
-                <div class="item same-height-row clearfix">
-                    <div class="image same-height-always">
-                        <a href="{{ .Permalink }}">
-                            <img class="img-responsive" alt="{{ .name }}" src="{{ .avatar | absURL }}">
-                        </a>
-                    </div>
-                    <div class="name same-height-always">
-                        <h5><a href="{{ .Permalink }}">{{ .name }}</a></h5>
-                    </div>
-                </div>
-                {{ end }}
+      <div class="col-md-3 col-sm-6" style="height: 220px;">
+        {{ range .Site.Data.labs }}
+          <div class="blog-entries">
+            <div class="item same-height-row">
+              <div class="image same-height-always">
+                <a href="{{ .Permalink }}">
+                  <img class="img-responsive" alt="{{ .name }}" src="{{ .avatar | absURL }}">
+                </a>
+              </div>
+              <div class="name same-height-always">
+                <h5><a href="{{ .Permalink }}">{{ .name }}</a></h5>
+              </div>
             </div>
-            <hr class="hidden-md hidden-lg">
-            {{ end }} {{ end }}
-        </div>
-        <!-- /.col-md-4 -->
-
-        <div class="col-md-3 col-sm-6">
-            {{ if isset .Site.Params "recent_posts" }} {{ if .Site.Params.recent_posts.enable }}
-            <div class="blog-entries">
-                {{ range .Site.Data.testimonials2 }}
-                <div class="item same-height-row clearfix">
-                    <div class="image same-height-always">
-                        <a href="{{ .Permalink }}">
-                            <img class="img-responsive" alt="{{ .name }}" src="{{ .avatar | absURL }}">
-                        </a>
-                    </div>
-                    <div class="name same-height-always">
-                        <h5><a href="{{ .Permalink }}">{{ .name }}</a></h5>
-                    </div>
-                </div>
-                {{ end }}
-            </div>
-            <hr class="hidden-md hidden-lg">
-            {{ end }} {{ end }}
-        </div>
-        <!-- /.col-md-4 -->
-        <div class="w-100"></div>
-        {{ if isset .Site.Params "address" }}
-        <div class="col-md-3 col-sm-6">
-            {{ .Site.Params.address | markdownify }}
-            <hr class="hidden-md hidden-lg hidden-sm">
-        </div>
-        <!-- /.col-md-3 -->
+          </div>
+          {{ if eq .name "Mijakovic Lab" }}
+      </div>
+      <div class="col-md-3 col-sm-6" style="height: 220px;">
+          {{ end }}
         {{ end }}
+      <br><br>
+      </div>
 
-        {{ if isset .Site.Params "about_us" }}
-        <div class="col-md-3 col-sm-6">
-            <img class="footer-logo" src="{{ .Site.BaseURL }}{{ .Site.Params.about_us }}" alt="Chalmers University Logo">
-        </div>
-        <!-- /.col-md-3 -->
-        {{ end }}
+      {{ if isset .Site.Params "about_us" }}
+      <div class="col-md-3 col-sm-6">
+          <img class="footer-logo" src="{{ .Site.BaseURL }}{{ .Site.Params.about_us }}" alt="Chalmers University Logo">
+          <hr class="hidden-md hidden-lg hidden-sm">
+      </div>
+      {{ end }}
+
+      {{ if isset .Site.Params "address" }}
+      <div class="col-md-3 col-sm-6">
+          {{ .Site.Params.address | markdownify }}
+      </div>
+      {{ end }}
 
     </div>
-    <!-- /.container -->
+  </div>
+  <!-- /.container -->
 </footer>
 
 <!-- /#footer -->
 
 <!-- *** FOOTER END *** -->
 
-<!-- *** COPYRIGHT ***
-_________________________________________________________ -->
+<!-- *** COPYRIGHT *** -->
 
 <div id="copyright">
-    <div class="container">
-        <div class="col-md-12">
-            <p class="text-center">{{ .Site.Params.copyright | safeHTML }}</p>
-        </div>
+  <div class="container">
+    <div class="col-md-12">
+      <p class="text-center">{{ .Site.Params.copyright | safeHTML }}</p>
     </div>
+  </div>
 </div>
 <!-- /#copyright -->
 
