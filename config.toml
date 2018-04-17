@@ -138,8 +138,8 @@ paginate = 10
 
 [params.labs]
   enable = true
-  # All testimonials are defined in their own files. You can find example items
-  # at 'data/testimonials'. For more information take a look at the README.
+  # All labs are defined in their own files. You can find example items
+  # at 'data/labs'.
   title = "Labs"
   subtitle = ""
 
@@ -159,7 +159,7 @@ paginate = 10
   title = "Centers of Excellence"
   subtitle = "Systems and Synthetic Biology is part of two large center structures that operate with satellite facilities at Chalmers."
 
-[params.recent_posts]
+[params.recent_news]
   enable = true
-  title = "Latest news"
+  title = "Recent news"
   subtitle = ""
