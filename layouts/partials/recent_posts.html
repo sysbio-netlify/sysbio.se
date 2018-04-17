@@ -12,7 +12,7 @@
               {{ .Site.Params.recent_posts.subtitle | markdownify }}
             </p>
 
-            <!-- *** BLOG HOMEPAGE *** -->
+            <!-- *** NEWS section *** -->
 
             <div class="row">
 
@@ -20,31 +20,15 @@
                 {{ range first 4 $posts.Pages }}
                 <div class="col-md-3 col-sm-6">
                     <div class="box-image-text blog">
-                        <div class="top">
-                            <div class="image" style="overflow:hidden">
-                                {{ if isset .Params "banner" }}
-                                <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="" >
-                                {{ else }}
-                                <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img-responsive" alt="">
-                                {{ end }}
-                            </div>
-                            <div class="bg"></div>
-                            <div class="text">
-                                <p class="buttons">
-                                    <a href="{{ .Permalink }}" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> {{ i18n "readMore" }}</a>
-                                </p>
-                            </div>
-                        </div>
-
                         <div class="content">
-                            <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                            <h4>{{ .Title }}</h4>
                             <p class="author-category">
                             {{ with .Params.author }}
                             {{ i18n "authorBy" }} <a href="#">{{ . }}</a>
                             {{ end }}
                             {{ i18n "publishedOn" }} {{ .Date.Format .Site.Params.date_format }}
                             </p>
-                            <p class="intro">{{ .Summary }}</p>
+                            <p class="intro">{{ .Content }}</p>
                         </div>
                     </div>
                     <!-- /.box-image-text -->
@@ -55,7 +39,7 @@
             </div>
             <!-- /.row -->
 
-            <!-- *** BLOG HOMEPAGE END *** -->
+            <!-- *** NEWS section end *** -->
 
         </div>
     </div>
