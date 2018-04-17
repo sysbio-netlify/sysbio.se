@@ -1,6 +1,6 @@
 {{ if isset .Site.Params "testimonials" }}
 {{ if .Site.Params.testimonials.enable }}
-{{ if gt (len .Site.Data.testimonials) 0 }}
+{{ if gt (len .Site.Data.testimonials1) 0 }}
 <section class="bar background-pentagon no-mb">
     <div class="container">
         <div class="row">
@@ -14,7 +14,7 @@
                 </p>
 
                 <ul class="testimonials same-height-row">
-                    {{ range .Site.Data.testimonials }}
+                    {{ range .Site.Data.testimonials1 }}
                     <li class="item">
                         <div class="testimonial same-height-always">
                             <div class="name-picture">
@@ -28,9 +28,26 @@
                     </li>
                     {{ end }}
                 </ul>
-
             </div>
-
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <ul class="testimonials same-height-row">
+                    {{ range .Site.Data.testimonials2 }}
+                    <li class="item">
+                        <div class="testimonial same-height-always">
+                            <div class="name-picture">
+                              <h3>{{ .name }}</h3>
+                              <img class="" alt="{{ .name }}" src="{{ .avatar | absURL }}">
+                            </div>
+                            <div class="text">
+                                <p>{{ .text | markdownify }}</p>
+                            </div>
+                        </div>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
         </div>
     </div>
 </section>

@@ -1,7 +1,7 @@
 <footer id="footer">
     <div class="container">
 
-        <div class="col-md-3 col-sm-6 col-md-push-3">
+        <div class="col-md-3 col-sm-6">
             {{ if isset .Site.Params "recent_posts" }} {{ if .Site.Params.recent_posts.enable }}
             <div class="blog-entries">
                 {{ range .Site.Data.testimonials1 }}
@@ -22,7 +22,7 @@
         </div>
         <!-- /.col-md-4 -->
 
-        <div class="col-md-3 col-sm-6 col-md-push-3">
+        <div class="col-md-3 col-sm-6">
             {{ if isset .Site.Params "recent_posts" }} {{ if .Site.Params.recent_posts.enable }}
             <div class="blog-entries">
                 {{ range .Site.Data.testimonials2 }}
@@ -42,9 +42,9 @@
             {{ end }} {{ end }}
         </div>
         <!-- /.col-md-4 -->
-
+        <div class="w-100"></div>
         {{ if isset .Site.Params "address" }}
-        <div class="col-md-3 col-sm-6 col-md-push-3">
+        <div class="col-md-3 col-sm-6">
             {{ .Site.Params.address | markdownify }}
             <hr class="hidden-md hidden-lg hidden-sm">
         </div>
@@ -52,7 +52,7 @@
         {{ end }}
 
         {{ if isset .Site.Params "about_us" }}
-        <div class="col-md-3 col-sm-6 col-md-pull-9">
+        <div class="col-md-3 col-sm-6">
             <img class="footer-logo" src="{{ .Site.BaseURL }}{{ .Site.Params.about_us }}" alt="Chalmers University Logo">
         </div>
         <!-- /.col-md-3 -->
