@@ -3,11 +3,8 @@ title = "Contact"
 id = "contact"
 +++
 
-# Header
-## Subheader
-### Subsubheader
-
-Phone, switchboard: +46 31 772 1000  
+**Phone numbers**  
+Switchboard: +46 31 772 1000  
 Administration – Erica Dahlin: +46 31 772 3835  
 Direct dial: +46 31 772 + extension  
 Fax: +46 31 772 3801  
