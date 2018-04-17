@@ -23,38 +23,37 @@ paginate = 10
 [[menu.main]]
   Name = "International projects"
   parent = "whatever"
-  URL = "/about/iprojects.md"
+  URL = "/whatever/iprojects"
   Weight = 1.0
 [[menu.main]]
   Name = "Software"
   parent = "whatever"
-  URL = "/about/software.md"
+  URL = "/whatever/software"
   Weight = 1.0
 [[menu.main]]
   Name = "Databases"
   parent = "whatever"
-  URL = "/about/databases.md"
+  URL = "/whatever/databases"
   Weight = 2.0
 [[menu.main]]
   Name = "Past projects"
   parent = "whatever"
-  URL = "/about/fproj.md"
+  URL = "/whatever/fproj"
   Weight = 2.0
 [[menu.main]]
   name = "About"
   identifier = "about"
-  url  = "/about/"
   weight = 3
   hasChildren = true
 [[menu.main]]
   Name = "People"
   parent = "about"
-  URL = "/about/people.md"
+  URL = "/about/people"
   Weight = 1.0
 [[menu.main]]
   Name = "Group Photos"
   parent = "about"
-  URL = "/about/photos.md"
+  URL = "/about/photos"
   Weight = 2.0
 [[menu.main]]
   name = "Contact"

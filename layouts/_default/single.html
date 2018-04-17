@@ -16,6 +16,9 @@
         {{ partial "breadcrumbs.html" . }}
 
         <div id="content">
+          {{ if isset .Params "id" }}
+            {{ partial .Params.id . }}
+          {{ else }}
             <div class="container">
 
                 <div class="row">
@@ -58,9 +61,9 @@
 
                 </div>
                 <!-- /.row -->
-
             </div>
             <!-- /.container -->
+          {{ end }}
         </div>
         <!-- /#content -->
 
