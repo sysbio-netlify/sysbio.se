@@ -1,6 +1,6 @@
 ---
 title: Gold Medal
-date: '2018-04-20T16:19:49+02:00'
+date: '2017-11-06T09:19:49+01:00'
 author: Martina
 categories: award
 tags: Jens
