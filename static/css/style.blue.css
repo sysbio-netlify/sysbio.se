@@ -931,65 +931,6 @@ fieldset[disabled] .btn-template-primary.active {
   top: 0;
   float: right;
 }
-/* ribbons for product sales etc. */
-.ribbon {
-  position: absolute;
-  top: 50px;
-  padding-left: 51px;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-}
-.ribbon .ribbon-background {
-  position: absolute;
-  top: 0;
-  right: 0;
-}
-.ribbon .theribbon {
-  position: relative;
-  width: 80px;
-  padding: 6px 20px 6px 20px;
-  margin: 30px 10px 10px -71px;
-  color: #fff;
-  background-color: #255FA9;
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
-}
-.ribbon .theribbon:before,
-.ribbon .theribbon:after {
-  content: ' ';
-  position: absolute;
-  width: 0;
-  height: 0;
-}
-.ribbon .theribbon:after {
-  left: 0px;
-  top: 100%;
-  border-width: 5px 10px;
-  border-style: solid;
-  border-color: #000000 #000000 transparent transparent;
-}
-.ribbon.sale {
-  top: 0;
-}
-.ribbon.new {
-  top: 50px;
-}
-.ribbon.new .theribbon {
-  background-color: #5bc0de;
-  text-shadow: 0px 1px 2px #bbb;
-}
-.ribbon.new .theribbon:after {
-  border-color: #2390b0 #2390b0 transparent transparent;
-}
-.ribbon.gift {
-  top: 100px;
-}
-.ribbon.gift .theribbon {
-  background-color: #5cb85c;
-  text-shadow: 0px 1px 2px #bbb;
-}
-.ribbon.gift .theribbon:after {
-  border-color: #357935 #357935 transparent transparent;
-}
 .customers {
   text-align: center;
 }
