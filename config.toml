@@ -15,35 +15,34 @@ paginate = 10
   url  = "/news/"
   weight = 1
 [[menu.main]]
-  name = "whatever"
-  identifier = "whatever"
-  url  = "/whatever/"
+  name = "International Projects"
+  url  = "/international-projects/"
   weight = 2
+[[menu.main]]
+  name = "tools"
+  identifier = "tools"
+  url  = "/tools/"
+  weight = 3
   hasChildren = true
 [[menu.main]]
-  Name = "International projects"
-  parent = "whatever"
-  URL = "/whatever/iprojects"
-  Weight = 1.0
-[[menu.main]]
   Name = "Software"
-  parent = "whatever"
-  URL = "/whatever/software"
+  parent = "tools"
+  URL = "/tools/software"
   Weight = 1.0
 [[menu.main]]
   Name = "Databases"
-  parent = "whatever"
-  URL = "/whatever/databases"
+  parent = "tools"
+  URL = "/tools/databases"
   Weight = 2.0
 [[menu.main]]
-  Name = "Past projects"
-  parent = "whatever"
-  URL = "/whatever/fproj"
-  Weight = 2.0
+  Name = "GEMs"
+  parent = "tools"
+  URL = "/tools/GEMs"
+  Weight = 3.0
 [[menu.main]]
   name = "About"
   identifier = "about"
-  weight = 3
+  weight = 4
   hasChildren = true
 [[menu.main]]
   Name = "People"
@@ -58,7 +57,7 @@ paginate = 10
 [[menu.main]]
   name = "Contact"
   url  = "/contact/"
-  weight = 4
+  weight = 6
 
 # Enable or disable top bar with social icons
 [params.topbar]
@@ -145,10 +144,10 @@ paginate = 10
 [params.see_more]
   enable = true
   icon = "fa fa-file-code-o"
-  title = "Do you want to see more?"
+  title = "Metabolic Atlas"
   subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-  link_url = "#"
-  link_text = "Check other homepages"
+  link_url = "icsb.chalmers.se"
+  link_text = "Explore"
 
 [params.centres]
   enable = true
