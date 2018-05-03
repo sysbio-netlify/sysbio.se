@@ -2,34 +2,31 @@
 {{ if .Site.Params.centres.enable }}
 {{ if gt (len .Site.Data.centres) 0 }}
 <section class="bar background-gray no-mb">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="heading text-center">
-                    <h2>{{ .Site.Params.centres.title }}</h2>
-                </div>
-
-                <p class="lead">
-                  {{ .Site.Params.centres.subtitle }}
-                </p>
-
-                <ul class="owl-carousel customers">
-                    {{ range .Site.Data.centres }}
-                    <li class="item" title="{{ .name }}">
-                        {{ if .url }}
-                          <a href="{{ .url }}" target="_blank">
-                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
-                          </a>
-                        {{ else }}
-                          <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
-                        {{ end }}
-                    </li>
-                    {{ end }}
-                </ul>
-                <!-- /.owl-carousel -->
-            </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="heading text-center">
+            <h2>{{ .Site.Params.centres.title }}</h2>
         </div>
+        <p class="lead text-center">
+          {{ .Site.Params.centres.subtitle }}
+        </p>
+      </div>
     </div>
+    <div class="row customers">
+      {{ range .Site.Data.centres }}
+      <div class="col-md-3">
+        {{ if .url }}
+          <a href="{{ .url }}" target="_blank">
+            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+          </a>
+        {{ else }}
+          <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
 </section>
 {{ end }}
 {{ end }}
