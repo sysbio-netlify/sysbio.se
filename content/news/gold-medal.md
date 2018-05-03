@@ -5,4 +5,4 @@ author = "Martina"
 categories = ["award"]
 tags = ["Jens Nielsen"]
 +++
-Jens Nielsen received the [Gold Medal from the Royal Swedish Academy of Engineering Sciences](http://www.biosustain.dtu.dk/english/nyhedsbase/nyhed?id=16560A47-29E3-4C83-89A1-9D8A5081E18D)
+Jens Nielsen received the [Gold Medal from the Royal Swedish Academy of Engineering Sciences](http://www.biosustain.dtu.dk/english/nyhedsbase/nyhed?id=16560A47-29E3-4C83-89A1-9D8A5081E18D).
