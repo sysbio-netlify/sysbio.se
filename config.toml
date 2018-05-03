@@ -127,7 +127,7 @@ paginate = 10
 [params.carousel]
   enable = false
   # All carousel items are defined in their own files. You can find example items
-  # at 'data/carousel'. For more informtion take a look at the README.
+  # at 'data/carousel'. For more informtaion take a look at the README.
 
 [params.features]
   enable = false
@@ -152,11 +152,9 @@ paginate = 10
 
 [params.centres]
   enable = true
-  # All clients are defined in their own files. You can find example items
-  # at 'data/centres'.
-  # For more informtion take a look at the README.
+  # All centres are defined in their own files. You can find example items at 'data/centres'.
   title = "Centers of Excellence"
-  subtitle = "Systems and Synthetic Biology is part of two large center structures that operate with satellite facilities at Chalmers."
+  subtitle = "Systems and Synthetic Biology is part of four large center structures that operate with satellite facilities at Chalmers."
 
 [params.recent_news]
   enable = true
