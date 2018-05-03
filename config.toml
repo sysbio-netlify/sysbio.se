@@ -123,11 +123,6 @@ paginate = 10
   tags = true
   search = true
 
-[params.carousel]
-  enable = false
-  # All carousel items are defined in their own files. You can find example items
-  # at 'data/carousel'. For more informtaion take a look at the README.
-
 [params.features]
   enable = false
   # All features are defined in their own files. You can find example items
