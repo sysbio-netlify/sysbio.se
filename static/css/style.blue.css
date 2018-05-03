@@ -732,57 +732,6 @@ fieldset[disabled] .btn-template-primary.active {
   color: #255FA9;
   background-color: #ffffff;
 }
-#intro {
-  background: url('../img/home.jpg') no-repeat center top;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-#intro .item {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
-  height: 100%;
-}
-#intro .item h1 {
-  text-transform: uppercase;
-  font-size: 50px;
-  color: #fff;
-  margin-bottom: 40px;
-  letter-spacing: 0.08em;
-}
-@media (max-width: 991px) {
-  #intro .item h1 {
-    font-size: 40px;
-  }
-}
-@media (max-width: 767px) {
-  #intro .item h1 {
-    font-size: 25px;
-  }
-}
-#intro .item h3 {
-  color: #fff;
-  margin-bottom: 40px;
-}
-@media (max-width: 767px) {
-  #intro .item h3 {
-    font-size: 15px;
-    margin-bottom: 20px;
-  }
-}
-#intro .item .btn {
-  text-transform: none;
-}
-@media (max-width: 991px) {
-  #intro .item .btn {
-    font-size: 14px;
-  }
-}
-#intro .container,
-#intro .row {
-  height: 100%;
-  position: relative;
-}
 #categoryMenu h3 {
   padding: 20px;
   background: #f7f7f7;
