@@ -144,9 +144,9 @@ paginate = 10
 [params.see_more]
   enable = true
   icon = "fa fa-file-code-o"
-  title = "Metabolic Atlas"
-  subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-  link_url = "icsb.chalmers.se"
+  title = "Some cool project"
+  subtitle = "Check out one of our latest and most exciting projects"
+  link_url = "sysbio.se"
   link_text = "Explore"
 
 [params.centres]
