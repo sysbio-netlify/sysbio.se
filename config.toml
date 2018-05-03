@@ -154,3 +154,9 @@ paginate = 10
   enable = true
   title = "Recent news"
   subtitle = ""
+
+[params.organization]
+  enable = true
+  title = "Organization"
+  subtitle = "The division of Systems and Synthetic Biology is part of the new **[Department of Biology and Biological Engineering](http://www.chalmers.se/en/departments/bio/)**.<br>Systems and Synthetic Biology is headed by Professor Jens Nielsen and is composed of several labs and faculty. Each lab has a leader  who is responsible for directing particular research themes. The lab and computational facilities are shared among all members of Systems and Synthetic Biology.<br> Systems and Synthetic Biology has a central role in LifeScience@Chalmers, which is one of eight **[Areas of Advance](http://www.chalmers.se/en/areas-of-advance/lifescience/)** at Chalmers University of Technology. The director of Life Science Engineering Area of Advance is Professor Ivan Mijakovic."
+  image = "img/organization.jpg"
