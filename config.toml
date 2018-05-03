@@ -150,10 +150,10 @@ paginate = 10
   link_url = "#"
   link_text = "Check other homepages"
 
-[params.clients]
+[params.centres]
   enable = true
   # All clients are defined in their own files. You can find example items
-  # at 'data/clients'.
+  # at 'data/centres'.
   # For more informtion take a look at the README.
   title = "Centers of Excellence"
   subtitle = "Systems and Synthetic Biology is part of two large center structures that operate with satellite facilities at Chalmers."
