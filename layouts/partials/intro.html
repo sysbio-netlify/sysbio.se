@@ -1,0 +1,14 @@
+<section class="bar background-white no-mb">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+          <p class="lead">
+            {{ .Site.Params.organization.subtitle | markdownify }}
+          </p>
+      </div>
+      <div class="col-md-6">
+        <img alt="{{ .Site.Title }}" src="{{ .Site.Params.organization.image | absURL }}" style="width:100%;">
+      </div>
+    </div>
+  </div>
+</section>
