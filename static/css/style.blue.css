@@ -1157,10 +1157,6 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel ul li {
   margin-bottom: 10px;
 }
-.customers {
-  padding: 0;
-  margin-bottom: 40px;
-}
 .customers .item {
   list-style-type: none;
   text-align: center;
