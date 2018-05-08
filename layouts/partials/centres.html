@@ -15,7 +15,7 @@
     </div>
     <div class="row customers">
       {{ range .Site.Data.centres }}
-      <div class="col-md-3">
+      <div class="col-md-3 col-sm-3 col-xs-6">
         {{ if .url }}
           <a href="{{ .url }}" target="_blank">
             <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
