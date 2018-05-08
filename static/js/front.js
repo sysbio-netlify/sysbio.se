@@ -189,7 +189,6 @@ $(function () {
   windowWidth = $(window).width()
 
   $(this).alignElementsSameHeight()
-  pictureZoom()
 })
 
 $(window).resize(function () {
@@ -199,7 +198,6 @@ $(window).resize(function () {
     setTimeout(function () {
       $(this).alignElementsSameHeight()
       fullScreenContainer()
-      pictureZoom()
     }, 205)
     windowWidth = newWindowWidth
   }
