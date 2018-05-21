@@ -4,11 +4,8 @@ backend:
   branch: develop
 
 publish_mode: editorial_workflow
-
-
-media_folder: "static/img/uploads" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
-
+media_folder: "static/img/" # Media files will be stored in the repo under static/img/
+public_folder: "static/img/" # The src attribute for uploaded media will begin with static/img/
 
 collections: # A list of collections the CMS should be able to edit
   - name: "news" # Used in routes, ie.: /admin/collections/:slug/edit
@@ -16,12 +13,13 @@ collections: # A list of collections the CMS should be able to edit
     folder: "content/news" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     extension: md
+    frontmatter_delimiter: "+++"
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Author", name: "author", widget: "text"}
-      - {label: "Categories", name: "categories", widget: "text", required: false}
-      - {label: "Tags", name: "tags", widget: "text", required: false}
+      - {label: "Author", name: "author", widget: "select", options: ["Martina"]}
+      - {label: "Categories", name: "categories", widget: "list", required: false}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Other pages"
@@ -30,6 +28,8 @@ collections: # A list of collections the CMS should be able to edit
         label: "Contact Page"
         name: "contact"
         fields:
+          - {label: "Title", name: "title", widget: "select", options: ["Contact"]}
+          - {label: "id", name: "id", widget: "select", options: ["contact"]}
           - {label: Body, name: body, widget: markdown}
       - file: "site/content/_index.md"
         label: "Home Page"
