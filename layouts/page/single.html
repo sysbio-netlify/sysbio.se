@@ -9,7 +9,7 @@
     <header>
       {{ partial "nav.html" . }}
     </header>
-      {{ partial "breadcrumbs.html" . }}
+      {{ partial "breadcrumbs.html" .Title }}
     <div id="content">
       {{ if isset .Params "id" }}
         {{ partial .Params.id . }}
