@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  {{ partial "head.html" . }}
+  <body>
+    <div id="all">
+        <header>{{ partial "nav.html" . }}</header>
+        {{ partial "breadcrumbs.html" .Params.name }}
+
+        <div id="content">
+          <div class="container">
+
+            <div class="row">
+
+              <div class="col-md-12">
+
+                  {{ .Content }}
+
+              </div>
+              <!-- /#blog-post -->
+
+            </div>
+            <!-- /.row -->
+          </div>
+          <!-- /.container -->
+        </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+    {{ partial "scripts.html" . }}
+  </body>
+</html>

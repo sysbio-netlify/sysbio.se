@@ -1,0 +1,13 @@
+<div class="col-md-6 col-sm-12">
+  <div clas="row">
+    <div class="col-md-2 col-xs-2" style="padding: 0;">
+      <img class="img-responsive" src="{{ .Params.picture }}" alt="{{ .Params.name }}">
+    </div>
+    <div class="col-md-8 col-sm-7 col-xs-10" style="padding-left: 10;">
+      <a href="{{ .Site.BaseURL }}{{ .URL }}"><h5 style="margin-bottom: 0; margin-top: 5px;">{{ .Params.name }}</h5></a>
+      <p style="margin-bottom: 0;">{{ .Params.position }}</p>
+      <p style="margin-bottom: 0;">{{ .Params.email }}</p>
+      <p style="margin-bottom: 25px;">{{ .Params.bio }}</p>
+    </div>
+  </div>
+</div>
