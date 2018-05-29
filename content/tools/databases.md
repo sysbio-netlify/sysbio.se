@@ -1,6 +1,6 @@
-+++
-title = "Databases"
-id = "page-databases"
-+++
+---
+title: 'Databases'
+layout: 'databases'
+---
 
 This is the Databases page
