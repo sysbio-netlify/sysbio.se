@@ -2,8 +2,6 @@
 title: Contact
 id: contact
 ---
-Test
-
 **Phone numbers**\
 Switchboard: +46 31 772 1000\
 Administration – Erica Dahlin: +46 31 772 3835\
