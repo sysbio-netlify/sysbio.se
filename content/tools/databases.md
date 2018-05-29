@@ -1,6 +1,6 @@
 ---
 title: 'Databases'
-layout: 'databases'
+template: 'tools/databases'
 ---
 
 This is the Databases page
