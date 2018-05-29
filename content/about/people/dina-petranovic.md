@@ -4,7 +4,7 @@ picture = "dina.jpg"
 position = "Associate Professor, Molecular Biology"
 email = "dina.petranovic [at] chalmers.se"
 flags = ["hr Croatia", "se Sweden"]
-person-category = "A Tenured Faculty"
+person-category = "A Tenured faculty"
 layout = "person"
 +++
 This is my personal page.
