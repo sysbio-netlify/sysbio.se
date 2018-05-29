@@ -1,6 +1,7 @@
 ---
 title: Contact
 id: contact
+picture: "contact-fysik.jpg"
 ---
 **Phone numbers**\
 Switchboard: +46 31 772 1000\
