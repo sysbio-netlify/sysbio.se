@@ -7,6 +7,6 @@ flags:
   - de Germany
   - se Sweden
 person-category: "A Tenured faculty"
-layout: person
+template: people/profile
 ---
 This is my personal page.
