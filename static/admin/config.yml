@@ -20,6 +20,20 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Categories", name: "categories", widget: "list", required: false}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "people" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "People" # Used in the UI, ie.: "New Post"
+    folder: "content/about/people" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    extension: md
+    fields: # The fields each document in this collection have
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Picture", name: "picture", widget: "image"}
+      - {label: "Position", name: "position", widget: "string"}
+      - {label: "Email", name: "email", widget: "string"}
+      - {label: "Flags", name: "flags", widget: "list", required: false}
+      - {label: "Person category", name: "person-category", widget: "select", options: ["A Tenured faculty", "B Non-tenured faculty", "C Affiliated faculty", "D Senior researchers", "E Post Docs", "F PhD students", "G Master students", "H Visiting researchers", "I Guests", "J Research Engineers", "K Assistant manager", "L Departamental administration", "M Computational Systems Biology Infrastructure"]}
+      - {label: "Layout", name: "layout", widget: "string", default: "person", pattern: ["person", "Must be 'person'."]}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Other pages"
     files:
@@ -29,8 +43,8 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Title", name: "title", widget: "select", options: ["Contact"]}
           - {label: "id", name: "id", widget: "select", options: ["contact"]}
-          - {label: Body, name: body, widget: markdown}
           - {label: "Picture", name: "picture", widget: "image"}
+          - {label: Body, name: body, widget: markdown}
       - file: "site/content/_index.md"
         label: "Home Page"
         name: "home"
