@@ -6,6 +6,6 @@ email: "ivan.mijakovic [at] chalmers.se"
 flags:
   - hr Croatia
 person-category: "A Tenured faculty"
-layout: person
+template: people/profile
 ---
 This is my personal page.

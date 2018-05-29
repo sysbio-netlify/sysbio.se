@@ -6,6 +6,6 @@ email: "nielsenj [at] chalmers.se"
 flags:
   - dk Denmark
 person-category: "A Tenured faculty"
-layout: person
+template: people/profile
 ---
 This is my personal page.

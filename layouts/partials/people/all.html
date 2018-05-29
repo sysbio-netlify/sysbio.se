@@ -1,0 +1,16 @@
+<div id="content">
+    <div class="container" role="main">
+      {{.Content}}
+      <h4>
+        {{ range .Data.Pages.GroupByParam "person-category" }}
+          {{ substr .Key 2 }}
+        {{ end }}
+      </h4>
+      {{ range .Data.Pages.GroupByParam "person-category" }}
+      <h3>{{ substr .Key 2 }}</h3>
+        {{ partial "people/category-section.html" .Pages }}
+      {{ end }}
+    </div>
+    <!-- /.container -->
+</div>
+<!-- /#content -->

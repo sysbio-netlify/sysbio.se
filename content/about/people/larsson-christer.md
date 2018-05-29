@@ -6,6 +6,6 @@ email: "christer.larsson [at] chalmers.se"
 flags:
   - se Sweden
 person-category: "A Tenured faculty"
-layout: person
+template: people/profile
 ---
 This is my personal page.
