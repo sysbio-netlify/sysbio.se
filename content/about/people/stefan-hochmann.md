@@ -1,5 +1,5 @@
 ---
-name: "Stefan Hochmann, PhD"
+name: "Stefan Hohmann, PhD"
 picture: "stefanH.jpg"
 position: "Professor, Yeast Genetics & Head of Department"
 email: "stefan.hohmann [at] chalmers.se"
