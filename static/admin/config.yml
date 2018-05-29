@@ -31,6 +31,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Title", name: "title", widget: "select", options: ["Contact"]}
           - {label: "id", name: "id", widget: "select", options: ["contact"]}
           - {label: Body, name: body, widget: markdown}
+          - {label: "Picture", name: "picture", widget: "image"}
       - file: "site/content/_index.md"
         label: "Home Page"
         name: "home"
