@@ -1,6 +1,6 @@
 ---
-title: 'Software'
-template: 'tools/software'
+title: Software
+template: tools/software
 ---
 
 This is the Software page
