@@ -4,7 +4,6 @@ date: '2018-05-29T08:31:34+02:00'
 author: Martina
 categories:
   - spam nospam
-  - second category
 tags:
   - eqr gaergeag
   - second tag
