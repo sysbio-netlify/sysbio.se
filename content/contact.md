@@ -1,6 +1,6 @@
 ---
 title: Contact
-id: contact
+template: contact
 picture: "contact-fysik.jpg"
 ---
 **Phone numbers**\
