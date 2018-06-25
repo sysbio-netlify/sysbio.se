@@ -47,12 +47,12 @@ paginate = 10
 [[menu.main]]
   Name = "People"
   parent = "about"
-  URL = "/about/people"
+  URL = "/people"
   Weight = 1.0
 [[menu.main]]
   Name = "Group Photos"
   parent = "about"
-  URL = "/about/photos"
+  URL = "/photos"
   Weight = 2.0
 [[menu.main]]
   name = "Contact"
