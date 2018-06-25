@@ -141,7 +141,7 @@ paginate = 10
   icon = "fa fa-flask"
   title = "International projects"
   subtitle = "Check out some of our latest and most exciting international projects"
-  link_url = "/projects"
+  link_url = "/international-projects"
   link_text = "Explore"
 
 [params.centres]
