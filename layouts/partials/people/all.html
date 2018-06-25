@@ -1,6 +1,6 @@
 <div id="content">
     <div class="container" role="main">
-      {{.Content}}
+      <!-- {{.Content}} -->
       {{ range .Data.Pages.GroupByParam "person-category" }}
       <h3>{{ substr .Key 2 }}</h3>
         {{ partial "people/category-section.html" .Pages }}
