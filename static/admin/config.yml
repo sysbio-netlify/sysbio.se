@@ -28,9 +28,9 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     extension: md
     fields: # The fields each document in this collection have
-      - {label: "URL, firstname-lastname", name: "title", widget: "string"}
       - {label: "Name and title", name: "name", widget: "string"}
       - {label: "Last name used for sorting", name: "lastname", widget: "string"}
+      - {label: "URL, firstname-lastname", name: "title", widget: "string"}
       - {label: "Picture", name: "picture", widget: "image"}
       - {label: "Position", name: "position", widget: "string"}
       - {label: "Email", name: "email", widget: "string"}
