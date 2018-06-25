@@ -1,4 +1,4 @@
-baseurl = "https://sysbiowebsite.netlify.com"
+baseurl = "https://sysbiowebsite.netlify.com/"
 title = "Systems and Synthetic Biology - SYSBIO"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -12,12 +12,12 @@ paginate = 10
 # Main menu
 [[menu.main]]
   name = "News"
-  url  = "/news/"
+  url  = "/news"
   weight = 1
 [[menu.main]]
-  name = "tools"
+  name = "Tools"
   identifier = "tools"
-  url  = "/tools/"
+  url  = "/tools"
   weight = 2
   hasChildren = true
 [[menu.main]]
@@ -47,7 +47,7 @@ paginate = 10
 [[menu.main]]
   Name = "People"
   parent = "about"
-  URL = "/people"
+  URL = "people"
   Weight = 1.0
 [[menu.main]]
   Name = "Group Photos"
@@ -56,7 +56,7 @@ paginate = 10
   Weight = 2.0
 [[menu.main]]
   name = "Contact"
-  url  = "/contact/"
+  url  = "/contact"
   weight = 6
 
 # Enable or disable top bar with social icons
