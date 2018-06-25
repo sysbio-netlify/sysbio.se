@@ -1,6 +1,8 @@
 ---
+title: jens-nielsen
 name: 'Jens Nielsen, PhD, dr. tech.'
-picture: Jens17.jpg
+lastname: nielsen
+picture: /img/pic_Jens-Nielsen.jpg
 position: 'Professor, Quantitative Systems Biology & Head of Division'
 email: 'nielsenj [at] chalmers.se'
 flags:

@@ -1,6 +1,8 @@
 ---
+title: christer-larsson
 name: 'Christer Larsson, PhD'
-picture: christer.jpg
+lastname: larsson
+picture: /img/pic_Christer-Larsson.jpg
 position: 'Professor, Microbial Physiology & Deputy Head of Department'
 email: 'christer.larsson [at] chalmers.se'
 flags:

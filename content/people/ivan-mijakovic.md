@@ -1,6 +1,8 @@
 ---
+title: ivan-mijakovic
 name: 'Ivan Mijakovic, PhD'
-picture: Ivan.jpg
+lastname: mijakovic
+picture: /img/pic_Ivan-Mijakovic.jpg
 position: 'Professor, Bacterial Systems Biology & Director of AoA LSE'
 email: 'ivan.mijakovic [at] chalmers.se'
 flags:

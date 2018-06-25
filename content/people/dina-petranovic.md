@@ -1,6 +1,8 @@
 ---
+title: dina-petranovic
 name: 'Dina Petranovic, PhD'
-picture: dina.jpg
+lastname: petranovic
+picture: /img/pic_Dina-Petranovic.jpg
 position: 'Associate Professor, Molecular Biology'
 email: 'dina.petranovic [at] chalmers.se'
 flags:
