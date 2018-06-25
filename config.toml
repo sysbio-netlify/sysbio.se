@@ -37,7 +37,7 @@ paginate = 10
   Weight = 3.0
 [[menu.main]]
   name = "Projects"
-  url  = "/international-projects/"
+  url  = "/international-projects"
   weight = 3
 [[menu.main]]
   name = "About"
@@ -47,7 +47,7 @@ paginate = 10
 [[menu.main]]
   Name = "People"
   parent = "about"
-  URL = "people"
+  URL = "/people"
   Weight = 1.0
 [[menu.main]]
   Name = "Group Photos"
