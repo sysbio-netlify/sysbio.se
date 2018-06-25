@@ -12,10 +12,10 @@
           {{ partial "nav.html" . }}
 
         </header>
-        {{ if .Title }}
-          {{ partial "breadcrumbs.html" .Title }}
-        {{ else }}
+        {{ if .Params.name }}
           {{ partial "breadcrumbs.html" .Params.name }}
+        {{ else }}
+          {{ partial "breadcrumbs.html" .Title }}
         {{ end }}
         <div id="content">
           {{ if isset .Params "template" }}

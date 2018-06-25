@@ -1,5 +1,5 @@
 <div class="row">
-  {{ range . }}
+  {{ range .ByParam "lastname" }}
     {{ partial "people/person-section.html" . }}
   {{ end }}
 </div>
