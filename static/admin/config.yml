@@ -37,7 +37,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Flags", name: "flags", widget: "list", required: false}
       - {label: "Person category", name: "person-category", widget: "select", options: ["A Tenured faculty", "B Non-tenured faculty", "C Affiliated faculty", "D Senior researchers", "E Postdocs", "F PhD students", "G Master students", "H Visiting researchers", "I Guests", "J Research engineers", "K Assistant manager", "L Departamental administration", "M Computational systems biology infrastructure"]}
       - {label: "Template", name: "template", widget: "select", options: ["people/profile"]}
-      - {label: "Body", name: "body", widget: "markdown", required: "false"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
   - name: "pages"
     label: "Other pages"
     files:
@@ -46,7 +46,6 @@ collections: # A list of collections the CMS should be able to edit
         name: "contact"
         fields:
           - {label: "Title", name: "title", widget: "select", options: ["Contact"]}
-          - {label: "id", name: "id", widget: "select", options: ["contact"]}
           - {label: "Picture", name: "picture", widget: "image"}
           - {label: Body, name: body, widget: markdown}
       - file: "content/international-projects.md"
