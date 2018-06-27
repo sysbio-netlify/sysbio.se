@@ -47,7 +47,7 @@ template: "photos"
 
 ##### November 2012
 Jens Nielsen celebrated his 50th by a short return from MIT, where he was spending his sabbatical in the fall of 2012.
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/6aZWfaPU2cA?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube 6aZWfaPU2cA >}}
 
 ##### August 2012
 <img src="/img/group_12d.jpg"/>
