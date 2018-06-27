@@ -51,7 +51,7 @@ paginate = 10
 [[menu.main]]
   Name = "Group Photos"
   parent = "about"
-  URL = "/photos"
+  URL = "/group-photos"
   Weight = 2.0
 [[menu.main]]
   name = "Contact"

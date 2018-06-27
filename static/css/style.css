@@ -3165,17 +3165,18 @@ a.list-group-item.active > .badge,
   flex-direction: column;
 }
 
-.box-image-text .image {
-  min-height: 200px;
-  max-height: 200px;
-}
-
-.box-simple {
-  min-height: 230px;
-}
-
 .project-logo {
   float: left;
   width: 200px;
   padding-right: 10px;
+
+.gal {
+  -webkit-column-xcount: 1; /* Chrome, Safari, Opera */
+  -moz-column-count: 1; /* Firefox */
+  column-count: 1;
+}
+
+.gal img {
+  width: 100%;
+  padding: 7px 0;
 }
