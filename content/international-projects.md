@@ -56,13 +56,6 @@ PI: <a href="/people/jens-nielsen">Jens Nielsen</a>
 Microbial communities are ubiquitously found in nature, from soil to the human gut, and have direct implications for the environment, human health and biotechnology. Our understanding of the structure and function of these communities, however, has remained poor due to the lack of tools for discovering inter-species interactions. To address this gap, the SysMilk project will develop new experimental and computational technologies for microbial community analysis. The new technologies will be developed and tested by using kefir, a natural fermented milk drink, as a model system.
 
 
-### UNICELLSYS
-
-<a href="http://www.unicellsys.eu/"><img class="project-logo" src="/img/logo_unicellsys.jpg" alt="UNICELLSYS"></img></a>
-
-PI: <a href="/people/jens-nielsen">Jens Nielsen</a>
-
-
 <br><br><br><br>
 ## Finished projects
 <br>
