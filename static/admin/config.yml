@@ -55,3 +55,10 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Title", name: "title", widget: "select", options: ["International projects"]}
           - {label: "Template", name: "template", widget: "select", options: ["projects"]}
           - {label: Body, name: body, widget: markdown}
+      - file: "content/tools/databases.md"
+        label: "Databases"
+        name: "databases"
+        fields:
+          - {label: "Title", name: "title", widget: "select", options: ["databases"]}
+          - {label: "Template", name: "template", widget: "select", options: ["databases"]}
+          - {label: Body, name: body, widget: markdown}
