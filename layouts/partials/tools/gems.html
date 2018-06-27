@@ -1,1 +1,28 @@
-{{ .Content }}
+<div class="container">
+  <div class="row">
+    <div id="repolist" class="col-md-12">
+      <p>Below is a dynamic list of genome-scale metabolic models open sourced on <a href="https://github.com/SysBioChalmers">SysBio's GitHub</a>.</p>
+    </div>
+  </div>
+</div>
+
+
+<script>
+var xhr = new XMLHttpRequest();
+xhr.responseType = 'json';
+xhr.open("GET", "https://api.github.com/orgs/SysBioChalmers/repos");
+xhr.setRequestHeader("Content-Type", "application/json");
+xhr.setRequestHeader("Accept", "application/vnd.github.mercy-preview+json");
+xhr.onload = function () {
+  parent = document.getElementById('repolist');
+  for (i in xhr.response) {
+    var repo = xhr.response[i];
+    for (j in repo.topics) {
+      if (repo.topics[j] == 'genome-scale-models') {
+        parent.insertAdjacentHTML( 'beforeend', '<a href="' + repo.html_url +'"><b>' + repo.name + '</b></a> ' + repo.description + ' Last updated at ' + repo.updated_at.substr(0,10) + '.</p>');
+      }
+    }
+  }
+}
+xhr.send();
+</script>
