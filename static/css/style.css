@@ -3173,3 +3173,9 @@ a.list-group-item.active > .badge,
 .box-simple {
   min-height: 230px;
 }
+
+.project-logo {
+  float: left;
+  width: 200px;
+  padding-right: 10px;
+}
