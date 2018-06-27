@@ -1,6 +1,6 @@
 ---
-title: mihail-anton
 name: Mihail Anton
+title: mihail-anton
 lastname: anton
 picture: /img/pic_Mihail-Anton.jpg
 position: Research engineer
@@ -10,4 +10,4 @@ flags:
 person-category: J Research engineers
 template: people/profile
 ---
-This is my personal page.
+
