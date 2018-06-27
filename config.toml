@@ -17,7 +17,6 @@ paginate = 10
 [[menu.main]]
   name = "Tools"
   identifier = "tools"
-  url  = "/tools"
   weight = 2
   hasChildren = true
 [[menu.main]]
