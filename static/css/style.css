@@ -1133,6 +1133,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 
 .labs .item {
+  border-radius: 6px;
   list-style-type: none;
   background: #fff;
   -webkit-box-sizing: border-box;
@@ -2762,7 +2763,7 @@ a:focus {
   outline-offset: -2px;
 }
 .img-rounded {
-  border-radius: 0;
+  border-radius: 3px;
 }
 hr {
   margin-top: 20px;
