@@ -1,0 +1,15 @@
+<section class="bar background-gray no-mb">
+    <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+              <div class="heading text-center">
+                  <h2>{{ .Site.Params.labs.title }}</h2>
+              </div>
+              <p class="lead">
+                {{ .Site.Params.labs.subtitle | markdownify }}
+              </p>
+          </div>
+        </div>
+    </div>
+    {{ partial "labs/all.html" . }}
+</section>
