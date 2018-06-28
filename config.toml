@@ -160,3 +160,19 @@ paginate = 10
   subtitle = "The division of Systems and Synthetic Biology is part of the **[Department of Biology and Biological Engineering](http://www.chalmers.se/en/departments/bio/)**. <br> Systems and Synthetic Biology is headed by Professor Jens Nielsen and is composed of several labs directed by faculty members at the department. The lab and computational facilities are shared among all members of Systems and Synthetic Biology. The division is very international with researchers from more than 30 countries and we have as a key objective to support young reseachers in their careers. We are participants in several large research centers and in many international projects funded by the EU and other funding agencies."
   image = "img/organization.jpg"
   overview = "img/overview.jpg"
+
+# GDPR https://gohugo.io/about/hugo-and-gdpr/
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = false
