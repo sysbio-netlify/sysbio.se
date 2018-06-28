@@ -76,3 +76,17 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Title", name: "title", widget: "select", options: ["databases"]}
           - {label: "Template", name: "template", widget: "select", options: ["databases"]}
           - {label: Body, name: body, widget: markdown}
+      - file: "content/tools/gems.md"
+        label: "Gems"
+        name: "gems"
+        fields:
+          - {label: "Title", name: "title", widget: "select", options: ["gems"]}
+          - {label: "Template", name: "template", widget: "select", options: ["gems"]}
+          - {label: Body, name: body, widget: markdown}
+      - file: "content/tools/software.md"
+        label: "Software"
+        name: "software"
+        fields:
+          - {label: "Title", name: "title", widget: "select", options: ["software"]}
+          - {label: "Template", name: "template", widget: "select", options: ["software"]}
+          - {label: Body, name: body, widget: markdown}
