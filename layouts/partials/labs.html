@@ -13,17 +13,18 @@
         </div>
 
         <div class="row">
-          {{ range .Site.Data.labs }}
+          {{ $pages := (where (where .Site.Pages "Type" "labs") "IsPage" true) }}
+          {{ range $pages }}
             <div class="col-md-3 col-sm-4 col-xs-6 narrow-labs" style="height: 450px;" >
               <div class="labs">
                 <div class="item" style="height: 100%;">
                   <div class="lab" >
                     <div class="name-picture">
-                      <h3>{{ .name }}</h3>
-                      <img alt="{{ .name }}" src="{{ .avatar | absURL }}">
+                      <h3>{{ .Params.name }}</h3>
+                      <img alt="{{ .Params.name }}" src="{{ .Params.picture }}">
                     </div>
                     <div class="text" style="height: 100%;">
-                        <p>{{ .text | markdownify }}</p>
+                        <p>{{ .Params.card | markdownify }}</p>
                     </div>
                   </div>
                 </div>
