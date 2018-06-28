@@ -22,14 +22,14 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "people" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "People" # Used in the UI, ie.: "New Post"
-    label_singular: "Person"
+    label_singular: "person"
     folder: "content/people" # The path to the folder where the documents are stored
     filter: { field: "template", value: "people/profile"}
     create: true # Allow users to create new documents in this collection
     extension: md
     fields: # The fields each document in this collection have
       - {label: "Name and title", name: "name", widget: "string"}
-      - {label: "URL, firstname-lastname", name: "title", widget: "string"}
+      - {label: "URL, shoud be 'firstname-lastname'", name: "title", widget: "string"}
       - {label: "Last name used for sorting", name: "lastname", widget: "string"}
       - {label: "Picture", name: "picture", widget: "image"}
       - {label: "Position", name: "position", widget: "string"}
@@ -38,6 +38,20 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Person category", name: "person-category", widget: "select", options: ["A Tenured faculty", "B Non-tenured faculty", "C Affiliated faculty", "D Senior researchers", "E Postdocs", "F PhD students", "G Master students", "H Visiting researchers", "I Guests", "J Research engineers", "K Assistant manager", "L Departamental administration", "M Computational systems biology infrastructure"]}
       - {label: "Template", name: "template", widget: "select", options: ["people/profile"]}
       - {label: "Body", name: "body", widget: "markdown", required: false}
+  - name: "labs" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Labs" # Used in the UI, ie.: "New Post"
+    label_singular: "lab"
+    folder: "content/labs" # The path to the folder where the documents are stored
+    filter: { field: "template", value: "labs/single"}
+    create: true # Allow users to create new documents in this collection
+    extension: md
+    fields: # The fields each document in this collection have
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "URL, should be 'lastname'", name: "title", widget: "string"}
+      - {label: "Picture", name: "picture", widget: "image"}
+      - {label: "Text for the card", name: "card", widget: "string"}
+      - {label: "Template", name: "template", widget: "select", options: ["labs/single"]}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Other pages"
     files:
