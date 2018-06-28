@@ -44,15 +44,20 @@ paginate = 10
   weight = 4
   hasChildren = true
 [[menu.main]]
+  Name = "Labs"
+  parent = "about"
+  URL = "/labs"
+  Weight = 1.0
+[[menu.main]]
   Name = "People"
   parent = "about"
   URL = "/people"
-  Weight = 1.0
+  Weight = 2.0
 [[menu.main]]
   Name = "Group Photos"
   parent = "about"
   URL = "/group-photos"
-  Weight = 2.0
+  Weight = 3.0
 [[menu.main]]
   name = "Contact"
   url  = "/contact"
