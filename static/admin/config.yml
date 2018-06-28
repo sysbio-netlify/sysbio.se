@@ -73,20 +73,20 @@ collections: # A list of collections the CMS should be able to edit
         label: "Databases"
         name: "databases"
         fields:
-          - {label: "Title", name: "title", widget: "select", options: ["databases"]}
+          - {label: "Title", name: "title", widget: "select", options: ["Databases"]}
           - {label: "Template", name: "template", widget: "select", options: ["databases"]}
           - {label: Body, name: body, widget: markdown}
       - file: "content/tools/gems.md"
         label: "Gems"
         name: "gems"
         fields:
-          - {label: "Title", name: "title", widget: "select", options: ["gems"]}
-          - {label: "Template", name: "template", widget: "select", options: ["gems"]}
+          - {label: "Title", name: "title", widget: "select", options: ["Gems"]}
+          - {label: "Template", name: "template", widget: "select", options: ["ttols/gems"]}
           - {label: Body, name: body, widget: markdown}
       - file: "content/tools/software.md"
         label: "Software"
         name: "software"
         fields:
-          - {label: "Title", name: "title", widget: "select", options: ["software"]}
-          - {label: "Template", name: "template", widget: "select", options: ["software"]}
+          - {label: "Title", name: "title", widget: "select", options: ["Software"]}
+          - {label: "Template", name: "template", widget: "select", options: ["tools/software"]}
           - {label: Body, name: body, widget: markdown}
