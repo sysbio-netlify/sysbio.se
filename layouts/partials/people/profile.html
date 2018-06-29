@@ -1,5 +1,20 @@
 <div class="container">
   <div class="row">
+    <div class="col-md-6">
+      <p class="text-large">{{ .Params.position }}</p>
+      <p class="text-large">{{ .Params.email }}</p>
+      <div>
+        {{ range .Params.flags }}
+          <a href="https://en.wikipedia.org/wiki/{{ substr . 3 }}" ><img src="http://www.countryflags.io/{{ substr . 0 2 }}/flat/32.png" alt="{{ . }}"></a>
+        {{ end }}
+      </div>
+      {{ .Site.Params.address | markdownify }}
+    </div>
+    <div class="col-md-6">
+      <img alt="{{ .Params.name }}" src="{{ .Params.picture }}" class="img-responsive img-rounded">
+    </div>
+  </div>
+  <div class="row" style="padding-top:30px;">
     <div class="col-md-12">
         {{ .Content }}
     </div>
