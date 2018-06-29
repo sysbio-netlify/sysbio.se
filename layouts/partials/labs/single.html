@@ -1,5 +1,13 @@
 <div class="container">
   <div class="row">
+    <div class="col-md-6">
+      {{ .Params.profile-lext-box }}
+    </div>
+    <div class="col-md-6">
+      <img alt="{{ .Params.name }}" src="{{ .Params.picture }}" class="img-responsive img-rounded">
+    </div>
+  </div>
+  <div class="row" style="padding-top:30px;">
     <div class="col-md-12">
         {{ .Content }}
     </div>

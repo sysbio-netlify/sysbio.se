@@ -51,6 +51,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Picture", name: "picture", widget: "image"}
       - {label: "Text for the card", name: "card", widget: "string"}
       - {label: "Template", name: "template", widget: "select", options: ["labs/single"]}
+      - {label: "Profile, top left box", name: "profile-left-box", widget: "markdown"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Other pages"
