@@ -1500,7 +1500,7 @@ fieldset[disabled] .btn-template-primary.active {
 #heading-breadcrumbs {
   /* background: url('../img/texture-bw.png') center center repeat; */
   background-color: #255FA9;
-  padding: 20px 0;
+  padding: 10px 0;
   margin-bottom: 40px;
 }
 #heading-breadcrumbs.no-mb {
