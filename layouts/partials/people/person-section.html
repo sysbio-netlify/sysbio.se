@@ -4,7 +4,7 @@
       <img src="{{ .Site.BaseURL }}{{ .Params.picture }}" alt="{{ .Params.name }}" style="float:right" class="img-circle">
     </div>
     <div class="col-md-9 col-sm-9 col-xs-7" style="padding-left: 0;">
-      <a href="{{ .Site.BaseURL }}{{ .URL }}"><h5 style="margin-top: 0;">{{ .Params.name }}</h5></a>
+      <a href="{{ .Permalink }}"><h5 style="margin-top: 0;">{{ .Params.name }}</h5></a>
       <p>{{ .Params.position }}<br>{{ .Params.email }}<br>
       {{ range .Params.flags }}
         <a href="https://en.wikipedia.org/wiki/{{ substr . 3 }}" ><img src="http://www.countryflags.io/{{ substr . 0 2 }}/flat/32.png" alt="{{ . }}"></a>
