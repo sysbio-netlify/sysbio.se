@@ -22,7 +22,7 @@ Please include reference to a person at Systems and Synthetic Biology.
 Chalmers University of Technology  
 Department of Biology and Biological Engineering  
 Division of Systems and Synthetic Biology  
-Kemigården 1 [→map (pdf)](/map-SYSBIO.pdf)  
+Kemigården 1 [→map (pdf)](/img/map-SYSBIO.pdf)  
 SE-412 96 Göteborg  
 Sweden  
 
