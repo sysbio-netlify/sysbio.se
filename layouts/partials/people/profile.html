@@ -4,7 +4,7 @@
       <img src="{{ .Params.picture }}" alt="{{ .Params.name }}">
     </div>
     <div class="col-md-9">
-      <p class="text-large">{{ .Params.position }}<br>{{ .Params.email }}<br>
+      <p>{{ .Params.position }}<br>{{ .Params.email }}<br>
       {{ range .Params.flags }}
         <a href="https://en.wikipedia.org/wiki/{{ substr . 3 }}" ><img src="http://www.countryflags.io/{{ substr . 0 2 }}/flat/32.png" alt="{{ . }}"></a>
       {{ end }}
