@@ -7,7 +7,6 @@ position: Research engineer
 email: 'mihail.anton [at] chalmers.se'
 flags:
   - ro Romania
-person-category: J Research engineers
+person-category: K Research engineers - Computational lab
 template: people/profile
 ---
-

@@ -35,7 +35,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Position", name: "position", widget: "string"}
       - {label: "Email", name: "email", widget: "string"}
       - {label: "Flags", name: "flags", widget: "list", required: false}
-      - {label: "Person category", name: "person-category", widget: "select", options: ["A Tenured faculty", "B Non-tenured faculty", "C Affiliated faculty", "D Senior researchers", "E Postdocs", "F PhD students", "G Master students", "H Visiting researchers", "I Guests", "J Research engineers", "K Assistant manager", "L Departamental administration", "M Computational systems biology infrastructure"]}
+      - {label: "Person category", name: "person-category", widget: "select", options: ["A Tenured faculty", "B Non-tenured faculty", "C Affiliated faculty", "D Senior researchers", "E Postdocs", "F PhD students", "G Master students", "H Visiting researchers", "I Guests", "J Research engineers - Wet lab", "K Research engineers - Computational lab", "L Assistant manager", "M Departamental administration", "N Computational systems biology infrastructure"]}
       - {label: "Template", name: "template", widget: "select", options: ["people/profile"]}
       - {label: "Body", name: "body", widget: "markdown", required: false}
   - name: "labs" # Used in routes, ie.: /admin/collections/:slug/edit
