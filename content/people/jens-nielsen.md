@@ -10,22 +10,6 @@ flags:
 person-category: A Tenured faculty
 template: people/profile
 ---
-Department of Biology and Biological Engineering,
-
-Chalmers University of Technology,
-
-Kemivägen 10, SE-412 96 Göteborg, Sweden
-
-
-
-Phone: +46 (0)31 772 3804
-
-Fax: +46(0)31 772 3801
-
-E-mail: nielsenj \[at] chalmers.se
-
-Office: Room 2060B
-
 * Curriculum Vitae (PDF)
 * Short Biography (PDF)
 * Publications - web site (PDF for download full list of publications)
