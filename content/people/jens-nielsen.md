@@ -24,9 +24,7 @@ template: people/profile
 
 ## Positions
 
-1986 	
-
-Research Assistant, School of Engineering, University of Western Ontario, Canada
+1986 	Research Assistant, School of Engineering, University of Western Ontario, Canada
 
 1987-1989 	PhD student, Department of Biotechnology, DTU, Denmark
 
@@ -56,71 +54,41 @@ Research Assistant, School of Engineering, University of Western Ontario, Canada
 
 ## Academic Appointments and Merits
 
-1994-1999 	
+1994-1999 	Founding Chairman, Danish Biotechnological Forum, Denmark
 
-Founding Chairman, Danish Biotechnological Forum, Denmark
+1995-2000 	Deputy Director, Center for Process Biotechnology, DTU, Denmark
 
-1995-2000 	
+1995-1998 	Co-ordinator, Physiological Engineering, Nordic Industrial Fund
 
-Deputy Director, Center for Process Biotechnology, DTU, Denmark
+1998-2002 	Co-ordinator, NordPhys, Nordic Industrial Fund
 
-1995-1998 	
+2001-2003 	Director, Center for Process Biotechnology, DTU, Denmark
 
-Co-ordinator, Physiological Engineering, Nordic Industrial Fund
-
-1998-2002 	
-
-Co-ordinator, NordPhys, Nordic Industrial Fund
-
-2001-2003 	
-
-Director, Center for Process Biotechnology, DTU, Denmark
-
-2001-2003 	
-
-Board Member, Center for BioProcess Technology, KTH, Sweden
+2001-2003 	Board Member, Center for BioProcess Technology, KTH, Sweden
 
 2002 	Evaluation Panel, Dutch genomics initiative (50 million EUR)
 
-2002-2007 	
+2002-2007 	SAB Member, Kluywer Center for Genomics of Industrial Fermentations, TU Delft, The Netherlands
 
-SAB Member, Kluywer Center for Genomics of Industrial Fermentations, TU Delft, The Netherlands
-
-2002-2008 	
-
-SAB Member, Max-Planck Institute for Dynamic of Complex Technical Systems, Germany
+2002-2008 	SAB Member, Max-Planck Institute for Dynamic of Complex Technical Systems, Germany
 
 2003 	Guest Professor, Tianjin University, China
 
-2004-2007 	
+2004-2007 	Founding Director, Center for Microbial Biotechnology, DTU, Denmark
 
-Founding Director, Center for Microbial Biotechnology, DTU, Denmark
-
-2004-2007 	
-
-Member of Integrative and Systems Biology Panel, BBSRC, UK (50 million GPD)
+2004-2007 	Member of Integrative and Systems Biology Panel, BBSRC, UK (50 million GPD)
 
 2004- 	Advisory Board, Society for Biological Engineering, USA
 
-2005 	
+2005 	Chairman of Evaluation Committee, HepatoSys, Germany
 
-Chairman of Evaluation Committee, HepatoSys, Germany
+2005-2008 	Co-ordinator, Yeast Systems Biology Network, EU Framework VI
 
-2005-2008 	
+2006-2007 	Founder and Board Member, Danish Biotechnological Society, Denmark
 
-Co-ordinator, Yeast Systems Biology Network, EU Framework VI
+2008-2011 	Member of Review Panel of SystemsX.ch, Switzerland (100 million CHF)
 
-2006-2007 	
-
-Founder and Board Member, Danish Biotechnological Society, Denmark
-
-2008-2011 	
-
-Member of Review Panel of SystemsX.ch, Switzerland (100 million CHF)
-
-2008-2011 	
-
-Co-ordinator, Systems Biology as a Driver for Industrial Biotechnology, EU Framework VII
+2008-2011 	Co-ordinator, Systems Biology as a Driver for Industrial Biotechnology, EU Framework VII
 
 2009- 	SAB Member, Netherlands Institute for Systems Biology, The Netherlands
 
@@ -254,103 +222,57 @@ Google Scholar: H-factor of 103; >45,000 citations and >5,400 citations in 2016
 
 Web of Science Highly Cited Researcher in 2015 and 2016
 
-506 	
+506 	Original Papers in Peer Reviewed Journals
 
-Original Papers in Peer Reviewed Journals
+98 	Review Papers in Peer Reviewed Journals
 
-98 	
-
-Review Papers in Peer Reviewed Journals
-
-25 	Commentaries in Peer Reviewed Journals
-
-46 	
-
-Book Contributions
+25 	Commentaries in Peer Reviewed Journals: 46 	Book Contributions 
 
 3 	Text books: Bioreaction Engineering (1994,2003) (English & Chineese), Metabolic Engineering (1998) (English, Chineese & Japaneese), Metabolome Analysis (2007)
 
-1 	
+1 	Monograph
 
-Monograph
+4 	Edited books
 
-4 	
-
-Edited books
-
-38 	
-
-Issue patents (12 patent families)
+38 	Issue patents (12 patent families)
 
 30 	Patent applications
 
-190 	
+190 	Invited oral presentations at international conferences
 
-Invited oral presentations at international conferences
-
-103 	
-
-Invited seminars at universities and companies
+103 	Invited seminars at universities and companies
 
 ## Key Grants
 
-1993-1996 	
+1993-1996 	Nordic Project on Physiological Engineering, Nordic Industrial Fund (>20 million DKK)
 
-Nordic Project on Physiological Engineering, Nordic Industrial Fund (>20 million DKK)
+1995-2002 	4 Projects, EU Framework VI (about 8 million DKK)
 
-1995-2002 	
+1996-1999 	Center for Process Biotechnology, Danish Technical Research Council (20 million DKK)
 
-4 Projects, EU Framework VI (about 8 million DKK)
-
-1996-1999 	
-
-Center for Process Biotechnology, Danish Technical Research Council (20 million DKK)
-
-1997-2000 	
-
-Nordic network NordPhys, Nordic Industrial Fund (>4 million DKK)
+1997-2000 	Nordic network NordPhys, Nordic Industrial Fund (>4 million DKK)
 
 1999-2003 	DABIC, Danish Technical Research Council (18MDKK)
 
-2000-2007 	
+2000-2007 	6 Projects, EU Framework V (about 15 million DKK)
 
-6 Projects, EU Framework V (about 15 million DKK)
+2003-2007 	Heterologous production of polyketides, Danish Technical Research Council (2.8 million DKK)
 
-2003-2007 	
+2004-2008 	Center for Microbial Biotechnology, Danish Technical Research Council (36 million DKK)
 
-Heterologous production of polyketides, Danish Technical Research Council (2.8 million DKK)
+2005-2009 	3 Projects, EU Framework VI (about 8.5 million DKK)
 
-2004-2008 	
+2005-2008 	Genome sequencing of A. balhamycina, Lundbech Foundation (1.2 million DKK)
 
-Center for Microbial Biotechnology, Danish Technical Research Council (36 million DKK)
+2005-2008 	Yeast Systems Biology Network, EU Framework VI (1.3 million €)
 
-2005-2009 	
+2006-2008 	Yeast in No Gravity, European Space Agency (2.7 million DKK)
 
-3 Projects, EU Framework VI (about 8.5 million DKK)
+2007-2009 	Systems Biology: From model organisms to application, NORDFORSK (0.8 million €)
 
-2005-2008 	
+2008-2011 	Systems Biology as a Driver for Industrial Biotechnology, EU Framework VII (1 million €)
 
-Genome sequencing of A. balhamycina, Lundbech Foundation (1.2 million DKK)
-
-2005-2008 	
-
-Yeast Systems Biology Network, EU Framework VI (1.3 million €)
-
-2006-2008 	
-
-Yeast in No Gravity, European Space Agency (2.7 million DKK)
-
-2007-2009 	
-
-Systems Biology: From model organisms to application, NORDFORSK (0.8 million €)
-
-2008-2011 	
-
-Systems Biology as a Driver for Industrial Biotechnology, EU Framework VII (1 million €)
-
-2008-2013 	
-
-UNICELLSYS, EU Framework VII (5.4 million SEK)
+2008-2013 	UNICELLSYS, EU Framework VII (5.4 million SEK)
 
 2009-2011 	Regulation of lipid metabolism in eukaryotic cells, Vetenskapsrådet (3 million SEK)
 
@@ -468,31 +390,19 @@ Current affiliated post docs and senior researchers 	28
 
 1992- 	Collaboration with industry; collaborated with more than 15 different companies in Austria, Denmark, France, Germany, The Netherlands, Sweden, Switzerland and USA. Cumulative funding from industry to my research group exceeds 30 MSEK.
 
-1996- 	
+1996- 	Consultant for several internationally leading biotech and pharmaceutical companies
 
-Consultant for several internationally leading biotech and pharmaceutical companies
+1997-2001 	N&N Biotechn ApS, Denmark, Founder and CEO (acquired by Fluxome A/S)
 
-1997-2001 	
-
-N&N Biotechn ApS, Denmark, Founder and CEO (acquired by Fluxome A/S)
-
-2001-2004 	
-
-Symbion Venture Capital, Denmark, Member of Scientific Advisory Board
+2001-2004 	Symbion Venture Capital, Denmark, Member of Scientific Advisory Board
 
 2002-2012 	Fluxome Sciences A/S, Denmark (acquired by Evolva SA in 2012); Founder (raised more than 25 MEUR in capital), CEO (2002-2004), CSO (2002-2008), Member of BoD (2008-2012), Chairman of SAB (2008-2012)
 
-2002-2007 	
+2002-2007 	Gothia Yeast Solutions, Sweden, Member of SAB
 
-Gothia Yeast Solutions, Sweden, Member of SAB
+2006-2011 	MycoTeQ A/S, Denmark, Founder and Chairman of BOD (has raised about 1 million € in capital, one novel antibiotics identified)
 
-2006-2011 	
-
-MycoTeQ A/S, Denmark, Founder and Chairman of BOD (has raised about 1 million € in capital, one novel antibiotics identified)
-
-2008-2010 	
-
-GlycoFi, Inc., USA, Member of SAB
+2008-2010 	GlycoFi, Inc., USA, Member of SAB
 
 2008- 	Genomatica, Inc., USA, Member of SAB
 
@@ -512,15 +422,11 @@ GlycoFi, Inc., USA, Member of SAB
 
 2000 	ESBES3, Denmark, Chairman (~300 delegates)
 
-2002 	
-
-Analysis of Microbial Cells at the Single Cell Level, Denmark, Co-Chair (~100 delegates)
+2002 	Analysis of Microbial Cells at the Single Cell Level, Denmark, Co-Chair (~100 delegates)
 
 2002 	Metabolic Engineering IV, Italy, Chairman (~250 delegates)
 
-2004 	
-
-European Conference on Fungal Genetics VI, Denmark, Co-Chair (~800 delegates)
+2004 	European Conference on Fungal Genetics VI, Denmark, Co-Chair (~800 delegates)
 
 2005 	ECB12, Denmark, Chairman of Scientific Committee (~1200 delegates)
 
