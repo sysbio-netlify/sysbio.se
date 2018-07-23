@@ -38,27 +38,15 @@ Dina is **CEO **of a non-profit organization Molecular Frontiers, which is under
 
 Dina is also a **teacher, supervisor and examiner** at Chalmers University in Göteborg and **mentor **at Karolinska Institute in Stockholm, and was awarded the **pedagodical prize** at Chalmers in 2013.
 
-
-
 During her PhD and postdocs Dina worked with Gram+ bacteria _Lactococcus lactis_ and _Bacillus subtilis_ where she studied transcriptional regulation via the pleiotropic regulator CodY, signal transductions via the phosphorelay PTS-system and protein tyrosin phosphorylation. Since 2007 she became more interested in eukaryal molecular biology and since 2008 has been working with yeast _Saccharomyces cerevisiae_ as a model organism, for study of complex cellular processes, such as proteome maintenance, ageing and apoptosis. In her group they are interested in these pathways from the fundamental and applied angle (biotechnology and biomedical research), and they use reductionist and holistic approaches in research (_in vivo_, _in vitro_ and _in silico_) by combining methods of molecular and cell biology, biochemistry, bioinformatics and systems biology (including omics and modeling), with the main scope to study how cells regulate proteostasis stress (proteome homeostasis).
-
-
-
-
 
 [FEMS Yeast Research thematic issue "Yeast Cell Aging and Death" edited by Dina Petranovic and Austen Ganley](https://onlinelibrary.wiley.com/toc/15671364/14/1)
 
-
-
 [10th International Meeting of Yeast Apoptosis (IMYAX) organized by Dina Petranovic and Thomas Nyström](http://www.sysbio.se/imyaX/)
-
-
 
 [Symposium on Healthy Ageing, organized by Dina Petranovic](http://www.chalmers.se/en/areas-of-advance/lifescience/events/Healthy-Ageing-Seminar/Pages/default.aspx)
 
-
-
-**PETRANOVIC LAB: 	 **
+**PETRANOVIC LAB: **
 
 **Current members:**
 
@@ -77,8 +65,6 @@ Ana Joyce Munoz,  PhD student
 Aafke van Aalst,  MSc student 
 
 Doris Zoric,  MSc student 
-
-
 
 **Previous members:**
 
@@ -150,19 +136,17 @@ Osman Efe Oztekin, internship student
 
 **Researchers co-supervised by Dina Petranovic:**
 
-_**Currently:**_
+**_Currently:_**
 
 Mikael Molin,  Post-doc
 
 Co-supervised by Prof Thomas Nyström, Sahlgrenska Academy GU
 
-
-
 Kumaravel Ponnandai Shanmugavel, PhD student
 
 Co-supervised by Prof Pernilla Wittung-Stafshede, Chalmers
 
-_**Previously:**_
+**_Previously:_**
 
 Zihe Liu,  PhD student
 
