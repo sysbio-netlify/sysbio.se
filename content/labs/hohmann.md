@@ -43,7 +43,7 @@ We are interested in understanding and using the dynamic behavior of signal tran
 
 2001 – 2015: Professor in Molecular Microbial Physiology at the Department of Chemistry and Molecular Biology, University of Gothenburg.
 
-1999 – 2005: Research professorof the Swedish Research Council at the Department of Cell and Molecular Biology / Microbiology, University of Gothenburg.
+1999 – 2005: Research professor of the Swedish Research Council at the Department of Cell and Molecular Biology / Microbiology, University of Gothenburg.
 
 1996 – 1999: Associate professor at the Department of Cell and Molecular Biology / Microbiology, University of Gothenburg (60% part-time) and project leader at the KU Leuven (40% part-time).
 
