@@ -46,6 +46,8 @@ Proceedings of the National Academy of Sciences 112 (20), 6449-6454, 2015
 
 
 
+
+
 The metabolic background is a global player in Saccharomyces gene expression epistasis
 
 MT Alam, A Zelezniak, M Mülleder, P Shliaha, R Schwarz, F Capuano, et al
@@ -54,9 +56,13 @@ Nature microbiology 1, 1503020, 2016
 
 
 
+
+
 Contribution of network connectivity in determining the relationship between gene expression and metabolite concentration changes
 
 A Zelezniak, S Sheridan, KR Patil PLoS computational biology 10 (4), e1003572, 2014
+
+
 
 
 
@@ -68,10 +74,10 @@ PLoS computational biology 6 (4), e1000729, 2010
 
 
 
+
+
 Functional metabolomics describes the yeast biosynthetic regulome
 
 M Mülleder, E Calvani, MT Alam, RK Wang, F Eckerstorfer, A Zelezniak, M Ralser
 
-Cell 167 (2), 553-565. E12, 2016 
-
-![SciLifeLab](/img/centre_scilifelab.png)
+Cell 167 (2), 553-565. E12, 2016
