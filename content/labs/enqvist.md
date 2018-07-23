@@ -25,7 +25,7 @@ profileleftbox: |-
 
   **Office**: Chemistry building, Room 2024
 ---
-CV                 Publications               Software
+CV | Publications | Software
 
 Our research focuses on bioinformatics and experimental high-throughput biochemical characterization of metabolic enzymes. We aim to understand how diverse protein sequences determine enzyme function.
 
