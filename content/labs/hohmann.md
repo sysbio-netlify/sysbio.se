@@ -31,13 +31,9 @@ profileleftbox: |-
 ---
 CV | Publications
 
-
-
 **Current research**
 
 We are interested in understanding and using the dynamic behavior of signal transduction pathways. For this we integrate experimental studies with mathematical modelling and prediction. We use the yeast Saccharomyces cerevisiae as experimental organism. Our research has focused on the HOG signaling pathway, that controls adaptation to osmotic stress, and the AMPK/SNF1 pathway, which controls cellular energy homeostasis. In recent years we have increasingly employed studies in single living cells to capture signaling dynamics. Signaling circuits are useful tools for cell engineering and programming and we have demonstrated recently how such circuits can be engineered or reconstructed.
-
-
 
 2015 – present: Professor and Head of Department at the Department of Biology and Biological Engineering, Chalmers University of Technology, Göteborg, Sweden.
 
@@ -57,24 +53,18 @@ We are interested in understanding and using the dynamic behavior of signal tran
 
 1983 – 1986 (certain periods): Application microbiologist for active dry wine yeast for E. Begerow & Co, Langenslonsheim, Germany.
 
-
-
 **Main organiser  **
 
 “Molecular Biology and Physiology of Water and Solute Transport” in 2000, Göteborg, Sweden. Number of participants: 200.
-
-
 
 * 21st “International Conference on Yeast Genetics and Molecular Biology” in 2003, Göteborg, Sweden. Number of participants: 1,100 (biggest ever in series).
 * “International Conference in Systems Biology ICSB2008” in Göteborg. Number of participants: 1,050
 * 35th FEBS (Federation of European Biochemical Societies) Congress 2010 in Göteborg. Number of participants: 1,650.
 * “FEBS International Practical Course in Systems Biology”, which was held in Gothenburg for the 7th time in 2015. Top-level 2-3 weeks course with 24 international students.
 
-
-
 Chief editor: Molecular genetics and genomics (2005-), the oldest journal in genetics.
 
-PhD students (17 graduated)
+**PhD students** (17 graduated)
 
 Niek Welkenhuysen
 
