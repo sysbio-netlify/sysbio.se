@@ -29,7 +29,7 @@ profileleftbox: |-
 
   Office: Room 3056A
 ---
-[CV](https://sysbiowebsite.netlify.com/img/cv_im1802.jpg) | [Publications](https://sysbiowebsite.netlify.com/img/pub_im1805.jpg)
+[CV](https://sysbiowebsite.netlify.com/img/cv_im1802.pdf) | [Publications](https://sysbiowebsite.netlify.com/img/pub_im1805.pdf)
 
 
 
@@ -57,7 +57,7 @@ We are implementing a wide array of metabolic engineering tools in order to opti
 
 **IMPORTANT NOTE FOR STUDENTS APPLYING FOR INTERNSHIPS:**
 
-Please note that our group does not admit internships/student projects shorter than one semester (5-6 months). Master projects carried out in our laboratory are not remunerated, so international students have to secure their own scholarships before applying. 
+Please note that our group does not admit internships/student projects shorter than one semester (5-6 months). Master projects carried out in our laboratory are not remunerated, so international students have to secure their own scholarships before applying.
 
 ![Mijakovic Lab](/img/pic_imgroup_720.png)
 
