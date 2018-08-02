@@ -13,9 +13,9 @@ template: tools/software
 #### Raven Toolbox
 </a><br><br><br>
 
-<a href="https://github.com/SysBioChalmers/RAVEN">
+<a href="https://github.com/SysBioChalmers/Kiwi">
   <img class="project-logo" src="/img/logo_kiwi.png">
-#### Raven Toolbox
+#### Kiwi
 </a><br><br><br><br><br>
 
 <a href="https://github.com/SysBioChalmers/GECKO">
