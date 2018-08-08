@@ -1,6 +1,6 @@
 ---
-name: Zelezniak Lab
-title: zelezniak
+title: Zelezniak Lab
+name: zelezniak
 picture: /img/lab_zelezniak.jpg
 card: >-
   We apply best practices of computational biology together with machine

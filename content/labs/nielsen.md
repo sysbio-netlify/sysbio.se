@@ -1,6 +1,6 @@
 ---
-name: Nielsen Lab
-title: nielsen
+title: Nielsen Lab
+name: nielsen
 picture: /img/lab_nielsen.jpg
 card: >-
   Our research focus is on systems biology of metabolism. The yeast
@@ -29,7 +29,7 @@ profileleftbox: |-
 
   Office: Room 2060B
 ---
-Research Projects | Alumni | CV | Publications | Videos | Theses 
+Research Projects | Alumni | CV | Publications | Videos | Theses
 
 Our research focus is on systems biology of metabolism. The yeast _Saccharomyces cerevisiae_ is our key organism for experimental research, but we also have experimental research on _Aspergilli oryzae_. [Interview about some of our work](https://www.youtube.com/watch?v=KkPeGhbh5F0)
 

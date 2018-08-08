@@ -1,6 +1,6 @@
 ---
-name: Petranovic Lab
-title: petranovic
+title: Petranovic Lab
+name: petranovic
 picture: /img/lab_petranovic.jpg
 card: >-
   We are combining methods of molecular and cell biology, biochemistry,
@@ -56,15 +56,15 @@ Olena Ishchuk,  Post-doc
 
 Facundo Muñiz,  Post-doc
 
-Veronica Gast,  PhD student 
+Veronica Gast,  PhD student
 
-Yanyan Wang,  PhD student 
+Yanyan Wang,  PhD student
 
-Ana Joyce Munoz,  PhD student 
+Ana Joyce Munoz,  PhD student
 
-Aafke van Aalst,  MSc student 
+Aafke van Aalst,  MSc student
 
-Doris Zoric,  MSc student 
+Doris Zoric,  MSc student
 
 **Previous members:**
 
@@ -80,9 +80,9 @@ José L. Martínez, Post-doc
 
 Guokun Wang, Post-doc
 
-Kwanjeera Wanichthanarak,  PhD student 
+Kwanjeera Wanichthanarak,  PhD student
 
-Magnus Johansson,  PhD student 
+Magnus Johansson,  PhD student
 
 Arastoo Badoei Dalfard, Visiting PhD student
 
@@ -104,11 +104,11 @@ Johan Björkeroth, Msc student
 
 My Nyblom, Msc student
 
-Almut Luetge, Visiting MSc student 
+Almut Luetge, Visiting MSc student
 
-Sophia Leussink, Visiting MSc student 
+Sophia Leussink, Visiting MSc student
 
-Elisa Alamo Garcia-Donas, Visiting MSc student 
+Elisa Alamo Garcia-Donas, Visiting MSc student
 
 Oscar Svensson, Bsc student
 

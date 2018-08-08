@@ -1,6 +1,6 @@
 ---
-name: Hohmann Lab
-title: hohmann
+title: Hohmann Lab
+name: hohmann
 picture: /img/lab_hohmann.jpg
 card: >-
   We are interested in understanding and using the dynamic behavior of signal

@@ -1,6 +1,6 @@
 ---
-name: Mijakovic Lab
-title: mijakovic
+title: Mijakovic Lab
+name: mijakovic
 picture: /img/lab_mijakovic.jpg
 card: >-
   We work on signaling and regulation in bacterial cells, focusing in particular

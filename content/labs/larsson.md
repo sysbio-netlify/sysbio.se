@@ -1,6 +1,6 @@
 ---
-name: Larsson Lab
-title: larsson
+title: Larsson Lab
+name: larsson
 picture: /img/lab_larsson.jpg
 card: >-
   Our lab is focused on understanding the physiology and metabolic regulation in
