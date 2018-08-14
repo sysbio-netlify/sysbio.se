@@ -14,7 +14,7 @@ profileleftbox: |-
   **E-mail**: martin.engqvist \[at] chalmers.se\
   **Office**: Chemistry building, Room 2024
 ---
-CV | Publications | [Software](#software)
+CV &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; Publications &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;[Software](#software)
 
 
 Our research focuses on bioinformatics and experimental high-throughput biochemical characterization of metabolic enzymes. We aim to understand how diverse protein sequences determine enzyme function.
