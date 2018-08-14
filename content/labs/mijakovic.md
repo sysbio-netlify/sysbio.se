@@ -30,7 +30,7 @@ profileleftbox: |-
   Office: Room 3056A
 ---
 
-#### [CV](/img/cv_im1808.pdf) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;  |&nbsp;&nbsp;&nbsp;&nbsp; [Publications] (/img/publications_im1808.pdf)
+#### [CV](/img/cv_im1808.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications] (/img/publications_im1808.pdf)
 
 
 
