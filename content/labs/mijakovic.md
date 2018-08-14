@@ -30,7 +30,7 @@ profileleftbox: |-
   Office: Room 3056A
 ---
 
-#### [CV](https://sysbiowebsite.netlify.com/img/cv_im1802.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Publications](https://sysbiowebsite.netlify.com/img/pub_im1805.pdf)
+#### [CV](/img/cv_im1808.pdf) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;  |&nbsp;&nbsp;&nbsp;&nbsp; [Publications] (/img/publications_im1808.pdf)
 
 
 
