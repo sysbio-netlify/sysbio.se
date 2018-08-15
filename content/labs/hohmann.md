@@ -7,29 +7,13 @@ card: >-
   transduction pathways.
 template: labs/single
 profileleftbox: |-
-  Professor
+  Professor  
+  **Stefan Hohmann**
 
-  Stefan Hohmann
-
-
-
-  Department of Biology and Biological Engineering,
-
-  Chalmers University of Technology,
-
-  Kemivägen 10, SE-412 96 Göteborg, Sweden
-
-
-
-  Phone:+460313608488
-
-  Fax: +46(0)31 772 3801
-
-  E-mail: stefan.hohmann \[at] chalmers.se
-
+  Phone:+460313608488  
+  E-mail: stefan.hohmann \[at] chalmers.se  
   Office: Room 3054A
 ---
-CV | Publications
 
 **Current research**
 
@@ -52,8 +36,8 @@ We are interested in understanding and using the dynamic behavior of signal tran
 1984 – 1987: PhD student at the Institute of Microbiology, Technische Hochschule Darmstadt.
 
 1983 – 1986 (certain periods): Application microbiologist for active dry wine yeast for E. Begerow & Co, Langenslonsheim, Germany.
-
-**Main organiser  **
+<br><br>
+**Main organiser**
 
 “Molecular Biology and Physiology of Water and Solute Transport” in 2000, Göteborg, Sweden. Number of participants: 200.
 
@@ -63,7 +47,7 @@ We are interested in understanding and using the dynamic behavior of signal tran
 * “FEBS International Practical Course in Systems Biology”, which was held in Gothenburg for the 7th time in 2015. Top-level 2-3 weeks course with 24 international students.
 
 Chief editor: Molecular genetics and genomics (2005-), the oldest journal in genetics.
-
+<br><br>
 **PhD students** (17 graduated)
 
 Niek Welkenhuysen
