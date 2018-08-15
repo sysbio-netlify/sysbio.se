@@ -39,7 +39,7 @@ In collaboration with the Chalmers Graphene Centre, we are developing advanced g
 
 We are implementing a wide array of metabolic engineering tools in order to optimize B. subtilis as a cell factory for the production of platform chemicals, industrially relevant enzymes and nanoparticles.
 
-
+<br>
 
 **IMPORTANT NOTE FOR STUDENTS APPLYING FOR INTERNSHIPS:**
 
@@ -47,38 +47,26 @@ Please note that our group does not admit internships/student projects shorter t
 
 ![Mijakovic Lab](/img/pic_imgroup_720.png)
 
-**Current members of the Mijakovic Lab: 	 **
+**Current members of the Mijakovic Lab:**
 
-Lei Shi, visiting researcher
-
-Abderahmane Derouiche, visiting researcher
-
-Santosh Pandit, Post-doc
-
-Hee Jin Hwang, Post-doc
-
-Raghu Mokkapati, Post-doc
-
-Shadi Rahimi, Post-doc
-
+Lei Shi, visiting researcher  
+Abderahmane Derouiche, visiting researcher  
+Santosh Pandit, Post-doc  
+Hee Jin Hwang, Post-doc  
+Raghu Mokkapati, Post-doc  
+Shadi Rahimi, Post-doc  
 Li Xu, visiting researcher
 
 
 
-**Current Members of the Mijakovic lab at DTU Biosustain: **	 
+**Current Members of the Mijakovic lab at DTU Biosustain:**	 
 
-Carsten Jers, Post-doc
-
-Abida Sultan, Post-doc
-
-Priyanka Singh, Post-doc
-
-Vaishnavi Ravikumar, Post-doc
-
-Abhroop Garg, Post-doc
-
-Ivan Andreas Stancik, PhD student
-
+Carsten Jers, Post-doc  
+Abida Sultan, Post-doc  
+Priyanka Singh, Post-doc  
+Vaishnavi Ravikumar, Post-doc  
+Abhroop Garg, Post-doc  
+Ivan Andreas Stancik, PhD student  
 Anja Tusar, Master student
 
 
@@ -93,86 +81,57 @@ Anja Tusar, Master student
 
 _**Research Associates/Assistant Professors:**_
 
-Sandrine Poncet
-
-Yves Pagot
-
-Tao Chen
+Sandrine Poncet  
+Yves Pagot  
+Tao Chen  
 
 
 
 _**Postdoctoral fellows:**_
 
-Fen Yang
-
-Valentina Cantatore
-
+Fen Yang  
+Valentina Cantatore  
 Aida Kalantari
 
 
 
 _**PhD students:**_
 
-Mette Erichsen Hansen
-
-Carsten Jers
-
-Boumediene Soufi
-
-Sujata Vijay Sohoni
-
-Ahasanul Kobir
-
-Abderrahman Deroiuche
-
-Charlotte Cousin
-
+Mette Erichsen Hansen  
+Carsten Jers  
+Boumediene Soufi  
+Sujata Vijay Sohoni  
+Ahasanul Kobir  
+Abderrahman Deroiuche  
+Charlotte Cousin  
 Aida Kalantari
 
 
 
 _**Technicians:**_
 
-Violeta Djekic
-
+Violeta Djekic  
 Mohammad Abdellatif
 
 
 
 _**Master students:**_
 
-Catarina Silva
-
-Carsten Jers
-
-Boumediene Soufi
-
-Elsebeth Oline Sondergaard
-
-Malene Mejer Hansen
-
-Marcin Krzystanek
-
-Katarzyna Warzyzinska
-
-Christina Johnsson
-
-Dafni Paspaliari
-
-Romilda Wangari
-
-Ahasanul Kobir
-
-Ana Boskovic
-
-Lorena Kolar Znika
-
-Paula Dobrinic
-
-Kristina Kovac
-
-Ivan Andreas Stancik
-
-Sanja Tunjic
-
+Catarina Silva  
+Carsten Jers  
+Boumediene Soufi  
+Elsebeth Oline Sondergaard  
+Malene Mejer Hansen  
+Marcin Krzystanek  
+Katarzyna Warzyzinska  
+Christina Johnsson  
+Dafni Paspaliari  
+Romilda Wangari  
+Ahasanul Kobir  
+Ana Boskovic  
+Lorena Kolar Znika  
+Paula Dobrinic  
+Kristina Kovac  
+Ivan Andreas Stancik  
+Sanja Tunjic  
 Alessandra Merlo
