@@ -15,7 +15,7 @@ profileleftbox: |-
   Office: Room 3054A
 ---
 CV &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; Publications
-<br>
+<br><br>
 
 **Current research**
 
