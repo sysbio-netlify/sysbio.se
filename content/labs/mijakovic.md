@@ -73,9 +73,9 @@ Anja Tusar, Master student
 
 [Mijakovic lab at DTU Biosustain ](http://www.biosustain.dtu.dk/english/research/research-groups/bacterial-signal-transduction)
 
+<br>
 
-
-**Previous members: 	 ** 	  	 
+**Previous members:** 	  	 
 
 
 
