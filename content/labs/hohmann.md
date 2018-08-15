@@ -14,8 +14,6 @@ profileleftbox: |-
   E-mail: stefan.hohmann \[at] chalmers.se  
   Office: Room 3054A
 ---
-CV &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; Publications
-<br><br>
 
 **Current research**
 
