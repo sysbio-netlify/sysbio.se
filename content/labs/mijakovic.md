@@ -15,7 +15,7 @@ profileleftbox: |-
   Office: Room 3056A
 ---
 
-##### [CV](/img/cv_im1808.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications] (/img/publications_im1808.pdf)
+[CV](/img/cv_im1808.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications] (/img/publications_im1808.pdf)
 <br>
 
 
@@ -23,19 +23,19 @@ profileleftbox: |-
 
 
 
-* **Protein phosphorylation**
+**Protein phosphorylation**
 
 We are interested in signaling and regulation in bacterial cells, focusing in particular on regulatory phenomena based on protein phosphorylation. Most of our research activities are carried out on Bacillus subtilis, a model organism for Firmicutes. B. subtilis is a wonderful model for studying complex signaling circuits in developmental phenomena, since it displays a wide array of “survival” strategies: motility, versatile degradative functions, production of bacteriocins, natural competence, biofilm formation, cannibalism and spore development. Our laboratory specializes in bacterial protein-tyrosine kinases (BY-kinases), serine/threonine kinases of the Hanks-family, phosphoproteomics other “omics” approaches aiming at global studies of the phosphorylation-based regulatory networks in both model and pathogenic bacteria. We are also interested in the evolution of protein kinases and their relationship with substrates.
 
 
 
-* **Graphene-based bio-applications**
+**Graphene-based bio-applications**
 
 In collaboration with the Chalmers Graphene Centre, we are developing advanced graphene-based antibacterial coatings and graphene-based bio-sensors.
 
 
 
-* **Metabolic engineering**
+**Metabolic engineering**
 
 We are implementing a wide array of metabolic engineering tools in order to optimize B. subtilis as a cell factory for the production of platform chemicals, industrially relevant enzymes and nanoparticles.
 
