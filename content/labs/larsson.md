@@ -8,12 +8,11 @@ card: >-
   metabolic engineering projects.
 template: labs/single
 profileleftbox: |-
-  Professor
-  Christer Larsson
+  Professor  
+  **Christer Larsson**
 
-
-  Phone: +46(0)31 772 3806  
-  E-mail: christer.larsson \[at] chalmers.se  
+  Phone: +46(0)31 772 3806\
+  E-mail: christer.larsson \[at] chalmers.se\
   Office: Room 3054B
 ---
 Our research activities are focused on developing the yeast Saccharomyces cerevisiae into an efficient producer (cell factory) of various chemicals and fuels by using a metabolic engineering approach. We have a long standing history of research in connection to optimization of bioethanol production. In more recent years we have also included butanol has an alternative biofuel that has many advantages compared to ethanol. S. cerevisiae is not a natural producer of butanol but by identification and insertion of suitable genes followed by protein engineering and careful selection of process conditions a novel efficient butanol forming organism/process will be developed. A similar approach has been used to transform S. cerevisiae into an ethylene producing organism. The aim of this project is to develop a sustainable process using renewable substrates for production of polyethylene that nowadays rely on finite fossil resources. In order to be successful in our metabolic engineering projects we also focus on exploring the mechanisms for regulation/control of various metabolic pathways in the cell. Special attention has been directed towards the role of energy metabolism and the importance of adenine nucleotide levels but also redox metabolism is a field of interest. The field of metabolic engineering in most cases relies on changing/adding the expression of proteins/genes in the host organism. To achieve proper expression and/or localization of the targetted protein it is necessary to understand the different layers of gene regulation involved. One project related to basic research into this area concerns the role(s) of, and regulatory mechanisms acting via the 3' untranslated region, using yeast as a model organism.
