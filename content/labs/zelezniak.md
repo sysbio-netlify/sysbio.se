@@ -34,50 +34,32 @@ We are combining best practices of data science with artificial intelligence and
 
 
 
-**Relevant Publications:**
+##### Relevant Publications
+
+Metabolic dependencies drive species co-occurrence in diverse microbial communities  
+A Zelezniak, S Andrejev, O Ponomarova, DR Mende, P Bork, KR Patil  
+Proceedings of the National Academy of Sciences 112 (20), 6449-6454, 2015  
 
 
-
-Metabolic dependencies drive species co-occurrence in diverse microbial communities
-
-A Zelezniak, S Andrejev, O Ponomarova, DR Mende, P Bork, KR Patil
-
-Proceedings of the National Academy of Sciences 112 (20), 6449-6454, 2015
+The metabolic background is a global player in Saccharomyces gene expression epistasis  
+MT Alam, A Zelezniak, M Mülleder, P Shliaha, R Schwarz, F Capuano, et al  
+Nature microbiology 1, 1503020, 2016  
 
 
+Contribution of network connectivity in determining the relationship between gene expression and metabolite concentration changes  
+A Zelezniak, S Sheridan, KR Patil PLoS computational biology 10 (4), e1003572, 2014  
 
 
-
-The metabolic background is a global player in Saccharomyces gene expression epistasis
-
-MT Alam, A Zelezniak, M Mülleder, P Shliaha, R Schwarz, F Capuano, et al
-
-Nature microbiology 1, 1503020, 2016
+Metabolic network topology reveals transcriptional regulatory signatures of type 2 diabetes  
+A Zelezniak, TH Pers, S Soares, ME Patti, KR Patil  
+PLoS computational biology 6 (4), e1000729, 2010  
 
 
+Functional metabolomics describes the yeast biosynthetic regulome  
+M Mülleder, E Calvani, MT Alam, RK Wang, F Eckerstorfer, A Zelezniak, M Ralser  
+Cell 167 (2), 553-565. E12, 2016  
 
 
-
-Contribution of network connectivity in determining the relationship between gene expression and metabolite concentration changes
-
-A Zelezniak, S Sheridan, KR Patil PLoS computational biology 10 (4), e1003572, 2014
-
-
-
-
-
-Metabolic network topology reveals transcriptional regulatory signatures of type 2 diabetes
-
-A Zelezniak, TH Pers, S Soares, ME Patti, KR Patil
-
-PLoS computational biology 6 (4), e1000729, 2010
-
-
-
-
-
-Functional metabolomics describes the yeast biosynthetic regulome
-
-M Mülleder, E Calvani, MT Alam, RK Wang, F Eckerstorfer, A Zelezniak, M Ralser
-
-Cell 167 (2), 553-565. E12, 2016
+<a href="https://www.scilifelab.se/research/fellows/" target="_blank">
+  <img src="/img/centre_scilifelab.png" alt=""height="150">
+</a>
