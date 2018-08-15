@@ -7,7 +7,7 @@ position: 'Assistant Professor, Enzyme Engineering'
 email: 'martin.engqvist [at] chalmers.se'
 flags:
   - se Sweden
-person-category: A Tenured faculty
+person-category: A Faculty
 template: people/profile
 ---
 
