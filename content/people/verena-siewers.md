@@ -7,7 +7,7 @@ position: 'Docent, Microbial Synthetic Biology'
 email: 'siewers [at] chalmers.se '
 flags:
   - de Germany
-person-category: B Non-tenured faculty
+person-category: C Docents
 template: people/profile
 ---
 
