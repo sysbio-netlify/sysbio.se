@@ -7,7 +7,7 @@ position: 'Project leader, Systems Metabolic Engineering'
 email: 'yunc [at] chalmers.se'
 flags:
   - cn China
-person-category: D Senior researchers
+person-category: D Researchers
 template: people/profile
 ---
 
