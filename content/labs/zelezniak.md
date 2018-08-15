@@ -36,14 +36,14 @@ The metabolic background is a global player in Saccharomyces gene expression epi
 MT Alam, A Zelezniak, M Mülleder, P Shliaha, R Schwarz, F Capuano, et al  
 Nature microbiology 1, 1503020, 2016
 
-<br>
+
 
 
 
 Contribution of network connectivity in determining the relationship between gene expression and metabolite concentration changes  
 A Zelezniak, S Sheridan, KR Patil PLoS computational biology 10 (4), e1003572, 2014
 
-<br>
+
 
 
 
@@ -51,7 +51,7 @@ Metabolic network topology reveals transcriptional regulatory signatures of type
 A Zelezniak, TH Pers, S Soares, ME Patti, KR Patil  
 PLoS computational biology 6 (4), e1000729, 2010
 
-<br>
+
 
 
 
