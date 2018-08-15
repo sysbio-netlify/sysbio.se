@@ -87,8 +87,7 @@ Osman Efe Oztekin, internship student
 **_Currently:_**
 
 Mikael Molin,  Post-doc
-Co-supervised by Prof Thomas Nyström, Sahlgrenska Academy GU
-
+Co-supervised by Prof Thomas Nyström, Sahlgrenska Academy GU  
 Kumaravel Ponnandai Shanmugavel, PhD student
 Co-supervised by Prof Pernilla Wittung-Stafshede, Chalmers
 
