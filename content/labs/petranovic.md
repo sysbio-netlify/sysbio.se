@@ -104,6 +104,7 @@ Mark Bisschops,  Post-doc
 Mingtao Huang,  Post-doc  
 Frederik Eisele,  Post-doc
 
+<br>
 **Teaching at Chalmers**
 
 I am examiner and professor of the first and second molecular and cell biology courses (UCM010 and KMG050, respectively) for Biotechnology undergraduate program (Bt1 & Bt2).
