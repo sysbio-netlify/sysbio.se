@@ -16,7 +16,7 @@ profileleftbox: |-
 ---
 CV &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; Publications &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;[Software](#software)
 
-
+<br>
 
 Our research focuses on bioinformatics and experimental high-throughput biochemical characterization of metabolic enzymes. We aim to understand how diverse protein sequences determine enzyme function.
 
