@@ -7,7 +7,7 @@ position: PostDoc
 email: 'cxin [at] chalmers.se'
 flags:
   - cn China
-person-category: D Senior researchers
+person-category: D Researchers
 template: people/profile
 ---
 
