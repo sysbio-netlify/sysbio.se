@@ -7,7 +7,7 @@ position: Docent (part time)
 email: 'intawat [at] chalmers.se'
 flags:
   - th Thailand
-person-category: C Affiliated faculty
+person-category: B Affiliated faculty
 template: people/profile
 ---
 
