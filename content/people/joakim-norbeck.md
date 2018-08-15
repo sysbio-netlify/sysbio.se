@@ -7,7 +7,7 @@ position: 'Docent, Molecular Biotechnology'
 email: 'norbeck [at] chalmers.se'
 flags:
   - se Sweden
-person-category: B Non-tenured faculty
+person-category: C Docents
 template: people/profile
 ---
 
