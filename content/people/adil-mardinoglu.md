@@ -7,7 +7,7 @@ position: Assistant Professor (part-time)
 email: 'adilm [at] chalmers.se'
 flags:
   - tr Turkey
-person-category: C Affiliated faculty
+person-category: B Affiliated faculty
 template: people/profile
 ---
 
