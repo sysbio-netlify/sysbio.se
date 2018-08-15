@@ -7,30 +7,17 @@ card: >-
   Saccharomyces cerevisiae is our key organism for experimental research.
 template: labs/single
 profileleftbox: |-
-  **Professor**
-
+  Professor  
   **Jens Nielsen**
 
 
-
-  Department of Biology and Biological Engineering,
-
-  Chalmers University of Technology,
-
-  Kemivägen 10, SE-412 96 Göteborg, Sweden
-
-
-
-  Phone: +46 (0)31 772 3804
-
-  Fax: +46(0)31 772 3801
-
-  E-mail: nielsenj \[at] chalmers.se
-
+  Phone: +46 (0)31 772 3804  
+  E-mail: nielsenj \[at] chalmers.se  
   Office: Room 2060B
 ---
-Research Projects | Alumni | CV | Publications | Videos | Theses
+Research Projects &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; Alumni &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; CV &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; Publications &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; Videos &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; Theses
 
+<br>
 Our research focus is on systems biology of metabolism. The yeast _Saccharomyces cerevisiae_ is our key organism for experimental research, but we also have experimental research on _Aspergilli oryzae_. [Interview about some of our work](https://www.youtube.com/watch?v=KkPeGhbh5F0)
 
 
