@@ -39,7 +39,7 @@ We are interested in understanding and using the dynamic behavior of signal tran
 
 1983 – 1986 (certain periods): Application microbiologist for active dry wine yeast for E. Begerow & Co, Langenslonsheim, Germany.
 <br><br>
-**Main organiser  **
+**Main organiser**
 
 “Molecular Biology and Physiology of Water and Solute Transport” in 2000, Göteborg, Sweden. Number of participants: 200.
 
