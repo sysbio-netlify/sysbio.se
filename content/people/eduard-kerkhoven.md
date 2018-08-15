@@ -7,7 +7,7 @@ position: 'Project leader, Computational Metabolic Engineering'
 email: 'eduardk [at] chalmers.se'
 flags:
   - nl Netherlands
-person-category: D Senior researchers
+person-category: D Researchers
 template: people/profile
 ---
 
