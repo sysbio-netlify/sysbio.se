@@ -7,7 +7,7 @@ position: Assistant Professor
 email: 'alezel [at] chalmers.se'
 flags:
   - lt Lithuania
-person-category: A Tenured faculty
+person-category: A Faculty
 template: people/profile
 ---
 
