@@ -7,7 +7,7 @@ position: Project leader
 email: 'davidfl [at] chalmers.se'
 flags:
   - de Germany
-person-category: D Senior researchers
+person-category: D Researchers
 template: people/profile
 ---
 This is my personal page.
