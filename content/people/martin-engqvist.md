@@ -63,14 +63,14 @@ As of February 2018 (Google Scholar)\
 **h-index:** 	11\
 **Original research articles:** 	19\
 **Research review articles:** 	2\
-**Book chapters: **	1
+**Book chapters:**	1
 
 ### Software
 
-**ANT **- Software for generating and evaluating degenerate codons for natural and expanded genetic codes (Python).\
+**ANT**- Software for generating and evaluating degenerate codons for natural and expanded genetic codes (Python).\
 **DNApy** - Code for DNA plasmid editing (Python).\
-**colcol **- Code for dealing with color conversions and generating publication-quality color scales (Python).\
-**wsvg **- A light wrapper around the svg (scalable vector graphics) format, for scripting svg files (Python).\
+**colcol**- Code for dealing with color conversions and generating publication-quality color scales (Python).\
+**wsvg**- A light wrapper around the svg (scalable vector graphics) format, for scripting svg files (Python).\
 **reproducible research** - Provides folder structure and conventions for new research projects, with the aim of making analysis reproducible.\
 **reproducible reports** - A template library for use in making research reports/grant proposals follow standard guidelines.
 
