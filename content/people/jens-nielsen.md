@@ -7,7 +7,7 @@ position: 'Professor, Quantitative Systems Biology & Head of Division'
 email: 'nielsenj [at] chalmers.se'
 flags:
   - dk Denmark
-person-category: A Tenured faculty
+person-category: A Faculty
 template: people/profile
 ---
 
