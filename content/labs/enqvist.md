@@ -14,7 +14,7 @@ profileleftbox: |-
   **E-mail**: martin.engqvist \[at] chalmers.se\
   **Office**: Chemistry building, Room 2024
 ---
-CV &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; Publications &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;[Software](#software)
+[CV] (/people/martin-engqvist/) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; Publications &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;[Software](#software)
 
 <br>
 
