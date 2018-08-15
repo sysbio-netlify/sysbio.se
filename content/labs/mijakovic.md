@@ -7,26 +7,11 @@ card: >-
   on regulatory phenomena based on protein phosphorylation.
 template: labs/single
 profileleftbox: |-
-  Professor
+  Professor\
+  **Ivan Mijakovic**
 
-  Ivan Mijakovic
-
-
-
-  Department of Biology and Biological Engineering,
-
-  Chalmers University of Technology,
-
-  Kemivägen 10, SE-412 96 Göteborg, Sweden
-
-
-
-  Phone:+46 (0)70 982 8446
-
-  Fax: +46(0)31 772 3801
-
-  E-mail: Ivan.Mijakovic \[at] chalmers.se
-
+  Phone:+46 (0)70 982 8446\
+  E-mail: Ivan.Mijakovic \[at] chalmers.se\
   Office: Room 3056A
 ---
 
