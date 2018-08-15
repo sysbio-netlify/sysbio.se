@@ -8,25 +8,10 @@ card: >-
 template: labs/single
 profileleftbox: |-
   Professor
-
-  Stefan Hohmann
-
-
-
-  Department of Biology and Biological Engineering,
-
-  Chalmers University of Technology,
-
-  Kemivägen 10, SE-412 96 Göteborg, Sweden
-
-
+  **Stefan Hohmann**
 
   Phone:+460313608488
-
-  Fax: +46(0)31 772 3801
-
   E-mail: stefan.hohmann \[at] chalmers.se
-
   Office: Room 3054A
 ---
 CV | Publications
