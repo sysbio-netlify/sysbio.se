@@ -11,4 +11,5 @@ flags:
 person-category: A Faculty
 template: people/profile
 ---
-This is my personal page.
+
+Information about me is available on [my lab page](/labs/petranovic).
