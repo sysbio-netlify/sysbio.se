@@ -7,7 +7,7 @@
       <a href="{{ .Permalink }}"><h5 style="margin-top: 0;">{{ .Params.name }}</h5></a>
       <p>{{ .Params.position | markdownify }}<br>{{ .Params.email }}<br>
       {{ range .Params.flags }}
-        <a href="https://en.wikipedia.org/wiki/{{ substr . 3 }}" ><img src="http://www.countryflags.io/{{ substr . 0 2 }}/flat/32.png" alt="{{ . }}"></a>
+        <a href="https://en.wikipedia.org/wiki/{{ substr . 3 }}" ><img height="20px" src="/img/flags/{{ substr . 0 2 }}.png" alt="{{ . }}"></a>
       {{ end }}
       </p>
     </div>
