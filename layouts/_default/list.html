@@ -15,9 +15,11 @@
 
         {{ partial "breadcrumbs.html" .Title }}
 
-        {{ if isset .Params "template" }}
-          {{ partial .Params.template . }}
-        {{ end }}
+        <div id="content">
+          {{ if isset .Params "template" }}
+            {{ partial .Params.template . }}
+          {{ end }}
+        </div>
 
         {{ partial "footer.html" . }}
 
