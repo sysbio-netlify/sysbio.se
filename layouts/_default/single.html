@@ -12,11 +12,18 @@
           {{ partial "nav.html" . }}
 
         </header>
-        {{ if .Params.name }}
-          {{ partial "breadcrumbs.html" .Params.name }}
+        {{ if isset .Params "template" }}
+          {{ if eq .Params.template "people/profile" }}
+            {{ partial "breadcrumbs.html" .Params.name }}
+          {{ else if eq .Params.template "labs/single" }}
+            {{ partial "breadcrumbs.html"  .Title}}
+          {{ else }}
+            {{ partial "breadcrumbs.html"  .Title}}
+          {{ end }}
         {{ else }}
           {{ partial "breadcrumbs.html"  .Title}}
         {{ end }}
+
         <div id="content">
           {{ if isset .Params "template" }}
             {{ partial .Params.template . }}

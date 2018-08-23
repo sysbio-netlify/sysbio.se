@@ -2,10 +2,10 @@
     <div class="row">
       {{ $pages := (where (where .Site.Pages "Type" "labs") "IsPage" true) }}
       {{ range $pages }}
-        <div class="col-md-3 col-sm-4 col-xs-6 narrow-labs" style="height: 450px;" >
+        <div class="col-md-3 col-sm-4 col-xs-6 narrow-labs" >
           <div class="labs">
-            <a href="{{ .Permalink }}">
-              <div class="item" style="height: 100%;">
+            <a href="{{ .Permalink }}" >
+              <div class="item" >
                 <div class="lab" >
                   <div class="name-picture">
                     <h3>{{ .Params.title }}</h3>
