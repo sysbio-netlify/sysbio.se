@@ -8,7 +8,7 @@ card: >-
 template: labs/single
 profileleftbox: |-
   Assistant Professor  
-  **Martin Engqvist**
+  **[Martin Engqvist](/people/martin-engqvist)**
 
   **Phone**: +46(0)31 772 8171\
   **E-mail**: martin.engqvist \[at] chalmers.se\
