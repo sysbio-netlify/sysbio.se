@@ -10,4 +10,3 @@ flags:
 person-category: B Affiliated faculty
 template: people/profile
 ---
-

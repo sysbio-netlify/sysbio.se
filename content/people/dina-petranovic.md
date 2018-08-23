@@ -1,7 +1,7 @@
 ---
 name: 'Dina Petranovic, PhD'
 title: dina-petranovic
-lastname: petranovic
+lastname: Petranovic
 picture: /img/pic_Dina-Petranovic.jpg
 position: 'Associate Professor, Molecular Biology'
 email: 'dina.petranovic [at] chalmers.se'

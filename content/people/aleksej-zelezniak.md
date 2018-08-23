@@ -10,4 +10,3 @@ flags:
 person-category: A Faculty
 template: people/profile
 ---
-

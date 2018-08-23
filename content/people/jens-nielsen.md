@@ -1,26 +1,28 @@
 ---
 name: 'Jens Nielsen, PhD, dr. tech.'
 title: jens-nielsen
-lastname: nielsen
+lastname: Nielsen
 picture: /img/pic_Jens-Nielsen.jpg
 position: 'Professor, Quantitative Systems Biology & Head of Division'
-email: 'nielsenj [at] chalmers.se'
+email: 'Nielsenj [at] chalmers.se'
 flags:
   - dk Denmark
 person-category: A Faculty
 template: people/profile
 ---
 
-* Curriculum Vitae (PDF)
-* Short Biography (PDF)
-* Publications - web site (PDF for download full list of publications)  
+- Curriculum Vitae (PDF)
+- Short Biography (PDF)
+- Publications - [selection on this website](#publications) (PDF for download full list of publications)  
 
-
-## Education and degrees  
+<br>
+#### Education and degrees  
 1986 	**M.Sc. in Chemical Engineering**, Dept. of Biotechnology, DTU, Denmark  
 1989 	**Ph.D. in Biochemical Engineering**, DTU, Denmark  
 1995 	**dr.techn.**, DTU, Denmark  
-## Positions  
+
+<br>
+#### Positions  
 1986 	**Research Assistant**, School of Engineering, University of Western Ontario, Canada  
 1987-1989 	**PhD student**, Department of Biotechnology, DTU, Denmark  
 1989 	**Post doc**, Institut für Technische Chemie, Universität Hannover, Germany  
@@ -36,7 +38,8 @@ template: people/profile
 2015 	**Founding Head of Department**, Department of Biology and Biological Engineering, Chalmers, Sweden (served 9 months as Head of Department and structured a department of 150 people)  
 2016- 	**Adjunct Professor**, Beijing University of Chemical Technology (BUCT), China  
 
-## Academic Appointments and Merits  
+<br>
+#### Academic Appointments and Merits  
 1994-1999 	**Founding Chairman**, Danish Biotechnological Forum, Denmark  
 1995-2000 	**Deputy Director**, Center for Process Biotechnology, DTU, Denmark  
 1995-1998 	**Co-ordinator**, Physiological Engineering, Nordic Industrial Fund  
@@ -73,7 +76,8 @@ template: people/profile
 2016- 	**Director of Life Science**, Beijing Advanced Center for Soft Matter Science and Engineering, Beijing University of Chemical Technology, China  
 2016- 	**Advisory Committee**, Joint Bioenergy Institute, Lawrence Berkeley Laboratory, USA  
 
-## Awards  
+<br>
+#### Awards  
 1989 	**Direktør Gorm Petersen’s Mindelegat**, Denmark  
 1994 	**Ulrik Brinch og Hustru Marie Brinch’s legat**, Denmark  
 1996 	**STVFs Jubilæumspris**, Denmark  
@@ -90,7 +94,8 @@ template: people/profile
 2017 	**Gold Medal**, Royal Swedish Academy of Engineering Sciences, Sweden  
 2017 	**Eric and Sheila Samson Prime Ministers Prize for Innovation in Alternative Fuels for Transportation**, Fuels and Smart Mobility Initiative, Israel  
 
-## Academies  
+<br>
+#### Academies  
 1997 	**Member of the Academy of Technical Sciences**, Denmark  
 2010 	**Foreign Associate of the National Academy of Engineering**, USA  
 2010 	**Member of the Royal Danish Academy of Science and Letters**, Denmark  
@@ -100,7 +105,8 @@ template: people/profile
 2012 	**Fellow of the American Academy of Microbiology**, USA  
 2014 	**Member of the Royal Swedish Academy of Sciences**, Sweden  
 
-## Other Honors  
+<br>
+#### Other Honors  
 1995 	**Fulbright Fellow**, USA  
 2002 	**Sunner Memorial Lecture**, Lund University, Sweden  
 2004 	**Hough Memorial Lecture**, Birmingham University, UK  
@@ -113,7 +119,8 @@ template: people/profile
 2017 	**Honorary Professor**, East China University of Science and Technology, Shanghai, China  
 2017 	**Adjunct Professor**, Jiangnan University, Wuxi, China  
 
-## Memberships in Societies  
+<br>
+#### Memberships in Societies  
 1986- 	**The Danish Society for Engineers**, Denmark  
 1996- 	**Member of American Association for the Advancement of Science**, USA  
 2001- 	**Society for Industrial Microbiology**, USA  
@@ -122,7 +129,8 @@ template: people/profile
 2006- 	**American Society for Microbiology**, USA  
 2012- 	**International Metabolic Engineering Society**, USA  
 
-## Publications, Patents & Presentations  
+<br>
+#### Publications, Patents & Presentations  
 Web of Science: H-factor of 77; >26,000 citations and >3,500 citations in 2016  
 Google Scholar: H-factor of 103; >45,000 citations and >5,400 citations in 2016  
 Web of Science Highly Cited Researcher in 2015 and 2016  
@@ -138,7 +146,8 @@ Web of Science Highly Cited Researcher in 2015 and 2016
 190 	**Invited oral presentations at international conferences**  
 103 	**Invited seminars at universities and companies**  
 
-## Key Grants  
+<br>
+#### Key Grants  
 1993-1996 	**Nordic Project on Physiological Engineering**, Nordic Industrial Fund (>20 million DKK)  
 1995-2002 	**4 Projects**, EU Framework VI (about 8 million DKK)  
 1996-1999 	**Center for Process Biotechnology**, Danish Technical Research Council (20 million DKK)  
@@ -181,7 +190,8 @@ Web of Science Highly Cited Researcher in 2015 and 2016
 2017-2023 	**Systems biology of the eukaryal protein secretion pathway**, Stiftelsen for Strategisk Forskning (34 MSEK)  
 2018-2023 	**CellNova**, Vinnova (9 MSEK) (co-PI together)  
 
-## Editorial Activities  
+<br>
+#### Editorial Activities  
 1999 	**Chemical Engineering Science**, Guest editor of special volume  
 1999- 	**Metabolic Engineering**, Editorial Board (1999-2002), Associate Editor (2003-)  
 1999- 	**Applied Microbiology and Biotechnology**, Editorial Board  
@@ -202,11 +212,13 @@ Web of Science Highly Cited Researcher in 2015 and 2016
 2017- 	**Cell Stress**, Editorial Board  
 2017- 	**Biotechnology and Bioprocess Engineering**, Editorial Board  
 
-## Teaching Experience  
+<br>
+#### Teaching Experience  
 Jens Nielsen has organized more than 15 advanced courses on metabolic engineering and systems biology in Denmark, Sweden, Thailand, China and Chile, and he has been teaching in several different courses at all levels in the areas of biotechnology, fermentation technology, bioreaction engineering, metabolic engineering and systems biology. Currently examiner of the MSc courses KMG060 Systems Biology and KKR063 Metabolic Engineering at Chalmers.  
 Prof Nielsen has extensive experience with developing, organizing and running new courses and he has been actively involved in the design of new teaching programs at both the BSc and MSc level in the field of biotechnology and systems biology.  
 
-## Mentoring  
+<br>
+#### Mentoring  
 Main supervisor of graduated PhD students 	75  
 Main supervisor of current PhD students 	20  
 Co-supervisor of graduated PhD students (including visiting PhD students) 	39  
@@ -214,7 +226,8 @@ Current co-supervisor of PhD students 	1
 Former affiliated post docs 	73  
 Current affiliated post docs and senior researchers 	28  
 
-## Business Experience  
+<br>
+#### Business Experience  
 1992- 	**Collaboration with industry; collaborated with more than 15 different companies in Austria**, Denmark, France, Germany, The Netherlands, Sweden, Switzerland and USA. Cumulative funding from industry to my research group exceeds 30 MSEK.  
 1996- 	**Consultant** for several internationally leading biotech and pharmaceutical companies  
 1997-2001 	**N&N Biotechn ApS**, Denmark, Founder and CEO (acquired by Fluxome A/S)  
@@ -230,7 +243,8 @@ Current affiliated post docs and senior researchers 	28
 2014- 	**Novogy**, Inc., USA, Member of SAB  
 2017- 	**Elypta AB**, Sweden, Founder and Chairman of BoD  
 
-## Organization of Conferences  
+<br>
+#### Organization of Conferences  
 1990- 	Member of organizing and scientific committee of more than 35 conferences  
 2000 	**ESBES3**, Denmark, Chairman (~300 delegates)  
 2002 	**Analysis of Microbial Cells at the Single Cell Level**, Denmark, Co-Chair (~100 delegates)  
@@ -244,9 +258,8 @@ Current affiliated post docs and senior researchers 	28
 2013 	**Copenhagen Bioscience Conference**, Denmark, Co-Chairman (~150 delegates)  
 2015 	**Copenhagen Bioscience Conference**, Denmark, Chairman (~150 delegates)  
 
-
-## Publications
-
+<br>
+#### Publications
 
 ##### Recent publications
 
@@ -354,6 +367,7 @@ S.  Grijseels; J.C. Nielsen; **J. Nielsen**;  T.O. Larsen; J.C. Frisvad; K.F. Ni
 
 A.  Rodriguez; Y. Chen; S. Khoomrung; E. Özdemir; I. Borodina; **J. Nielsen** (2017) Comparison of the metabolic response to  over-production of p-coumaric acid in two yeast strains. _Met. Eng._ **44**:265-272  
 
+<br>
 #### Reviews in international journals with peer review
 
 ##### 2018  
@@ -404,6 +418,7 @@ K. Campbell; J. Xia; **J. Nielsen** (2017) The impact of systems  biology on bio
 
 Y. Zhang; **J. Nielsen**; Z. Liu (2017) Engineering yeast metabolism for  production of terpenoids for use a perfume ingredients, pharmaceuticals, and  biofuels. _FEMS Yeast Res._, in press  
 
+<br>
 #### Commentaries and Short Papers
 
 ##### 2018
