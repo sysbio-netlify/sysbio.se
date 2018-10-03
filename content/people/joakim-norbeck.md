@@ -10,42 +10,44 @@ flags:
 person-category: C Docents
 template: people/profile
 ---
-
 #### Education  and degrees
-1992 Bachelor of science in Biology, University of Gothenburg  
-1997 Ph.D. in Microbiology  
+
+1992 Bachelor of science in Biology, University of Gothenburg\
+1997 Ph.D. in Microbiology\
+2009 Docent in Molecular Biotechnology 
 
 <br>
 #### Employments
-1992-1997 **PhD  student**, Department of General and Marine Microbiology, GU, Sweden  
-1997-1999 **Researcher**, Department  of General and Marine Microbiology, GU, Sweden  
-1999-2001 **Postdoc**,  Dept. of Biochemistry and Molecular Cell Biology, University of Vienna, Austria  
-2001-2003 **Manager**, Proteomics  Core Facility, GU, Sweden  
-2003-2008 **Assistant  Professor**, Chemical and Biological Engineering Chalmers, Sweden  
-2008-2009 **Researcher**,  Chemical and Biological Engineering Chalmers, Sweden  
-2009- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Docent**, Chemical and Biological Engineering Chalmers, Sweden  
-
-<br>
-#### Academic Experience
-
-2004- reviewer for several international peer-reviewed scientific journals  
-2009&nbsp; expert for evaluation of proposals for the French National Research Agency (ANR)  
+1992-1997 \*\*PhD  student\*\*, Department of General and Marine Microbiology, GU, Sweden  
+1997-1999 \*\*Researcher\*\*, Department  of General and Marine Microbiology, GU, Sweden  
+1999-2001 \*\*Postdoc\*\*,  Dept. of Biochemistry and Molecular Cell Biology, University of Vienna, Austria  
+2001-2003 \*\*Manager\*\*, Proteomics  Core Facility, GU, Sweden  
+2003-2008 \*\*Assistant  Professor\*\*, Chemical and Biological Engineering Chalmers, Sweden  
+2008-2014 \*\*Researcher\*\*,  Chemical and Biological Engineering Chalmers, Sweden  
+2015- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\*\*Researcher\*\*(oavlönad Docent), Biology and Biological Engineering Chalmers, Sweden  
 
 <br>
 #### Publications, Patents  &amp; Presentations
-21 Peer Reviewed Papers  
+32 Peer Reviewed Papers  
 2 &nbsp; Book Contributions  
 
 <br>
 #### Teaching Experience
+Director of Studies for the Bioscience Research school at Chalmers\
+\
+Director of the Masters program in biotechnology (MPBIO) at Chalmer\
+\
 Currently responsible (examiner) for the following undergraduate courses at Chalmers:  
-- KMB056 Molecular Biotechnology  
+- KMB056 Molecular Biotechnology\
+- KBT180 – Individual project in Biotechnology  
 
 Teacher on the following undergraduate courses at  Chalmers:  
-- KBB032 Biochemistry and Molecular Biology  
-- KBT015 Biochemistry  
+
+* KBB032 Biochemistry and Molecular Biology  
+* KBT016 Biochemistry and Biotechnology
+* BBT030 - Microbiology and Molecular Biotechnology 
 
 <br>
 #### Tutoring Experience
-Co-supervisor of graduated PhD students  
-Current co-supervisor of PhD students  
+Shared supervisor and co-supervisor of graduated PhD students  
+Currently supervisor of PhD student
