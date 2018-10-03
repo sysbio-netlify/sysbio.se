@@ -40,10 +40,10 @@ template: people/profile
 
 <br>
 #### Publications, Patents & Presentations
-56 	**Peer Reviewed Papers** 
-5&nbsp;&nbsp; 	**Reviews** 
-5&nbsp;&nbsp; 	**Book Contributions**
-1&nbsp;&nbsp; 	**Edited books** 
+56 	**Peer Reviewed Papers** \
+5&nbsp;&nbsp; 	**Reviews** \
+5&nbsp;&nbsp; 	**Book Contributions**\
+1&nbsp;&nbsp; 	**Edited books** \
 1&nbsp;&nbsp; 	**Patents**  
 
 <br>
