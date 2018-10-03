@@ -24,7 +24,7 @@ Verena Siewers is a Senior Researcher at the Department of Biology and Biologica
 2005-2008 	PostDoc, Department of Systems Biology, Technical University of Denmark  
 2008-2010 	PostDoc, Department of Chemical and Biological Engineering, Chalmers  \
 2010-2012 	Project leader, Department of Chemical and Biological Engineering, Chalmers \
-2012-2016 	Researcher, Department of Chemical and Biological Engineering, Chalmers
+2012-2016 	Researcher, Department of Chemical and Biological Engineering, Chalmers\
 2017- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Senior researcher, Department of Biology and Biological Engineering, Chalmers  
 
 <br>
