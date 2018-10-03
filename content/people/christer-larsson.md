@@ -17,34 +17,34 @@ template: people/profile
 
 <br>
 #### Employments
-1985-1990 	\*\*PhD student\*\*, Department of General and Marine Microbiology, GU, Sweden  
-1990-1992 	\*\*Post doc\*\*, Dept. Chemical Engineering, Swiss Federal Institute of Technology, Lausanne, Switzerland  
-1993-1995 	\*\*Researcher\*\*, Dept. of General and Microbiology, GU, Sweden  
-1995-1999 	\*\*Assistant Professor\*\*, Dept. of General and Microbiology, GU, Sweden  
-1999-2002 	\*\*Assistant Professor\*\*, Chemical and Biological Engineering, Chalmers, Sweden  
-2002-2006 	\*\*Researcher\*\*, Chemical and Biological Engineering, Chalmers, Sweden  
-2007-2009 	\*\*Associate Professor\*\*, Chemical and Biological Engineering Chalmers, Sweden\
-2010-2014 	\*\*Professor (bitr)\*\*, Chemical and Biological Engineering Chalmers, Sweden  
-2015- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*Professor (bitr)\*\*, Biology and Biological Engineering Chalmers, Sweden  
+1985-1990 	**PhD student**, Department of General and Marine Microbiology, GU, Sweden  
+1990-1992 	**Post doc**, Dept. Chemical Engineering, Swiss Federal Institute of Technology, Lausanne, Switzerland  
+1993-1995 	**Researcher**, Dept. of General and Microbiology, GU, Sweden  
+1995-1999 	**Assistant Professor**, Dept. of General and Microbiology, GU, Sweden  
+1999-2002 	**Assistant Professor**, Chemical and Biological Engineering, Chalmers, Sweden  
+2002-2006 	**Researcher**, Chemical and Biological Engineering, Chalmers, Sweden  
+2007-2009 	**Associate Professor**, Chemical and Biological Engineering Chalmers, Sweden\
+2010-2014 	**Professor (bitr)**, Chemical and Biological Engineering Chalmers, Sweden  
+2015- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Professor (bitr)**, Biology and Biological Engineering Chalmers, Sweden  
 
 <br>
 #### Academic Experience
-1998 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \*\*Secretary\*\*, Organization committee for the 8th BioThermoKinetics(BTK) conference, Gullmarstrand, Sweden  
-1997-1999 	\*\*Board member\*\*, General and Marine Microbiology, GU, Sweden  
-2000-2008 	\*\*Director of Studies\*\*, Research school in Bioscience, Chalmers, Sweden  
-2006- 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*Deputy director\*\*, Life science division, Chemical and Biological Engineering, Chalmers, Sweden  
-2007-2016 	\*\*Master programme director\*\*, Biotechnology programme, Chalmers Sweden  
-2010 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \*\*Deputy director\*\*, “Life Science area of advance”, Chalmers, Sweden  \
-2015 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \*\*Viceprefekt\*\*, (responsible for undergraduate teaching)\
-2015-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \*\*Proprefekt\*\*, (Deputy head of department responsible for PhD education)
+1998 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \\*\\*Secretary\\*\\*, Organization committee for the 8th BioThermoKinetics(BTK) conference, Gullmarstrand, Sweden  
+1997-1999 	\\*\\*Board member\\*\\*, General and Marine Microbiology, GU, Sweden  
+2000-2008 	\\*\\*Director of Studies\\*\\*, Research school in Bioscience, Chalmers, Sweden  
+2006- 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\*\\*Deputy director\\*\\*, Life science division, Chemical and Biological Engineering, Chalmers, Sweden  
+2007-2016 	\\*\\*Master programme director\\*\\*, Biotechnology programme, Chalmers Sweden  
+2010 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \\*\\*Deputy director\\*\\*, “Life Science area of advance”, Chalmers, Sweden  \
+2015 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \\*\\*Viceprefekt\\*\\*, (responsible for undergraduate teaching)\
+2015-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \\*\\*Proprefekt\\*\\*, (Deputy head of department responsible for PhD education)
 
 <br>
 #### Publications, Patents & Presentations
-56 	\*\*Peer Reviewed Papers\*\*  
-5&nbsp;&nbsp; 	\*\*Reviews\*\*  
-5&nbsp;&nbsp; 	\*\*Book Contributions\*\*  
-1&nbsp;&nbsp; 	\*\*Edited books\*\*  
-1&nbsp;&nbsp; 	\*\*Patents\*\*  
+56 	\\*\\*Peer Reviewed Papers\\*\\*  
+5&nbsp;&nbsp; 	\\*\\*Reviews\\*\\*  
+5&nbsp;&nbsp; 	\\*\\*Book Contributions\\*\\*  
+1&nbsp;&nbsp; 	\\*\\*Edited books\\*\\*  
+1&nbsp;&nbsp; 	\\*\\*Patents\\*\\*  
 
 <br>
 #### Teaching 
