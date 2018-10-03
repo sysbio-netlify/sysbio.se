@@ -18,13 +18,13 @@ template: people/profile
 
 <br>
 #### Employments
-1992-1997 **PhD  student**, Department of General and Marine Microbiology, GU, Sweden  
-1997-1999 **Researcher**, Department  of General and Marine Microbiology, GU, Sweden  
-1999-2001 **Postdoc**,  Dept. of Biochemistry and Molecular Cell Biology, University of Vienna, Austria  
-2001-2003 **Manager**, Proteomics  Core Facility, GU, Sweden  
-2003-2008 **Assistant  Professor**, Chemical and Biological Engineering Chalmers, Sweden  
-2008-2014 **Researcher**,  Chemical and Biological Engineering Chalmers, Sweden  
-2015- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Researcher** (oavlönad Docent), Biology and Biological Engineering Chalmers, Sweden  
+1992-1997 \*\*PhD  student\*\*, Department of General and Marine Microbiology, GU, Sweden  
+1997-1999 \*\*Researcher\*\*, Department  of General and Marine Microbiology, GU, Sweden  
+1999-2001 \*\*Postdoc\*\*,  Dept. of Biochemistry and Molecular Cell Biology, University of Vienna, Austria  
+2001-2003 \*\*Manager\*\*, Proteomics  Core Facility, GU, Sweden  
+2003-2008 \*\*Assistant  Professor\*\*, Chemical and Biological Engineering Chalmers, Sweden  
+2008-2014 \*\*Researcher\*\*,  Chemical and Biological Engineering Chalmers, Sweden  
+2015- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\*\*Researcher\*\* (oavlönad Docent), Biology and Biological Engineering Chalmers, Sweden  
 
 <br>
 #### Publications, Patents  &amp; Presentations
