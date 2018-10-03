@@ -3,7 +3,7 @@ name: Mia Gartner
 title: Mia-Gartner
 lastname: Gartner
 picture: /img/pic_mia-gartner.jpg
-position: Administrator
+position: Administrator for Systems and Synthetic Biology division.
 email: 'mia.gartner [at] chalmers.se'
 flags:
   - se Sweden
