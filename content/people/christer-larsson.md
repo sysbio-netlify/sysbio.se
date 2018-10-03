@@ -29,22 +29,22 @@ template: people/profile
 
 <br>
 #### Academic Experience
-1998 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \\*\\*Secretary\\*\\*, Organization committee for the 8th BioThermoKinetics(BTK) conference, Gullmarstrand, Sweden  
-1997-1999 	\\*\\*Board member\\*\\*, General and Marine Microbiology, GU, Sweden  
-2000-2008 	\\*\\*Director of Studies\\*\\*, Research school in Bioscience, Chalmers, Sweden  
-2006- 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\*\\*Deputy director\\*\\*, Life science division, Chemical and Biological Engineering, Chalmers, Sweden  
-2007-2016 	\\*\\*Master programme director\\*\\*, Biotechnology programme, Chalmers Sweden  
-2010 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \\*\\*Deputy director\\*\\*, “Life Science area of advance”, Chalmers, Sweden  \
-2015 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \\*\\*Viceprefekt\\*\\*, (responsible for undergraduate teaching)\
-2015-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \\*\\*Proprefekt\\*\\*, (Deputy head of department responsible for PhD education)
+1998 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Secretary**, Organization committee for the 8th BioThermoKinetics(BTK) conference, Gullmarstrand, Sweden  
+1997-1999 	**Board member**, General and Marine Microbiology, GU, Sweden  
+2000-2008 	**Director of Studies**, Research school in Bioscience, Chalmers, Sweden  
+2006- 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Deputy director**, Life science division, Chemical and Biological Engineering, Chalmers, Sweden  
+2007-2016 	**Master programme director**, Biotechnology programme, Chalmers Sweden  
+2010 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Deputy director**, “Life Science area of advance”, Chalmers, Sweden  
+2015 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Viceprefekt**, (responsible for undergraduate teaching)\
+2015-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Proprefekt**, (Deputy head of department responsible for PhD education)
 
 <br>
 #### Publications, Patents & Presentations
-56 	\\*\\*Peer Reviewed Papers\\*\\*  
-5&nbsp;&nbsp; 	\\*\\*Reviews\\*\\*  
-5&nbsp;&nbsp; 	\\*\\*Book Contributions\\*\\*  
-1&nbsp;&nbsp; 	\\*\\*Edited books\\*\\*  
-1&nbsp;&nbsp; 	\\*\\*Patents\\*\\*  
+56 	**Peer Reviewed Papers** 
+5&nbsp;&nbsp; 	**Reviews** 
+5&nbsp;&nbsp; 	**Book Contributions**
+1&nbsp;&nbsp; 	**Edited books** 
+1&nbsp;&nbsp; 	**Patents**  
 
 <br>
 #### Teaching 
