@@ -24,7 +24,7 @@ template: people/profile
 2001-2003 **Manager**, Proteomics  Core Facility, GU, Sweden  
 2003-2008 **Assistant  Professor**, Chemical and Biological Engineering Chalmers, Sweden  
 2008-2014 **Researcher**,  Chemical and Biological Engineering Chalmers, Sweden  
-2015- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Researcher** (oavlönad Docent), Biology and Biological Engineering Chalmers, Sweden  
+2015- &nbsp; &nbsp; &nbsp; &nbsp; **Researcher** (oavlönad Docent), Biology and Biological Engineering Chalmers, Sweden  
 
 <br>
 #### Publications, Patents  &amp; Presentations
