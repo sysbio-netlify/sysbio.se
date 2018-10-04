@@ -43,35 +43,12 @@ template: people/profile
 
 ### Peer-reviewed publications
 
-As of February 2018 (Google Scholar)\
-**Citations:** 	736\
-**h-index:** 	11\
+As of August 2018 (Google Scholar)\
+**Citations:** 	825\
+**h-index:** 	13\
 **Original research articles:** 	19\
 **Research review articles:** 	2\
-**Book chapters:**	1
+**Book chapters:**	2
 
-### Software
-
-**ANT**- Software for generating and evaluating degenerate codons for natural and expanded genetic codes (Python).\
-**DNApy** - Code for DNA plasmid editing (Python).\
-**colcol**- Code for dealing with color conversions and generating publication-quality color scales (Python).\
-**wsvg**- A light wrapper around the svg (scalable vector graphics) format, for scripting svg files (Python).\
-**reproducible research** - Provides folder structure and conventions for new research projects, with the aim of making analysis reproducible.\
-**reproducible reports** - A template library for use in making research reports/grant proposals follow standard guidelines.
-
-### Grants, Fellowships and Prizes
-
-2012-2014 	**Dow-Resnick Research Grant**, USA  
-2012 	**NASA Ames Research Grant**, USA  
-2011-2014 	**Postdoctoral Research Fellowship**, Deutsche Forschungsgemeinschaft, Germany  
-2010 	**Reinhold von Sengbusch Prize**, Germany  
-2009 	**Honorary Stipend**, Stiftelsen Markussens Studiefond, Sweden  
-2006-2009 	**Graduate Research Fellowship**, International Max Planck Research School graduate program, Germany
-
-### Memberships in Societies
-
-2012- 	**German Society of Biochemistry and Molecular Biology (GBM)**  
-2012- 	**Federation of European Biochemical Societies (FEBS)**  
-2012- 	**International Union of Biochemistry and Molecular Biology (IUBMB)**  
-2012- 	**European Federation of Biotechnology (EFB)**  
-2009- 	**Lund University alumni**
+### Publications
+More information here ()
