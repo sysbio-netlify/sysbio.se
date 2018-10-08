@@ -181,3 +181,7 @@ paginate = 10
   [privacy.youtube]
     disable = false
     privacyEnhanced = false
+
+[blackfriday]
+  fractions = false
+  hrefTargetBlank = true

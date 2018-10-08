@@ -52,4 +52,4 @@ As of August 2018 (Google Scholar)\
 
 ### Publications
 
-More information [here ](/labs/enqvist/)
+Publications are listed on [my lab page](/labs/enqvist/).
