@@ -24,8 +24,6 @@ Genome sequence data is growing at an explosive rate while experimental data rel
 
 Combining ideas and expertise from bioinformatics, biochemistry and directed evolution we operate a platform for high-throughput biochemical characterization of enzymes. It is a novel way of applying well-established methods towards a new purpose. We make use of these methods to densely sample sequence diversity in enzyme families. The resulting data is leveraged to gain insights into the sequence-function relationship in metabolic enzymes and forms a basis for improved functional gene annotation in sequenced genomes.
 
-
-
 ### Publications
 
 As of August 2018  (Google Scholar)<br />
@@ -34,12 +32,12 @@ As of August 2018  (Google Scholar)<br />
 
 #### Current preprints
 
+[okio](klio)
 <em>ϕ</em> Indicates shared  first-authorship as noted in publications </p>
-                  "Correlating enzyme annotations with a  large set of microbial growth temperatures reveals metabolic adaptations to  growth at diverse temperatures";<br />
+                  "Correlating enzyme annotations with a  large set of microbial growth temperatures reveals metabolic adaptations to  growth at diverse temperatures"\
                     <strong>Engqvist MKM</strong> <br />
-                    bioRxiv, (2018)<em><br />
-                    </em><strong><a href="https://dx.doi.org/10.1101/271569" target="_blank">doi: 10.1101/271569<br /></strong></a>
-                    <br />
+                    bioRxiv, (2018)  
+**[doi: 10.1101/271569](https://dx.doi.org/10.1101/271569)**
 
 #### Peer-reviewed original articles
 
