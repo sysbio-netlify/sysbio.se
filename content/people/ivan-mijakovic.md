@@ -11,4 +11,4 @@ person-category: A Faculty
 template: people/profile
 ---
 
-Information about me is available on my lab page.
+Information about me is available on [my lab page.] (/labs/mijakovic/)
