@@ -1,5 +1,5 @@
 ---
-name: Jiwei Mao
+name: 'Jiwei Mao, PhD'
 title: Jiwei-Mao
 lastname: Mao
 picture: /img/pic_jiwei-mao.jpg
