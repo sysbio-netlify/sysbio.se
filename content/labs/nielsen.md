@@ -15,7 +15,7 @@ profileleftbox: |-
   E-mail: nielsenj \[at] chalmers.se  
   Office: Room 2060B
 ---
-Research Projects &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; \[CV] (/peoople/jens-nielsen/) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; \[Publications] (#publications) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; \[Videos] (#videos) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; \[Theses] (#theses) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; \[Alumni] (#alumni) 
+Research Projects &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [CV] (/peoople/jens-nielsen/) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Publications] (#publications) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Videos] (#videos) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Theses] (#theses) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Alumni] (#alumni) 
 
 <br>
 Our research focus is on systems biology of metabolism. The yeast \\\_Saccharomyces cerevisiae\\\_ is our key organism for experimental research, but we also have experimental research on \\\_Aspergilli oryzae\\\_. \\\[Interview about some of our work](https://www.youtube.com/watch?v=KkPeGhbh5F0)
