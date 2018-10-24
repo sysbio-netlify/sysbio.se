@@ -1,5 +1,5 @@
 ---
-name: Michael Gossing
+name: 'Michael Gossing, PhD'
 title: Michael-Gossing
 lastname: Gossing
 picture: /img/pic_michael-gossing.jpg
