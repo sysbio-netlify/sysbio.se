@@ -28,35 +28,32 @@ Our research activities fall in three areas:
 
 Several of our research activities are part of the Novo Nordisk Foundation Center for Biosustainability. See [www.biosustain.dtu.dk](http://www.biosustain.dtu.dk/english) and [video ](https://www.youtube.com/watch?v=8-R3HCHQI9I&feature=player_embedded)for more information
 
-\####Publications
+####Publications
 
 Full list of publications (PDF)
 
-\####Videos
+####Videos
 
 * Samson Prize Winners - Fuel Choices and Smart Mobility Summit
-* \    ENI Award, 2017
-* \    Presentation at Molecular Frontiers Symposium, Stockholm: From yeast to human, 2017
-* \    Talk "Impact of systems biology on metabolic engineering" in Kitano, H. (ed.), Systems Biology: , The Biomedical & Life Sciences Collection, Henry Stewart Talks Ltd, London, 2014
-* \    Interview in connection with Science paper on thermotolerant yeast, 2014
-* \    Presentation at the Metabolic Engineering X conference, Vancouver, Canada, 2014
-* \    Presentation at Molecular Frontiers Symposium: Meet Science Superheroes, Singapore, 2012
-* \    Interview about mentoring at Molecular Frontiers Symposium: Meet Science Superheroes, Singapore, 2012
-* \    Fungal Cell Factories at Center for Biosustainability, 2011
-* \    The Novo Nordisk Foundation Center for Biosustainability, 2011
+* ENI Award, 2017
+*  Presentation at Molecular Frontiers Symposium, Stockholm: From yeast to human, 2017
+* Talk "Impact of systems biology on metabolic engineering" in Kitano, H. (ed.), Systems Biology: , The Biomedical & Life Sciences Collection, Henry Stewart Talks Ltd, London, 2014
+* Interview in connection with Science paper on thermotolerant yeast, 2014
+* Presentation at the Metabolic Engineering X conference, Vancouver, Canada, 2014
+* Presentation at Molecular Frontiers Symposium: Meet Science Superheroes, Singapore, 2012
+* Interview about mentoring at Molecular Frontiers Symposium: Meet Science Superheroes, Singapore, 2012
+* Fungal Cell Factories at Center for Biosustainability, 2011
+* The Novo Nordisk Foundation Center for Biosustainability, 2011
 
-\#####Webinars:
+#####Webinars:
 
 * Advancing the Design-Build-Test Cycle for
 * Metabolic Engineering of Yeast, 2016
+* Society of Biological Engineering, 2009
 
+####Theses
 
-
-\    Society of Biological Engineering, 2009
-
-\####Theses
-
-\#####2009
+#####2009
 
 Wanwipa Vongsangnak:
 
@@ -70,7 +67,7 @@ Industrial Systems Biology and Metabolic Engineering of _Saccharomyces cerevisia
 
 
 
-\#####2010
+#####2010
 
 Margarita Salazar:
 
@@ -78,7 +75,7 @@ Systems Biology of Glucose Sensing and Repression in _Aspergillus niger_: Lesson
 
 
 
-\#####2011
+#####2011
 
 Jie Zhang:
 
@@ -92,7 +89,7 @@ Systems Biology in _Saccharomyces cerevisiae_. Statistical data analysis and mat
 
 
 
-\#####2012
+#####2012
 
 Pramote Chumnanpuen:
 
@@ -132,7 +129,7 @@ Metabolic Engineering of Recombinant Protein Production by _Saccharomyces cerevi
 
 
 
-\#####2013
+#####2013
 
 Kanokarn Kocharin:
 
@@ -146,7 +143,7 @@ On metabolic networks and multi-omics integration (ISBN 978-91-7385-839-7)
 
 
 
-\#####2014
+#####2014
 
 Tobias Österlund:
 
@@ -180,7 +177,7 @@ Systems Biology of Recombinant Protein Production by Fungi (ISBN 978-91-7597-038
 
 
 
-\#####2015
+#####2015
 
 Bouke Wim de Jong:
 
@@ -232,7 +229,7 @@ Engineering Yeast Metabolism for Production of Sesquiterpenes (ISBN: 978-91-7597
 
 
 
-\#####2017
+#####2017
 
 Pouyan Ghaffari Nouran:
 
@@ -240,7 +237,7 @@ Heterogeneity of human metabolism in health and disease: a modelling perspective
 
 
 
-\####Alumni
+####Alumni
 
 **Post Doctoral Researchers**
 
