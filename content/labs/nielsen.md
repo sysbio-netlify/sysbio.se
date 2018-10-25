@@ -32,7 +32,6 @@ Several of our research activities are part of the Novo Nordisk Foundation Cente
 #### Publications
 
 Full list of publications (PDF)
-
 <br>
 <br>
 
