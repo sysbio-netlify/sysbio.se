@@ -54,9 +54,8 @@ Full list of publications (PDF)
 * Advancing the Design-Build-Test Cycle for
 * Metabolic Engineering of Yeast, 2016
 * Society of Biological Engineering, 2009
-  <br>
-  <br>
-    
+<br>
+<br>
 
 #### Theses
 
