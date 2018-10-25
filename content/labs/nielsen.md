@@ -69,96 +69,95 @@ Industrial Systems Biology and Metabolic Engineering of _Saccharomyces cerevisia
 
 ##### 2010
 
-Margarita Salazar:
+Margarita Salazar:  
 Systems Biology of Glucose Sensing and Repression in _Aspergillus niger_: Lessons from Genomics and Transcriptomics (ISBN 978-91-7385-439-9)
 
 ##### 2011
 
-Jie Zhang:
+Jie Zhang:  
 Global Regulation of Snf1 in_ Saccharomyces cerevisiae_: A case study of experimental systems biology (ISBN 978-91-7385-558-7)
 
-Roberto Olivares Hernandez:
+Roberto Olivares Hernandez:  
 Systems Biology in _Saccharomyces cerevisiae_. Statistical data analysis and mathematical methods (ISBN 978-91-7385-624-9)
 
 ##### 2012
 
-Pramote Chumnanpuen:
+Pramote Chumnanpuen:  
 Systems Biology of Yeast Lipid Metabolism (ISBN 978-91-7385-661-4)
 
-Marta Papini:
-Metabolic Engineering of Central Carbon Metabolism in _Saccharomyces cerevisiae_
-
+Marta Papini:  
+Metabolic Engineering of Central Carbon Metabolism in _Saccharomyces cerevisiae  _\
 The contribution of systems biology to physiological studies Metabolic Engineering of _Saccharomyces cerevisiae_ for Sesquiterpene Production (ISBN 978-91-7385-698-0)
 
-Gionata Scalcinati:
+Gionata Scalcinati:  
 Metabolic Engineering of _Saccharomyces cerevisiae_ for Sesquiterpene Production (ISBN 978-91-7385-720-8)
 
-Siavash Partow:
+Siavash Partow:  
 Novel Synthetic Biology Tools for Metabolic Engineering of _Saccharomyces cerevisiae_ (ISBN 978-91-7385-727-7)
 
-Kuk-ki Hong:
+Kuk-ki Hong:  
 Advancing Metabolic Engineering through Combination of Systems Biology and Adaptive Evolution (ISBN 978-91-7385-735-2)
 
-Zihe Liu:
+Zihe Liu:  
 Metabolic Engineering of Recombinant Protein Production by _Saccharomyces cerevisiae_ (ISBN 978-91-7385-741-3)
 
 ##### 2013
 
-Kanokarn Kocharin:
+Kanokarn Kocharin:  
 Metabolic Engineering of _Saccharomyces cerevisiae_ for Polyhydroxybutyrate Production (ISBN 978-91-7385-819-9)
 
-Rasmus Ågren:
+Rasmus Ågren:  
 On metabolic networks and multi-omics integration (ISBN 978-91-7385-839-7)
 
 ##### 2014
 
-Tobias Österlund:
-Reconstruction of Biological Networks for Integrative analysis
+Tobias Österlund:  
+Reconstruction of Biological Networks for Integrative analysis  
 Reconstruction and Analysis of the Metabolic, Protein Secretion and Regulatory Network in Yeast (ISBN 978-91-7385-960-8)
 
-Fredrik Karlsson:
+Fredrik Karlsson:  
 Systems Biology of the Gut Microbiome in Metabolic Diseases (ISBN 978-91-7385-965-3)
 
-Christoph Knuf:
+Christoph Knuf:  
 Malic acid production by _Aspergillus oryzae_ (ISBN 978-91-7385-984-4)
 
-Natapol Pornputtapong:
+Natapol Pornputtapong:  
 Database and Visualization for Advanced Systems Biology (ISBN 978-91-7385-983-7)
 
-Lifang Liu:
+Lifang Liu:  
 Systems Biology of Recombinant Protein Production by Fungi (ISBN 978-91-7597-038-7)
 
 ##### 2015
 
-Bouke Wim de Jong:
+Bouke Wim de Jong:  
 A study on fatty acid ethyl ester production in a _Saccharomyces cerevisiae_ cell factory (ISBN 978-91-7597-132-2)
 
-Yiming Zhang:
+Yiming Zhang:  
 Engineering Cytosolic Acetyl-CoA Metabolism in _Saccharomyces cerevisiae_ (ISBN: 978-91-7597-147-6)
 
-Francesco Gatto:
+Francesco Gatto:  
 The Origin of Symmetry in the Matabolism of Cancer (ISBN: 978-91-7597-225-1)
 
-Saeed Shoaie:
+Saeed Shoaie:  
 Metabolic Modeling of the Gut Microbiome-Host Interactions and Meta'omics Integration (ISBN 978-91-7597-256-5)
 
 ##### 2016
 
-Amir Feizi:
+Amir Feizi:  
 Systems Analysis of the Protein Secretory Pathway in Yeast and Human Cells (ISBN: 978-91-7597-313-5)
 
-Leif Väremo:
+Leif Väremo:  
 Systems Biology of Type 2 Diabetes in Skeletal Muscle (ISBN: 978-91-7597-322-7)
 
-Nicolaas A. A. (Klaas) Buijs:
+Nicolaas A. A. (Klaas) Buijs:  
 Metabolic engineering of the yeast _Saccharomyces cerevisiae_ to enable biosynthesis of long-chain alkanes and olefins (ISBN: 978-91-7597-402-6)
 
-Stefan Tippmann:
+Stefan Tippmann:  
 Engineering Yeast Metabolism for Production of Sesquiterpenes (ISBN: 978-91-7597-459-0)
 
 ##### 2017
 
-Pouyan Ghaffari Nouran:
+Pouyan Ghaffari Nouran:  
 Heterogeneity of human metabolism in health and disease: a modelling perspective (ISBN: 978-91-7597-586-3) 
 <br>
 <br>
