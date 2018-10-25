@@ -15,10 +15,10 @@ profileleftbox: |-
   E-mail: nielsenj \[at] chalmers.se  
   Office: Room 2060B
 ---
-Research Projects &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [CV] (/peoople/jens-nielsen/) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Publications] (#publications) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Videos] (#videos) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Theses] (#theses) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Alumni] (#alumni) 
+Research Projects &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [CV](/peoople/jens-nielsen/) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Publications](#publications) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Videos](#videos) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Theses](#theses) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Alumni](#alumni) 
 
 <br>
-Our research focus is on systems biology of metabolism. The yeast \\\_Saccharomyces cerevisiae\\\_ is our key organism for experimental research, but we also have experimental research on \\\_Aspergilli oryzae\\\_. \\\[Interview about some of our work](https://www.youtube.com/watch?v=KkPeGhbh5F0)
+Our research focus is on systems biology of metabolism. The yeast \\\\_Saccharomyces cerevisiae\\\\_ is our key organism for experimental research, but we also have experimental research on \\\\_Aspergilli oryzae\\\\_. \\\\[Interview about some of our work](https://www.youtube.com/watch?v=KkPeGhbh5F0)
 
 Our research activities fall in three areas:
 
@@ -28,15 +28,15 @@ Our research activities fall in three areas:
 
 Several of our research activities are part of the Novo Nordisk Foundation Center for Biosustainability. See [www.biosustain.dtu.dk](http://www.biosustain.dtu.dk/english) and [video ](https://www.youtube.com/watch?v=8-R3HCHQI9I&feature=player_embedded)for more information
 
-####Publications
+\#### Publications
 
 Full list of publications (PDF)
 
-####Videos
+\#### Videos
 
 * Samson Prize Winners - Fuel Choices and Smart Mobility Summit
 * ENI Award, 2017
-*  Presentation at Molecular Frontiers Symposium, Stockholm: From yeast to human, 2017
+* Presentation at Molecular Frontiers Symposium, Stockholm: From yeast to human, 2017
 * Talk "Impact of systems biology on metabolic engineering" in Kitano, H. (ed.), Systems Biology: , The Biomedical & Life Sciences Collection, Henry Stewart Talks Ltd, London, 2014
 * Interview in connection with Science paper on thermotolerant yeast, 2014
 * Presentation at the Metabolic Engineering X conference, Vancouver, Canada, 2014
@@ -45,57 +45,45 @@ Full list of publications (PDF)
 * Fungal Cell Factories at Center for Biosustainability, 2011
 * The Novo Nordisk Foundation Center for Biosustainability, 2011
 
-#####Webinars:
+\#####Webinars:
 
 * Advancing the Design-Build-Test Cycle for
 * Metabolic Engineering of Yeast, 2016
 * Society of Biological Engineering, 2009
 
-####Theses
+\####Theses
 
-#####2009
+\#####2009
 
 Wanwipa Vongsangnak:
 
 SYSBIOMICS of _Aspergilli_: SYStems Biology, BIoinformatics and OMICS analysis of Aspergilli cell factories (ISBN 978-91-7385-330-9)
 
-
-
 José Manuel Otero Romero:
 
 Industrial Systems Biology and Metabolic Engineering of _Saccharomyces cerevisiae_ (ISBN 978-91-7385-346-0)
 
-
-
-#####2010
+\#####2010
 
 Margarita Salazar:
 
 Systems Biology of Glucose Sensing and Repression in _Aspergillus niger_: Lessons from Genomics and Transcriptomics (ISBN 978-91-7385-439-9)
 
-
-
-#####2011
+\#####2011
 
 Jie Zhang:
 
 Global Regulation of Snf1 in_ Saccharomyces cerevisiae_: A case study of experimental systems biology (ISBN 978-91-7385-558-7)
 
-
-
 Roberto Olivares Hernandez:
 
 Systems Biology in _Saccharomyces cerevisiae_. Statistical data analysis and mathematical methods (ISBN 978-91-7385-624-9)
 
-
-
-#####2012
+\#####2012
 
 Pramote Chumnanpuen:
 
 Systems Biology of Yeast Lipid Metabolism (ISBN 978-91-7385-661-4)
-
-
 
 Marta Papini:
 
@@ -103,47 +91,33 @@ Metabolic Engineering of Central Carbon Metabolism in _Saccharomyces cerevisiae_
 
 The contribution of systems biology to physiological studies Metabolic Engineering of _Saccharomyces cerevisiae_ for Sesquiterpene Production (ISBN 978-91-7385-698-0)
 
-
-
 Gionata Scalcinati:
 
 Metabolic Engineering of _Saccharomyces cerevisiae_ for Sesquiterpene Production (ISBN 978-91-7385-720-8)
-
-
 
 Siavash Partow:
 
 Novel Synthetic Biology Tools for Metabolic Engineering of _Saccharomyces cerevisiae_ (ISBN 978-91-7385-727-7)
 
-
-
 Kuk-ki Hong:
 
 Advancing Metabolic Engineering through Combination of Systems Biology and Adaptive Evolution (ISBN 978-91-7385-735-2)
-
-
 
 Zihe Liu:
 
 Metabolic Engineering of Recombinant Protein Production by _Saccharomyces cerevisiae_ (ISBN 978-91-7385-741-3)
 
-
-
-#####2013
+\#####2013
 
 Kanokarn Kocharin:
 
 Metabolic Engineering of _Saccharomyces cerevisiae_ for Polyhydroxybutyrate Production (ISBN 978-91-7385-819-9)
 
-
-
 Rasmus Ågren:
 
 On metabolic networks and multi-omics integration (ISBN 978-91-7385-839-7)
 
-
-
-#####2014
+\#####2014
 
 Tobias Österlund:
 
@@ -151,57 +125,39 @@ Reconstruction of Biological Networks for Integrative analysis
 
 Reconstruction and Analysis of the Metabolic, Protein Secretion and Regulatory Network in Yeast (ISBN 978-91-7385-960-8)
 
-
-
 Fredrik Karlsson:
 
 Systems Biology of the Gut Microbiome in Metabolic Diseases (ISBN 978-91-7385-965-3)
-
-
 
 Christoph Knuf:
 
 Malic acid production by _Aspergillus oryzae_ (ISBN 978-91-7385-984-4)
 
-
-
 Natapol Pornputtapong:
 
 Database and Visualization for Advanced Systems Biology (ISBN 978-91-7385-983-7)
-
-
 
 Lifang Liu:
 
 Systems Biology of Recombinant Protein Production by Fungi (ISBN 978-91-7597-038-7)
 
-
-
-#####2015
+\#####2015
 
 Bouke Wim de Jong:
 
 A study on fatty acid ethyl ester production in a _Saccharomyces cerevisiae_ cell factory (ISBN 978-91-7597-132-2)
 
-
-
 Yiming Zhang:
 
 Engineering Cytosolic Acetyl-CoA Metabolism in _Saccharomyces cerevisiae_ (ISBN: 978-91-7597-147-6)
-
-
 
 Francesco Gatto:
 
 The Origin of Symmetry in the Matabolism of Cancer (ISBN: 978-91-7597-225-1)
 
-
-
 Saeed Shoaie:
 
 Metabolic Modeling of the Gut Microbiome-Host Interactions and Meta'omics Integration (ISBN 978-91-7597-256-5)
-
-
 
 \#####2016
 
@@ -209,35 +165,25 @@ Amir Feizi:
 
 Systems Analysis of the Protein Secretory Pathway in Yeast and Human Cells (ISBN: 978-91-7597-313-5)
 
-
-
 Leif Väremo:
 
 Systems Biology of Type 2 Diabetes in Skeletal Muscle (ISBN: 978-91-7597-322-7)
-
-
 
 Nicolaas A. A. (Klaas) Buijs:
 
 Metabolic engineering of the yeast _Saccharomyces cerevisiae_ to enable biosynthesis of long-chain alkanes and olefins (ISBN: 978-91-7597-402-6)
 
-
-
 Stefan Tippmann:
 
 Engineering Yeast Metabolism for Production of Sesquiterpenes (ISBN: 978-91-7597-459-0)
 
-
-
-#####2017
+\#####2017
 
 Pouyan Ghaffari Nouran:
 
 Heterogeneity of human metabolism in health and disease: a modelling perspective (ISBN: 978-91-7597-586-3) 
 
-
-
-####Alumni
+\####Alumni
 
 **Post Doctoral Researchers**
 
@@ -312,8 +258,6 @@ Heterogeneity of human metabolism in health and disease: a modelling perspective
 69. \    Ömür Kayikci, Chalmers (2014-2016)
 70. \    Tatiana Moreira, Chalmers (2015-2016)
 71. \    Anastasia Krivoruchko, Post doc, Chalmers (2010-2016)
-
-
 
 **Graduated PhD Students (main supervisor)**
 
@@ -393,8 +337,6 @@ Heterogeneity of human metabolism in health and disease: a modelling perspective
 74. \    Stefan Tippmann, Chalmers (2012-2016)
 75. \    Pouyan Ghaffari Nouran (2013-2017)
 
-
-
 **Graduated PhD Students (co-supervisor)**
 
 1. \    Lars Højlund Christensen, DTU (1989-1992)
@@ -411,8 +353,6 @@ Heterogeneity of human metabolism in health and disease: a modelling perspective
 12. \    Xiao Chen, DTU (2007-2011)
 13. \    Kwanjeera Wanichthanarak, Chalmers (2010-2014)
 14. \    Kaisa Thorell, Gothenburg University, Sweden (2010-2014)
-
-
 
 **Visiting PhD Students (co-supervisor)**
 
@@ -441,8 +381,6 @@ Heterogeneity of human metabolism in health and disease: a modelling perspective
 23. \    John Casey, University of Hawaii, USA (2014)
 24. \    Jacqueline Rand, University of Wisconsin, USA (2014)
 25. \    Zahra Azim Zadeh Irani, Tarbiat Modares University, Iran (2014-2015)
-
-
 
 **Other affiliated researchers and staff**
 
