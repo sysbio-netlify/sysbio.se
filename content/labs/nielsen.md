@@ -29,6 +29,7 @@ Our research activities fall in three areas:
 Several of our research activities are part of the Novo Nordisk Foundation Center for Biosustainability. See [www.biosustain.dtu.dk](http://www.biosustain.dtu.dk/english) and [video ](https://www.youtube.com/watch?v=8-R3HCHQI9I&feature=player_embedded)for more information
 <br>
 <br>
+
 #### Publications
 
 Full list of publications (PDF)
@@ -53,7 +54,9 @@ Full list of publications (PDF)
 * Advancing the Design-Build-Test Cycle for
 * Metabolic Engineering of Yeast, 2016
 * Society of Biological Engineering, 2009
-
+<br>
+<br>
+  
 #### Theses
 
 ##### 2009
@@ -185,6 +188,8 @@ Engineering Yeast Metabolism for Production of Sesquiterpenes (ISBN: 978-91-7597
 Pouyan Ghaffari Nouran:
 
 Heterogeneity of human metabolism in health and disease: a modelling perspective (ISBN: 978-91-7597-586-3) 
+<br>
+<br>
 
 #### Alumni
 
