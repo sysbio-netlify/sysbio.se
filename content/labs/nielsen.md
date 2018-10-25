@@ -45,15 +45,15 @@ Full list of publications (PDF)
 * Fungal Cell Factories at Center for Biosustainability, 2011
 * The Novo Nordisk Foundation Center for Biosustainability, 2011
 
-\#####Webinars:
+##### Webinars:
 
 * Advancing the Design-Build-Test Cycle for
 * Metabolic Engineering of Yeast, 2016
 * Society of Biological Engineering, 2009
 
-\####Theses
+#### Theses
 
-\#####2009
+##### 2009
 
 Wanwipa Vongsangnak:
 
@@ -63,13 +63,13 @@ José Manuel Otero Romero:
 
 Industrial Systems Biology and Metabolic Engineering of _Saccharomyces cerevisiae_ (ISBN 978-91-7385-346-0)
 
-\#####2010
+##### 2010
 
 Margarita Salazar:
 
 Systems Biology of Glucose Sensing and Repression in _Aspergillus niger_: Lessons from Genomics and Transcriptomics (ISBN 978-91-7385-439-9)
 
-\#####2011
+##### 2011
 
 Jie Zhang:
 
@@ -79,7 +79,7 @@ Roberto Olivares Hernandez:
 
 Systems Biology in _Saccharomyces cerevisiae_. Statistical data analysis and mathematical methods (ISBN 978-91-7385-624-9)
 
-\#####2012
+##### 2012
 
 Pramote Chumnanpuen:
 
@@ -107,7 +107,7 @@ Zihe Liu:
 
 Metabolic Engineering of Recombinant Protein Production by _Saccharomyces cerevisiae_ (ISBN 978-91-7385-741-3)
 
-\#####2013
+##### 2013
 
 Kanokarn Kocharin:
 
@@ -117,7 +117,7 @@ Rasmus Ågren:
 
 On metabolic networks and multi-omics integration (ISBN 978-91-7385-839-7)
 
-\#####2014
+##### 2014
 
 Tobias Österlund:
 
@@ -141,7 +141,7 @@ Lifang Liu:
 
 Systems Biology of Recombinant Protein Production by Fungi (ISBN 978-91-7597-038-7)
 
-\#####2015
+##### 2015
 
 Bouke Wim de Jong:
 
@@ -159,7 +159,7 @@ Saeed Shoaie:
 
 Metabolic Modeling of the Gut Microbiome-Host Interactions and Meta'omics Integration (ISBN 978-91-7597-256-5)
 
-\#####2016
+##### 2016
 
 Amir Feizi:
 
@@ -177,31 +177,31 @@ Stefan Tippmann:
 
 Engineering Yeast Metabolism for Production of Sesquiterpenes (ISBN: 978-91-7597-459-0)
 
-\#####2017
+##### 2017
 
 Pouyan Ghaffari Nouran:
 
 Heterogeneity of human metabolism in health and disease: a modelling perspective (ISBN: 978-91-7597-586-3) 
 
-\####Alumni
+#### Alumni
 
 **Post Doctoral Researchers**
 
-1. \    Lars Højlund Christensen, DTU (1992-1994)
-2. \    Gunnar Liden, DTU (1993-1994)
-3. \    Lisbeth OIsson, DTU (1994-1996)
-4. \    Morten Carlsen, DTU (1995-1997)
-5. \    Anne Santerre Henriksen, DTU (1995-1999)
-6. \    Aradhana Srivastava, DTU (1996-1998)
-7. \    Hans Peter Smits, DTU (1996-1999; 2000-2001)
-8. \    Alexei Aleksenko, DTU (1997-2001)
-9. \    Philippe Duboc, DTU (1997-1999)
-10. \    Fernando Bautista, DTU (1998-1999)
-11. \    Uffe Mortensen, DTU (1999-2002)
-12. \    Ana Borges, DTU (1999-2001)
-13. \    Bjarke Christensen, DTU (1999-2001)
-14. \    Mhairi Workman, DTU (1999-2004)
-15. \    Birgitte Regenberg, DTU (1999-2005)
+1. Lars Højlund Christensen, DTU (1992-1994)
+2. Gunnar Liden, DTU (1993-1994)
+3. Lisbeth OIsson, DTU (1994-1996)
+4. Morten Carlsen, DTU (1995-1997)
+5. Anne Santerre Henriksen, DTU (1995-1999)
+6. Aradhana Srivastava, DTU (1996-1998)
+7. Hans Peter Smits, DTU (1996-1999; 2000-2001)
+8. Alexei Aleksenko, DTU (1997-2001)
+9. Philippe Duboc, DTU (1997-1999)
+10. Fernando Bautista, DTU (1998-1999)
+11. Uffe Mortensen, DTU (1999-2002)
+12. Ana Borges, DTU (1999-2001)
+13. Bjarke Christensen, DTU (1999-2001)
+14. Mhairi Workman, DTU (1999-2004)
+15. Birgitte Regenberg, DTU (1999-2005)
 16. \    Anna Eliasson Lantz, DTU (2000-2002)
 17. \    Christian Müller, DTU (2001-2002)
 18. \    Vsevolod Serebrianyi, DTU (2001-2002)
@@ -372,15 +372,15 @@ Heterogeneity of human metabolism in health and disease: a modelling perspective
 14. \    William Alfonso Rodriguez Limas, National University of Mexico (2009-2010)
 15. \    Kantida Kusonmano, UMIT (2011)
 16. \    Akarin Boonsombuti, Mahasarakham University (2011-2012)
-17. \    Jorge Alberto Vasquez Castillo, Antioquia University (2011-2012)
-18. \    Josh Michener, Caltech/Stanford (2011)
-19. \    Ibrahim E. El-Semman, Assiut University (2012-2014)
-20. \    Jiufu Qin, Jiangnan University, China (2011-)
-21. \    Rui Pereira, University of Minho, Portugal (2012-2014)
-22. \    Cheng Zhang, East China Univesity of Science and Technology, China (2013-2015)
-23. \    John Casey, University of Hawaii, USA (2014)
-24. \    Jacqueline Rand, University of Wisconsin, USA (2014)
-25. \    Zahra Azim Zadeh Irani, Tarbiat Modares University, Iran (2014-2015)
+17. Jorge Alberto Vasquez Castillo, Antioquia University (2011-2012)
+18. Josh Michener, Caltech/Stanford (2011)
+19. Ibrahim E. El-Semman, Assiut University (2012-2014)
+20. Jiufu Qin, Jiangnan University, China (2011-)
+21. Rui Pereira, University of Minho, Portugal (2012-2014)
+22. Cheng Zhang, East China Univesity of Science and Technology, China (2013-2015)
+23. John Casey, University of Hawaii, USA (2014)
+24. Jacqueline Rand, University of Wisconsin, USA (2014)
+25. Zahra Azim Zadeh Irani, Tarbiat Modares University, Iran (2014-2015)
 
 **Other affiliated researchers and staff**
 
