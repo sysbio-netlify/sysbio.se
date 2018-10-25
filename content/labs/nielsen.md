@@ -32,6 +32,8 @@ Several of our research activities are part of the Novo Nordisk Foundation Cente
 
 Full list of publications (PDF)
 
+<br>
+<br>
 #### Videos
 
 * Samson Prize Winners - Fuel Choices and Smart Mobility Summit
