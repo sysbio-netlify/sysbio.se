@@ -86,7 +86,7 @@ Pramote Chumnanpuen:\
 Systems Biology of Yeast Lipid Metabolism (ISBN 978-91-7385-661-4)
 
 Marta Papini:\
-Metabolic Engineering of Central Carbon Metabolism in _Saccharomyces cerevisiae_
+Metabolic Engineering of Central Carbon Metabolism in _Saccharomyces cerevisiae_ \
 The contribution of systems biology to physiological studies Metabolic Engineering of _Saccharomyces cerevisiae_ for Sesquiterpene Production (ISBN 978-91-7385-698-0)
 
 Gionata Scalcinati:\
