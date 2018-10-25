@@ -62,51 +62,41 @@ Full list of publications (PDF)
 ##### 2009
 
 Wanwipa Vongsangnak:
-
 SYSBIOMICS of _Aspergilli_: SYStems Biology, BIoinformatics and OMICS analysis of Aspergilli cell factories (ISBN 978-91-7385-330-9)
 
 José Manuel Otero Romero:
-
 Industrial Systems Biology and Metabolic Engineering of _Saccharomyces cerevisiae_ (ISBN 978-91-7385-346-0)
 
 ##### 2010
 
 Margarita Salazar:
-
 Systems Biology of Glucose Sensing and Repression in _Aspergillus niger_: Lessons from Genomics and Transcriptomics (ISBN 978-91-7385-439-9)
 
 ##### 2011
 
 Jie Zhang:
-
 Global Regulation of Snf1 in_ Saccharomyces cerevisiae_: A case study of experimental systems biology (ISBN 978-91-7385-558-7)
 
 Roberto Olivares Hernandez:
-
 Systems Biology in _Saccharomyces cerevisiae_. Statistical data analysis and mathematical methods (ISBN 978-91-7385-624-9)
 
 ##### 2012
 
 Pramote Chumnanpuen:
-
 Systems Biology of Yeast Lipid Metabolism (ISBN 978-91-7385-661-4)
 
 Marta Papini:
-
 Metabolic Engineering of Central Carbon Metabolism in _Saccharomyces cerevisiae_
 
 The contribution of systems biology to physiological studies Metabolic Engineering of _Saccharomyces cerevisiae_ for Sesquiterpene Production (ISBN 978-91-7385-698-0)
 
 Gionata Scalcinati:
-
 Metabolic Engineering of _Saccharomyces cerevisiae_ for Sesquiterpene Production (ISBN 978-91-7385-720-8)
 
 Siavash Partow:
-
 Novel Synthetic Biology Tools for Metabolic Engineering of _Saccharomyces cerevisiae_ (ISBN 978-91-7385-727-7)
 
 Kuk-ki Hong:
-
 Advancing Metabolic Engineering through Combination of Systems Biology and Adaptive Evolution (ISBN 978-91-7385-735-2)
 
 Zihe Liu:
