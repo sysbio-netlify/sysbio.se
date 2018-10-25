@@ -28,11 +28,11 @@ Our research activities fall in three areas:
 
 Several of our research activities are part of the Novo Nordisk Foundation Center for Biosustainability. See [www.biosustain.dtu.dk](http://www.biosustain.dtu.dk/english) and [video ](https://www.youtube.com/watch?v=8-R3HCHQI9I&feature=player_embedded)for more information
 
-\#### Publications
+#### Publications
 
 Full list of publications (PDF)
 
-\#### Videos
+#### Videos
 
 * Samson Prize Winners - Fuel Choices and Smart Mobility Summit
 * ENI Award, 2017
