@@ -27,7 +27,7 @@ Our research activities fall in three areas:
 * Developing metabolic models for Eukaryal cells, including rodent and human cells, and using these models as scaffolds for analysis of omics data with the objective to understand global responses to nutrient and disease. Experimental work is carried out in collaboration with other research groups.
 
 Several of our research activities are part of the Novo Nordisk Foundation Center for Biosustainability. See [www.biosustain.dtu.dk](http://www.biosustain.dtu.dk/english) and [video ](https://www.youtube.com/watch?v=8-R3HCHQI9I&feature=player_embedded)for more information
-
+<br>
 #### Publications
 
 Full list of publications (PDF)
