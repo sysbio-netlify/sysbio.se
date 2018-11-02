@@ -62,32 +62,37 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Title", name: "title", widget: "select", options: ["Contact"]}
           - {label: "Picture", name: "picture", widget: "image"}
-          - {label: Body, name: body, widget: markdown}
+          - {label: "Body", name: body, widget: markdown}
       - file: "content/international-projects.md"
         label: "International projects"
         name: "international-projects"
         fields:
           - {label: "Title", name: "title", widget: "select", options: ["International projects"]}
           - {label: "Template", name: "template", widget: "select", options: ["projects"]}
-          - {label: Body, name: body, widget: markdown}
+          - {label: "Body", name: "body", widget: "markdown"}
       - file: "content/tools/databases.md"
         label: "Databases"
         name: "databases"
         fields:
           - {label: "Title", name: "title", widget: "select", options: ["Databases"]}
           - {label: "Template", name: "template", widget: "select", options: ["databases"]}
-          - {label: Body, name: body, widget: markdown}
+          - {label: "Body", name: "body", widget: "markdown"}
       - file: "content/tools/gems.md"
         label: "Gems"
         name: "gems"
         fields:
           - {label: "Title", name: "title", widget: "select", options: ["Gems"]}
           - {label: "Template", name: "template", widget: "select", options: ["ttols/gems"]}
-          - {label: Body, name: body, widget: markdown}
+          - {label: "Body", name: "body", widget: "markdown"}
       - file: "content/tools/software.md"
         label: "Software"
         name: "software"
         fields:
           - {label: "Title", name: "title", widget: "select", options: ["Software"]}
           - {label: "Template", name: "template", widget: "select", options: ["tools/software"]}
-          - {label: Body, name: body, widget: markdown}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "static/_redirects"
+        label: "Redirects"
+        name: "redirects"
+        fields:
+          - {label: "All redirects", name: "body", widget: "text"}
