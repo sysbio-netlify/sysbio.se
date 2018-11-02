@@ -91,8 +91,3 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Title", name: "title", widget: "select", options: ["Software"]}
           - {label: "Template", name: "template", widget: "select", options: ["tools/software"]}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "static/_redirects"
-        label: "Redirects"
-        name: "redirects"
-        fields:
-          - {label: "All redirects", name: "body", widget: "text"}
