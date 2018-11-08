@@ -18,7 +18,7 @@ profileleftbox: |-
 [Research Projects](#) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [CV](/people/jens-nielsen/) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Publications](#publications) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Videos](#videos) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Theses](#theses) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Alumni](#alumni) 
 
 <br>
-Our research focus is on systems biology of metabolism. The yeast _Saccharomyces cerevisiae_ is our key organism for experimental research, but we also have experimental research on _Aspergilli oryzae_. [Interview about some of our work](https://www.youtube.com/watch?v=KkPeGhbh5F0)
+Our research focus is on systems biology of metabolism. The yeast \_Saccharomyces cerevisiae\_ is our key organism for experimental research, but we also have experimental research on \_Aspergilli oryzae\_. \[Interview about some of our work](https://www.youtube.com/watch?v=KkPeGhbh5F0)
 
 Our research activities fall in three areas:
 
@@ -159,6 +159,22 @@ Engineering Yeast Metabolism for Production of Sesquiterpenes (ISBN: 978-91-7597
 
 Pouyan Ghaffari Nouran:\
 Heterogeneity of human metabolism in health and disease: a modelling perspective (ISBN: 978-91-7597-586-3) 
+
+Joachim Almquist:\
+Kinetic Models in Life Science - Contributions to Methods and Applications (ISBN 978-91-7597-653-2)
+
+##### 2018
+
+Jens Christian Nielsen:\
+Systems Biology of the Secondary Metabolism in Filamentous Fungi (ISBN 978-91-7597-671-6)
+
+Paulo Gonçalves Teixeira:\
+Engineering Lipid Metabolism for Production of Oleochemicals in Saccharomyces cerevisiae (ISBN 978-91-7597-686-0)
+
+Jichen Bao:\
+Engineering the Secretory Pathway for Recombinant Protein Secretion in Saccharomyces cerevisiae (ISBN 978-91-7597-598-6)
+
+
 <br>
 <br>
 
