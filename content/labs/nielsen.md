@@ -57,7 +57,7 @@ We are developing yeast cell factories for production of chemical building block
 **Synthetic Biology**\
 We are developing novel synthetic biology tools for metabolic engineering of yeast. These research activities are mainly carried out at the DTU site of Center for Biosustainability.
 
-##### Infrastructures
+#### Infrastructures
 
 We provide a number of infrastructures that are part of either Chalmers infrastructures or National infrastructures.
 
