@@ -18,12 +18,13 @@ profileleftbox: |-
 [Research Projects](#) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [CV](/people/jens-nielsen/) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Publications](#publications) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Videos](#videos) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Theses](#theses) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Alumni](#alumni) 
 
 <br>
-Our research focus is on systems biology of metabolism. The yeast Saccharomyces cerevisiae is our key organism for experimental research, but we also have experimental research on Aspergilli oryzae. [Interview about some of our work](https://www.youtube.com/watch?v=KkPeGhbh5F0)
+
+Our research focus is on systems biology of metabolism. The yeast _Saccharomyces cerevisiae_ is our key organism for experimental research, but we also have experimental research on _Aspergilli oryzae_.  [Interview about some of our work] (https://www.youtube.com/watch?v=KkPeGhbh5F0)
 
 Our research activities fall in three areas:
 
 * Studying regulatory pathways that are conserved in the Eukaryal kingdom such as the Snf1/AMPK pathway, the Tor1/mTOR pathway, protein folding, secretion and degradation and regulation of lipid biosynthesis and degradation.
-* Developing efficient cell factories (yeast and Aspergilli) for sustainable production of fuels and chemicals. We are looking into both the production of high-value chemicals such as isoprenoids that can be used as fine chemicals, commodity chemicals that can be used as feedstocks in the chemical industry for polymer production, and novel advanced biofuels.
+* Developing efficient cell factories (yeast and _Aspergilli_) for sustainable production of fuels and chemicals. We are looking into both the production of high-value chemicals such as isoprenoids that can be used as fine chemicals, commodity chemicals that can be used as feedstocks in the chemical industry for polymer production, and novel advanced biofuels.
 * Developing metabolic models for Eukaryal cells, including rodent and human cells, and using these models as scaffolds for analysis of omics data with the objective to understand global responses to nutrient and disease. Experimental work is carried out in collaboration with other research groups.
 
 Several of our research activities are part of the Novo Nordisk Foundation Center for Biosustainability. See [www.biosustain.dtu.dk](http://www.biosustain.dtu.dk/english) and [video ](https://www.youtube.com/watch?v=8-R3HCHQI9I&feature=player_embedded)for more information
@@ -75,7 +76,7 @@ Margarita Salazar:\
 ##### 2011
 
 Jie Zhang:\
-[Global Regulation of Snf1 in_ Saccharomyces cerevisiae_: A case study of experimental systems biology] (/img/thesis_Jie-Zhang.pdf) (ISBN 978-91-7385-558-7)
+[Global Regulation of Snf1 in _Saccharomyces cerevisiae_: A case study of experimental systems biology] (/img/thesis_Jie-Zhang.pdf) (ISBN 978-91-7385-558-7)
 
 Roberto Olivares Hernandez:\
 Systems Biology in _Saccharomyces cerevisiae_. Statistical data analysis and mathematical methods (ISBN 978-91-7385-624-9)
