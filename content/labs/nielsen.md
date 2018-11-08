@@ -169,10 +169,10 @@ Jens Christian Nielsen:\
 Systems Biology of the Secondary Metabolism in Filamentous Fungi (ISBN 978-91-7597-671-6)
 
 Paulo Gonçalves Teixeira:\
-Engineering Lipid Metabolism for Production of Oleochemicals in Saccharomyces cerevisiae (ISBN 978-91-7597-686-0)
+Engineering Lipid Metabolism for Production of Oleochemicals in _Saccharomyces cerevisiae_ (ISBN 978-91-7597-686-0)
 
 Jichen Bao:\
-Engineering the Secretory Pathway for Recombinant Protein Secretion in Saccharomyces cerevisiae (ISBN 978-91-7597-598-6)
+Engineering the Secretory Pathway for Recombinant Protein Secretion in _Saccharomyces cerevisiae_ (ISBN 978-91-7597-598-6)
 
 
 <br>
