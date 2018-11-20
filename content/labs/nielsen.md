@@ -40,7 +40,7 @@ We are building genome-scale metabolic models for different human cell types and
 We are analyzing the gut metagenome in different cohort studies and aim to identify biomarkers and novel treatment strategies for human diseases. Much of our work in this field is in close collaboration with Prof. Fredrik Båckhed at Sahlgrenska Academy, Gothenburg University.
 
 **Microbial models**\
-Genome-scale metabolic models are developed for different microorganisms and we are in particular advancing genome-scale modeling of the yeast Saccharomyces cerevisiae. All our models are available through [www.sysbio.se/BioMet] (http://www.sysbio.se/BioMet/).
+Genome-scale metabolic models are developed for different microorganisms and we are in particular advancing genome-scale modeling of the yeast Saccharomyces cerevisiae. All our models are available through [www.sysbio.se/BioMet](http://www.sysbio.se/BioMet/).
 
 **Stress and Regulation**\
 Key signal transduction pathways in _S. cerevisiae_ are analyzed using systems biology approaches. Our focus is on energy and lipid metabolism.
@@ -262,11 +262,11 @@ Jichen Bao:\
 37. Subir Kumar Nandy, Chalmers (2008-2010)
 38. Keith Tyo, Chalmers (2008-2010)
 39. Marija Cvijovic, Chalmers (2008-2010)
-40. Sergio Bordel Velasco (2008-2010)
-41. Intawat Nookaew (2008-2012)
-42. Andrea Neiss, Chalmers (2009-2010)
-43. Wanwipa Vongsangnak, Chalmers (2010)
-44. Liming Liu, Chalmers (2009-2010)
+40. Andrea Neiss, Chalmers (2009-2010)
+41. Wanwipa Vongsangnak, Chalmers (2010)
+42. Liming Liu, Chalmers (2009-2010)
+43. Sergio Bordel Velasco (2008-2010)
+44. Intawat Nookaew (2008-2012)
 45. Jin Hou, Chalmers (2010-2012)
 46. Fredrik Öberg, DTU (2011-2012)
 47. Shuobo Shi (2009-2012)
@@ -274,26 +274,35 @@ Jichen Bao:\
 49. Il-Kwon Kim (2010-2013)
 50. Rahul Kumar (2010-2013)
 51. Antonio Roldao (2010-2013)
-52. Marina Sanchez Martinez (2011-2013)
-53. Manuel Garcia, Chalmers (2012-2014)
-54. Clara Navarrete, Chalmers (2013-2014)
-55. Zheng Wang, Chalmers (2013-2014)
-56. Subazini Thankaswarmy, Chalmers (2013-2014)
-57. Martin Engqvist, Chalmers (2014-2015)
-58. Adil Mardinoglu, Chalmers (2010-2015)
-59. Jose L. Martinez, Chalmers (2011-2015)
-60. Agata Smialowska, Chalmers (2014-2015)
-61. Sunjae Lee, Chalmers (2014-2015)
-62. Petri-Jaan Lahtvee, Chalmers (2013-2015)
-63. Eugene Fletcher, Chalmers (2014-2015)
-64. Hülya Karaca Gencer, Chalmers (2014-2015)
-65. Silveira Wendel, Chalmers (2015-2016)
-66. Min-Kyoung Kang, Chalmers (2014-2016)
-67. Guodong Liu, Chalmers (2013-2016)
-68. Mark Bisschops, Chalmers (2014-2016)
-69. Ömür Kayikci, Chalmers (2014-2016)
-70. Tatiana Moreira, Chalmers (2015-2016)
-71. Anastasia Krivoruchko, Post doc, Chalmers (2010-2016)
+52. Adil Mardinoglu, Chalmers (2010-2015)
+53. Marina Sanchez Martinez (2011-2013)
+54. Manuel Garcia, Chalmers (2012-2014)
+55. Clara Navarrete, Chalmers (2013-2014)
+56. Zheng Wang, Chalmers (2013-2014)
+57. Subazini Thankaswarmy, Chalmers (2013-2014)
+58. Martin Engqvist, Chalmers (2014-2015)
+59. Anastasia Krivoruchko, Post doc, Chalmers (2010-2016)
+60. Jose L. Martinez, Chalmers (2011-2015)
+61. Agata Smialowska, Chalmers (2014-2015)
+62. Sunjae Lee, Chalmers (2014-2015)
+63. Petri-Jaan Lahtvee, Chalmers (2013-2015)
+64. Eugene Fletcher, Chalmers (2014-2015)
+65. Hülya Karaca Gencer, Chalmers (2014-2015)
+66. Silveira Wendel, Chalmers (2015-2016)
+67. Min-Kyoung Kang, Chalmers (2014-2016)
+68. Guodong Liu, Chalmers (2013-2016)
+69. Mark Bisschops, Chalmers (2014-2016)
+70. Ömür Kayikci, Chalmers (2014-2016)
+71. Tatiana Moreira, Chalmers (2015-2016)
+72. Yongjin Zhou, Chalmers (2012-2016)
+73. Yongjun Wei, Chalmers (2014-2016)
+74. Amir Feizi, Chalmers (2016)
+75. Mingtao Huang, Chalmers (2012-2017)
+76. Zongjie Dai, Chalmers (2013-2017)
+77. Partho Sarathi Sen, Chalmers (2014-2017)
+78. Sakda Khoomrung, Chalmers (2011-2017)
+79. Michael Gossing, Chalmers (2014-2017)
+80. JinHo Kim, Chalmers (2016-2018)
 
 **Graduated PhD Students (main supervisor)**
 
@@ -372,6 +381,9 @@ Jichen Bao:\
 73. Edith Angelica Rodriguez Prado, DTU (2013-2016)
 74. Stefan Tippmann, Chalmers (2012-2016)
 75. Pouyan Ghaffari Nouran (2013-2017)
+76. Jens Christian F. Nielsen, Chalmers (2014-2018)
+77. Paulo Teixeira, Chalmers (2013-2018)
+78. Jichen Bao, Chalmers (2013-2018)
 
 **Graduated PhD Students (co-supervisor)**
 
@@ -417,6 +429,7 @@ Jichen Bao:\
 23. John Casey, University of Hawaii, USA (2014)
 24. Jacqueline Rand, University of Wisconsin, USA (2014)
 25. Zahra Azim Zadeh Irani, Tarbiat Modares University, Iran (2014-2015)
+26. Yu Chen, East China University of Science and Technology, China (2015-2017)
 
 **Other affiliated researchers and staff**
 
