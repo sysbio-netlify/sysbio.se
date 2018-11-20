@@ -4,7 +4,7 @@ title: Fariba-Roshanzamir
 lastname: Roshanzamir
 picture: /img/pic_fariba-roshanzamir.jpg
 position: Visiting PhD student
-email: not available
+email: faribar@chalmers.se
 flags:
   - ir Iran
 person-category: H Visiting researchers
