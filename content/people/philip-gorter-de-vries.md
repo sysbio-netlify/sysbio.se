@@ -5,6 +5,8 @@ lastname: Gorter de Vries
 picture: /img/pic_philip-gorter-de-vries.jpg
 position: ' MSc student'
 email: gorter@student.chalmers.se
+flags:
+  - nl Netherlands
 person-category: G Master students
 template: people/profile
 ---
