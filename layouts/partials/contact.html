@@ -9,9 +9,32 @@
     <div class="col-md-6">
       <img src="{{ .Site.BaseURL }}img/{{ .Params.picture }}" alt="" style="width: 100%;">
     </div>
-
   </div>
-  <!-- /.row -->
 </div>
 
-{{ partial "map.html" . }}
+<div id="map"></div>
+<div id="popup" class="ol-popup">
+  <h4>SysBio</h4>
+</div>
+
+<script src="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/build/ol.js"></script>
+<!-- <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script> -->
+<script type="text/javascript">
+var lonlat = ol.proj.fromLonLat([11.97636,57.69032]);
+var popup = new ol.Overlay({
+  element: document.getElementById('popup'),
+  position: lonlat
+});
+var map_controls = [ new ol.control.OverviewMap(),new ol.control.Zoom() ];
+var map = new ol.Map({
+  target: 'map',
+  layers: [new ol.layer.Tile({
+      source: new ol.source.OSM()
+  })],
+  view: new ol.View({
+    center: lonlat,
+    zoom: 16
+  })
+});
+map.addOverlay(popup);
+</script>

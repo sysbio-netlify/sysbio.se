@@ -3184,3 +3184,28 @@ a.list-group-item.active > .badge,
   width: 100%;
   padding: 7px 0;
 }
+
+/* Map popup */
+.ol-popup {
+  position: absolute;
+  background-color: white;
+  filter: drop-shadow(0 1px 6px rgba(0,0,0,0.2));
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 8px;
+  bottom: 14px;
+  left: -50px;
+}
+.ol-popup:after, .ol-popup:before {
+  top: 100%;
+  border: solid transparent;
+  content: " ";
+  position: absolute;
+  pointer-events: none;
+}
+.ol-popup:after {
+  border-top-color: white;
+  border-width: 10px;
+  left: 36px;
+  margin-left: -10px;
+}

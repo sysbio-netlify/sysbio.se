@@ -97,7 +97,7 @@ paginate = 10
   # - click the confirm link in the email from www.formspree.io
   # - you're done. Happy mailing!
   # Enable the contact form by entering your Formspree.io email
-  email = "your@email.com"
+  # email = "your@email.com"
 
   about_us = "img/chalmers.png"
   copyright = "Sys<sup>2</sup>Bio © 2008 - 2018 "
@@ -115,8 +115,6 @@ paginate = 10
       <strong>Sweden</strong>
     </p>
     """
-  latitude = "57.690795"
-  longitude = "11.977283"
 
 [Permalinks]
   news = "/news/:year/:month/:day/:filename/"
