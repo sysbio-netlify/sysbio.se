@@ -1,7 +1,7 @@
 ---
 name: Rasool Saghaleyni
-title: Rasool Saghaleyni
-lastname: Rasool Saghaleyni
+title: Rasool-Saghaleyni
+lastname: Saghaleyni
 picture: /img/pic_rasool-saghaleyni.jpg
 position: ' PhD student'
 email: 'rasools [at] chalmers.se'
