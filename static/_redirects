@@ -1,5 +1,4 @@
 # Redirects
-
 /yeastGEM        http://sysbiochalmers.github.io/yeast-GEM     301
 /yeast-GEM       http://sysbiochalmers.github.io/yeast-GEM     301
 /BioMet 	       http://biomet-toolbox.chalmers.se/            301
@@ -7,6 +6,9 @@
 /biomet          http://biomet-toolbox.chalmers.se/            301
 /kiwi            https://pythonhosted.org/KiwiDist/index.html  301
 /piano           https://varemo.github.io/piano/               301
+
+https://sysbiowebsite.netlify.com/* https://www.sysbio.se/:splat 301!
+
 /Lab_Mijakovic/IM_lab.html          /labs/mijakovic/           301
 /Lab_Engqvist/lab_engqvist.html			/labs/enqvist/             301
 /Lab_Hohmann/SH_lab.html			      /labs/hohmann/             301
