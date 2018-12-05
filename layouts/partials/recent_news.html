@@ -28,7 +28,7 @@
                             {{ end }}
                             {{ i18n "publishedOn" }} {{ .Date.Format .Site.Params.date_format }}
                             </p>
-                            <p class="intro">{{ .Content }}</p>
+                            {{ .Content }}
                         </div>
                     </div>
                     <!-- /.box-image-text -->
