@@ -16,7 +16,7 @@ profileleftbox: |-
 ---
 [CV](/people/martin-engqvist/) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Publications](#publications) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;[Software](#software)
 
-<br>
+<br/>
 
 Our research focuses on bioinformatics and experimental high-throughput biochemical characterization of metabolic enzymes. We aim to understand how diverse protein sequences determine enzyme function.
 
@@ -177,7 +177,7 @@ Mitochondrion. 19: 275-281 (2014).\
 In Methods in Molecular Biology: Photorespiration (eds. Fernie AR, Weber A, Bauwe H) 1653:137-155 (2017)\
 **[doi: 10.1007/978-1-4939-7225-8_10](https://doi.org/10.1007/978-1-4939-7225-8_10)**
 
-<br><br>
+<br/><br/>
 
 ### Software
 

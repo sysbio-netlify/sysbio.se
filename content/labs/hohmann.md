@@ -36,7 +36,7 @@ We are interested in understanding and using the dynamic behavior of signal tran
 1984 – 1987: PhD student at the Institute of Microbiology, Technische Hochschule Darmstadt.
 
 1983 – 1986 (certain periods): Application microbiologist for active dry wine yeast for E. Begerow & Co, Langenslonsheim, Germany.
-<br><br>
+<br/><br/>
 **Main organiser**
 
 “Molecular Biology and Physiology of Water and Solute Transport” in 2000, Göteborg, Sweden. Number of participants: 200.
@@ -47,7 +47,7 @@ We are interested in understanding and using the dynamic behavior of signal tran
 * “FEBS International Practical Course in Systems Biology”, which was held in Gothenburg for the 7th time in 2015. Top-level 2-3 weeks course with 24 international students.
 
 Chief editor: Molecular genetics and genomics (2005-), the oldest journal in genetics.
-<br><br>
+<br/><br/>
 **PhD students** (17 graduated)
 
 Niek Welkenhuysen

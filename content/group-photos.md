@@ -82,4 +82,4 @@ Jens Nielsen celebrated his 50th by a short return from MIT, where he was spendi
 ##### November 2008
 <img src="/img/group_08.jpg">
 
-<br><br>
+<br/><br/>

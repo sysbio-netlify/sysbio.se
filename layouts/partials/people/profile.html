@@ -4,7 +4,7 @@
       <img src="{{ .Params.picture }}" alt="{{ .Params.name }}" />
     </div>
     <div class="col-md-9">
-      <p>{{ .Params.position | markdownify }}<br>{{ .Params.email }}<br>
+      <p>{{ .Params.position | markdownify }}<br/>{{ .Params.email }}<br/>
       {{ range .Params.flags }}
         <a href="https://en.wikipedia.org/wiki/{{ substr . 3 }}" ><img src="/img/flags/{{ substr . 0 2 }}.png" alt="{{ . }}" /></a>
       {{ end }}

@@ -17,7 +17,7 @@ profileleftbox: |-
 ---
 [CV] (/img/cv_dp1806.pdf) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Publications] (/img/pub_dp1806.pdf) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Molecular Frontiers](http://www.molecularfrontiers.com/management-and-editorial-team)
 
-<br>
+<br/>
 Dina Petranovic has a **Msc** (1994-1999) in Molecular Biology from the Faculty of Science and Mathematics, Zagreb University in Croatia, **PhD** (2000-2004) in Molecular Microbiology from Université Paris XI in France, **two postdocs** at Technical University in Denmark (2004-2006, in Microbial Physiology and Genetics, and 2006-2008 in Microbial Biotechnology), and **assistant professorship** (2008-2012), **docent **(2012) and **tenure as associate professor** (since 2013) at Chalmers University of Technology in Sweden. During her career Dina has also been **visiting scientist** in Rich Losick's Lab at Harvard in 2006 and **visiting professor** in Susan Lindquist's Lab at MIT in 2012.
 
 Dina is **CEO **of a non-profit organization Molecular Frontiers, which is under the Royal Scwedish Academy of Science, **editor **of FEMS Yeast Research, co-director in the European Federation of Biotechnology and member of several societies (IMES, SBE etc).
@@ -32,7 +32,7 @@ During her PhD and postdocs Dina worked with Gram+ bacteria _Lactococcus lactis_
 
 [Symposium on Healthy Ageing, organized by Dina Petranovic](http://www.chalmers.se/en/areas-of-advance/lifescience/events/Healthy-Ageing-Seminar/Pages/default.aspx)
 
-<br>
+<br/>
 **PETRANOVIC LAB:**
 
 **Current members:**
@@ -104,7 +104,7 @@ Mark Bisschops,  Post-doc
 Mingtao Huang,  Post-doc  
 Frederik Eisele,  Post-doc
 
-<br>
+<br/>
 **Teaching at Chalmers**
 
 I am examiner and professor of the first and second molecular and cell biology courses (UCM010 and KMG050, respectively) for Biotechnology undergraduate program (Bt1 & Bt2).

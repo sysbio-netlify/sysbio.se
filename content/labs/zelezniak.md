@@ -20,7 +20,7 @@ Metabolism is a primordial biological system responsible for interconversion of 
 
 We are combining best practices of data science with artificial intelligence and metabolic modeling to develop novel technologies for getting insights about biological mechanisms directly from molecular data. Furthermore, together with our collaborators, we are actively involved in developing mass spectrometry technology to enable fast, robust, precise and inexpensive proteome acquisitions from any biological sample. At the same time, we are actively interested in expanding the scope of our computational methods applications with the goal to gain mechanistic insights about the following biological processes: the role of metabolic interactions in shaping healthy gut microbiome, designing stable microbial communities for bioremediation and other biotechnological applications, the role of tissue cross-talk in cancer metabolism. Currently, we are actively seeking collaborations within Swedish university/hospital networks and internationally.
 
-<br>
+<br/>
 
 ##### Relevant Publications
 
@@ -43,7 +43,7 @@ Functional metabolomics describes the yeast biosynthetic regulome
 M Mülleder, E Calvani, MT Alam, RK Wang, F Eckerstorfer, A Zelezniak, M Ralser  
 Cell 167 (2), 553-565. E12, 2016  
 
-<br>
+<br/>
 <a href="https://www.scilifelab.se/research/fellows/" target="_blank">
   <img src="/img/logo_scilifelab_az.png" alt=""height="80">
 </a>

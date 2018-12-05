@@ -15,7 +15,7 @@ profileleftbox: |-
   Office: Room 3056A
 ---
 [CV](/img/cv_im1808.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im1811.pdf)
-<br><br>
+<br/><br/>
 
 #### Current research
 
@@ -31,7 +31,7 @@ In collaboration with the Chalmers Graphene Centre, we are developing advanced g
 
 We are implementing a wide array of metabolic engineering tools in order to optimize B. subtilis as a cell factory for the production of platform chemicals, industrially relevant enzymes and nanoparticles.
 
-<br>
+<br/>
 
 **IMPORTANT NOTE FOR STUDENTS APPLYING FOR INTERNSHIPS:**
 
@@ -55,7 +55,7 @@ Abhroop Garg, Post-doc
 
 [Mijakovic lab at DTU Biosustain ](http://www.biosustain.dtu.dk/english/research/research-groups/bacterial-signal-transduction)
 
-<br>
+<br/>
 
 **Previous members:** 	  	 
 

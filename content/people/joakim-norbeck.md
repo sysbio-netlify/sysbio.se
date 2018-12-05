@@ -16,7 +16,7 @@ template: people/profile
 1997 Ph.D. in Microbiology\
 2009 Docent in Molecular Biotechnology 
 
-<br>
+<br/>
 #### Employments
 1992-1997 **PhD  student**, Department of General and Marine Microbiology, GU, Sweden  
 1997-1999 **Researcher**, Department  of General and Marine Microbiology, GU, Sweden  
@@ -26,12 +26,12 @@ template: people/profile
 2008-2014 **Researcher**,  Chemical and Biological Engineering Chalmers, Sweden  
 2015- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Researcher** (oavlönad Docent), Biology and Biological Engineering Chalmers, Sweden  
 
-<br>
+<br/>
 #### Publications, Patents  &amp; Presentations
 32 Peer Reviewed Papers  
 2 &nbsp; Book Contributions  
 
-<br>
+<br/>
 #### Teaching Experience
 Director of Studies for the Bioscience Research school at Chalmers\
 \
@@ -47,7 +47,7 @@ Teacher on the following undergraduate courses at  Chalmers:
 * KBT016 Biochemistry and Biotechnology
 * BBT030 - Microbiology and Molecular Biotechnology 
 
-<br>
+<br/>
 #### Tutoring Experience
 Shared supervisor and co-supervisor of graduated PhD students  
 Currently supervisor of PhD student

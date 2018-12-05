@@ -17,7 +17,7 @@ profileleftbox: |-
 ---
 [Research Projects](#) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [CV](/people/jens-nielsen/) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Publications](#publications) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Videos](#videos) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Theses](#theses) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Alumni](#alumni) 
 
-<br>
+<br/>
 
 Our research focus is on systems biology of metabolism. The yeast _Saccharomyces cerevisiae_ is our key organism for experimental research, but we also have experimental research on _Aspergilli oryzae_.  [Interview about some of our work](https://www.youtube.com/watch?v=KkPeGhbh5F0)
 
@@ -28,8 +28,8 @@ Our research activities fall in three areas:
 * Developing metabolic models for Eukaryal cells, including rodent and human cells, and using these models as scaffolds for analysis of omics data with the objective to understand global responses to nutrient and disease. Experimental work is carried out in collaboration with other research groups.
 
 Several of our research activities are part of the Novo Nordisk Foundation Center for Biosustainability. See [www.biosustain.dtu.dk](http://www.biosustain.dtu.dk/english) and [video ](https://www.youtube.com/watch?v=8-R3HCHQI9I&feature=player_embedded)for more information
-<br>
-<br>
+<br/>
+<br/>
 
 #### Research Projects
 
@@ -69,14 +69,14 @@ We host an extensive fermentation infrastructure consisting of 32 DASGIB bioreac
 
 **Metabolomics**\
 We are part of the Swedish Universities Metabolomics Infrastructure (hosted by Umeå University) and is also part of Chalmers infrastructure for metabolomics. Our infrastructure involves 2 GC-MS systems and 5 HPLC systems.
-<br>
-<br>
+<br/>
+<br/>
 
 #### Publications
 
 [Full list of publications](/img/pub_jn1805.pdf) (PDF)
-<br>
-<br>
+<br/>
+<br/>
 
 #### Videos
 
@@ -96,8 +96,8 @@ We are part of the Swedish Universities Metabolomics Infrastructure (hosted by U
 * Advancing the Design-Build-Test Cycle for
 * Metabolic Engineering of Yeast, 2016
 * Society of Biological Engineering, 2009
-  <br>
-  <br>
+  <br/>
+  <br/>
 
 #### Theses
 
@@ -216,8 +216,8 @@ Paulo Gonçalves Teixeira:\
 Jichen Bao:\
 [Engineering the Secretory Pathway for Recombinant Protein Secretion in _Saccharomyces cerevisiae_](/img/thesis_Jichen-Bao.pdf) (ISBN 978-91-7597-598-6)
 
-<br>
-<br>
+<br/>
+<br/>
 
 #### Alumni
 

@@ -19,13 +19,13 @@ Our research activities are focused on developing the yeast _Saccharomyces cerev
 
 In order to be successful in our metabolic engineering projects we also focus on exploring the mechanisms for regulation/control of various metabolic pathways in the cell. Special attention has been directed towards the role of energy metabolism and the importance of adenine nucleotide levels but also redox metabolism is a field of interest.
 
-<br><br>
+<br/><br/>
 
 **Optimization of industrial ethanol production**
 
 We have a long history of improving various aspects of industrial ethanol production. Currently we focus on the interplay between pretreatment, detoxification and fermentation process.
 
-<br><br>
+<br/><br/>
 
 **Biobutanol production by metabolic engineering of _Saccharomyces cerevisiae_.**
 
