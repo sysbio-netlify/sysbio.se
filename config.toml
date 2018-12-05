@@ -106,14 +106,13 @@ paginate = 10
   date_format = "January 2, 2006"
 
   logo = "img/logo.png"
-  address = """<p><strong>Chalmers University of Technology</strong>
+  address = """<strong>Chalmers University of Technology</strong>
       <br>Department of Biology and Biological Engineering
       <br>Division of Systems and Synthetic Biology
       <br>Kemivägen 10
       <br>SE-412 96 Göteborg
       <br>
       <strong>Sweden</strong>
-    </p>
     """
 
 [Permalinks]
