@@ -15,10 +15,10 @@ profileleftbox: |-
   E-mail: dina.petranovic \[at] chalmers.se\
   Office: Room 3055A
 ---
-[CV] (/img/cv_dp1806.pdf) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Publications] (/img/pub_dp1806.pdf) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Molecular Frontiers](http://www.molecularfrontiers.com/management-and-editorial-team)
+[CV](/img/cv_dp1812.pdf) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_dp1812.pdf) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Molecular Frontiers](http://www.molecularfrontiers.com/management-and-editorial-team)
 
 <br/>
-Dina Petranovic has a **Msc** (1994-1999) in Molecular Biology from the Faculty of Science and Mathematics, Zagreb University in Croatia, **PhD** (2000-2004) in Molecular Microbiology from Université Paris XI in France, **two postdocs** at Technical University in Denmark (2004-2006, in Microbial Physiology and Genetics, and 2006-2008 in Microbial Biotechnology), and **assistant professorship** (2008-2012), **docent **(2012) and **tenure as associate professor** (since 2013) at Chalmers University of Technology in Sweden. During her career Dina has also been **visiting scientist** in Rich Losick's Lab at Harvard in 2006 and **visiting professor** in Susan Lindquist's Lab at MIT in 2012.
+Dina Petranovic has a **Msc** (1994-1999) in Molecular Biology from the Faculty of Science and Mathematics, Zagreb University in Croatia, **PhD** (2000-2004) in Molecular Microbiology from Université Paris XI in France, **two postdocs** at Technical University in Denmark (2004-2006, in Microbial Physiology and Genetics, and 2006-2008 in Microbial Biotechnology), and **assistant professorship** (2008-2012), **docent** (2012) and **tenure as associate professor** (since 2013) at Chalmers University of Technology in Sweden. During her career Dina has also been **visiting scientist** in Rich Losick's Lab at Harvard in 2006 and **visiting professor** in Susan Lindquist's Lab at MIT in 2012.
 
 Dina is **CEO **of a non-profit organization Molecular Frontiers, which is under the Royal Scwedish Academy of Science, **editor **of FEMS Yeast Research, co-director in the European Federation of Biotechnology and member of several societies (IMES, SBE etc).
 
@@ -33,78 +33,79 @@ During her PhD and postdocs Dina worked with Gram+ bacteria _Lactococcus lactis_
 [Symposium on Healthy Ageing, organized by Dina Petranovic](http://www.chalmers.se/en/areas-of-advance/lifescience/events/Healthy-Ageing-Seminar/Pages/default.aspx)
 
 <br/>
-**PETRANOVIC LAB:**
+\*\*PETRANOVIC LAB:\*\*
 
 **Current members:**
 
-Xin Chen,  Post-doc  
-Olena Ishchuk,  Post-doc    
-Facundo Muñiz,  Post-doc  
-Veronica Gast,  PhD student  
-Yanyan Wang,  PhD student  
-Ana Joyce Munoz,  PhD student  
-Aafke van Aalst,  MSc student  
+Xin Chen,  Post-doc\
+Olena Ishchuk,  Post-doc\
+Facundo Muñiz,  Post-doc\
+Veronica Gast,  PhD student\
+Yanyan Wang,  PhD student\
+Ana Joyce Munoz,  PhD student\
+Aafke van Aalst,  MSc student\
 Doris Zoric,  MSc student
 
 **Previous members:**
 
-Marija Cvijovic, Post-doc  
-Andrea Neiss Molt, Post-doc  
-Jin Hou, Post-doc  
-Eugenio Meza, Post-doc  
-José L. Martínez, Post-doc  
-Guokun Wang, Post-doc  
-Kwanjeera Wanichthanarak,  PhD student  
-Magnus Johansson,  PhD student  
-Arastoo Badoei Dalfard, Visiting PhD student  
-Tamara Suhm, Visiting PhD student  
-Asiyeh Jebelli, Visiting PhD student  
-Marcin Sochacki, Msc student  
-Nava Ghanarei, Msc student  
-Laleh Kazemzadeh, Msc student  
-Kumaravel Ponnandai Shanmugavel, Msc student  
-Stefina Milanova, Msc student  
-Johan Björkeroth, Msc student  
-My Nyblom, Msc student  
-Almut Luetge, Visiting MSc student  
-Sophia Leussink, Visiting MSc student  
-Elisa Alamo Garcia-Donas, Visiting MSc student  
-Oscar Svensson, Bsc student  
-Avlant Nilsson, Bsc student  
-Jacob Kindbom, Bsc student  
-Nutvadee Wongtosrad, internship student  
-Raya Saleh, internship student  
-Céline Aubry, internship student  
-Matthew Allen, internship student  
-Jake Garside, internship student  
-Cristiano Santos, internship student  
-Saki Matsumoto, internship student  
-Nathalie Laforge, internship student  
+Marija Cvijovic, Post-doc\
+Andrea Neiss Molt, Post-doc\
+Jin Hou, Post-doc\
+Eugenio Meza, Post-doc\
+José L. Martínez, Post-doc\
+Guokun Wang, Post-doc\
+Kwanjeera Wanichthanarak,  PhD student\
+Magnus Johansson,  PhD student\
+Arastoo Badoei Dalfard, Visiting PhD student\
+Tamara Suhm, Visiting PhD student\
+Asiyeh Jebelli, Visiting PhD student\
+Marcin Sochacki, Msc student\
+Nava Ghanarei, Msc student\
+Laleh Kazemzadeh, Msc student\
+Kumaravel Ponnandai Shanmugavel, Msc student\
+Stefina Milanova, Msc student\
+Johan Björkeroth, Msc student\
+My Nyblom, Msc student\
+Almut Luetge, Visiting MSc student\
+Sophia Leussink, Visiting MSc student\
+Elisa Alamo Garcia-Donas, Visiting MSc student\
+Oscar Svensson, Bsc student\
+Avlant Nilsson, Bsc student\
+Jacob Kindbom, Bsc student\
+Nutvadee Wongtosrad, internship student\
+Raya Saleh, internship student\
+Céline Aubry, internship student\
+Matthew Allen, internship student\
+Jake Garside, internship student\
+Cristiano Santos, internship student\
+Saki Matsumoto, internship student\
+Nathalie Laforge, internship student\
 Osman Efe Oztekin, internship student
 
 **Researchers co-supervised by Dina Petranovic:**
 
-**_Currently:_**
+_**Currently:**_
 
 Mikael Molin,  Post-doc
-Co-supervised by Prof Thomas Nyström, Sahlgrenska Academy GU  
+Co-supervised by Prof Thomas Nyström, Sahlgrenska Academy GU\
 Kumaravel Ponnandai Shanmugavel, PhD student
 Co-supervised by Prof Pernilla Wittung-Stafshede, Chalmers
 
-**_Previously:_**
+_**Previously:**_
 
-Zihe Liu,  PhD student  
-Fredrik Karlsson,  PhD student  
-Lifang Liu,  PhD student  
-Jichen Bao,  PhD student  
-Keith Tyo,  Post-doc  
-Luis Caspeta,  Post-doc  
-Antonio Roldao,  Post-doc  
-Mark Bisschops,  Post-doc  
-Mingtao Huang,  Post-doc  
+Zihe Liu,  PhD student\
+Fredrik Karlsson,  PhD student\
+Lifang Liu,  PhD student\
+Jichen Bao,  PhD student\
+Keith Tyo,  Post-doc\
+Luis Caspeta,  Post-doc\
+Antonio Roldao,  Post-doc\
+Mark Bisschops,  Post-doc\
+Mingtao Huang,  Post-doc\
 Frederik Eisele,  Post-doc
 
 <br/>
+
 **Teaching at Chalmers**
 
 I am examiner and professor of the first and second molecular and cell biology courses (UCM010 and KMG050, respectively) for Biotechnology undergraduate program (Bt1 & Bt2).
