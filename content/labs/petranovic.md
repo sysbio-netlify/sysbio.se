@@ -105,7 +105,7 @@ Mark Bisschops,  Post-doc\
 Mingtao Huang,  Post-doc\
 Frederik Eisele,  Post-doc
 
-<br/>
+
 
 **Teaching at Chalmers**
 
