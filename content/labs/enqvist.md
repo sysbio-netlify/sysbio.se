@@ -181,7 +181,7 @@ Enzyme and Microbial Technology 41 (1),  186-195 (2007)\
 Plant Physiology, in print (2019).
 
 **“Biochemical control systems for small molecule damage in plants”**\
-Hüdig M, Schmitz J, **Engqvist MKM, **VG Maurino\
+Hüdig M, Schmitz J, **Engqvist MKM,** VG Maurino\
 Plant signaling & behavior 13 (5), e1477906 (2018).\
 **[doi: 10.1080/15592324.2018.1477906](https://doi.org/10.1080/15592324.2018.1477906)**
 
