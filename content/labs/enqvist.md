@@ -26,22 +26,38 @@ Combining ideas and expertise from bioinformatics, biochemistry and directed evo
 
 ### Publications
 
-As of August 2018  (Google Scholar)\
-citations: 825\
-h-index:  13  
+As of January 2019  (Google Scholar)\
+citations: 881\
+h-index:  14  
 
-#### Current preprints
+#### Preprints
 
-<em>ϕ</em> Indicates shared  first-authorship as noted in publications . 
+<em>ϕ</em> Indicates shared first-authorship as noted in publications. 
 
-**"Correlating enzyme annotations with a  large set of microbial growth temperatures reveals metabolic adaptations to  growth at diverse temperatures" .**  
+##### 2018
+
+**"Correlating enzyme annotations with a  large set of microbial growth temperatures reveals metabolic adaptations to  growth at diverse temperatures".**\
 **Engqvist MKM**\
 bioRxiv (2018)\
-**[doi: 10.1101/271569](https://dx.doi.org/10.1101/271569)**
+**[**doi: 10.1101/271569**](https://dx.doi.org/10.1101/271569)**
+
+<br>
 
 #### Peer-reviewed original articles
 
 <sup>ϕ</sup> Indicates shared first-authorship as noted in  publications  
+
+##### 2018
+
+**“DNA polymerase η contributes to genome-wide lagging strand synthesis”**\
+Kreisel K, **Engqvist MKM,** Kalm J, Thompson LJ, Boström M, Navarrete C, McDonald JP, Larsson E, Woodgate R, Clausen AR  \
+Nucleic Acids Research (2018).\
+**[doi: 10.1093/nar/gky1291](https://doi.org/10.1093/nar/gky1291)**
+
+**“Correlating enzyme annotations with a large set of microbial growth temperatures reveals metabolic adaptations to growth at diverse temperatures”**\
+**MKM Engqvist**\
+BMC Microbiology 18 (177) (2018).\
+**[doi: 10.1186/s12866-018-1320-7](https://doi.org/10.1186/s12866-018-1320-7)**   
 
 ##### 2017
 
@@ -58,7 +74,7 @@ Journal of Visualized  Experiments, e56551 (2017).\
 **"Nucleotide pools dictate the identity  and frequency of ribonucleotide incorporation in mitochondrial DNA"**\
 Berglund AK<sup>ϕ</sup>,  Navarrete C<sup>ϕ</sup>, **Engqvist MKM**, Hoberg E, Szilagyi Z, Taylor RW,  Gustafsson CM, Falkenberg M and Clausen AR.\
 PLOS Genetics, 13(2): e1006628 (2017).\
-**[doi:   10.1371/journal.pgen.1006628](https://dx.doi.org/10.1371/journal.pgen.1006628)**  
+**[doi:   10.1371/journal.pgen.1006628](https://dx.doi.org/10.1371/journal.pgen.1006628)**    
 
 ##### 2016
 
@@ -158,12 +174,16 @@ Börjesson J, **Engqvist M**, Sipos B,  Tjerneld F.\
 Enzyme and Microbial Technology 41 (1),  186-195 (2007)\
 **[doi:  10.1016/j.enzmictec.2007.01.003](https://doi.org/10.1016/j.enzmictec.2007.01.003)**
 
-#### Peer-reviewed research review articles
+#### Review articles
 
-**"2-Hydroxy Acids in Plant  Metabolism"**\
-Maurino VG, **Engqvist MKM**.\
-In The Arabidopsis Book, Sep 4, 13:e0182 (2015).\
-**[doi:  10.1199/tab.0182](https://dx.doi.org/10.1199/tab.0182)**
+**“Applications of protein engineering and directed evolution in plant research”**\
+**Engqvist MKM,** Rabe KS\
+Plant Physiology, in print (2019).
+
+**“Biochemical control systems for small molecule damage in plants”**\
+Hüdig M, Schmitz J, **Engqvist MKM, **VG Maurino\
+Plant signaling & behavior 13 (5), e1477906 (2018).\
+**[doi: 10.1080/15592324.2018.1477906](https://doi.org/10.1080/15592324.2018.1477906)**
 
 **"Mitochondrial 2-hydroxyglutarate  metabolism"**\
 **Engqvist MKM**, Eßer C, Maier A, Lercher MJ and  Maurino VG.\
@@ -176,6 +196,11 @@ Mitochondrion. 19: 275-281 (2014).\
 **Engqvist MKM**, Maurino VG.\
 In Methods in Molecular Biology: Photorespiration (eds. Fernie AR, Weber A, Bauwe H) 1653:137-155 (2017)\
 **[doi: 10.1007/978-1-4939-7225-8_10](https://doi.org/10.1007/978-1-4939-7225-8_10)**
+
+**"2-Hydroxy Acids in Plant  Metabolism"**\
+Maurino VG, **Engqvist MKM**.\
+In The Arabidopsis Book, Sep 4, 13:e0182 (2015).\
+**[doi:  10.1199/tab.0182](https://dx.doi.org/10.1199/tab.0182)**
 
 <br/><br/>
 
