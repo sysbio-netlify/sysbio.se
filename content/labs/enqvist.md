@@ -39,7 +39,7 @@ h-index:  14
 **"Correlating enzyme annotations with a  large set of microbial growth temperatures reveals metabolic adaptations to  growth at diverse temperatures".**\
 **Engqvist MKM**\
 bioRxiv (2018)\
-**[**doi: 10.1101/271569**](https://dx.doi.org/10.1101/271569)**
+**[doi: 10.1101/271569](https://dx.doi.org/10.1101/271569)**
 
 <br>
 
