@@ -30,6 +30,8 @@ As of January 2019  (Google Scholar)\
 citations: 881\
 h-index:  14  
 
+<br>
+
 #### Preprints
 
 <em>ϕ</em> Indicates shared first-authorship as noted in publications. 
@@ -174,6 +176,8 @@ Börjesson J, **Engqvist M**, Sipos B,  Tjerneld F.\
 Enzyme and Microbial Technology 41 (1),  186-195 (2007)\
 **[doi:  10.1016/j.enzmictec.2007.01.003](https://doi.org/10.1016/j.enzmictec.2007.01.003)**
 
+<br>
+
 #### Review articles
 
 **“Applications of protein engineering and directed evolution in plant research”**\
@@ -189,6 +193,8 @@ Plant signaling & behavior 13 (5), e1477906 (2018).\
 **Engqvist MKM**, Eßer C, Maier A, Lercher MJ and  Maurino VG.\
 Mitochondrion. 19: 275-281 (2014).\
 **[doi: 10.1016/j.mito.2014.02.009](https://dx.doi.org/10.1016/j.mito.2014.02.009)**  
+
+<br>
 
 #### Book chapters
 
