@@ -43,11 +43,11 @@ template: people/profile
 
 ### Peer-reviewed publications
 
-As of August 2018 (Google Scholar)\
-**Citations:** 	825\
-**h-index:** 	13\
-**Original research articles:** 	19\
-**Research review articles:** 	2\
+As of January 2019 (Google Scholar)\
+**Citations:** 	881\
+**h-index:** 	14\
+**Original research articles:** 	21\
+**Research review articles:** 	3\
 **Book chapters:**	2
 
 ### Publications
