@@ -113,14 +113,14 @@ Microbial cell factories, 14 (1): 116 (2015).\
 **[doi: 10.1186/s12934-015-0305-6](https://dx.doi.org/10.1186/s12934-015-0305-6)**  
 
 **"Directed Evolution of a Far-Red  Fluorescent Rhodopsin"**\
-McIsaac RS<sup>ϕ</sup>,** Engqvist MKM**<sup>ϕ</sup>,  Wannier T, Rosenthal AZ, Herwig L, Flytzanis NC, Imasheva ES, Lanyi JK,  Balashov SP, Gradinaru V and Arnold FH.\
+McIsaac RS<sup>ϕ</sup>, **Engqvist MKM**<sup>ϕ</sup>,  Wannier T, Rosenthal AZ, Herwig L, Flytzanis NC, Imasheva ES, Lanyi JK,  Balashov SP, Gradinaru V and Arnold FH.\
 Proceedings of the National Academy of Sciences, 111 (36): 13034-13039 (2015).\
 **[doi: 10.1073/pnas.1413987111](https://dx.doi.org/10.1073/pnas.1413987111)**
 
 ##### 2014
 
 **"Archaerhodopsin  variants with enhanced voltage-sensitive fluorescence in mammalian and  Caenorhabditis elegans neurons"**\
-Flytzanis NC<sup>ϕ</sup>, Bedbrook CN<sup>ϕ</sup>, Chiu H,** Engqvist MKM**, Xiao C, Chan KY,  Sternberg PW, Arnold FH, Gradinaru V.\
+Flytzanis NC<sup>ϕ</sup>, Bedbrook CN<sup>ϕ</sup>, Chiu H, **Engqvist MKM**, Xiao C, Chan KY,  Sternberg PW, Arnold FH, Gradinaru V.\
 Nature Communications, 5(4894) (2014).\
 **[doi: 10.1038/ncomms5894](https://dx.doi.org/10.1038/ncomms5894)**
 
@@ -132,14 +132,14 @@ Journal of Molecular Biology, 427 (1): 205-220 (2014).\
 ##### 2013
 
 **"D-2-hydroxyglutarate metabolism is  linked to photorespiration in the shm1-1 mutant"**\
-Kuhn A<sup>ϕ</sup>,** Engqvist MKM**<sup>ϕ</sup>,  Jansen EEW, Jakobs C, Weber APM and Maurino VG.\
+Kuhn A<sup>ϕ</sup>, **Engqvist MKM**<sup>ϕ</sup>,  Jansen EEW, Jakobs C, Weber APM and Maurino VG.\
 Plant Biology, 15(4): 776-84 (2013).\
 **[doi: 10.1111/plb.12020](https://dx.doi.org/10.1111/plb.12020)**  
 
 ##### 2012
 
 **"Transgenic Introduction of a Glycolate  Oxidative Cycle into A. thaliana Chloroplasts Leads to Growth Improvement"**\
-Maier A, Fahnenstich H, von Caemmerer S,** Engqvist  MKM**, Weber APM, Flügge UI and Maurino VG.\
+Maier A, Fahnenstich H, von Caemmerer S, **Engqvist  MKM**, Weber APM, Flügge UI and Maurino VG.\
 Frontiers in Plant Science, 3(February): 1-12 (2012).\
 **[doi: 10.3389/fpls.2012.00038](https://dx.doi.org/10.3389/fpls.2012.00038)**
 
