@@ -47,7 +47,7 @@ Shadi Rahimi, Post-doc\
 Alireza Neissi, visiting PhD student
 
 **Current Members of the Mijakovic lab at DTU Biosustain:**\
-Carsten Jers, Post-doc\
+Carsten Jers, researcher\
 Abida Sultan, Post-doc\
 Priyanka Singh, Post-doc\
 Vaishnavi Ravikumar, Post-doc\
@@ -60,19 +60,19 @@ Mériem Senissar, Post-doc
 
 **Previous members:** 	  	 
 
-_**Research Associates/Assistant Professors:**_\
+**_Research Associates/Assistant Professors:_**\
 Sandrine Poncet\
 Yves Pagot\
 Tao Chen  
 
-_**Postdoctoral fellows:**_\
+**_Postdoctoral fellows:_**\
 Fen Yang\
 Valentina Cantatore\
 Aida Kalantari\
 Hee Jin Hwang\
 Raghu Mokkapati
 
-_**PhD students:**_\
+**_PhD students:_**\
 Mette Erichsen Hansen\
 Carsten Jers\
 Boumediene Soufi\
@@ -83,11 +83,11 @@ Charlotte Cousin\
 Aida Kalantari\
 Ivan Andreas Stancik
 
-_**Technicians:**_\
+**_Technicians:_**\
 Violeta Djekic\
 Mohammad Abdellatif
 
-_**Master students:**_\
+**_Master students:_**\
 Catarina Silva\
 Carsten Jers\
 Boumediene Soufi\
