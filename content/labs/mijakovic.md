@@ -70,7 +70,7 @@ Fen Yang\
 Valentina Cantatore\
 Aida Kalantari\
 Hee Jin Hwang\
-Raghu Mokkapati, Post-doc
+Raghu Mokkapati
 
 _**PhD students:**_\
 Mette Erichsen Hansen\
