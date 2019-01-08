@@ -3,7 +3,7 @@ name: Elias Björnson
 title: Elias-Bjornson
 lastname: Björnson
 picture: /img/pic_elias-bjornson.jpg
-position: Visiting PhD student
+position: PhD student
 email: ' eliasb [at] chalmers.se'
 flags:
   - se Sweden
