@@ -3,7 +3,7 @@ name: Zeinab Hefny
 title: Zeinab-Hefny
 lastname: Hefny
 picture: /img/pic_zeinab-hefny.jpg
-position: Visiting PhD student
+position: PhD student
 email: 'hefny [at] chalmers.se'
 flags:
   - eg Egypt
