@@ -3,7 +3,7 @@ name: 'Li-Hai Fan, PhD'
 title: Li-Hai-Fan
 lastname: Fan
 picture: /img/pic_li-hai_fan.jpg
-position: Visiting researcher
+position: Assistant Professor
 email: fanlh@mail.buct.edu.cn
 flags:
   - cn China
