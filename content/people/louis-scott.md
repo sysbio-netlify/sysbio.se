@@ -3,7 +3,7 @@ name: 'Louis Scott, PhD'
 title: Louis-Scott
 lastname: Scott
 picture: /img/pic_louis-scott.jpg
-position: Visiting researcher
+position: PostDoc
 email: 'louis.scott [at] chalmers.se'
 flags:
   - au Australia
