@@ -3,7 +3,7 @@ name: Yao Lu
 title: Yao-Lu
 lastname: Lu
 picture: /img/pic_yao-lu.jpg
-position: Visiting PhD student
+position: PhD student
 email: lyao@chalmers.se
 flags:
   - cn China
