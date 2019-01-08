@@ -3,11 +3,11 @@ name: 'Lei Shi, PhD'
 title: Lei-Shi
 lastname: Shi
 picture: /img/pic_lei-shi.jpg
-position: Visiting researcher
+position: Researcher
 email: 'slei [at] chalmers.se'
 flags:
   - cn China
-person-category: H Visiting researchers
+person-category: D Researchers
 template: people/profile
 ---
 
