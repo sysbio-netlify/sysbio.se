@@ -159,7 +159,7 @@ paginate = 10
 [params.organization]
   enable = true
   title = "Organization"
-  text = "**[Systems and Synthetic Biology](/people)** is headed by Professor Jens Nielsen and is composed of several labs directed by faculty members at the department. The lab and computational facilities are shared among all members of Systems and Synthetic Biology. The division is very international with researchers from more than 30 countries and we have as a key objective to support young reseachers in their careers. We are participants in several large research centers and in many international projects funded by the EU and other funding agencies. <br> The division of Systems and Synthetic Biology is part of the [Department of Biology and Biological Engineering at Chalmers University of Technology](http://www.chalmers.se/en/departments/bio/)."
+  text = "**[Systems and Synthetic Biology](/people)** is headed by Professor Ivan Mijakovic and is composed of several labs directed by faculty members at the department. The lab and computational facilities are shared among all members of Systems and Synthetic Biology. The division is very international with researchers from more than 30 countries and we have as a key objective to support young reseachers in their careers. We are participants in several large research centers and in many international projects funded by the EU and other funding agencies. <br> The division of Systems and Synthetic Biology is part of the [Department of Biology and Biological Engineering at Chalmers University of Technology](http://www.chalmers.se/en/departments/bio/)."
   image = "img/organization.jpg"
   overview = "img/overview.jpg"
 
