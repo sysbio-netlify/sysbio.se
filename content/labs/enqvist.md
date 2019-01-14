@@ -49,6 +49,13 @@ bioRxiv (2018)\
 
 <sup>ϕ</sup> Indicates shared first-authorship as noted in  publications  
 
+##### 2019
+
+**“Applications of protein engineering and directed evolution in plant research”**\
+**Engqvist MKM**, Rabe KS\
+Plant Physiology, in print (2019).\
+[doi: 10.1104/pp.18.01534](www.plantphysiol.org/content/early/2019/01/09/pp.18.01534)
+
 ##### 2018
 
 **“DNA polymerase η contributes to genome-wide lagging strand synthesis”**\
