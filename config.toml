@@ -65,11 +65,9 @@ paginate = 10
 
 # Enable or disable top bar with social icons
 [params.topbar]
-  enable = false
-  text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
-    <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
-    <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
-    </p>
+  enable = true
+  text = """
+    <p class="text-center"><a href="/news/2019/01/16/sysbio-core-values-in-nature">Breaking news: SysBio Core Values featured in Nature</a></p>
     """
 # Top bar social links menu
 [[menu.topbar]]

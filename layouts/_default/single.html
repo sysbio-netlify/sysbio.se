@@ -8,10 +8,10 @@
     <div id="all">
 
         <header>
-
+          {{ partial "top.html" . }}
           {{ partial "nav.html" . }}
-
         </header>
+
         {{ if isset .Params "template" }}
           {{ if eq .Params.template "people/profile" }}
             {{ partial "breadcrumbs.html" .Params.name }}
