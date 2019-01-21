@@ -80,22 +80,21 @@ We are part of the Swedish Universities Metabolomics Infrastructure (hosted by U
 
 #### Videos
 
-* Samson Prize Winners - Fuel Choices and Smart Mobility Summit
-* ENI Award, 2017
-* Presentation at Molecular Frontiers Symposium, Stockholm: From yeast to human, 2017
-* Talk "Impact of systems biology on metabolic engineering" in Kitano, H. (ed.), Systems Biology: , The Biomedical & Life Sciences Collection, Henry Stewart Talks Ltd, London, 2014
-* Interview in connection with Science paper on thermotolerant yeast, 2014
-* Presentation at the Metabolic Engineering X conference, Vancouver, Canada, 2014
-* Presentation at Molecular Frontiers Symposium: Meet Science Superheroes, Singapore, 2012
-* Interview about mentoring at Molecular Frontiers Symposium: Meet Science Superheroes, Singapore, 2012
-* Fungal Cell Factories at Center for Biosustainability, 2011
-* The Novo Nordisk Foundation Center for Biosustainability, 2011
+* [Samson Prize Winners - Fuel Choices and Smart Mobility Summit](https://www.youtube.com/watch?v=U2cB7lLLUDI)
+* [ENI Award, 2017](https://www.youtube.com/watch?v=FEneYEfqXyI)
+* [Presentation at Molecular Frontiers Symposium, Stockholm: From yeast to human, 2017](https://www.youtube.com/watch?v=bOo4XJEbDwM&t=1150s)
+* [Talk "Impact of systems biology on metabolic engineering" in Kitano, H. (ed.), Systems Biology: , The Biomedical & Life Sciences Collection, Henry Stewart Talks Ltd, London, 2014](https://hstalks.com/t/2942/impact-of-systems-biology-on-metabolic-engineering/)
+* [Interview in connection with Science paper on thermotolerant yeast, 2014](http://www.mynewsdesk.com/uk/chalmers/videos/a-video-interview-of-jens-nielsen-15933)
+* [Presentation at the Metabolic Engineering X conference, Vancouver, Canada, 2014](https://www.aiche.org/academy/videos/conference-presentations/using-systems-biology-identification-novel-metabolic-engineering-targets)
+* [Presentation at Molecular Frontiers Symposium: Meet Science Superheroes, Singapore, 2012](https://www.youtube.com/watch?v=vUT3EDdNldg)
+* [Interview about mentoring at Molecular Frontiers Symposium: Meet Science Superheroes, Singapore, 2012](https://www.youtube.com/watch?v=qEBAQvNhWwQ)
+* [Fungal Cell Factories at Center for Biosustainability, 2011](https://www.youtube.com/watch?v=KkPeGhbh5F0)
+* [The Novo Nordisk Foundation Center for Biosustainability, 2011](https://www.youtube.com/watch?v=8-R3HCHQI9I)
 
 ##### Webinars:
 
-* Advancing the Design-Build-Test Cycle for
-* Metabolic Engineering of Yeast, 2016
-* Society of Biological Engineering, 2009
+* [Advancing the Design-Build-Test Cycle for Metabolic Engineering of Yeast, 2016](https://www.aiche.org/academy/webinars/advancing-design-build-test-cycle-metabolic-engineering-yeast)
+* [Society of Biological Engineering, 2009](https://www.aiche.org/academy/webinars/industrial-systems-biology)
   <br/>
   <br/>
 
