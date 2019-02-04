@@ -21,14 +21,14 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="box-image-text blog">
                         <div class="content">
-                            <h4>{{ .Title }}</h4>
+                          <a href="{{ .Permalink }}"><h4>{{ .Title }}</h4></a>
                             <p class="author-category">
                             {{ with .Params.author }}
                             {{ i18n "authorBy" }} {{ . }}
                             {{ end }}
                             {{ i18n "publishedOn" }} {{ .Date.Format .Site.Params.date_format }}
                             </p>
-                            {{ .Content }}
+                            {{ .Content | safeHTML | truncate 250}}
                         </div>
                     </div>
                     <!-- /.box-image-text -->
