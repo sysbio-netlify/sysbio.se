@@ -1,5 +1,5 @@
 ---
-name: Dany-Liu
+name: Dany Liu
 title: Dany-Liu
 lastname: Liu
 picture: /img/pic_dany-liu.jpg
