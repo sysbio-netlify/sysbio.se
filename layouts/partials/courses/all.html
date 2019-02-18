@@ -1,0 +1,11 @@
+<div class="container">
+    <div class="row">
+      {{ .Content }}
+    </div>
+    <div class="row">
+      {{ $pages := (where (where .Site.Pages "Type" "courses") "IsPage" true) }}    
+      {{ range $pages }}
+        {{ .Content }}
+      {{ end }}
+    </div>
+</div>
