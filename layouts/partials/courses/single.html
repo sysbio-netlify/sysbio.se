@@ -1,7 +1,13 @@
 <div class="container" style="margin-bottom:8em;">
   <div class="row">
-
-        {{ .Content }}
-
+      <div class="col-md-12">
+        <h2>{{ .Params.full_title }}</h2>
+        {{ .TableOfContents }}
+      </div>
+  </div>
+  <div class="row">
+      <div class="col-md-12">
+        {{ .Content | markdownify }}
+      </div>
   </div>
 </div>

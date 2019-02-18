@@ -1,23 +1,13 @@
 ---
-title: MESB 2019
-template: page
-menu: 'page'
+title: 'MESB 2019'
+full_title: 'Advanced Course on Metabolic Engineering and Systems Biology'
+template: courses/single
+date: '18-22 June 2019'
 ---
-
-<center><h1><b>Advanced Course on Metabolic Engineering and Systems Biology</b></h1></center>
-<center><h1><b>18-22 June 2017</b></h1></center>
-
-<center>Department of Biology and Biological Engineering</center>
-<center>Chalmers University of Technology</center>
-<center>Gothenburg, Sweden</center>
-
-
-# About
 
 **Welcome to the Advanced Course on Metabolic Engineering and Systems Biology!**
 
-The course is intended for PhD students, postdocs and industrial researchers that are interested in computational aspects of metabolic engineering.
-
+The course is intended for PhD students, postdocs and industrial researchers that are interested in computational aspects of metabolic engineering.  
 The course is intensive and will require pre-study of the material. A 2-week pre-course study schedule will be provided via the course website in due course (login information will be provided to students upon acceptance to admit the course).
 
 Students are expected to **bring their own laptop computer** to be used for exercises.
@@ -36,7 +26,7 @@ The course is organized to encourage team-work between participants and interact
 
 
 
-
+<a class="button" href="#"> Back </a>
 
 # General Information
 
@@ -66,12 +56,10 @@ Accommodation is **not** included in the registration fee, so plan your stay in 
 
 # Contact & Registration
 
-### Jens Nielsen (Course Director)
+* **Jens Nielsen (Course Director)**
+* **Eduard Kerkhoven (Course Manager)**
 
-
-### Eduard Kerkhoven (Course Manager)
-
-<email>
+<TODO: email>
 
 
 ## Registration
