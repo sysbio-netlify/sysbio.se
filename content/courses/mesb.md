@@ -1,7 +1,6 @@
 ---
 title: 'MESB 2019'
 full_title: 'Advanced Course on Metabolic Engineering and Systems Biology'
-template: courses/single
 date: '18-22 June 2019'
 ---
 
@@ -72,17 +71,3 @@ To apply for the course, please send a PDF file containing the following:
 
 Please send this to Eduard Kerkhoven before the registration deadline (March 1, 2017).
 
-<div>
-	<form>
-		First name: <input type="text" id="first_name" name="first_name" />
-		Last name:
-		Work address:
-		Country:
-		E-mail:
-		Phone:
-	<hr />
-		Registration will be paid:
-		Invoice / billing address (also required when paying privately):
-		Country:
-	</form>
-</div>
