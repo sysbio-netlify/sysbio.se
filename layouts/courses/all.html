@@ -1,0 +1,44 @@
+
+
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        <header>
+          {{ partial "top.html" . }}
+        </header>
+
+        {{ partial "breadcrumbs.html" .Title }}
+
+        <div id="content">
+          <div class="container" style="margin-bottom:8em;">
+            <div class="row">
+              <div class="col-md-12">
+                {{ .Content }}
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12">
+                {{ $pages := (where (where .Site.Pages "Type" "courses") "IsPage" true) }}    
+                {{ range $pages }}
+                <a href="{{ .Permalink }}">{{ .Title }} - {{ .Params.full_title }}</a>
+                {{ end }}
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

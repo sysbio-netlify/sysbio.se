@@ -3209,3 +3209,14 @@ a.list-group-item.active > .badge,
   left: 36px;
   margin-left: -10px;
 }
+
+
+#heading-courses {
+    background-color: green;
+    padding: 10px 0;
+    margin-bottom: 40px;
+}
+
+#heading-courses h1 {
+    color: white;
+}
