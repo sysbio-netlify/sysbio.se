@@ -1,48 +1,54 @@
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
 
-  {{ partial "head.html" . }}
+{{ partial "head.html" . }}
 
-  <body>
+<body>
 
-    <div id="all">
+  <div id="all">
 
-        <div id="heading-courses">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <h1>{{ .Title }}</h1>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div id="content">
-          <div class="container" style="margin-bottom:8em;">
-            <div class="row">
-                <div class="col-md-10 col-md-offset-1">
-                  <h2>{{ .Params.full_title }}</h2>
-                  {{ .TableOfContents }}
-                  {{ .Content }}
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                </div>
-            </div>
+    <div id="heading-courses">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <h1>{{ .Title }}</h1>
           </div>
-
         </div>
+      </div>
+    </div>
+
+    <div id="content">
+      <div class="container" style="margin-bottom:8em;">
+        <div class="row">
+          <div class="col-md-10 col-md-offset-1">
+            <img src="/img/logo_mesb19.png" class="img-responsive" />
+            <h2>{{ .Params.full_title }}</h2>
+            <h3>25 - 29 August 2019</h3>
+            {{ .TableOfContents }}
+            {{ .Content }}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+          </div>
+        </div>
+      </div>
 
     </div>
-    <!-- /#all -->
+    <div id="heading-courses">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <a href="https://www.sysbio.se"><img src="/img/logo.png" class="footer-logo" /></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /#all -->
 
-    {{ partial "scripts.html" . }}
+  {{ partial "scripts.html" . }}
 
-  </body>
+</body>
+
 </html>
