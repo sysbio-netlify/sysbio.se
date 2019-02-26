@@ -3,7 +3,7 @@ name: 'Florian David, PhD'
 title: florian-david
 lastname: David
 picture: /img/pic_Florian-David.jpg
-position: Assistant Professor
+position: 'Assistant Professor, Medical Biotechnology'
 email: 'davidfl [at] chalmers.se'
 flags:
   - de Germany
