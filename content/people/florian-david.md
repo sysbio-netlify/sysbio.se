@@ -3,11 +3,11 @@ name: 'Florian David, PhD'
 title: florian-david
 lastname: David
 picture: /img/pic_Florian-David.jpg
-position: Project leader
+position: Assistant Professor
 email: 'davidfl [at] chalmers.se'
 flags:
   - de Germany
-person-category: D Researchers
+person-category: A Faculty
 template: people/profile
 ---
 This is my personal page.
