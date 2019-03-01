@@ -15,9 +15,9 @@ template: people/profile
 **Supervisor(s):** Marija Cvijovic, Stefan Hohmann
 
 **Education and degrees:**  
-2016 Ph. D natural sciences, university of Gothenburg, Sweden
+2016 Ph. D natural sciences, university of Gothenburg, Sweden  
 2012 Msc Biochemistry, Katholieke Universiteit Leuven, Belgium  
 
 **Previous employments:**  
-2017-2019 Postdoctoral scholar, Dept. of Mathematics, Chalmers University of Technology and University of Gothenburg
+2017-2019 Postdoctoral scholar, Dept. of Mathematics, Chalmers University of Technology and University of Gothenburg  
 2012-2016 PhD student, Department of chemistry and molecular biology, University of Gothenburg, Sweden
