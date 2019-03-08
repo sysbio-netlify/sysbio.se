@@ -25,5 +25,5 @@ template: tools/databases
 
 <a href="http://cancersecretome.org/">
   <img class="project-logo" src="/img/logo_hcsd.png" />
-  <h4>YHuman Cancer Secretome Database</h4>
+  <h4>Human Cancer Secretome Database</h4>
 </a><br/><br/><br/><br/>
