@@ -22,3 +22,8 @@ template: tools/software
   <img class="project-logo" src="/img/logo_gecko.png" />
   <h4>GECKO Toolbox</h4>
 </a><br/><br/><br/><br/>
+
+<a href="https://varemo.github.io/piano/">
+  <img class="project-logo" src="/img/logo_piano.png" />
+  <h4>PIANO</h4>
+</a><br/><br/><br/><br/>
