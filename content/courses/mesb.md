@@ -33,7 +33,7 @@ This course is organized by the [Systems and Synthetic Biology](http://sysbio.se
 
 **July 1st, 2019**: Access to study materials.
 
-**August 22nd, 2019**: Start of the course.
+**August 25th, 2019**: Start of the course.
 
 <small><a class="button" href="#">Back to top</a></small>  
 
@@ -65,7 +65,85 @@ For any questions, please contact [Eduard Kerkhoven](mailto:eduardk@chalmers.se)
 
 # Schedule
 
-*February 2019: The schedule will be announced in a couple of weeks, once we have finalized the program.*
+*This is a draft time schedule, the exact times, lecture topics and lectures might change.*  
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-rg9b{font-weight:bold;background-color:#efefef;border-color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-8d4g{font-weight:bold;background-color:#333333;color:#ffffff;border-color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-aw21{font-weight:bold;border-color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-512a{background-color:#efefef;border-color:#ffffff;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-8d4g">Day</th>
+    <th class="tg-8d4g">AM #1</th>
+    <th class="tg-8d4g">AM #2</th>
+    <th class="tg-8d4g"></th>
+    <th class="tg-8d4g">PM #1</th>
+    <th class="tg-8d4g">PM #2</th>
+    <th class="tg-8d4g"></th>
+  </tr>
+  <tr>
+    <td class="tg-aw21">Sunday 25 Aug</td>
+    <td class="tg-8jgo">Metabolic engineering (JN)</td>
+    <td class="tg-8jgo">Metabolism (JN)</td>
+    <td class="tg-8jgo">Lunch</td>
+    <td class="tg-8jgo">Metabolic networks (JN)</td>
+    <td class="tg-8jgo">Exercise: network reconstruction</td>
+    <td class="tg-8jgo"></td>
+  </tr>
+  <tr>
+    <td class="tg-rg9b">Monday 26 Aug</td>
+    <td class="tg-512a">Genome-scale model reconstruction (EJK)</td>
+    <td class="tg-512a">Linear programming and flux balance analysis (AZ)</td>
+    <td class="tg-512a">Lunch</td>
+    <td class="tg-512a">Exercise: Genome-scale models in Matlab</td>
+    <td class="tg-512a">Exercise: Genome-scale models in Matlab</td>
+    <td class="tg-512a"></td>
+  </tr>
+  <tr>
+    <td class="tg-aw21">Tuesday 26 Aug</td>
+    <td class="tg-8jgo">Synthetic biology tools (FD)</td>
+    <td class="tg-8jgo">Fermentation technologies (JLM)</td>
+    <td class="tg-8jgo">Lunch + poster session</td>
+    <td class="tg-8jgo">Metabolic control analysis (EJK)</td>
+    <td class="tg-8jgo">Exercise: Metabolic control analysis</td>
+    <td class="tg-8jgo">Course BBQ</td>
+  </tr>
+  <tr>
+    <td class="tg-rg9b">Wednesday 26 Aug</td>
+    <td class="tg-512a">Research presentations (PJL, JLM)</td>
+    <td class="tg-512a">Transcriptomics & RNAseq (KC)</td>
+    <td class="tg-512a">Lunch</td>
+    <td class="tg-512a">Proteomics (PJL)</td>
+    <td class="tg-512a">Differential expression analysis (KC)</td>
+    <td class="tg-512a"></td>
+  </tr>
+  <tr>
+    <td class="tg-aw21">Thursday 27 Aug</td>
+    <td class="tg-8jgo">Integrative data analysis (JR)</td>
+    <td class="tg-8jgo">Exercise: integrative data analysis</td>
+    <td class="tg-8jgo">Lunch</td>
+    <td class="tg-8jgo">Exercise: integrative data analysis</td>
+    <td class="tg-8jgo">Exercise: integrative data analysis</td>
+    <td class="tg-8jgo"></td>
+  </tr>
+</table>
+
+
+**Lecturers:**  
+AZ: Aleksej Zelezniak  
+EJK: Eduard Kerkhoven  
+FD: Florian David  
+JLM: José-Luis Martinez  
+JN: Jens Nielsen  
+JR: Jonathan Robinson  
+KC: Kate Campbell  
+PJL: Petri-Jaan Lahtvee  
 
 <small><a class="button" href="#">Back to top</a></small>  
 
