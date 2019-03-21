@@ -14,8 +14,9 @@ This course is organized by the [Systems and Synthetic Biology](http://sysbio.se
 
 # General information
 
-* The course will run from the morning of Sunday 25th until the end of the afternoon of Thursday 29th.  
+* The course will run from the morning of Sunday August 25th until the end of the afternoon of Thursday August 29th.  
 * Teaching during the course is through a combination of lectures and hands-on exercises.  
+* Before the course, a detailed self-study plan will be distributed. It is important that the students study this material before the course to prepare themselves, as the lectures will be have a high pace and cover many different topics.  
 * The maximum number of students is set at 40.  
 * For the exercises, students should **bring their own laptop**, which should preferentially have MATLAB (license required) and R (freeware) installed.
 * All students are expected to **present a poster**.  
