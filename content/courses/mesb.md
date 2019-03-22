@@ -107,7 +107,7 @@ For any questions, please contact [Eduard Kerkhoven](mailto:eduardk@chalmers.se)
     <td class="tg-512a"></td>
   </tr>
   <tr>
-    <td class="tg-aw21">Tuesday 26 Aug</td>
+    <td class="tg-aw21">Tuesday 27 Aug</td>
     <td class="tg-8jgo">Synthetic biology tools (FD)</td>
     <td class="tg-8jgo">Fermentation technologies (JLM)</td>
     <td class="tg-8jgo">Lunch + poster session</td>
@@ -116,7 +116,7 @@ For any questions, please contact [Eduard Kerkhoven](mailto:eduardk@chalmers.se)
     <td class="tg-8jgo">Course BBQ</td>
   </tr>
   <tr>
-    <td class="tg-rg9b">Wednesday 26 Aug</td>
+    <td class="tg-rg9b">Wednesday 28 Aug</td>
     <td class="tg-512a">Research presentations (PJL, JLM)</td>
     <td class="tg-512a">Transcriptomics & RNAseq (KC)</td>
     <td class="tg-512a">Lunch</td>
@@ -125,7 +125,7 @@ For any questions, please contact [Eduard Kerkhoven](mailto:eduardk@chalmers.se)
     <td class="tg-512a"></td>
   </tr>
   <tr>
-    <td class="tg-aw21">Thursday 27 Aug</td>
+    <td class="tg-aw21">Thursday 29 Aug</td>
     <td class="tg-8jgo">Integrative data analysis (JR)</td>
     <td class="tg-8jgo">Exercise: integrative data analysis</td>
     <td class="tg-8jgo">Lunch</td>
