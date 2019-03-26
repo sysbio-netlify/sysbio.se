@@ -28,9 +28,9 @@ This course is organized by the [Systems and Synthetic Biology](http://sysbio.se
 
 **February 2019**: Registration and abstract submission opens.
 
-**April 30th, 2019**: Deadline for registration.
+**May 17th, 2019**: Deadline for registration.
 
-**May 7th, 2019** Notice of admittance.
+**May 24th, 2019** Notice of admittance.
 
 **July 1st, 2019**: Access to study materials.
 
