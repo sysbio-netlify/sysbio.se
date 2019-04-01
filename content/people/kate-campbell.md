@@ -10,13 +10,13 @@ flags:
 person-category: E Postdocs
 template: people/profile
 ---
-**Lab:** Professor Jens Nielsen
-**Research field(s):** Systems Biology, budding yeast cell cycle, metabolism
+**Lab:** Professor Jens Nielsen  
+**Research field(s):** Systems Biology, budding yeast cell cycle, metabolism  
 **Supervisor:** Professor Jens Nielsen
 
 **Education and degrees:**  
-2010 	BSc (Hons) in Biochemistry, St Andrews University, UK
-2011 	MSc in Drug Discovery and Translation Biology, University of Edinburgh, UK
+2010 	BSc (Hons) in Biochemistry, St Andrews University, UK  
+2011 	MSc in Drug Discovery and Translation Biology, University of Edinburgh, UK  
 2015 	PhD in Biochemistry, University of Cambridge, UK  
 
 **Previous employments:**  
