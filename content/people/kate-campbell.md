@@ -26,15 +26,15 @@ template: people/profile
 [Orcid ID](https://orcid.org/0000-0002-4173-5260)
 
 **Teaching and Tutoring Experience:**  
-Nov 2013, Nov 2015 
+Nov 2013, Nov 2015  
 Undergraduate Demonstrator, University of Cambridge, UK  
 Assisted in Cell and Developmental Biology practicals for 2nd year undergraduates.  
 
-Jul- Aug 2014	
+Jul- Aug 2014  
 Molecular Medicine Tutor, University of Oxford, UK  
 Created and taught syllabus on molecular medicine to prospective University students, raising £1,400 for charity.  
 
-Feb- May 2015
+Feb- May 2015  
 Postgraduate Supervisor, University of Cambridge, UK  
 Mentored visiting MSc student on work to replicate main PhD findings in _Saccharomyces cerevisiae_ using alternate yeast species, _Schizosaccharomyces pombe_. 
 
