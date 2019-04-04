@@ -12,7 +12,7 @@ template: people/profile
 ---
 * [Curriculum Vitae](/img/cv_jn1712.pdf) (PDF)
 * [Short Biography](/img/bio_jnshort_1801.pdf) (PDF)
-* Publications - [selection on this website](#publications) ([PDF](/img/pub_jn1805) for download full list of publications)  
+* Publications - [selection on this website](#publications) ([PDF](/img/pub_jn1805.pdf) for download full list of publications)  
 
 <br/>
 #### Education and degrees  
