@@ -7,6 +7,8 @@
 /kiwi            https://pythonhosted.org/KiwiDist/index.html  301
 /piano           https://varemo.github.io/piano/               301
 
+/projects.html   /international-projects/                      301
+
 https://sysbiowebsite.netlify.com/* https://www.sysbio.se/:splat 301!
 
 /Lab_Mijakovic/IM_lab.html          /labs/mijakovic/           301
