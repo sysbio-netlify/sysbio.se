@@ -8,9 +8,9 @@ template: tools/databases
   <h4>Levels of mRNA, protein, protein phosphorylation and metabolites during the budding yeast mitotic cell cycle</h4>
 </a><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-<a href="http://www.metabolicatlas.com/">
-  <img class="project-logo" src="/img/logo_hma.png" />
-  <h4>Human Metabolic Atlas</h4>
+<a href="https://metabolicatlas.org/">
+  <img class="project-logo" src="/img/logo_ma.png" />
+  <h4>Metabolic Atlas</h4>
 </a><br/><br/><br/>
 
 <a href="http://www.sysbio.se/Yseq/">
