@@ -3,6 +3,7 @@ title: 'MESB19'
 full_title: 'Advanced Course on Metabolic Engineering and Systems Biology'
 date: '25-29 August 2019'
 ---
+<span style="color:red">**There are still a few places available, [register](https://goo.gl/forms/vlUfuAFJTT5WSoHj2) ASAP!**</span>
 
 **Welcome to the Advanced Course on Metabolic Engineering and Systems Biology!**
 
@@ -28,7 +29,9 @@ This course is organized by the [Systems and Synthetic Biology](http://sysbio.se
 
 **February 2019**: Registration and abstract submission opens.
 
-**May 17th, 2019**: Deadline for registration.
+<del>**May 17th, 2019**: Deadline for registration.</del>
+
+<span style="color:red">**There are still a few places available, [register](https://goo.gl/forms/vlUfuAFJTT5WSoHj2) ASAP!**</span>
 
 **May 24th, 2019** Notice of admittance.
 
