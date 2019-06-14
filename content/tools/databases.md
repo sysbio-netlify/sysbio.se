@@ -3,7 +3,7 @@ title: Databases
 template: tools/databases
 ---
 <a href="https://www.sysbio.se/tools/cellcycle/">
-  <img class="project-logo" src="/img/logo_cell-cycle4.png" />
+  <img class="project-logo" src="/img/logo_cell-cycle5.png" />
   <h4>Levels of mRNA, protein, protein phosphorylation and metabolites during the budding yeast mitotic cell cycle</h4>
 </a><br/><br/><br/><br/><br/><br/><br/>
 
