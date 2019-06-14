@@ -10,7 +10,7 @@ template: tools/databases
 <a href="https://metabolicatlas.org/">
   <img class="project-logo" src="/img/logo_ma.png" />
   <h4>Metabolic Atlas</h4>
-</a><br/><br/><br/>
+</a><br/><br/><br/><br/>
 
 <a href="http://www.sysbio.se/Yseq/">
   <img class="project-logo" src="/img/logo_yseq4.png" />
