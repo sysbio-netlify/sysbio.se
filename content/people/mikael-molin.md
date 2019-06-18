@@ -3,11 +3,11 @@ name: 'Mikael Molin, PhD'
 title: Mikael-Molin
 lastname: Molin
 picture: /img/pic_mikael-molin.jpg
-position: PostDoc
+position: Researcher
 email: 'mikael.molin [at] chalmers.se'
 flags:
   - se Sweden
-person-category: E Postdocs
+person-category: D Researchers
 template: people/profile
 ---
 
