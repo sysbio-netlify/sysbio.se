@@ -3,11 +3,11 @@ name: 'Zhiwei Zhu, PhD'
 title: Zhiwei-Zhu
 lastname: Zhu
 picture: /img/pic_zhiwei-zhu.jpg
-position: PostDoc
+position: Researcher
 email: 'zhiweiz [at] chalmers.se'
 flags:
   - cn China
-person-category: E Postdocs
+person-category: D Researchers
 template: people/profile
 ---
 
