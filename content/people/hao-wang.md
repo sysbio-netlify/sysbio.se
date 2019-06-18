@@ -3,11 +3,11 @@ name: 'Hao Wang, PhD'
 title: Hao-Wang
 lastname: Wang
 picture: /img/pic_hao_wang.jpg
-position: PostDoc
+position: Researcher
 email: 'hao.wang [at] chalmers.se'
 flags:
   - cn China
-person-category: E Postdocs
+person-category: D Researchers
 template: people/profile
 ---
 
