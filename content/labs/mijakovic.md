@@ -44,7 +44,8 @@ Lei Shi, researcher\
 Abderahmane Derouiche, Post-doc\
 Santosh Pandit, Post-doc\
 Shadi Rahimi, Post-doc\
-Alireza Neissi, visiting PhD student
+Alireza Neissi, visiting PhD student\
+Hongxia Zhang, Post-doc
 
 **Current Members of the Mijakovic lab at DTU Biosustain:**\
 Carsten Jers, researcher\
@@ -52,7 +53,9 @@ Abida Sultan, Post-doc\
 Priyanka Singh, Post-doc\
 Vaishnavi Ravikumar, Post-doc\
 Abhroop Garg, Post-doc\
-Mériem Senissar, Post-doc
+Mériem Senissar, Post-doc\
+Julie Bonne Køhler, Post-doc\
+Abhayraj Joshi, Post-doc
 
 [Mijakovic lab at DTU Biosustain ](http://www.biosustain.dtu.dk/english/research/research-groups/bacterial-signal-transduction)
 
@@ -60,19 +63,19 @@ Mériem Senissar, Post-doc
 
 **Previous members:** 	  	 
 
-**_Research Associates/Assistant Professors:_**\
+_**Research Associates/Assistant Professors:**_\
 Sandrine Poncet\
 Yves Pagot\
 Tao Chen  
 
-**_Postdoctoral fellows:_**\
+_**Postdoctoral fellows:**_\
 Fen Yang\
 Valentina Cantatore\
 Aida Kalantari\
 Hee Jin Hwang\
 Raghu Mokkapati
 
-**_PhD students:_**\
+_**PhD students:**_\
 Mette Erichsen Hansen\
 Carsten Jers\
 Boumediene Soufi\
@@ -83,11 +86,11 @@ Charlotte Cousin\
 Aida Kalantari\
 Ivan Andreas Stancik
 
-**_Technicians:_**\
+_**Technicians:**_\
 Violeta Djekic\
 Mohammad Abdellatif
 
-**_Master students:_**\
+_**Master students:**_\
 Catarina Silva\
 Carsten Jers\
 Boumediene Soufi\
