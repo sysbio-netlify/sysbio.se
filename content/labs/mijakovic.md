@@ -41,8 +41,8 @@ Please note that our group does not admit internships/student projects shorter t
 
 **Current members of the Mijakovic Lab:**\
 Lei Shi, researcher\
+Santosh Pandit, researcher\
 Abderahmane Derouiche, Post-doc\
-Santosh Pandit, Post-doc\
 Shadi Rahimi, Post-doc\
 Hongxia Zhang, Post-doc\
 Alireza Neissi, visiting PhD student
