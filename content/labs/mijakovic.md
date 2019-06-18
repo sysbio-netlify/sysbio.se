@@ -44,8 +44,8 @@ Lei Shi, researcher\
 Abderahmane Derouiche, Post-doc\
 Santosh Pandit, Post-doc\
 Shadi Rahimi, Post-doc\
-Alireza Neissi, visiting PhD student\
-Hongxia Zhang, Post-doc
+Hongxia Zhang, Post-doc\
+Alireza Neissi, visiting PhD student
 
 **Current Members of the Mijakovic lab at DTU Biosustain:**\
 Carsten Jers, researcher\
