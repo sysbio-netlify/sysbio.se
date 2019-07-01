@@ -7,7 +7,7 @@ position: 'Docent, Systems Metabolic Engineering'
 email: 'yunc [at] chalmers.se'
 flags:
   - cn China
-person-category: C Docents
+person-category: C Project leaders
 template: people/profile
 ---
 
