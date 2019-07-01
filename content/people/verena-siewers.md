@@ -7,7 +7,7 @@ position: 'Docent, Microbial Synthetic Biology'
 email: 'siewers [at] chalmers.se '
 flags:
   - de Germany
-person-category: C Docents
+person-category: C Project leaders
 template: people/profile
 ---
 Verena Siewers is a Senior Researcher at the Department of Biology and Biological Engineering in the Systems and Synthetic Biology Division. Her main research interest is the application of yeast as a cell factory for sustainable production of a variety of chemicals as well as advanced biofuels. This also includes the development of synthetic biology tools to improve the construction of efficient yeast strains. Verena Siewers is furthermore Co-PI at the Novo Nordisk Foundation Center for Biosustainability and the FORMAS Center for Metabolic Engineering.
