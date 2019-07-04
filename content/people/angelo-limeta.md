@@ -3,11 +3,11 @@ name: Angelo Limeta
 title: Angelo-Limeta
 lastname: Limeta
 picture: /img/pic_Angelo-Limeta.jpg
-position: MSc student
+position: PhD student
 email: 'angelol [at] chalmers.se'
 flags:
   - se Sweden
-person-category: G Master students
+person-category: F PhD students
 template: people/profile
 ---
 
