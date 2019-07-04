@@ -3,13 +3,10 @@ title: 'MESB19'
 full_title: 'Advanced Course on Metabolic Engineering and Systems Biology'
 date: '25-29 August 2019'
 ---
-<span style="color:red">**There are still a few places available, [register](https://goo.gl/forms/vlUfuAFJTT5WSoHj2) ASAP!**</span>
 
 **Welcome to the Advanced Course on Metabolic Engineering and Systems Biology!**
 
 This course is organized by the [Systems and Synthetic Biology](http://sysbio.se) division at [Chalmers University of Technology](https://www.chalmers.se/en/departments/bio/Pages/default.aspx), and is intended for PhD students, postdocs and industrial researchers that are interested in computational aspects of metabolic engineering. The aim of the course is to provide participants with a strong primer of various (computational) aspects of metabolic engineering. The topics addressed range from constraint-based and kinetic modelling of metabolism, metabolic control analysis, synthetic biology tools and integrative omics data analysis. The course is intensive and will require pre-course studying of material that will be provided closer to the start date.
-
-**Setting of the course schedule is in progress and will be finished in the coming weeks.**
  
 <small><a class="button" href="#">Back to top</a></small>  
 
@@ -27,15 +24,13 @@ This course is organized by the [Systems and Synthetic Biology](http://sysbio.se
 
 ## Critical dates
 
-**February 2019**: Registration and abstract submission opens.
+<del>**February 2019**: Registration and abstract submission opens.</del>
 
 <del>**May 17th, 2019**: Deadline for registration.</del>
 
-<span style="color:red">**There are still a few places available, [register](https://goo.gl/forms/vlUfuAFJTT5WSoHj2) ASAP!**</span>
+<del>**May 24th, 2019** Notice of admittance.</del>
 
-**May 24th, 2019** Notice of admittance.
-
-**July 1st, 2019**: Access to study materials.
+**July 1st, 2019**: Access to study materials, provided by email.
 
 **August 25th, 2019**: Start of the course.
 
@@ -84,11 +79,11 @@ For any questions, please contact [Eduard Kerkhoven](mailto:eduardk@chalmers.se)
 <table class="tg">
   <tr>
     <th class="tg-8d4g">Day</th>
-    <th class="tg-8d4g">AM #1</th>
-    <th class="tg-8d4g">AM #2</th>
+    <th class="tg-8d4g">8:30-10:10</th>
+    <th class="tg-8d4g">10:30-12:10</th>
     <th class="tg-8d4g"></th>
-    <th class="tg-8d4g">PM #1</th>
-    <th class="tg-8d4g">PM #2</th>
+    <th class="tg-8d4g">13:30-15:10</th>
+    <th class="tg-8d4g">15:30-17:30</th>
     <th class="tg-8d4g"></th>
   </tr>
   <tr>
