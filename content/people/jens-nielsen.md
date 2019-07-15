@@ -268,11 +268,13 @@ Current affiliated post docs and senior researchers 	33
 2017 	**Metabolic Engineering Summit**, Beijing, China (~600 delegates) 
 
 <br/>
+
 #### Publications
 
 #### _Recent publications_
 
 #### Research papers in international journals with peer review
+<br/>
 
 ##### 2019
 
@@ -396,7 +398,9 @@ Z.P. Guo; S. Khoomrung; **J. Nielsen**; L. Olsson (2018) Changes in lipid metabo
 S. Grijseels; C. Pohl; J.C. Nielsen; Z. Wasil; Y. Nygård; **J. Nielsen**; J.C. Frisvad; K.F. Nielsen; M. Workman; T.O. Larsen; A.J.M. Driessen; R.J.N. Frandsen (2018) Identification of the decumbenone biosynthetic gene cluster in _Penicillium decumbens_ and the importance for production of calbistrin. _Fun. Biol. Biotechnol._ **5**:18
 
 <br/>
+
 #### Reviews in international journals with peer review
+<br/>
 
 ##### 2019
 
@@ -435,7 +439,9 @@ R. Ferreira; A. Limeta; **J. Nielsen** (2018) Tackling cancer with yeast based t
   
 
 <br/>
+
 #### Commentaries and Short Papers
+<br/>
 
 ##### 2019
 
