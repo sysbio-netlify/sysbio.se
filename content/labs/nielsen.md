@@ -74,7 +74,7 @@ We are part of the Swedish Universities Metabolomics Infrastructure (hosted by U
 
 #### Publications
 
-[Full list of publications](/img/pub_jn1805.pdf) (PDF)
+[Full list of publications](/img/pub_jn1907.pdf) (PDF)
 <br/>
 <br/>
 
@@ -95,8 +95,10 @@ We are part of the Swedish Universities Metabolomics Infrastructure (hosted by U
 
 ##### Webinars:
 
+* Systems Biology of Yeast Metabolism. CHASSY Webinar, University of Cork, Ireland
 * [Advancing the Design-Build-Test Cycle for Metabolic Engineering of Yeast, 2016](https://www.aiche.org/academy/webinars/advancing-design-build-test-cycle-metabolic-engineering-yeast)
-* [Society of Biological Engineering, 2009](https://www.aiche.org/academy/webinars/industrial-systems-biology)
+* [Impact of systems biology on metabolic engineering, in H. Kitano (Ed), Systems Biology: The Biomedical and Life Science Collection, Henry Stewart Talks Ltd., London, 2014.](http://hstalks.com/?t=BL1893791-Nielsen)
+* [Industrial Systems Biology, Society of Biological Engineering, 2009](https://www.aiche.org/academy/webinars/industrial-systems-biology)
   <br/>
   <br/>
 
@@ -303,7 +305,14 @@ Jichen Bao:\
 77. Partho Sarathi Sen, Chalmers (2014-2017)
 78. Sakda Khoomrung, Chalmers (2011-2017)
 79. Michael Gossing, Chalmers (2014-2017)
-80. JinHo Kim, Chalmers (2016-2018)
+80. Francesco Gatto, Chalmers (2015-2017)
+81. JinHo Kim, Chalmers (2016-2018)
+82. Manish Kumar, Chalmers (2015-2018)
+83. Petter Holland, Chalmers (2016-2018)
+84. Sylvain Prigent, Chalmers (2015-2018)
+85. Ibrahim El-Semman, DTU (2015-2018)
+86. Francesca Di Bartolomeo, Chalmers (2017-2019)
+
 
 **Graduated PhD Students (main supervisor)**
 
@@ -385,6 +394,16 @@ Jichen Bao:\
 76. Jens Christian F. Nielsen, Chalmers (2014-2018)
 77. Paulo Teixeira, Chalmers (2013-2018)
 78. Jichen Bao, Chalmers (2013-2018)
+79. Avlant Nilsson, Chalmers (2014-2019)
+80. Parizad Babaei, Chalmers (2015-2019)
+81. Benjamín José Sánchez Barja, Chalmers (2014-2019)
+82. Promi Das, Chalmers (2015-2019)
+83. Alexandra Bergman, Chalmers (2013-2019)
+
+
+**Graduated PhD Students (examiner)**
+
+1. Joachim Almquist, FCC, Sweden (2010-2017)
 
 **Graduated PhD Students (co-supervisor)**
 
@@ -402,6 +421,7 @@ Jichen Bao:\
 12. Xiao Chen, DTU (2007-2011)
 13. Kwanjeera Wanichthanarak, Chalmers (2010-2014)
 14. Kaisa Thorell, Gothenburg University, Sweden (2010-2014)
+15. Leonie Wenning, Chalmers (2014-2018)
 
 **Visiting PhD Students (co-supervisor)**
 
@@ -431,6 +451,10 @@ Jichen Bao:\
 24. Jacqueline Rand, University of Wisconsin, USA (2014)
 25. Zahra Azim Zadeh Irani, Tarbiat Modares University, Iran (2014-2015)
 26. Yu Chen, East China University of Science and Technology, China (2015-2017)
+27. Chinh Bkrong Nguyen, Oslo University, Norway (2017-2018)
+28. Zhengming Zhu, Jiangnan University, China (2017-2018)
+29. Chunjun Zhan, Jiangnan University, China (2017-2018)
+
 
 **Other affiliated researchers and staff**
 
@@ -461,3 +485,6 @@ Jichen Bao:\
 25. Daniel Hermansson, Chalmers (2016)
 26. Jianye Xia, Visiting Professor, Chalmers (2016-2017)
 27. Marie Nordqvist, Research Engineering and Lab Manager (2008-2017)
+28. Takayoshi Fujii, Visiting Researcher, Chalmers (2016-2018)
+29. Marie-Louise Wennerhag, Financial Officer, Chalmers (2008-2018)
+
