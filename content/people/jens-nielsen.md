@@ -398,53 +398,28 @@ S. Grijseels; C. Pohl; J.C. Nielsen; Z. Wasil; Y. Nygård; **J. Nielsen**; J.C. 
 <br/>
 #### Reviews in international journals with peer review
 
+##### 2019
+
+
+
 ##### 2018
 
-A. Mardinoglu; J. Boren; U. Smith; M. Uhlen; **J. Nielsen** (2018) The employment of  systems biology in gastroenterology and hepatology. _Nature Rev. Gastro. Hep._, in press  
+A. Mardinoglu; J. Boren; U. Smith; M. Uhlen; **J. Nielsen** (2018) The employment of  systems biology in gastroenterology and hepatology. _Nature Rev. Gastro. Hep._ **15**:365-377  
 
-R. Ferreira; F. David; **J. Nielsen** (2018) Advancing biotechnology with CRISPR/Cas9: Recent  applications and patent landscape. _J.  Ind. Microbiol. Biotechnol._, in press   
+R. Ferreira; F. David; **J. Nielsen** (2018) Advancing biotechnology with CRISPR/Cas9: Recent  applications and patent landscape. _J.  Ind. Microbiol. Biotechnol._ **45**:467-480   
 
 F.R. Pinu; N. Granucci; J. Daniell; T.-L. Han; S.  Carneiro; I. Rocha; **J. Nielsen**; S.G.  Villas-Boas (2018) Metabolite secretion in microorganisms: The theory of  metabolic overflow put to the test. _Metabolomics_ **14**:43  
 
-C. Malina; C. Larsson; **J. Nielsen** (2018) Yeast mitochondria:  An overview of mitochondrial biology and the potential of mitochondrial systems  biology. _FEMS Yeast Res._, in press  
+C. Malina; C. Larsson; **J. Nielsen** (2018) Yeast mitochondria:  An overview of mitochondrial biology and the potential of mitochondrial systems  biology. _FEMS Yeast Res._ **18**:foy040  
 
-B. Turanli; M. Grøtli; J.  Boren; **J. Nielsen**; M. Uhlen; K.Y.  Arga; A. Mardinoglu (2018) Drug repositioning for effective prostate cancer  treatment. _Fron. Physiol._, in press  
+B. Turanli; M. Grøtli; J.  Boren; **J. Nielsen**; M. Uhlen; K.Y.  Arga; A. Mardinoglu (2018) Drug repositioning for effective prostate cancer  treatment. _Fron. Physiol._  **9**:500
 
-##### 2017
+Y. Zhang; **J. Nielsen**; L. Zihe (2018) Metabolic engineering of _Saccharomyces cerevisiae_ for production of fatty acid derived hydrocarbons. _Biotechnol. Bioeng._ **115**:2139-2147
 
-A. Nilsson; **J. Nielsen** (2017) Genome-scale  metabolic modeling of cancer. _Met. Eng._ **43**:103-112  
+Y. Zhou; E. Kerkhoven; **J. Nielsen** (2018) Barriers and opportunities in bio-based production of hydrocarbons. _Nature Energy_ **3**:925-935
 
-L.J. Sweetlove; **J. Nielsen**; A.R. Fernie (2017) Engineering central metabolism – a  grand challenge for plant biologists. _Plant  J._ **90**:749-763  
-
-J. Geng; **J. Nielsen** (2017) _In silico _analysis  of human metabolism: Reconstruction, contextualization and application. _Curr. Op. Systems Biol._ **2**:28-37  
-
-**J. Nielsen** (2017) Systems Biology of Metabolism: A Driver for Developing Personalized and  Precision Medicine. _Cell Met._ **25**:572-579  
-
-J.C. Nielsen; **J. Nielsen** (2017) Development of fungal cell factories for the  production of secondary metabolites: linking genomics and metabolism. _Synth. Systems Biotechnol._ **2**:5-12  
-
-G. Wang; M. Huang; **J. Nielsen** (2017) Exploring the potential  of _Saccharomyces cerevisiae _for  biopharmaceutical protein production. _Curr.  Opion. Biotechnol._ **48**:77-84  
-
-**J. Nielsen** (2017) Systems Biology of Metabolism. _Ann.  Rev. Biochem._ **86**:245-275  
-
-J.L. Robinson; **J. Nielsen** (2017) Anticancer drug discovery through genome-scale  metabolic modeling. _Curr. Opion. Syst.  Biol._ **4**:1-8  
-
-**J. Nielsen**; J.  Archer; V. Bajic; T. Gojobori; I. Mijakovic (2017) Building a biobased industry  in the Middle East through harnessing the potential of the Red See  biodiversity. _Appl. Microbiol.  Biotechnol._, in press  
-
-D. Cook; **J. Nielsen** (2017) Genome-scale metabolic models applied to human  health and disease. _WIRE Systems Biol.  Med._ **9**:e1393  
-
-X. Chen; C. Gao; L. Guo; G. Hu; Q.  Luo; J. Liu; **J. Nielsen**; J. Chen; L.  Liu (2017) DCEO Biotechnology: Tools to Design, Construct, Evaluate and  Optimize the Metabolic Pathway for Biosynthesis of Chemicals. _Chem. Rev._, in press  
-
-A. Mardinoglu; J. Boren; U. Smith; M.  Uhlen; **J. Nielsen** (2017) The  employment of systems biology in gastroenterology and hepatology. _Nature Rev. Gastro. Hep._, in press  
-
-R. Benfeitas; M. Uhlen; **J. Nielsen**; A. Mardinoglu (2017) New  challenges to study heterogeneity in cancer redox metabolism. _Fron. Cell Develop. Biol. _**5**:65  
-
-J. Bosley; C. Boren; S. Lee; M.  Grøtli; **J. Nielsen**; M. Uhlen; J.  Boren; A. Mardinoglu (2017) Improving economics of NASH/NAFLD treatment through  the use of systems biology. _Drug Discov.  Today_ **22**:1532-1538  
-
-Z. Gong; **J. Nielsen**; Y. Zhou (2017) Engineering robustness of microbial cell  factories. _Biotechnol. J._ **12**:1700014  
-
-K. Campbell; J. Xia; **J. Nielsen** (2017) The impact of systems  biology on bioprocessing. _Trends Biotechnol._ **35**:1156-1168  
-
-Y. Zhang; **J. Nielsen**; Z. Liu (2017) Engineering yeast metabolism for  production of terpenoids for use a perfume ingredients, pharmaceuticals, and  biofuels. _FEMS Yeast Res._, in press  
+R. Ferreira; A. Limeta; **J. Nielsen** (2018) Tackling cancer with yeast based technologies. _Trends Biotechnol._ **37**:592-603
+  
 
 <br/>
 #### Commentaries and Short Papers
