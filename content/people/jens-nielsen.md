@@ -270,7 +270,7 @@ Current affiliated post docs and senior researchers 	33
 <br/>
 #### Publications
 
-##### Recent publications
+#### _Recent publications_
 
 #### Research papers in international journals with peer review
 
@@ -322,7 +322,7 @@ T.I. Henriksen; L.V. Wigge; **J. Nielsen**; B.K. Pedersen; M. Sandri; C. Scheele
 
 P. Das; S. Marcisauskas; B. Ji; **J. Nielsen** (2019) Metagenomic analysis of bile salt biotransformation in the human gut microbiome. _BMC Genom._, in press
 
-M. Thierry; P. Holland; **J. Nielsen**; M. Barberis (2019) ChIP-exo analysis highlights Fkh1 and Fkh2 transcription factors as hubs that integrate multi-scale networks in budding yeast. _Nuc. Acid Res._, in press
+M. Thierry; P. Holland; **J. Nielsen**; M. Barberis (2019) ChIP-exo analysis highlights Fkh1 and Fkh2 transcription factors as hubs that integrate multi-scale networks in budding yeast. _Nuc. Acid Res._, in press  
 
 
 ##### 2018
@@ -412,7 +412,7 @@ Y. Hu; Z. Zhu; **J. Nielsen**; V. Siewers (2019) Engineering _Saccharomyces cere
 
 M. Kumar; B. Ji; K. Zengler; **J. Nielsen** (2019) Modeling approaches for studying the gut microbiota. _Nature Microbiol._, in press
 
-Y. Liu; **J. Nielsen** (2019) Recent trends in metabolic engineering of microbial chemical factories. _Curr. Op. Biotechnol._, in press
+Y. Liu; **J. Nielsen** (2019) Recent trends in metabolic engineering of microbial chemical factories. _Curr. Op. Biotechnol._, in press  
 
 
 ##### 2018
@@ -431,7 +431,7 @@ Y. Zhang; **J. Nielsen**; L. Zihe (2018) Metabolic engineering of _Saccharomyces
 
 Y. Zhou; E. Kerkhoven; **J. Nielsen** (2018) Barriers and opportunities in bio-based production of hydrocarbons. _Nature Energy_ **3**:925-935
 
-R. Ferreira; A. Limeta; **J. Nielsen** (2018) Tackling cancer with yeast based technologies. _Trends Biotechnol._ **37**:592-603
+R. Ferreira; A. Limeta; **J. Nielsen** (2018) Tackling cancer with yeast based technologies. _Trends Biotechnol._ **37**:592-603  
   
 
 <br/>
@@ -443,9 +443,9 @@ R. Ferreira; A. Limeta; **J. Nielsen** (2018) Tackling cancer with yeast based t
 
 **J. Nielsen** (2019) Cell factory engineering for improved production of natural products. _Nat. Prod. Rep._, in press
 
-**J. Nielsen** (2019) Antibiotic lethality is impacted by nutrient availabilities: New insights from machine learning. _Cell_, in press
+**J. Nielsen** (2019) Antibiotic lethality is impacted by nutrient availabilities: New insights from machine learning. _Cell_, in press  
   
 
 ##### 2018
 
-A. Nilsson; J.R. Haanstra; B. Teusink; **J. Nielsen** (2018) Metabolite depletion affects flux profiling of  cell lines. _Trends Biochem. Sci._ **43**:395-397
+A. Nilsson; J.R. Haanstra; B. Teusink; **J. Nielsen** (2018) Metabolite depletion affects flux profiling of  cell lines. _Trends Biochem. Sci._ **43**:395-397  
