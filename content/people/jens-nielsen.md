@@ -437,12 +437,15 @@ R. Ferreira; A. Limeta; **J. Nielsen** (2018) Tackling cancer with yeast based t
 <br/>
 #### Commentaries and Short Papers
 
+##### 2019
+
+**J. Nielsen** (2019) Designer Microbes Serving Society. _Cell Met._ **29**:509
+
+**J. Nielsen** (2019) Cell factory engineering for improved production of natural products. _Nat. Prod. Rep._, in press
+
+**J. Nielsen** (2019) Antibiotic lethality is impacted by nutrient availabilities: New insights from machine learning. _Cell_, in press
+  
+
 ##### 2018
 
-A. Nilsson; J.R. Haanstra; B. Teusink; **J. Nielsen** (2018) Metabolite depletion affects flux profiling of  cell lines. _Trends Biochem. Sci._, in  press  
-
-##### 2017
-
-**J. Nielsen** (2017) Built on stable catalysts. _Nature Microbiol._ **2**:17085  
-
-A. Nilsson; **J. Nielsen**; B. Palsson (2017) Metabolic models of protein allocation call for  the Kinetome. _Cell Systems_ **5**:538-541 </span>
+A. Nilsson; J.R. Haanstra; B. Teusink; **J. Nielsen** (2018) Metabolite depletion affects flux profiling of  cell lines. _Trends Biochem. Sci._ **43**:395-397
