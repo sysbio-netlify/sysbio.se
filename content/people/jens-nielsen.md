@@ -272,7 +272,7 @@ Current affiliated post docs and senior researchers 	33
 #### Publications
 
 #### _Recent publications_
-
+<br/>
 #### Research papers in international journals with peer review
 <br/>
 
