@@ -35,7 +35,7 @@ template: people/profile
 2012-2017 	**Adjunct Professor**, Department of Biotechnology, Royal Institute of Technology (KTH), Sweden  
 2013-2019 	**Chief Science Officer**, Novo Nordisk Foundation Center for Biosustainability, DTU, Denmark  
 2015 	**Founding Head of Department**, Department of Biology and Biological Engineering, Chalmers, Sweden (served 9 months as Head of Department and structured a department of 150 people)  
-2016- 	**Adjunct Professor**, Beijing University of Chemical Technology (BUCT), China 
+2016- 	**Adjunct Professor**, Beijing University of Chemical Technology (BUCT), China   
 2019- 	**CEO**, BioInnovation Institute, Copenhagen, Denmark  
 
 <br/>
@@ -64,19 +64,19 @@ template: people/profile
 2011-2012 	**Member of Industrial Biotechnology and Bioenergy Strategy Advisory Panel**, BBSRC, UK  
 2011 	**Presidential appointed evaluator of Humbolt University**, Germany  
 2011 	**Member of DoE Evaluation Panel for Joint Bioenergy Institute**, USA  
-2011- 	**Swedish Delegate in International Commission of Yeast (ICY)  
+2011- 	**Swedish Delegate in International Commission of Yeast (ICY)**  
 2011- 	**National Reference Committee**, Science for Life Laboratory, Stockholm, Sweden  
 2012-2014 	**Scientific Advisory Board Universeum Science Museum**, Gothenburg, Sweden  
 2012- 	**Founding president of International Metabolic Engineering Society**, USA  
-2012 	**4th Most cited European researcher in the field of Mycology  
+2012 	**4<sup>th</sup> Most cited European researcher in the field of Mycology**  
 2012-2013 	**Evaluation panel of Academy of Finland**, Finland  
 2012-2014 	**International Advisory Board**, Thailands National Center for Genetic Engineering  and Biotechnology, Bangkok, Thailand  
 2014 	**Scientific Advisory Board**, Energy Biosciences Institute, UC Berkeley, Berkeley, USA  
 2015- 	**Advisory Board**, Gothia Forum, Sahlgrenska University Hospital, Gothenburg, Sweden  
 2016- 	**Director of Life Science**, Beijing Advanced Center for Soft Matter Science and Engineering, Beijing University of Chemical Technology, China  
-2016- 	**Advisory Committee**, Joint Bioenergy Institute, Lawrence Berkeley Laboratory, USA
-2016- 	**Committee chairma** for Novozymes Award for Excellence in Biochemical and Chemical Engineering, Novozymes, Denmark 
-2016- 	**Novozymes Prize award committee**, Novo Nordisk Foundation, Denmark (chairman since 2018)   
+2016- 	**Advisory Committee**, Joint Bioenergy Institute, Lawrence Berkeley Laboratory, USA  
+2016- 	**Committee chairma** for Novozymes Award for Excellence in Biochemical and Chemical Engineering, Novozymes, Denmark   
+2016- 	**Novozymes Prize award committee**, Novo Nordisk Foundation, Denmark (chairman since 2018)     
 2018- 	**F1000 Faculty**, F1000Prime  
 
 <br/>
