@@ -219,6 +219,24 @@ Paulo Gonçalves Teixeira:\
 Jichen Bao:\
 [Engineering the Secretory Pathway for Recombinant Protein Secretion in _Saccharomyces cerevisiae_](/img/thesis_Jichen-Bao.pdf) (ISBN 978-91-7597-598-6)
 
+##### 2019
+
+Avlant Nilsson:  
+[Constraint-based modeling of metabolism - interpreting predictions of growth and ATP synthesis in human and yeast](https://www.sysbio.se/img/thesis_Avlant-Nilsson.pdf) (ISBN 978-91-7597-853-6)
+
+Parizad Babaei:  
+[_In silico_ analysis of microbial communities through constraint-based metabolic modelling](https://www.sysbio.se/img/thesis_Parizad-Babaei.pdf) (ISBN 978-91-7597-876-5)
+
+Benjamín José Sánchez Barja:  
+Computing abundance constraints in _Saccharomyces cerevisiae_’s metabolism 
+(ISBN 978-91-7597-863-5)
+
+Promi Das:  
+[Systems and Synthetic Biology: ​“Mining human gut microbial metabolism through _in vitro_ and _in silico_ approaches”](https://www.sysbio.se/img/thesis_Promi-Das.pdf) (ISBN 978-91-7597-875-8)
+
+Alexandra Bergman:  
+[Evaluation of precursor and cofactor engineering strategies influencing fatty acid metabolism in _Saccharomyces cerevisiae_] (https://www.sysbio.se/img/thesis_Alexandra-Bergman.pdf) (ISBN 978-91-7597-868-0)
+
 <br/>
 <br/>
 
