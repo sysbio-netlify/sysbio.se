@@ -228,7 +228,7 @@ Parizad Babaei:
 [_In silico_ analysis of microbial communities through constraint-based metabolic modelling](https://www.sysbio.se/img/thesis_Parizad-Babaei.pdf) (ISBN 978-91-7597-876-5)
 
 Benjamín José Sánchez Barja:  
-Computing abundance constraints in _Saccharomyces cerevisiae_’s metabolism 
+Computing abundance constraints in _Saccharomyces cerevisiae’s_ metabolism 
 (ISBN 978-91-7597-863-5)
 
 Promi Das:  
