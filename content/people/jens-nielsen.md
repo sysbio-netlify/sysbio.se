@@ -323,7 +323,7 @@ T.I. Henriksen; L.V. Wigge; **J. Nielsen**; B.K. Pedersen; M. Sandri; C. Scheele
 P. Das; S. Marcisauskas; B. Ji; **J. Nielsen** (2019) Metagenomic analysis of bile salt biotransformation in the human gut microbiome. _BMC Genom._, in press
 
 M. Thierry; P. Holland; **J. Nielsen**; M. Barberis (2019) ChIP-exo analysis highlights Fkh1 and Fkh2 transcription factors as hubs that integrate multi-scale networks in budding yeast. _Nuc. Acid Res._, in press  
-
+<br/>
 
 ##### 2018
 
@@ -413,7 +413,7 @@ Y. Hu; Z. Zhu; **J. Nielsen**; V. Siewers (2019) Engineering _Saccharomyces cere
 M. Kumar; B. Ji; K. Zengler; **J. Nielsen** (2019) Modeling approaches for studying the gut microbiota. _Nature Microbiol._, in press
 
 Y. Liu; **J. Nielsen** (2019) Recent trends in metabolic engineering of microbial chemical factories. _Curr. Op. Biotechnol._, in press  
-
+<br/>
 
 ##### 2018
 
@@ -444,7 +444,7 @@ R. Ferreira; A. Limeta; **J. Nielsen** (2018) Tackling cancer with yeast based t
 **J. Nielsen** (2019) Cell factory engineering for improved production of natural products. _Nat. Prod. Rep._, in press
 
 **J. Nielsen** (2019) Antibiotic lethality is impacted by nutrient availabilities: New insights from machine learning. _Cell_, in press  
-  
+<br/>  
 
 ##### 2018
 
