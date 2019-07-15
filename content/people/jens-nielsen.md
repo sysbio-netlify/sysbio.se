@@ -339,15 +339,15 @@ D. Bergenholm; M. Gossing; Y. Wei; V.  Siewers; **J. Nielsen** (2018)  Modulatio
 
 A. Mardinoglu; H. Wu; E. Bjornson; C.  Zhang; A. Hakkarainen; S.M. Räsänen; S. Lee; R.M. Mancina; M. Bergentall; K.H.  Pietiläinen; S. Söderlund; N. Matikainen; M. Ståhlman; P.-O. Bergh; M. Adiels;  B.D. Piening; M. Graner; N. Lundbom; K.J. Williams; S. Romeo; **J. Nielsen**; M. Snyder; M. Uhlen; G.  Bergström; R. Perkins; H.-U. Marschall; F. Bäckhed; M.-R. Taskinen; J. Boren  (2018) An integrated understanding of the rapid metabolic benefits of a  carbohydrate restricted diet on hepatic steatosis in humans. _Cell Metab._ **27**:559-571  
 
-Y. Zhou; Y. Hu; Z. Zhu; V. Siewers; **J. Nielsen** (2018) Engineering of  1-alkene biosynthesis and secretion by dynamic regulation in yeast. _ACS Syn. Biol._, in press  
+Y. Zhou; Y. Hu; Z. Zhu; V. Siewers; **J. Nielsen** (2018) Engineering of  1-alkene biosynthesis and secretion by dynamic regulation in yeast. _ACS Syn. Biol._ **7**:584-590  
 
-R. Ferreira; P.G. Teixeira; V. Siewers; **J. Nielsen** (2018) Redirection of lipid  flux towards phospholipids in yeast increases fatty acid turnover and  secretion. _Proc. Nat. Acad. Sci. USA_,  in press  
+R. Ferreira; P.G. Teixeira; V. Siewers; **J. Nielsen** (2018) Redirection of lipid  flux towards phospholipids in yeast increases fatty acid turnover and  secretion. _Proc. Nat. Acad. Sci. USA_ **115**:1262-1267  
 
-P. Jenjaroenpun; T. Wongsurawat; R.  Pereira; P. Patumcharoenpol; D.W. Ussery; **J.  Nielsen**; I. Nookaew (2018) Complete genomic and transcriptional landscape  analysis using third generation sequencing: A case study of _Saccharomyces cerevisiae_ CEN.PK113-7D. _Nuc. Acid Res._, in press  
+P. Jenjaroenpun; T. Wongsurawat; R.  Pereira; P. Patumcharoenpol; D.W. Ussery; **J.  Nielsen**; I. Nookaew (2018) Complete genomic and transcriptional landscape  analysis using third generation sequencing: A case study of _Saccharomyces cerevisiae_ CEN.PK113-7D. _Nuc. Acid Res._ **46**:e38  
 
-A. Azimi; S. Caramuta; R. Jafari; B.S.  Ludlow; J. Boström; J. Robinson; F. Edfors; R. Tuominen; **J. Nielsen**; J. Hansson; S.E. Brage; M. Altun; J. Lehtiö; M. Uhlen;  G. Maddalo (2018) Targeting CDK2 overcomes melanoma reistance against BRAF and  Hsp90 inhibitors. _Mol. Systems Biol._,  in press  
+A. Azimi; S. Caramuta; R. Jafari; B.S.  Ludlow; J. Boström; J. Robinson; F. Edfors; R. Tuominen; **J. Nielsen**; J. Hansson; S.E. Brage; M. Altun; J. Lehtiö; M. Uhlen;  G. Maddalo (2018) Targeting CDK2 overcomes melanoma reistance against BRAF and  Hsp90 inhibitors. _Mol. Systems Biol._ **14**:e7858  
 
-Y. Wei; D. Bergenholm; M. Gossing; V.  Siewers; **J. Nielsen** (2018)  Expression of cocoa genes in _Saccharomyces  cerevisiae_ improves cocoa butter production. _Microb. Cell Fac._, in press  
+Y. Wei; D. Bergenholm; M. Gossing; V.  Siewers; **J. Nielsen** (2018)  Expression of cocoa genes in _Saccharomyces  cerevisiae_ improves cocoa butter production. _Microb. Cell Fac._ **17**:11  
 
 R. Ferreira; P.G. Teixeira; M. Gossing;  F. David; V. Siewers; **J. Nielsen** (2018)  Metabolic engineering of _Saccharomyces  cerevisiae_ for overproduction of triacylglycerols. _Met. Eng. Com._ **6**:22-27  
 
@@ -355,11 +355,45 @@ D. Carmona-Gutierrez;  M.A. Bauer; A. Zimmermann; A. Aguilera; N. Austriaco; K. 
 
 J. Bao; M.  Huang; D. Petranovic; **J. Nielsen** (2018) Balanced trafficking between the  ER and the Golgi apparatus increases protein secretion in yeast. _AMB Express_ **8**:37   
 
-P. Das; B. Ji; P. Kovatcheva-Datchary; F. Bäckhed; **J. Nielsen** (2018) _In vitro_ co-cultures of human  gut bacterial species as predicted from co-occurrence network analysis. _PLOS One_, in press   
+P. Das; B. Ji; P. Kovatcheva-Datchary; F. Bäckhed; **J. Nielsen** (2018) _In vitro_ co-cultures of human  gut bacterial species as predicted from co-occurrence network analysis. _PLOS One_ **13**:e0195161   
 
-F. Gatto; K.A.  Blum; S.S. Hosseini; M. Ghanaat; M. Kashan; F. Maccari; F. Galeotti; J. Hsieh;  N. Volpi; A.A. Hakimi; **J. Nielsen** (2018)  Plasma glycosaminoglycans as diagnostic and prognostic biomarkers in surgically  treated renal cell carcinoma. _Eur. Urol.  Onc._, in press  
+F. Gatto; K.A.  Blum; S.S. Hosseini; M. Ghanaat; M. Kashan; F. Maccari; F. Galeotti; J. Hsieh;  N. Volpi; A.A. Hakimi; **J. Nielsen** (2018)  Plasma glycosaminoglycans as diagnostic and prognostic biomarkers in surgically  treated renal cell carcinoma. _Eur. Urol.  Onc._ **1**:364-377  
 
-J. Maury; S.  Kannan; N.B. Jensen; F.K. Öberg; K.R. Kildegaard; J. Förster; **J. Nielsen**; C.T. Workman; I. Borodina  (2018) Glucose-dependent promoters for dynamic regulation of metabolic pathways. _Fron. Bioeng. Biotechnol._, in press  
+J. Maury; S.  Kannan; N.B. Jensen; F.K. Öberg; K.R. Kildegaard; J. Förster; **J. Nielsen**; C.T. Workman; I. Borodina  (2018) Glucose-dependent promoters for dynamic regulation of metabolic pathways. _Fron. Bioeng. Biotechnol._ **6**:63    
+
+P. Teixeira; F. David; V. Siewers; **J. Nielsen** (2018) Engineering lipid droplet assembly mechanisms for improved triacylglycerols accumulation in _Saccharomyces cerevisiae_. _FEMS Yeast Res._ **18**:foy060
+
+S. Prigent; J.C. Nielsen; J.C. Frisvad; **J. Nielsen** (2018) Reconstruction of 24 _Penicillium_ genome-scale metabolic models shows diversity based on their secondary metabolism. _Biotechnol. Bioeng._ **115**:2604-2612
+
+Z. Dai; M. Huang; Y. Chen; V. Siewers; **J. Nielsen** (2018) Global rewiring of cellular metabolism renders _Saccharomyces cerevisiae_ Crabtree-negative. _Nature Com._ **9**:3059
+
+G. Bidkhori; R. Benfeitas; E. Elmas; M.N. Karadoudi; M. Arif; M. Uhlen; **J. Nielsen**; A. Mardinoglu (2018) Metabolic network-based identification and prioritization of anti-cancer targets based on expression data in hepatocellular carcinoma. _Fron. Phys._ **9**:916
+
+T. Yu; Y. Zhou; M. Huang; Q. Liu; R. Pereira; F. David; **J. Nielsen** (2018) Reprogramming yeast metabolism from alcoholic fermentation to lipogenesis. _Cell_ **174**:1-10
+
+D. Bergenholm; G. Liu; P. Holland; **J. Nielsen** (2018) Reconstruction of a global transcriptional regulatory network for control of lipid metabolism in yeast using ChIP-exo. _mSystems_ **3**:e00215-17
+
+P. Babaei; S. Shoaei; B. Ji; **J. Nielsen** (2018) Challenges in modeling the human gut microbiome. _Nature Biotechnol._ **16**:682-686
+
+M. Kumar; B. Ji; P. Babaei; P. Das; D. Lappa; G. Ramakrishnan; T.E. Fox; R. Haque; W.A. Petri Jr.; F. Bäckhed; **J. Nielsen** (2018) Gut microbiota dysbiosis is associated with malnutrition and reduced plasma amino acid levels: Lessons from genome-scale metabolic modeling. _Met. Eng._ **49**:128-142
+
+T.M. Souza-Moreira; C. Navarrete; X. Chen; C.F. Zanelli; S.R. Valentini; M. Furlan; **J. Nielsen**; A. Krivoruchko (2018) Screening of 2A peptides for polycistronic gene expression in yeast. _FEMS Yeast Res._ **18**:foy036
+
+L. Ouyang; P. Holland; H. Lu; D. Bergenholm; **J. Nielsen** (2018) Integrated analysis of the yeast NADPH-regulator Stb5 reveals distinct differences in NADPH requirements and regulation in different states of yeast metabolism. _FEMS Yeast Res._ **18**:foy091
+
+M. Gossing; A. Smialowska; **J. Nielsen** (2018) Impact of forced fatty acid synthesis on metabolism and physiology of _Saccharomyces cerevisiae_. _FEMS Yeast Res._ **18**:foy096
+
+H. Wang; S. Marcisauskas; D. Hermansson; R. Agren; **J. Nielsen**; E. Kerkhoven (2018) The RAVEN Toolbox 2.0: A versatile platform for metabolic network reconstruction and a case study on _Streptomyces coelicolor_. _PLOS Comp. Biol._ **14**:e1006541
+
+M. Huang; G. Wang; J. Qin; D. Petranovic; **J. Nielsen** (2018) Engineering the protein secretory pathway of _Saccharomyces cerevisiae_ enables improved protein production. _Proc. Nat. Acad. Sci. USA_ **115**:E11025-E11032
+
+K. Pomraning; E. Bredeweg; E. Kerkhoven; K. Berrie; S. Haridas; H. Hundley; K. LaButti; A. Lipzen; M. Yan; J. Magnuson; B. Simmons; I. Grigoriev; **J. Nielsen**; S. Baker (2018) Regulation of yeast to hyphae transition in _Yarrowia lipolytica_. _mSphere_ **3**:e00541-18
+
+G. Bidkhori; R. Benfeitas; M. Klevstig; **J. Nielsen**; M. Uhlen; J. Boren; A. Mardinoglu (2018) Metabolic network stratification of the hepatocellular carcinoma reveals three distrinct tumor subtypes. _Proc. Nat. Acad. Sci. USA_, in press  
+
+Z.P. Guo; S. Khoomrung; **J. Nielsen**; L. Olsson (2018) Changes in lipid metabolism convey acid tolerance in _Saccharomyces cerevisiae_. _Biotechnol. Biofuels_ **11**:297
+
+S. Grijseels; C. Pohl; J.C. Nielsen; Z. Wasil; Y. Nygård; **J. Nielsen**; J.C. Frisvad; K.F. Nielsen; M. Workman; T.O. Larsen; A.J.M. Driessen; R.J.N. Frandsen (2018) Identification of the decumbenone biosynthetic gene cluster in _Penicillium decumbens_ and the importance for production of calbistrin. _Fun. Biol. Biotechnol._ **5**:18
 
 <br/>
 #### Reviews in international journals with peer review
