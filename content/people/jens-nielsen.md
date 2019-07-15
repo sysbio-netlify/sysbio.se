@@ -141,7 +141,7 @@ _Google Scholar: H-factor of 114; >60,000 citations and >33,000 citations since 
 Web of Science Highly Cited Researcher in 2015-2018_  
 558 	**Original Papers in Peer Reviewed Journals**  
 111 	**Review Papers in Peer Reviewed Journals**  
-30 	Commentaries in Peer Reviewed Journals  
+30 	**Commentaries in Peer Reviewed Journals**  
 46 	**Book Contributions**  
 3 	**Text books**: Bioreaction Engineering (1994,2003) (English & Chineese), Metabolic Engineering (1998) (English, Chineese & Japaneese), Metabolome Analysis (2007)  
 1 	**Monograph**  
