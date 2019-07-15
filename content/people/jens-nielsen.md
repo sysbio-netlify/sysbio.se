@@ -400,6 +400,19 @@ S. Grijseels; C. Pohl; J.C. Nielsen; Z. Wasil; Y. Nygård; **J. Nielsen**; J.C. 
 
 ##### 2019
 
+L. Zihe; Y. Zhang; **J. Nielsen** (2019) Synthetic biology of yeast. _Biochem._, in press
+
+X. Li; Y. Chen; **J. Nielsen** (2019) Harnessing xylose pathways for biofuels production. _Curr. Opion. Biotechnol._, in press
+
+**J. Nielsen** (2019) Yeast Cell Factory: Model Organism and Cell Factory. _Biotechnol. J._, in press
+
+T. Yu; Y. Dabirian; Q. Liu; V. Siewers; **J. Nielsen** (2019) Challenges and strategies for metabolic rewiring. _Curr. Op. Systems Biol._ **15**:30-38
+
+Y. Hu; Z. Zhu; **J. Nielsen**; V. Siewers (2019) Engineering _Saccharomyces cerevisiae_ cells for production of fatty acid derived biofuels and chemicals. _Open Biol._ **9**:190049
+
+M. Kumar; B. Ji; K. Zengler; **J. Nielsen** (2019) Modeling approaches for studying the gut microbiota. _Nature Microbiol._, in press
+
+Y. Liu; **J. Nielsen** (2019) Recent trends in metabolic engineering of microbial chemical factories. _Curr. Op. Biotechnol._, in press
 
 
 ##### 2018
