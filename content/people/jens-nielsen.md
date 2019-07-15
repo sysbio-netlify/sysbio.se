@@ -31,11 +31,12 @@ template: people/profile
 1998-2008 	**Professor**, BioCentrum, DTU, Denmark  
 2005-2011 	**Adjunct Professor**, Department of Biotechnology, NTNU, Norway  
 2008- 	**Professor**, Department of Chemical and Biological Engineering, Chalmers  
-2011- 	**Professor Scientific Director**, Novo Nordisk Foundation Center for Biosustainability, DTU, Denmark  
-2012- 	**Adjunct Professor**, Department of Biotechnology, Royal Institute of Technology (KTH), Sweden  
-2013- 	**Chief Science Officer**, Novo Nordisk Foundation Center for Biosustainability, DTU, Denmark  
+2011-2019 	**Professor**, Novo Nordisk Foundation Center for Biosustainability, DTU, Denmark  
+2012-2017 	**Adjunct Professor**, Department of Biotechnology, Royal Institute of Technology (KTH), Sweden  
+2013-2019 	**Chief Science Officer**, Novo Nordisk Foundation Center for Biosustainability, DTU, Denmark  
 2015 	**Founding Head of Department**, Department of Biology and Biological Engineering, Chalmers, Sweden (served 9 months as Head of Department and structured a department of 150 people)  
-2016- 	**Adjunct Professor**, Beijing University of Chemical Technology (BUCT), China  
+2016- 	**Adjunct Professor**, Beijing University of Chemical Technology (BUCT), China 
+2019- 	**CEO**, BioInnovation Institute, Copenhagen, Denmark  
 
 <br/>
 #### Academic Appointments and Merits  
@@ -70,10 +71,13 @@ template: people/profile
 2012 	**4th Most cited European researcher in the field of Mycology  
 2012-2013 	**Evaluation panel of Academy of Finland**, Finland  
 2012-2014 	**International Advisory Board**, Thailands National Center for Genetic Engineering  and Biotechnology, Bangkok, Thailand  
-2014- 	**Scientific Advisory Board**, Energy Biosciences Institute, UC Berkeley, Berkeley, USA  
+2014 	**Scientific Advisory Board**, Energy Biosciences Institute, UC Berkeley, Berkeley, USA  
 2015- 	**Advisory Board**, Gothia Forum, Sahlgrenska University Hospital, Gothenburg, Sweden  
 2016- 	**Director of Life Science**, Beijing Advanced Center for Soft Matter Science and Engineering, Beijing University of Chemical Technology, China  
-2016- 	**Advisory Committee**, Joint Bioenergy Institute, Lawrence Berkeley Laboratory, USA  
+2016- 	**Advisory Committee**, Joint Bioenergy Institute, Lawrence Berkeley Laboratory, USA
+2016- 	**Committee chairma** for Novozymes Award for Excellence in Biochemical and Chemical Engineering, Novozymes, Denmark 
+2016- 	**Novozymes Prize award committee**, Novo Nordisk Foundation, Denmark (chairman since 2018)   
+2018- 	**F1000 Faculty**, F1000Prime  
 
 <br/>
 #### Awards  
@@ -102,7 +106,9 @@ template: people/profile
 2011 	**College of Fellows of American Institute for Medical and Biological Engineering**, USA  
 2012 	**Member of Royal Society of Arts and Sciences in Gothenburg**, Sweden  
 2012 	**Fellow of the American Academy of Microbiology**, USA  
-2014 	**Member of the Royal Swedish Academy of Sciences**, Sweden  
+2014 	**Member of the Royal Swedish Academy of Sciences**, Sweden
+2019 	**National Academy of Sciences**, USA  
+2019 	**Royal Physiographic Society of Lund**, Sweden    
 
 <br/>
 #### Other Honors  
@@ -113,10 +119,11 @@ template: people/profile
 2014 	**William Chalmers Lecture**, Chalmers University of Technology, Sweden  
 2014 	**Honorary Professor**, Beijing University of Chemical Technology, Beijing, China  
 2015 	**Zhang Dayu Lectureship**, Dalian Institute for Chemical Physics, Chinese Academy of Science, China  
-2015 	**Thomson Reuter Highly Cited Researcher**  
-2016 	**Thomson Reuter Highly Cited Researcher**  
+2015, 2016 	**Highly Cited Researcher**, Thomson Reuter    
 2017 	**Honorary Professor**, East China University of Science and Technology, Shanghai, China  
-2017 	**Adjunct Professor**, Jiangnan University, Wuxi, China  
+2017 	**Adjunct Professor**, Jiangnan University, Wuxi, China 
+2017, 2018 	**Highly Cited Researcher**, Clarivate 
+2019 	**Honorary Professor**, Jiangnan University, Wuxi, China 
 
 <br/>
 #### Memberships in Societies  
@@ -130,20 +137,19 @@ template: people/profile
 
 <br/>
 #### Publications, Patents & Presentations  
-Web of Science: H-factor of 77; >26,000 citations and >3,500 citations in 2016  
-Google Scholar: H-factor of 103; >45,000 citations and >5,400 citations in 2016  
-Web of Science Highly Cited Researcher in 2015 and 2016  
-506 	**Original Papers in Peer Reviewed Journals**  
-98 	**Review Papers in Peer Reviewed Journals**  
-25 	Commentaries in Peer Reviewed Journals
+Google Scholar: H-factor of 114; >60,000 citations and >33,000 citations since 2014   
+Web of Science Highly Cited Researcher in 2015-2018  
+558 	**Original Papers in Peer Reviewed Journals**  
+111 	**Review Papers in Peer Reviewed Journals**  
+30 	Commentaries in Peer Reviewed Journals
 46 	**Book Contributions**  
 3 	**Text books**: Bioreaction Engineering (1994,2003) (English & Chineese), Metabolic Engineering (1998) (English, Chineese & Japaneese), Metabolome Analysis (2007)  
 1 	**Monograph**  
 4 	**Edited books**  
 38 	**Issue patents (12 patent families)**  
-30 	**Patent applications**  
-190 	**Invited oral presentations at international conferences**  
-103 	**Invited seminars at universities and companies**  
+33 	**Patent applications**  
+214 	**Invited oral presentations at international conferences**  
+129 	**Invited seminars at universities and companies**  
 
 <br/>
 #### Key Grants  
@@ -210,6 +216,7 @@ Web of Science Highly Cited Researcher in 2015 and 2016
 2016- 	**Applied and Environmental Microbiology**, Editorial Board  
 2017- 	**Cell Stress**, Editorial Board  
 2017- 	**Biotechnology and Bioprocess Engineering**, Editorial Board  
+2019- 	**Frontiers in Chemical Science and Engineering**, Editorial Board
 
 <br/>
 #### Teaching Experience  
@@ -218,12 +225,13 @@ Prof Nielsen has extensive experience with developing, organizing and running ne
 
 <br/>
 #### Mentoring  
-Main supervisor of graduated PhD students 	75  
-Main supervisor of current PhD students 	20  
-Co-supervisor of graduated PhD students (including visiting PhD students) 	39  
+Main supervisor of _graduated_ PhD students 	79  
+Main supervisor of _current_ PhD students 	25
+Examiner of _current_ PhD students 	7 
+Co-supervisor of graduated PhD students (including visiting PhD students and as Examiner) 	41  
 Current co-supervisor of PhD students 	1  
-Former affiliated post docs 	73  
-Current affiliated post docs and senior researchers 	28  
+Former affiliated post docs 	80  
+Current affiliated post docs and senior researchers 	33  
 
 <br/>
 #### Business Experience  
@@ -256,6 +264,7 @@ Current affiliated post docs and senior researchers 	28
 2011 	**Key Symposium on Systems Medicine**, Sweden, Chairman (\~100 delegates)  
 2013 	**Copenhagen Bioscience Conference**, Denmark, Co-Chairman (\~150 delegates)  
 2015 	**Copenhagen Bioscience Conference**, Denmark, Chairman (~150 delegates)  
+2017 	**Metabolic Engineering Summit**, Beijing, China (~600 delegates) 
 
 <br/>
 #### Publications
