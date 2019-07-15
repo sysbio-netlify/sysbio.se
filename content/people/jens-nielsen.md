@@ -106,8 +106,8 @@ template: people/profile
 2011 	**College of Fellows of American Institute for Medical and Biological Engineering**, USA  
 2012 	**Member of Royal Society of Arts and Sciences in Gothenburg**, Sweden  
 2012 	**Fellow of the American Academy of Microbiology**, USA  
-2014 	**Member of the Royal Swedish Academy of Sciences**, Sweden
-2019 	**National Academy of Sciences**, USA  
+2014 	**Member of the Royal Swedish Academy of Sciences**, Sweden  
+2019 	**National Academy of Sciences**, USA    
 2019 	**Royal Physiographic Society of Lund**, Sweden    
 
 <br/>
@@ -121,8 +121,8 @@ template: people/profile
 2015 	**Zhang Dayu Lectureship**, Dalian Institute for Chemical Physics, Chinese Academy of Science, China  
 2015, 2016 	**Highly Cited Researcher**, Thomson Reuter    
 2017 	**Honorary Professor**, East China University of Science and Technology, Shanghai, China  
-2017 	**Adjunct Professor**, Jiangnan University, Wuxi, China 
-2017, 2018 	**Highly Cited Researcher**, Clarivate 
+2017 	**Adjunct Professor**, Jiangnan University, Wuxi, China  
+2017, 2018 	**Highly Cited Researcher**, Clarivate   
 2019 	**Honorary Professor**, Jiangnan University, Wuxi, China 
 
 <br/>
@@ -137,11 +137,11 @@ template: people/profile
 
 <br/>
 #### Publications, Patents & Presentations  
-Google Scholar: H-factor of 114; >60,000 citations and >33,000 citations since 2014   
-Web of Science Highly Cited Researcher in 2015-2018  
+_Google Scholar: H-factor of 114; >60,000 citations and >33,000 citations since 2014   
+Web of Science Highly Cited Researcher in 2015-2018_  
 558 	**Original Papers in Peer Reviewed Journals**  
 111 	**Review Papers in Peer Reviewed Journals**  
-30 	Commentaries in Peer Reviewed Journals
+30 	Commentaries in Peer Reviewed Journals  
 46 	**Book Contributions**  
 3 	**Text books**: Bioreaction Engineering (1994,2003) (English & Chineese), Metabolic Engineering (1998) (English, Chineese & Japaneese), Metabolome Analysis (2007)  
 1 	**Monograph**  
@@ -192,7 +192,8 @@ Web of Science Highly Cited Researcher in 2015-2018
 2016-2020 	**DD-DeCaF**, Horizon2020 (8.5 MSEK)  
 2016-2020 	**PacMEN**, ITN Marie Curie, Horizon2020 (6 MSEK)  
 2017-2020 	**Biobased production of diesel and jetfuels**, Energimyndigheten (4 MSEK)  
-2017-2023 	**Systems biology of the eukaryal protein secretion pathway**, Stiftelsen for Strategisk Forskning (34 MSEK)  
+2017-2023 	**Systems biology of the eukaryal protein secretion pathway**, Stiftelsen for Strategisk Forskning (34 MSEK)    
+2018-2019 	**Proof-of-Concept of cancer biomarkers**, Knut and Alice Wallenberg Foundation (5 MSEK)  
 2018-2023 	**CellNova**, Vinnova (9 MSEK) (co-PI together)  
 
 <br/>
@@ -226,8 +227,8 @@ Prof Nielsen has extensive experience with developing, organizing and running ne
 <br/>
 #### Mentoring  
 Main supervisor of _graduated_ PhD students 	79  
-Main supervisor of _current_ PhD students 	25
-Examiner of _current_ PhD students 	7 
+Main supervisor of _current_ PhD students 	25  
+Examiner of _current_ PhD students 	7   
 Co-supervisor of graduated PhD students (including visiting PhD students and as Examiner) 	41  
 Current co-supervisor of PhD students 	1  
 Former affiliated post docs 	80  
