@@ -167,7 +167,9 @@ The taxi service is located just outside the exit on the left hand side.
 **Getting around**  
 The public transport in Gothenburg is run by [Västtrafik](https://www.vasttrafik.se/en/), please refer to them for times and schedules.
 
-Note: You cannot pay with cash on public transport, while only trams have machines that accept credit cards!
+You cannot pay with cash on public transport, while only trams have machines that accept credit cards!
+
+Most convenient is to use the [Västtrafik to go](https://www.vasttrafik.se/en/tickets/more-about-tickets/vasttrafik-to-go/) app ([iOS](https://apps.apple.com/gb/app/vasttrafik-to-go/id424903083)/[Android](https://play.google.com/store/apps/details?id=com.vaesttrafik.vaesttrafik)). You don't need to make an account (this requires a Swedish personal number), but be aware that your phone should be connected to the internet as long as your ticket is valid, so this only works with non-Swedish phones if you accept dataroaming.
 
 <small><a class="button" href="#">Back to top</a></small>  
 
