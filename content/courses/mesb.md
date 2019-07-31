@@ -17,7 +17,7 @@ This course is organized by the [Systems and Synthetic Biology](http://sysbio.se
 * Before the course, a detailed self-study plan will be distributed. It is important that the students study this material before the course to prepare themselves, as the lectures will be have a high pace and cover many different topics.  
 * The maximum number of students is set at 40.  
 * For the exercises, students should **bring their own laptop**, which should preferentially have MATLAB (license required) and R (freeware) installed.
-* All students are expected to **present a poster**.  
+* All students are expected to **present a poster**. The advised maximum size is A0 portrait (width x height: 841 x 1189 mm). Posters have to be put up on Tuesday morning before the lecture starts.
 * Upon request, an examination is available at the end of the course, while 5 ECTS are suggested for satisfactory completion.
 
 <small><a class="button" href="#">Back to top</a></small>  
@@ -169,7 +169,9 @@ The public transport in Gothenburg is run by [Västtrafik](https://www.vasttrafi
 
 You cannot pay with cash on public transport, while only trams have machines that accept credit cards!
 
-Most convenient is to use the [Västtrafik to go](https://www.vasttrafik.se/en/tickets/more-about-tickets/vasttrafik-to-go/) app ([iOS](https://apps.apple.com/gb/app/vasttrafik-to-go/id424903083)/[Android](https://play.google.com/store/apps/details?id=com.vaesttrafik.vaesttrafik)). You don't need to make an account (this requires a Swedish personal number), but be aware that your phone should be connected to the internet as long as your ticket is valid, so this only works with non-Swedish phones if you accept dataroaming.
+Most convenient is to use the [Västtrafik to go](https://www.vasttrafik.se/en/tickets/more-about-tickets/vasttrafik-to-go/) app ([iOS](https://apps.apple.com/gb/app/vasttrafik-to-go/id424903083)/[Android](https://play.google.com/store/apps/details?id=com.vaesttrafik.vaesttrafik)). You don't need to make an account (this requires a Swedish personal number), but be aware that your phone should be connected to the internet as long as your ticket is valid, so this only works with non-Swedish phones if you accept dataroaming. A ticket costs 28 kr and is valid for 90 min on all Västtrafik busses and trams inside Gothenburg. Your 5th ticket in 7 days with the app is [free](https://www.vasttrafik.se/en/frequently-asked-questions/questions-about-vasttrafik-to-go/What-did-aterbaring/)!
+
+Alternatively, you can get a contactless [pay-as-you-go](https://www.vasttrafik.se/en/tickets/more-about-tickets/pay-as-you-go/) Västtrafikkort travel card. This card can be bought and recharged in many shops (Pressbyrån, 7-Eleven, etc.). The fee structure is the same as for the app: 28 kr for 90 min inside Gothenburg.
 
 <small><a class="button" href="#">Back to top</a></small>  
 
