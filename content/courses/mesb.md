@@ -56,7 +56,7 @@ Note: Accommodation and travel are **not** included in the course fee, so plan y
 
 ## Contact & registration
 
-Please register by completing [**this form**](https://goo.gl/forms/vlUfuAFJTT5WSoHj2).
+<del>Please register by completing [**this form**]().</del>
 
 For any questions, please contact [Eduard Kerkhoven](mailto:eduardk@chalmers.se) or [Verena Siewers](mailto:siewers@chalmers.se).
 
