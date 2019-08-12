@@ -74,7 +74,7 @@ We are part of the Swedish Universities Metabolomics Infrastructure (hosted by U
 
 #### Publications
 
-[Full list of publications](/img/pub_jn1907.pdf) (PDF)
+[Full list of publications](/img/pub_jn1908.pdf) (PDF)
 <br/>
 <br/>
 
