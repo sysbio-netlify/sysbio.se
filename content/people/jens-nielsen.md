@@ -1,5 +1,5 @@
 ---
-name: 'Jens Nielsen, PhD, dr. tech.'
+name: 'Jens Nielsen, R., PhD, dr. techn.'
 title: jens-nielsen
 lastname: Nielsen
 picture: /img/pic_Jens-Nielsen.jpg
@@ -123,7 +123,8 @@ template: people/profile
 2017 	**Honorary Professor**, East China University of Science and Technology, Shanghai, China  
 2017 	**Adjunct Professor**, Jiangnan University, Wuxi, China  
 2017, 2018 	**Highly Cited Researcher**, Clarivate   
-2019 	**Honorary Professor**, Jiangnan University, Wuxi, China 
+2019 	**Honorary Professor**, Jiangnan University, Wuxi, China   
+2019 	**Ridder af Dannebrog** (Knight of the order of Dannebrog), Queen Margrethe II, Denmark 
 
 <br/>
 #### Memberships in Societies  
@@ -137,17 +138,17 @@ template: people/profile
 
 <br/>
 #### Publications, Patents & Presentations  
-_Google Scholar: H-factor of 114; >60,000 citations and >33,000 citations since 2014   
+_Google Scholar: H-factor of 115; >62,000 citations and >35,000 citations since 2014   
 Web of Science Highly Cited Researcher in 2015-2018_  
 558 	**Original Papers in Peer Reviewed Journals**  
-111 	**Review Papers in Peer Reviewed Journals**  
-30 	**Commentaries in Peer Reviewed Journals**  
+112 	**Review Papers in Peer Reviewed Journals**  
+31 	**Commentaries in Peer Reviewed Journals**  
 46 	**Book Contributions**  
 3 	**Text books**: Bioreaction Engineering (1994,2003) (English & Chineese), Metabolic Engineering (1998) (English, Chineese & Japaneese), Metabolome Analysis (2007)  
 1 	**Monograph**  
 4 	**Edited books**  
 38 	**Issue patents (12 patent families)**  
-33 	**Patent applications**  
+36 	**Patent applications**  
 214 	**Invited oral presentations at international conferences**  
 129 	**Invited seminars at universities and companies**  
 
@@ -226,13 +227,12 @@ Prof Nielsen has extensive experience with developing, organizing and running ne
 
 <br/>
 #### Mentoring  
-Main supervisor of _graduated_ PhD students 	79  
-Main supervisor of _current_ PhD students 	25  
+Main supervisor of _graduated_ PhD students 	83  
+Main supervisor of _current_ PhD students 	21  
 Examiner of _current_ PhD students 	7   
-Co-supervisor of graduated PhD students (including visiting PhD students and as Examiner) 	41  
-Current co-supervisor of PhD students 	1  
-Former affiliated post docs 	80  
-Current affiliated post docs and senior researchers 	33  
+Co-supervisor of graduated PhD students (including visiting PhD students and as Examiner) 	46  
+Former affiliated post docs 	87  
+Current affiliated post docs and senior researchers 	27  
 
 <br/>
 #### Business Experience  
