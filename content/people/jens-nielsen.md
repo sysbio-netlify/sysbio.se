@@ -10,9 +10,9 @@ flags:
 person-category: A Faculty
 template: people/profile
 ---
-* [Curriculum Vitae](/img/cv_jn1907.pdf) (PDF)
+* [Curriculum Vitae](/img/cv_jn1908.pdf) (PDF)
 * [Short Biography](/img/bio_jnshort_1801.pdf) (PDF)
-* Publications - [selection on this website](#publications) ([PDF](/img/pub_jn1907.pdf) for download full list of publications)  
+* Publications - [selection on this website](#publications) ([PDF](/img/pub_jn1908.pdf) for download full list of publications)  
 
 <br/>
 #### Education and degrees  
