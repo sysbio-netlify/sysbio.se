@@ -306,25 +306,31 @@ P. Das; P. Babaei; **J. Nielsen** (2019) Metagenomic analysis of microbe-mediate
 
 J.C. Nielsen; S. Prigent; S. Grijseels; M. Workman; B. Ji; **J. Nielsen** (2019) Comparative transcriptome analysis shows conserved metabolic regulations during production of secondary metabolites in filamentous fungi. _mSystems_ **4**:e00012-19
 
-I.A. Tiukova, M.E. Pettersson, M.P. Hoeppner; R.-A. Olsen; M. Käller; **J. Nielsen**; J. Dainat; H. Lantz; J. Söderberg; V. Passoth (2019) Chromosomal genome assembly of the ethanol production strain CBS 11270 indicates a highly dynamic genome structure in the yeast species Brettanomyces bruxellensis. _PLOS One_, in press
+G. Wang; G. S.M. Björk; M. Huang; Q. Liu; K. Campbell; **J. Nielsen**; H.N. Jönsson; D. Petranovic (2019) RNAi expression tuning, microfluidic screening, and genome recombineering for improved protein production in _Saccharomyces cerevisiae_. _Proc. Nat. Acad. Sci. USA_ **116**:9324-9332
 
-G. Wang; G. S.M. Björk; M. Huang; Q. Liu; K. Campbell; **J. Nielsen**; H.N. Jönsson; D. Petranovic (2019) RNAi expression tuning, microfluidic screening, and genome recombineering for improved protein production in _Saccharomyces cerevisiae_. _Proc. Nat. Acad. Sci. USA_, in press
+A. Bergman; D. Vitay; J. Hellgren; Y. Chen; **J. Nielsen**; V. Siewers (2019) Effects of overexpression of STB5 in _Saccharomyces cerevisiae_ on fatty acid biosynthesis, physiology and transcriptome. _FEMS Yeast Res._ **19**:foz027
 
-A. Bergman; D. Vitay; J. Hellgren; Y. Chen; **J. Nielsen**; V. Siewers (2019) Effects of overexpression of STB5 in _Saccharomyces cerevisiae_ on fatty acid biosynthesis, physiology and transcriptome. _FEMS Yeast Res._, in press
+P. Holland; D. Bergenholm; C. Börlin; G. Liu; **J. Nielsen** (2019) Predictive models of eukaryotic transcriptional regulation reveals changes in transcription factor roles and promoter usage between metabolic conditions. _Nuc. Acid Res._ **47**:4986-5000
 
-P. Holland; D. Bergenholm; C. Börlin; G. Liu; **J. Nielsen** (2019) Predictive models of eukaryotic transcriptional regulation reveals changes in transcription factor roles and promoter usage between metabolic conditions. _Nuc. Acid Res._, in press
+R. Pereira; P. Vilaca; P. Maia; **J. Nielsen**; I. Rocha (2019) TDPS – Turnover dependent phenotypic simulation: a quantitative constraint-based simulation method that accommodates all main strain design strategies. _ACS Syn. Biol._ **8**:976-988
 
-R. Pereira; P. Vilaca; P. Maia; **J. Nielsen**; I. Rocha (2019) TDPS – Turnover dependent phenotypic simulation: a quantitative constraint-based simulation method that accommodates all main strain design strategies. _ACS Syn. Biol._, in press
+I.A. Tiukova; M.E. Pettersson; M.P. Hoeppner; R.-A. Olsen; M. Käller; **J. Nielsen**; J. Dainat; H. Lantz; J. Söderberg; V. Passoth (2019) Chromosomal genome assembly of the ethanol production strain CBS 11270 indicates a highly dynamic genome structure in the yeast species Bretanomyces bruxellensis. _PLOS One_ **14**:e0215077
 
-I.A. Tiukova; M.E. Pettersson; M.P. Hoeppner; R.-A. Olsen; M. Käller; **J. Nielsen**; J. Dainat; H. Lantz; J. Söderberg; V. Passoth (2019) Chromosomal genome assembly of the ethanol production strain CBS 11270 indicates a highly dynamic genome structure in the yeast species Bretanomyces bruxellensis. _PLOS One_, in press
-
-I.A. Tiukova; J. Brandenburg; J. Blomqvist; S. Samples; N. Mikkelsen; M. Skaugen; M.Ø. Arntzen; **J. Nielsen**; M. Sandgren; E.J. Kerkhoven (2019) Proteome analysis of xylose metabolism in Rhodotorula toruloides during lipid production. _Biotechnol. Bioeng._, in press
+I.A. Tiukova; J. Brandenburg; J. Blomqvist; S. Samples; N. Mikkelsen; M. Skaugen; M.Ø. Arntzen; **J. Nielsen**; M. Sandgren; E.J. Kerkhoven (2019) Proteome analysis of xylose metabolism in Rhodotorula toruloides during lipid production. _Biotechnol. Bioeng._ **12**:137
 
 T.I. Henriksen; L.V. Wigge; **J. Nielsen**; B.K. Pedersen; M. Sandri; C. Scheele (2019) Dysregulated autophagy in muscle precursor cells from humans with type 2 diabetes. _Sci. Rep._ **9**:8169
 
-P. Das; S. Marcisauskas; B. Ji; **J. Nielsen** (2019) Metagenomic analysis of bile salt biotransformation in the human gut microbiome. _BMC Genom._, in press
+P. Das; S. Marcisauskas; B. Ji; **J. Nielsen** (2019) Metagenomic analysis of bile salt biotransformation in the human gut microbiome. _BMC Genom._ **20**:517
 
 M. Thierry; P. Holland; **J. Nielsen**; M. Barberis (2019) ChIP-exo analysis highlights Fkh1 and Fkh2 transcription factors as hubs that integrate multi-scale networks in budding yeast. _Nuc. Acid Res._, in press  
+
+H. Lu; F. Li; B.J. Sanchez; Z. Zhu; G. Li; I. Domenzain; S. Marcisauskas; P.M. Anton; D. Lappa; C. Lieven; M.E. Beber; N. Sonnenschein; E.J. Kerkhoven; J. Nielsen (2019) A consensus S. cerevisiae metabolic model Yeast8 and its ecosystem for comprehensively probing cellular metabolism. Nature Com., in press
+
+Y. Dabirian; P.G. Teixeira; J. Nielsen; V. Siewers; F. David (2019) FadR-based biosensor assisted screening for genes enhancing fatty acyl-CoA pools in Saccharomyces cerevisiae. ACS Syn. Biol., in press
+
+Y. Chen; J. Nielsen (2019) Energy metabolism controls phenotypes by protein efficiency and allocation. Proc. Nat. Acad. Sci. USA, in press
+
+C. Börlin; D. Bergenholm; P. Holland; J. Nielsen (2019) A bioinformatics pipeline to analyze ChIP-exo datasets. Biol. Meth. Protoc., in press
 <br/>
 
 ##### 2018
@@ -414,9 +420,9 @@ T. Yu; Y. Dabirian; Q. Liu; V. Siewers; **J. Nielsen** (2019) Challenges and str
 
 Y. Hu; Z. Zhu; **J. Nielsen**; V. Siewers (2019) Engineering _Saccharomyces cerevisiae_ cells for production of fatty acid derived biofuels and chemicals. _Open Biol._ **9**:190049
 
-M. Kumar; B. Ji; K. Zengler; **J. Nielsen** (2019) Modeling approaches for studying the gut microbiota. _Nature Microbiol._, in press
+M. Kumar; B. Ji; K. Zengler; **J. Nielsen** (2019) Modeling approaches for studying the gut microbiota. _Nature Microbiol._ **4**:1253-1267
 
-Y. Liu; **J. Nielsen** (2019) Recent trends in metabolic engineering of microbial chemical factories. _Curr. Op. Biotechnol._, in press  
+Y. Liu; **J. Nielsen** (2019) Recent trends in metabolic engineering of microbial chemical factories. _Curr. Op. Biotechnol._ **60**:188-197  
 <br/>
 
 ##### 2018
