@@ -63,86 +63,345 @@ For any questions, please contact [Eduard Kerkhoven](mailto:eduardk@chalmers.se)
 <small><a class="button" href="#">Back to top</a></small>  
 
 # Schedule
-
-*This is a draft time schedule, the exact times, lecture topics and lectures might change.*  
-
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-rg9b{font-weight:bold;background-color:#efefef;border-color:#ffffff;text-align:center;vertical-align:top}
-.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
-.tg .tg-8d4g{font-weight:bold;background-color:#333333;color:#ffffff;border-color:#ffffff;text-align:center;vertical-align:top}
-.tg .tg-aw21{font-weight:bold;border-color:#ffffff;text-align:center;vertical-align:top}
-.tg .tg-512a{background-color:#efefef;border-color:#ffffff;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#aaa;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:#aaa;color:#333;background-color:#fff;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:#aaa;color:#fff;background-color:#f38630;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-jyax{background-color:#FCFBE3;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-dg7a{background-color:#FCFBE3;text-align:left;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
+<div class="tg-wrap"><table class="tg">
   <tr>
-    <th class="tg-8d4g">Day</th>
-    <th class="tg-8d4g">8:30-10:10</th>
-    <th class="tg-8d4g">10:30-12:10</th>
-    <th class="tg-8d4g"></th>
-    <th class="tg-8d4g">13:30-15:10</th>
-    <th class="tg-8d4g">15:30-17:30</th>
-    <th class="tg-8d4g"></th>
+    <th class="tg-1wig">Time</th>
+    <th class="tg-1wig">Activity</th>
+    <th class="tg-1wig">Room</th>
+    <th class="tg-1wig">Lecturer</th>
   </tr>
   <tr>
-    <td class="tg-aw21">Sunday 25 Aug</td>
-    <td class="tg-8jgo">Metabolic engineering (JN)</td>
-    <td class="tg-8jgo">Metabolism (JN)</td>
-    <td class="tg-8jgo">Lunch</td>
-    <td class="tg-8jgo">Metabolic networks (JN)</td>
-    <td class="tg-8jgo">Exercise: network reconstruction</td>
-    <td class="tg-8jgo"></td>
+    <td class="tg-jyax" colspan="4">Sunday 25 August</td>
   </tr>
   <tr>
-    <td class="tg-rg9b">Monday 26 Aug</td>
-    <td class="tg-512a">Genome-scale model reconstruction (EJK)</td>
-    <td class="tg-512a">Linear programming and flux balance analysis (AZ)</td>
-    <td class="tg-512a">Lunch</td>
-    <td class="tg-512a">Exercise: Genome-scale models in Matlab</td>
-    <td class="tg-512a">Exercise: Genome-scale models in Matlab</td>
-    <td class="tg-512a"></td>
+    <td class="tg-0lax">8:30</td>
+    <td class="tg-0lax">Registration</td>
+    <td class="tg-0lax">Outside KB</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-aw21">Tuesday 27 Aug</td>
-    <td class="tg-8jgo">Synthetic biology tools (FD)</td>
-    <td class="tg-8jgo">Fermentation technologies (JLM)</td>
-    <td class="tg-8jgo">Lunch + poster session</td>
-    <td class="tg-8jgo">Metabolic control analysis (EJK)</td>
-    <td class="tg-8jgo">Exercise: Metabolic control analysis</td>
-    <td class="tg-8jgo">Course BBQ</td>
+    <td class="tg-dg7a">9:00</td>
+    <td class="tg-dg7a">Course overview &amp; intro to metabolic engineering</td>
+    <td class="tg-dg7a">KB</td>
+    <td class="tg-dg7a">JN</td>
   </tr>
   <tr>
-    <td class="tg-rg9b">Wednesday 28 Aug</td>
-    <td class="tg-512a">Research presentations (PJL, JLM)</td>
-    <td class="tg-512a">Transcriptomics & RNAseq (KC)</td>
-    <td class="tg-512a">Lunch</td>
-    <td class="tg-512a">Proteomics (PJL)</td>
-    <td class="tg-512a">Differential expression analysis (KC)</td>
-    <td class="tg-512a"></td>
+    <td class="tg-0lax">9:50</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Outside KB</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-aw21">Thursday 29 Aug</td>
-    <td class="tg-8jgo">Integrative data analysis (JR)</td>
-    <td class="tg-8jgo">Exercise: integrative data analysis</td>
-    <td class="tg-8jgo">Lunch</td>
-    <td class="tg-8jgo">Exercise: integrative data analysis</td>
-    <td class="tg-8jgo">Exercise: integrative data analysis</td>
-    <td class="tg-8jgo"></td>
+    <td class="tg-dg7a">10:10</td>
+    <td class="tg-dg7a">Introduction to metabolism, metabolic networks</td>
+    <td class="tg-dg7a">KB</td>
+    <td class="tg-dg7a">JN</td>
   </tr>
-</table>
+  <tr>
+    <td class="tg-0lax">11:50</td>
+    <td class="tg-0lax">Lunch</td>
+    <td class="tg-0lax">Sysbio kitchen</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-dg7a">13:10</td>
+    <td class="tg-dg7a">Metabolic networks (cont'd)</td>
+    <td class="tg-dg7a">KB</td>
+    <td class="tg-dg7a">JN</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">14:00</td>
+    <td class="tg-0lax">Exercise: stoichiometry</td>
+    <td class="tg-0lax">KB</td>
+    <td class="tg-0lax">EJK</td>
+  </tr>
+  <tr>
+    <td class="tg-jyax" colspan="4">Monday 26 August</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">8:30</td>
+    <td class="tg-0lax">Genome-scale model reconstruction</td>
+    <td class="tg-0lax">KB</td>
+    <td class="tg-0lax">EJK</td>
+  </tr>
+  <tr>
+    <td class="tg-dg7a">9:20</td>
+    <td class="tg-dg7a">Linear programming &amp; FBA</td>
+    <td class="tg-dg7a">KB</td>
+    <td class="tg-dg7a">AZ</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">10:10</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Outside KB</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-dg7a">10:30</td>
+    <td class="tg-dg7a">Linear programming &amp; FBA (cont'd)</td>
+    <td class="tg-dg7a">KB</td>
+    <td class="tg-dg7a">AZ</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">11:20</td>
+    <td class="tg-0lax">Genome-scale models in metabolic engineering</td>
+    <td class="tg-0lax">KB</td>
+    <td class="tg-0lax">EJK</td>
+  </tr>
+  <tr>
+    <td class="tg-dg7a">12:10</td>
+    <td class="tg-dg7a">Lunch</td>
+    <td class="tg-dg7a">Kårhuset</td>
+    <td class="tg-dg7a"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">13:30-17:00</td>
+    <td class="tg-0lax">Exercise: genome-scale models</td>
+    <td class="tg-0lax">10:an</td>
+    <td class="tg-0lax">EJK, HW, SM, CM, JB</td>
+  </tr>
+  <tr>
+    <td class="tg-dg7a">15:15</td>
+    <td class="tg-dg7a">Break</td>
+    <td class="tg-dg7a">10:an</td>
+    <td class="tg-dg7a"></td>
+  </tr>
+  <tr>
+    <td class="tg-amwm" colspan="4">Tuesday 27 August</td>
+  </tr>
+  <tr>
+    <td class="tg-dg7a">8:30</td>
+    <td class="tg-dg7a">Synthetic biology tools</td>
+    <td class="tg-dg7a">KB</td>
+    <td class="tg-dg7a">FD</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">10:10</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Outside KB</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-dg7a">10:30</td>
+    <td class="tg-dg7a">Fermentation technologies</td>
+    <td class="tg-dg7a">KB</td>
+    <td class="tg-dg7a">JLM</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">12:10</td>
+    <td class="tg-0lax">Lunch</td>
+    <td class="tg-0lax">Outside KB</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-dg7a">13:30</td>
+    <td class="tg-dg7a">Metabolic control analysis</td>
+    <td class="tg-dg7a">10:an</td>
+    <td class="tg-dg7a">EJK</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">15:15</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">10:an</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-dg7a">15:30</td>
+    <td class="tg-dg7a">Exercise: metabolic control analysis</td>
+    <td class="tg-dg7a">10:an</td>
+    <td class="tg-dg7a">EJK</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">17:55</td>
+    <td class="tg-0lax">Leave Chalmers for dinner</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-dg7a">19:00</td>
+    <td class="tg-dg7a">Dinner</td>
+    <td class="tg-dg7a">River restaurant</td>
+    <td class="tg-dg7a"></td>
+  </tr>
+  <tr>
+    <td class="tg-amwm" colspan="4">Wednesday 28 August</td>
+  </tr>
+  <tr>
+    <td class="tg-dg7a">8:30</td>
+    <td class="tg-dg7a">Research presentation</td>
+    <td class="tg-dg7a">KB</td>
+    <td class="tg-dg7a">JLM</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">9:20</td>
+    <td class="tg-0lax">Research presentation</td>
+    <td class="tg-0lax">KB</td>
+    <td class="tg-0lax">PJL</td>
+  </tr>
+  <tr>
+    <td class="tg-dg7a">10:10</td>
+    <td class="tg-dg7a">Break + posters</td>
+    <td class="tg-dg7a">Outside KB</td>
+    <td class="tg-dg7a"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">10:30</td>
+    <td class="tg-0lax">Transcriptomics</td>
+    <td class="tg-0lax">KB</td>
+    <td class="tg-0lax">KC</td>
+  </tr>
+  <tr>
+    <td class="tg-dg7a">12:10</td>
+    <td class="tg-dg7a">Lunch + posters</td>
+    <td class="tg-dg7a">Outside KB</td>
+    <td class="tg-dg7a"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">14:00</td>
+    <td class="tg-0lax">Proteomics</td>
+    <td class="tg-0lax">KB</td>
+    <td class="tg-0lax">PJL<br></td>
+  </tr>
+  <tr>
+    <td class="tg-dg7a">15:45</td>
+    <td class="tg-dg7a">Break + posters</td>
+    <td class="tg-dg7a">Outside KB</td>
+    <td class="tg-dg7a"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">16:00-17:30</td>
+    <td class="tg-0lax">Differential expression analysis</td>
+    <td class="tg-0lax">KB</td>
+    <td class="tg-0lax">KC</td>
+  </tr>
+  <tr>
+    <td class="tg-jyax" colspan="4">Thursday 29 August</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">8:30</td>
+    <td class="tg-0lax">Integrative data analysis</td>
+    <td class="tg-0lax">10:an</td>
+    <td class="tg-0lax">JR</td>
+  </tr>
+  <tr>
+    <td class="tg-dg7a">10:10</td>
+    <td class="tg-dg7a">Break</td>
+    <td class="tg-dg7a">10:an</td>
+    <td class="tg-dg7a"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">10:30</td>
+    <td class="tg-0lax">Exercise: differential expression analysis</td>
+    <td class="tg-0lax">10:an</td>
+    <td class="tg-0lax">KC, JR, AL, FR, JH, RY</td>
+  </tr>
+  <tr>
+    <td class="tg-dg7a">12:10</td>
+    <td class="tg-dg7a">Lunch</td>
+    <td class="tg-dg7a">Hyllan</td>
+    <td class="tg-dg7a"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">13:30-16:00</td>
+    <td class="tg-0lax">Exercise: integrative data analysis</td>
+    <td class="tg-0lax">10:an</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-dg7a">15:00</td>
+    <td class="tg-dg7a">Break</td>
+    <td class="tg-dg7a">10:an</td>
+    <td class="tg-dg7a"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">16:00</td>
+    <td class="tg-0lax">Closing</td>
+    <td class="tg-0lax">10:an</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-dg7a">16:00-17:00</td>
+    <td class="tg-dg7a">Examination</td>
+    <td class="tg-dg7a">10:an</td>
+    <td class="tg-dg7a"></td>
+  </tr>
+</table></div>
 
-
-**Lecturers:**  
-AZ: Aleksej Zelezniak  
-EJK: Eduard Kerkhoven  
-FD: Florian David  
-JLM: José-Luis Martinez  
-JN: Jens Nielsen  
-JR: Jonathan Robinson  
-KC: Kate Campbell  
-PJL: Petri-Jaan Lahtvee  
+**Lecturers & volunteers:**  <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;border:none;border-color:#aaa;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#aaa;color:#333;background-color:#fff;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#aaa;color:#fff;background-color:#f38630;}
+.tg .tg-7d57{background-color:#FCFBE3;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-dg7a{background-color:#FCFBE3;text-align:left;vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
+<div class="tg-wrap"><table class="tg">
+  <tr>
+    <td class="tg-0pky">AL<br></td>
+    <td class="tg-7d57">Angelo Limeta<br></td>
+    <td class="tg-0pky">JLM<br></td>
+    <td class="tg-7d57">José-Luis Martinez<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">AZ</td>
+    <td class="tg-7d57">Aleksej Zelezniak</td>
+    <td class="tg-0pky">JN</td>
+    <td class="tg-7d57">Jens Nielsen</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">CM</td>
+    <td class="tg-7d57">Carl Malina</td>
+    <td class="tg-0pky">JR</td>
+    <td class="tg-7d57">Jonathan Robinson</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">EJK</td>
+    <td class="tg-7d57">Eduard Kerkhoven</td>
+    <td class="tg-0pky">KC</td>
+    <td class="tg-7d57">Kate Campbell</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">FD</td>
+    <td class="tg-7d57">Florian David</td>
+    <td class="tg-0pky">LÖ</td>
+    <td class="tg-7d57">Linnea Österberg</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">FR</td>
+    <td class="tg-7d57">Fariba Roshanzamir</td>
+    <td class="tg-0pky">PJL</td>
+    <td class="tg-7d57">Petri-Jaan Lahtvee</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">HW</td>
+    <td class="tg-7d57">Hao Wang</td>
+    <td class="tg-0pky">RY</td>
+    <td class="tg-7d57">Rosemary Yu</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">JB</td>
+    <td class="tg-7d57">Johan Björkeroth</td>
+    <td class="tg-0pky">SM</td>
+    <td class="tg-7d57">Simonas Marcišauskas</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">JH</td>
+    <td class="tg-dg7a">John Hellgren</td>
+    <td class="tg-0lax">VS</td>
+    <td class="tg-dg7a">Verena Siewers</td>
+  </tr>
+</table></div>
 
 <small><a class="button" href="#">Back to top</a></small>  
 
