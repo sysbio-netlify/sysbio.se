@@ -17,7 +17,7 @@ This course is organized by the [Systems and Synthetic Biology](http://sysbio.se
 * Before the course, a detailed self-study plan will be distributed. It is important that the students study this material before the course to prepare themselves, as the lectures will be have a high pace and cover many different topics.  
 * The maximum number of students is set at 40.  
 * For the exercises, students should **bring their own laptop**, which should preferentially have MATLAB (license required) and R (freeware) installed.
-* All students are expected to **present a poster**. The advised maximum size is A0 portrait (width x height: 841 x 1189 mm). Posters have to be put up on Tuesday morning before the lecture starts.
+* All students are expected to **present a poster**. The advised maximum size is A0 portrait (width x height: 841 x 1189 mm). Posters have to be put up on <del>Tuesday</del> Wednesday morning before the lecture starts.
 * Upon request, an examination is available at the end of the course, while 5 ECTS are suggested for satisfactory completion.
 
 <small><a class="button" href="#">Back to top</a></small>  
@@ -315,7 +315,7 @@ For any questions, please contact [Eduard Kerkhoven](mailto:eduardk@chalmers.se)
     <td class="tg-0lax">13:30-16:00</td>
     <td class="tg-0lax">Exercise: integrative data analysis</td>
     <td class="tg-0lax">10:an</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">KC, JR, AL, FR, JH, RY</td>
   </tr>
   <tr>
     <td class="tg-dg7a">15:00</td>
