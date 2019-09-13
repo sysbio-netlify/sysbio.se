@@ -37,7 +37,7 @@ We are implementing a wide array of metabolic engineering tools in order to opti
 
 Please note that our group does not admit internships/student projects shorter than one semester (5-6 months). Master projects carried out in our laboratory are not remunerated, so international students have to secure their own scholarships before applying.
 
-![Mijakovic Lab](/img/pic_imgroup_720.png)
+![Mijakovic Lab](/img/pic_imgroup19_720.png)
 
 **Current members of the Mijakovic Lab:**\
 Lei Shi, researcher\
