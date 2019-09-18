@@ -7,6 +7,7 @@ position: ' PhD Student'
 email: 'buric [at] chalmers.se'
 flags:
   - ro Romania
+  - se Sweden
 person-category: F PhD students
 template: people/profile
 ---
