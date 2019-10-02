@@ -7,7 +7,7 @@ position: ' Research Engineer, bioinformatics'
 email: 'cholley [at] chalmers.se'
 flags:
   - fr France
-person-category: K Research engineers - Computational lab
+person-category: N Computational systems biology infrastructure
 template: people/profile
 ---
 
