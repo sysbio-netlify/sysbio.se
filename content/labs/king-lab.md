@@ -1,7 +1,7 @@
 ---
 title: King Lab
 name: king
-picture: /img/lab_hohmann.jpg
+picture: /img/lab_king.jpg
 card: Our main research focus is on the automation of science.
 template: labs/single
 profileleftbox: "Professor\L\\\nRoss King\n\nPhone:\L\\\nE-mail: rossk \\[at] chalmers.se\L\\\nOffice: Room 1006A (Fysik Origo, Kemigården 1)"
