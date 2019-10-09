@@ -13,7 +13,7 @@ profileleftbox: |-
 
   Phone: +46(0)31 772 3836\
   E-mail: dina.petranovic \[at] chalmers.se\
-  Office: Room 3055A
+  Office: Room 3055A (Fysik Origo, Kemigården 1)
 ---
 [CV](/img/cv_dp1812.pdf) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_dp1812.pdf) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Molecular Frontiers](http://www.molecularfrontiers.com/management-and-editorial-team)
 
