@@ -8,12 +8,12 @@ card: >-
   metabolic engineering projects.
 template: labs/single
 profileleftbox: |-
-  Professor  
+  Professor\
   **Christer Larsson**
 
   Phone: +46(0)31 772 3806\
   E-mail: christer.larsson \[at] chalmers.se\
-  Office: Room 3054B
+  Office: Room 3054B (Fysik Origo, Kemigården 1)
 ---
 Our research activities are focused on developing the yeast _Saccharomyces cerevisiae_ into an efficient producer (cell factory) of various chemicals and fuels by using a metabolic engineering approach. We have a long standing history of research in connection to optimization of bioethanol production. In more recent years we have also included butanol has an alternative biofuel that has many advantages compared to ethanol. _S. cerevisiae_ is not a natural producer of butanol but by identification and insertion of suitable genes followed by protein engineering and careful selection of process conditions a novel efficient butanol forming organism/process will be developed. 
 
