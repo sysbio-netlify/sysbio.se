@@ -7,12 +7,12 @@ card: >-
   biochemical characterization of metabolic enzymes.
 template: labs/single
 profileleftbox: |-
-  Assistant Professor  
+  Assistant Professor\
   **[Martin Engqvist](/people/martin-engqvist)**
 
   **Phone**: +46(0)31 772 8171\
   **E-mail**: martin.engqvist \[at] chalmers.se\
-  **Office**: Chemistry building, Room 2024
+  **Office**: Room 2062A (Fysik Origo, Kemigården 1)
 ---
 [CV](/people/martin-engqvist/) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Publications](#publications) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;[Software](#software)
 
