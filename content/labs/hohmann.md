@@ -7,12 +7,12 @@ card: >-
   transduction pathways.
 template: labs/single
 profileleftbox: |-
-  Professor  
+  Professor\
   **Stefan Hohmann**
 
-  Phone:+460313608488  
-  E-mail: stefan.hohmann \[at] chalmers.se  
-  Office: Room 3054A
+  Phone:+460313608488\
+  E-mail: stefan.hohmann \[at] chalmers.se\
+  Office: Room
 ---
 
 **Current research**
