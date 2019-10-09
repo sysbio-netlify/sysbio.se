@@ -12,7 +12,7 @@ profileleftbox: |-
 
   Phone:+460313608488\
   E-mail: stefan.hohmann \[at] chalmers.se\
-  Office: Room
+  Office: Room (Fysik Origo, Kemigården 1)
 ---
 
 **Current research**
