@@ -11,10 +11,9 @@ profileleftbox: |-
   Assistant Professor\
   **Aleksej Zelezniak**
 
-
-  Phone: +46(0)31 772 8171  
-  E-mail: alezel \[at] chalmers.se  
-  Office: Room 2064A
+  Phone: +46(0)31 772 8171\
+  E-mail: alezel \[at] chalmers.se\
+  Office: Room 2064A (Fysik Origo, Kemigården 1)
 ---
 Metabolism is a primordial biological system responsible for interconversion of environmental chemicals to energy and cellular building blocks in all living species. Whenever organisms are genetically affected or facing new environment they do need to adapt their metabolism to satisfy their individual growth demands. At the same time, in natural environments, organisms never exist in isolation but rather constantly interacting with other species. Ranging from local competition for the same resources up to emergent global social interactions, metabolism shapes individual species behavior and provides a common communication platform of all living entities. At Zelezniak lab we are interested in studying how genetic, environmental factors affect operation and regulation of cellular metabolic networks. At the single species level, we want to understand how complex phenotypes emerge from the underlying molecular levels organized via central biological dogma. At the multicellular level, we want to understand what is the role of metabolism in the cell-to-cell interactions, in particular, its role in the co-existence of microbial species. Answering these questions will allow us not only to design organisms with desired metabolic properties for biotechnology purposes but also engineer synthetic microbial communities with specific health benefits.
 
