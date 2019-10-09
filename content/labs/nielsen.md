@@ -7,13 +7,12 @@ card: >-
   Saccharomyces cerevisiae is our key organism for experimental research.
 template: labs/single
 profileleftbox: |-
-  Professor  
+  Professor\
   **Jens Nielsen**
 
-
-  Phone: +46 (0)31 772 3804  
-  E-mail: nielsenj \[at] chalmers.se  
-  Office: Room 2060B
+  Phone: +46 (0)31 772 3804\
+  E-mail: nielsenj \[at] chalmers.se\
+  Office: Room 2060B (Fysik Origo, Kemigården 1)
 ---
 [Research Projects](#) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [CV](/people/jens-nielsen/) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Publications](#publications) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Videos](#videos) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Theses](#theses) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Alumni](#alumni) 
 
