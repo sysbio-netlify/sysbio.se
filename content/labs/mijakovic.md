@@ -12,7 +12,7 @@ profileleftbox: |-
 
   Phone:+46 (0)70 982 8446\
   E-mail: Ivan.Mijakovic \[at] chalmers.se\
-  Office: Room 3056A
+  Office: Room 3056A (Fysik Origo, Kemigården 1)
 ---
 [CV](/img/cv_im1906.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im1906.pdf)
 <br/><br/>
