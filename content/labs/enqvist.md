@@ -26,22 +26,27 @@ Combining ideas and expertise from bioinformatics, biochemistry and directed evo
 
 ### Publications
 
-As of January 2019  (Google Scholar)\
-citations: 881\
+As of October 2019  (Google Scholar)\
+citations: 1045\
 h-index:  14  
 
 <br>
 
-#### Preprints
+#### Current preprints
 
 <em>ϕ</em> Indicates shared first-authorship as noted in publications. 
 
-##### 2018
+##### 2019
 
-**"Correlating enzyme annotations with a  large set of microbial growth temperatures reveals metabolic adaptations to  growth at diverse temperatures".**\
-**Engqvist MKM**\
-bioRxiv (2018)\
-**[doi: 10.1101/271569](https://dx.doi.org/10.1101/271569)**
+**“Expanding functional protein sequence space using generative adversarial networks”.**\
+Repecka Dϕ, Jauniskis Vϕ, Karpus Lϕ, Rembeza E, Zrimec J, Poviloniene S, Rokaitis I, Laurynenas A, Abuajwa W, Savolainen O, Meskys R, **Engqvist MKM**, Zelezniak A\
+bioRxiv (2019)\
+**[doi: 10.1101/789719](https://doi.org/10.1101/789719)**
+
+**“Age-dependent loss of mitochondrial DNA integrity in mammalian muscle”.**\
+Wanrooij PH, Tran P, Thompson LJ, Sharma S, Kreisel K, Navarrete C, Feldberg AL, Watt D, Nilsson AK, **Engqvist MKM**, Clausen AR, Chabes A\
+bioRxiv (2019)\
+**[doi: 10.1101/746719](https://doi.org/10.1101/746719)**
 
 <br>
 
@@ -51,17 +56,23 @@ bioRxiv (2018)\
 
 ##### 2019
 
-**“Applications of protein engineering and directed evolution in plant research”**\
-**Engqvist MKM**, Rabe KS\
-Plant Physiology, in print (2019).\
-[doi: 10.1104/pp.18.01534](www.plantphysiol.org/content/early/2019/01/09/pp.18.01534)
+**“3D Printed phenacrylate decarboxylase flow reactors for the chemoenzymatic synthesis of 4-hydroxystilbene”**\
+Peng M, Mittmann E, Wenger L, Hubbuch J, **Engqvist MKM**, Niemeyer CM, Rabe KS\
+Chemistry, In print (2019).\
+[doi: 10.1002/chem.201904206](https://dx.doi.org/10.1002/chem.201904206)
 
-##### 2018
+**“Machine learning applied to predicting microorganism growth temperatures and enzyme catalytic optima”**\
+Li G, Rabe KS, Nielsen J, **Engqvist MKM**\
+ACS Synthetic Biology 8(6) (2019).\
+[doi: 10.1021/acssynbio.9b00099](https://doi.org/10.1021/acssynbio.9b00099)
 
 **“DNA polymerase η contributes to genome-wide lagging strand synthesis”**\
 Kreisel K, **Engqvist MKM,** Kalm J, Thompson LJ, Boström M, Navarrete C, McDonald JP, Larsson E, Woodgate R, Clausen AR  \
-Nucleic Acids Research (2018).\
+Nucleic Acids Research 47(5) (2019).\
 **[doi: 10.1093/nar/gky1291](https://doi.org/10.1093/nar/gky1291)**
+
+
+##### 2018
 
 **“Correlating enzyme annotations with a large set of microbial growth temperatures reveals metabolic adaptations to growth at diverse temperatures”**\
 **MKM Engqvist**\
@@ -189,7 +200,8 @@ Enzyme and Microbial Technology 41 (1),  186-195 (2007)\
 
 **“Applications of protein engineering and directed evolution in plant research”**\
 **Engqvist MKM,** Rabe KS\
-Plant Physiology, in print (2019).
+Plant Physiology, 179(3) (2019).\
+**[doi: 10.1104/pp.18.01534](https://doi.org/10.1104/pp.18.01534)**
 
 **“Biochemical control systems for small molecule damage in plants”**\
 Hüdig M, Schmitz J, **Engqvist MKM,** VG Maurino\
