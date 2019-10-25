@@ -43,8 +43,8 @@ template: people/profile
 
 ### Peer-reviewed publications
 
-As of January 2019 (Google Scholar)\
-**Citations:** 	881\
+As of October 2019 (Google Scholar)\
+**Citations:** 	1045\
 **h-index:** 	14\
 **Original research articles:** 	21\
 **Research review articles:** 	3\
