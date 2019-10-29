@@ -14,7 +14,7 @@ profileleftbox: |-
   E-mail: Ivan.Mijakovic \[at] chalmers.se\
   Office: Room 3056A (Fysik Origo, Kemigården 1)
 ---
-[CV](/img/cv_im1906.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im1906.pdf)
+[CV](/img/cv_im1910.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im1910.pdf)
 <br/><br/>
 
 #### Current research
@@ -45,11 +45,9 @@ Santosh Pandit, researcher\
 Abderahmane Derouiche, Post-doc\
 Shadi Rahimi, Post-doc\
 Hongxia Zhang, Post-doc\
-Alireza Neissi, visiting PhD student
 
 **Current Members of the Mijakovic lab at DTU Biosustain:**\
 Carsten Jers, researcher\
-Abida Sultan, Post-doc\
 Priyanka Singh, Post-doc\
 Vaishnavi Ravikumar, Post-doc\
 Abhroop Garg, Post-doc\
@@ -73,7 +71,8 @@ Fen Yang\
 Valentina Cantatore\
 Aida Kalantari\
 Hee Jin Hwang\
-Raghu Mokkapati
+Raghu Mokkapati\
+Abida Sultan
 
 _**PhD students:**_\
 Mette Erichsen Hansen\
@@ -85,6 +84,9 @@ Abderrahman Deroiuche\
 Charlotte Cousin\
 Aida Kalantari\
 Ivan Andreas Stancik
+
+_**Visiting PhD students:**_\
+Alireza Neissi
 
 _**Technicians:**_\
 Violeta Djekic\
