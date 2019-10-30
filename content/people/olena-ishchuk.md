@@ -7,6 +7,7 @@ position: Researcher
 email: 'ishchuk [at] chalmers.se'
 flags:
   - ua Ukraine
+  - se Sweden
 person-category: D Researchers
 template: people/profile
 ---
