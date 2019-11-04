@@ -6,7 +6,7 @@ picture: /img/pic_ross-king.jpg
 position: 'Professor, Machine Intelligence'
 email: 'rossk [at] chalmers.se'
 flags:
-  - gb-sct United Kingdom
+  - sct United Kingdom
 person-category: A Faculty
 template: people/profile
 ---
