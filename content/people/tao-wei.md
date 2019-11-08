@@ -3,7 +3,7 @@ name: Tao Wei
 title: Tao-Wei
 lastname: Wei
 picture: /img/pic_tao-wei.jpg
-position: Visiting researcher
+position: Researcher
 email: 'taowe [at] chalmers.se'
 flags:
   - cn China
