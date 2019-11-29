@@ -1,5 +1,5 @@
 ---
-name: Yating Hu
+name: 'Yating Hu, PhD'
 title: Yating-Hu
 lastname: Hu
 picture: /img/pic_yating-hu.jpg
