@@ -2,7 +2,7 @@
 name: 'Yating Hu, PhD'
 title: Yating-Hu
 lastname: Hu
-picture: /img/pic_yating-hu.jpg
+picture: /img/pic_yating-hu19.jpg
 position: PostDoc
 email: 'yating [at] chalmers.se'
 flags:
