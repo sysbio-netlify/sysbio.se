@@ -14,7 +14,7 @@ profileleftbox: |-
   E-mail: Ivan.Mijakovic \[at] chalmers.se\
   Office: Room 3056A (Fysik Origo, Kemigården 1)
 ---
-[CV](/img/cv_im1910.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im1910.pdf)
+[CV](/img/cv_im1912.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im1912.pdf)
 <br/><br/>
 
 #### Current research
@@ -45,6 +45,7 @@ Santosh Pandit, researcher\
 Abderahmane Derouiche, Post-doc\
 Shadi Rahimi, Post-doc\
 Hongxia Zhang, Post-doc\
+Avlant Nilsson, Post-doc
 
 **Current Members of the Mijakovic lab at DTU Biosustain:**\
 Carsten Jers, researcher\
