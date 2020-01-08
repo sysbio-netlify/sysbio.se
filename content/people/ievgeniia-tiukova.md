@@ -3,12 +3,12 @@ name: 'Ievgeniia Tiukova, PhD'
 title: Ievgeniia-Tiukova
 lastname: Tiukova
 picture: /img/pic_ievgeniia-tiukova.jpg
-position: PostDoc
+position: Researcher
 email: 'tiukova [at] chalmers.se'
 flags:
   - ua Ukraine
   - se Sweden
-person-category: E Postdocs
+person-category: D Researchers
 template: people/profile
 ---
 ### Personal Text
