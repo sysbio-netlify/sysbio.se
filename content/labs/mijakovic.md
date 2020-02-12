@@ -48,7 +48,7 @@ Hongxia Zhang, Post-doc\
 Avlant Nilsson, Post-doc
 
 **Current Members of the Mijakovic lab at DTU Biosustain:**\
-Carsten Jers, researcher\
+Carsten Jers, senior researcher\
 Priyanka Singh, Post-doc\
 Vaishnavi Ravikumar, Post-doc\
 Abhroop Garg, Post-doc\
