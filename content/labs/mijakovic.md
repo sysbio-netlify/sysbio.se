@@ -33,7 +33,7 @@ We are implementing a wide array of metabolic engineering tools in order to opti
 
 <br/>
 
-We are organizing the 4<sup>th</sup> International conference on post-translational modifications in Bacteria Conference in Copenhagen, September 10-11, 2020. Registration is now open on the [PTMBact 2020 conference website] (https://www.sysbio.se/ptmbact2020/).
+We are organizing the 4<sup>th</sup> International conference on post-translational modifications in Bacteria in Copenhagen, September 10-11, 2020. Registration is now open on the [PTMBact 2020 conference website] (https://www.sysbio.se/ptmbact2020/).
 
 <br/>
 
