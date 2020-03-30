@@ -7,7 +7,7 @@ position: Financial officer for Systems and Synthetic Biology divisions and CSBI
 email: 'erica.dahlin [at] chalmers.se'
 flags:
   - se Sweden
-person-category: M Departamental administration
+person-category: M Departmental administration
 template: people/profile
 ---
 

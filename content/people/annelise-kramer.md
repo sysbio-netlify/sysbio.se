@@ -8,7 +8,7 @@ email: 'anne-lise.kramer [at] chalmers.se'
 flags:
   - no Norway
   - se Sweden
-person-category: M Departamental administration
+person-category: M Departmental administration
 template: people/profile
 ---
 

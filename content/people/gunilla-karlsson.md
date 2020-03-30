@@ -7,7 +7,7 @@ position: Administrator for Systems and Synthetic Biology division.
 email: 'gunk [at] chalmers.se'
 flags:
   - se Sweden
-person-category: M Departamental administration
+person-category: M Departmental administration
 template: people/profile
 ---
 
