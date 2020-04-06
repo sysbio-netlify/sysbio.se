@@ -28,6 +28,7 @@ See instructions here (needs VPN connection): https://sysbiowiki.se/w/Group_file
 ## 3. Some tips for working at home
 
 * [How to adjust to work-from-home](https://about.gitlab.com/company/culture/all-remote/remote-work-starter-guide/)
+* [Remote working survival guide]https://www.jonobacon.com/2019/01/14/remote-working-survival/
 * [Non-linear workday](https://about.gitlab.com/company/culture/all-remote/non-linear-workday/)
 
 Further Reading: [GitLab's Guide to All-Remote ](https://about.gitlab.com/company/culture/all-remote/guide/)
