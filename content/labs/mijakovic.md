@@ -2,9 +2,8 @@
 title: Mijakovic Lab
 name: mijakovic
 picture: /img/lab_mijakovic.jpg
-card: >-
-  We work on signaling and regulation in bacterial cells, focusing in particular
-  on regulatory phenomena based on protein phosphorylation.
+card: We work on signaling and regulation in bacterial cells, focusing in
+  particular on regulatory phenomena based on protein phosphorylation.
 template: labs/single
 profileleftbox: |-
   Professor\
@@ -14,14 +13,13 @@ profileleftbox: |-
   E-mail: Ivan.Mijakovic \[at] chalmers.se\
   Office: Room 3056A (Fysik Origo, Kemigården 1)
 ---
-[CV](/img/cv_im2002.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2002.pdf)
-<br/><br/>
+[CV](/img/cv_im2002.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2002.pdf) <br/><br/>
 
 #### Current research
 
 **Protein phosphorylation**
 
-We are interested in signaling and regulation in bacterial cells, focusing in particular on regulatory phenomena based on protein phosphorylation. Most of our research activities are carried out on _Bacillus subtilis_, a model organism for Firmicutes. _B. subtilis_ is a wonderful model for studying complex signaling circuits in developmental phenomena, since it displays a wide array of “survival” strategies: motility, versatile degradative functions, production of bacteriocins, natural competence, biofilm formation, cannibalism and spore development. Our laboratory specializes in bacterial protein-tyrosine kinases (BY-kinases), serine/threonine kinases of the Hanks-family, phosphoproteomics other “omics” approaches aiming at global studies of the phosphorylation-based regulatory networks in both model and pathogenic bacteria. We are also interested in the evolution of protein kinases and their relationship with substrates.
+We are interested in signaling and regulation in bacterial cells, focusing in particular on regulatory phenomena based on protein phosphorylation. Most of our research activities are carried out on *Bacillus subtilis*, a model organism for Firmicutes. *B. subtilis* is a wonderful model for studying complex signaling circuits in developmental phenomena, since it displays a wide array of “survival” strategies: motility, versatile degradative functions, production of bacteriocins, natural competence, biofilm formation, cannibalism and spore development. Our laboratory specializes in bacterial protein-tyrosine kinases (BY-kinases), serine/threonine kinases of the Hanks-family, phosphoproteomics other “omics” approaches aiming at global studies of the phosphorylation-based regulatory networks in both model and pathogenic bacteria. We are also interested in the evolution of protein kinases and their relationship with substrates.
 
 **Graphene-based bio-applications**
 
@@ -29,11 +27,11 @@ In collaboration with the Chalmers Graphene Centre, we are developing advanced g
 
 **Metabolic engineering**
 
-We are implementing a wide array of metabolic engineering tools in order to optimize _B. subtilis_ as a cell factory for the production of platform chemicals, industrially relevant enzymes and nanoparticles.
+We are implementing a wide array of metabolic engineering tools in order to optimize *B. subtilis* as a cell factory for the production of platform chemicals, industrially relevant enzymes and nanoparticles.
 
 <br/>
 
-We are organizing the 4<sup>th</sup> International conference on post-translational modifications in Bacteria in Copenhagen, September 10-11, 2020. Registration is now open on the [PTMBact 2020 conference website] (https://www.sysbio.se/ptmbact2020/).
+We are organizing the 4<sup>th</sup> International conference on post-translational modifications in Bacteria in Copenhagen, September 10-11, 2020. Registration is now open on the [PTMBact 2020 conference website](https://www.sysbio.se/ptmbact2020/).
 
 <br/>
 
@@ -48,7 +46,7 @@ Lei Shi, researcher\
 Santosh Pandit, researcher\
 Abderahmane Derouiche, Post-doc\
 Shadi Rahimi, Post-doc\
-Hongxia Zhang, Post-doc\
+Yanyan Chen, Post-doc\
 Avlant Nilsson, Post-doc
 
 **Current Members of the Mijakovic lab at DTU Biosustain:**\
@@ -66,12 +64,12 @@ Abhayraj Joshi, Post-doc
 
 **Previous members:** 	  	 
 
-_**Research Associates/Assistant Professors:**_\
+***Research Associates/Assistant Professors:***\
 Sandrine Poncet\
 Yves Pagot\
 Tao Chen  
 
-_**Postdoctoral fellows:**_\
+***Postdoctoral fellows:***\
 Fen Yang\
 Valentina Cantatore\
 Aida Kalantari\
@@ -79,7 +77,7 @@ Hee Jin Hwang\
 Raghu Mokkapati\
 Abida Sultan
 
-_**PhD students:**_\
+***PhD students:***\
 Mette Erichsen Hansen\
 Carsten Jers\
 Boumediene Soufi\
@@ -90,14 +88,14 @@ Charlotte Cousin\
 Aida Kalantari\
 Ivan Andreas Stancik
 
-_**Visiting PhD students:**_\
+***Visiting PhD students:***\
 Alireza Neissi
 
-_**Technicians:**_\
+***Technicians:***\
 Violeta Djekic\
 Mohammad Abdellatif
 
-_**Master students:**_\
+***Master students:***\
 Catarina Silva\
 Carsten Jers\
 Boumediene Soufi\
