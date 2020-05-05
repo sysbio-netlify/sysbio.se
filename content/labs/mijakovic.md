@@ -29,6 +29,10 @@ In collaboration with the Chalmers Graphene Centre, we are developing advanced g
 
 We are implementing a wide array of metabolic engineering tools in order to optimize *B. subtilis* as a cell factory for the production of platform chemicals, industrially relevant enzymes and nanoparticles.
 
+**Experimental evolution**
+
+We are working with evolutionary approaches that could improve genome mining and we explore biochemistry of early cells in relation to the genetic code and establishment of early genomes.
+
 <br/>
 
 We are organizing the 4<sup>th</sup> International conference on post-translational modifications in Bacteria in Copenhagen, September 10-11, 2020. Registration is now open on the [PTMBact 2020 conference website](https://www.sysbio.se/ptmbact2020/).
