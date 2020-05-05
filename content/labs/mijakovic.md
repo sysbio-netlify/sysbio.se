@@ -90,8 +90,7 @@ Sujata Vijay Sohoni\
 Ahasanul Kobir\
 Abderrahman Deroiuche\
 Charlotte Cousin\
-Aida Kalantari\
-Ivan Andreas Stancik
+Aida Kalantari
 
 ***Visiting PhD students:***\
 Alireza Neissi
@@ -116,7 +115,6 @@ Ana Boskovic\
 Lorena Kolar Znika\
 Paula Dobrinic\
 Kristina Kovac\
-Ivan Andreas Stancik\
 Sanja Tunjic\
 Alessandra Merlo\
 Anja Tusar\
