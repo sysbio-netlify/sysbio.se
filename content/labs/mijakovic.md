@@ -35,7 +35,10 @@ We are working with evolutionary approaches that could improve genome mining and
 
 <br/>
 
-We are organizing the 4<sup>th</sup> International conference on post-translational modifications in Bacteria in Copenhagen, September 10-11, 2020. Registration is now open on the [PTMBact 2020 conference website](https://www.sysbio.se/ptmbact2020/).
+**HIGHLIGHTS:**
+
+* We are organizing the 4<sup>th</sup> International conference on post-translational modifications in Bacteria in Copenhagen, September 10-11, 2020. Registration is now open on the [PTMBact 2020 conference website](https://www.sysbio.se/ptmbact2020/).  
+* Prof. Mijakovic is coordinator of an EU ITN consortium “PEST-BIN” – working on new methods to fight bacterial infections.
 
 <br/>
 
@@ -61,7 +64,8 @@ Vaishnavi Ravikumar, Post-doc\
 Abhroop Garg, Post-doc\
 Mériem Senissar, Post-doc\
 Julie Bonne Køhler, Post-doc\
-Abhayraj Joshi, Post-doc
+Abhayraj Joshi, Post-doc\
+Darko Kjiproski, Project manager
 
 [Mijakovic lab at DTU Biosustain ](http://www.biosustain.dtu.dk/english/research/research-groups/bacterial-signal-transduction)
 
