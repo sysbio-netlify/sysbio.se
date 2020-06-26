@@ -2,13 +2,12 @@
 title: David Lab
 name: david
 picture: /img/lab_david.jpg
-card: >-
-  Our research focus is on developing microbial drug discovery and production
-  platforms
+card: Our research focus is on developing microbial drug discovery and
+  production platforms
 template: labs/single
 profileleftbox: |-
   Assistant Professor  
-  Florian David
+  **Florian David**
 
   Phone: +46 (0)31 772 38 83    
   E-mail: davidfl \[at] chalmers.se  
