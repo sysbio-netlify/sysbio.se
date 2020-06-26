@@ -12,7 +12,7 @@ profileleftbox: |-
 
   Phone: -\
   E-mail: eduardk \[at] chalmers.se\
-  Office: Room 3047 (Fysik Origo, Kemigården 1)
+  Office: Room 3054A (Fysik Origo, Kemigården 1)
 ---
 Our research revolves around computational metabolic engineering, where model-driven analysis of experimental data is used to understand, predict and engineer biology.
 
