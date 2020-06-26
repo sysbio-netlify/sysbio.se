@@ -3,7 +3,7 @@ title: David Lab
 name: david
 picture: /img/lab_david.jpg
 card: Our research focus is on developing microbial drug discovery and
-  production platforms
+  production platforms.
 template: labs/single
 profileleftbox: |-
   Assistant Professor  
