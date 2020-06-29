@@ -14,6 +14,10 @@ profileleftbox: |-
   E-mail: eduardk \[at] chalmers.se\
   Office: Room 3054A (Fysik Origo, Kemigården 1)
 ---
+[CV](/img/cv_ejk2006.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_ejk2006.pdf) <br/><br/>  
+
+
+
 Our research revolves around computational metabolic engineering, where model-driven analysis of experimental data is used to understand, predict and engineer biology.
 
 With a particular focus on metabolism we bridge the gap between *in silico* prediction and *in vivo* validation through genetic engineering. We are working on a variety of different projects, both in computational dry-lab and experimental wet-lab.
