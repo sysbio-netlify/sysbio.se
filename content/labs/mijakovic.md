@@ -66,7 +66,8 @@ Abhroop Garg, Post-doc\
 Mériem Senissar, Post-doc\
 Julie Bonne Køhler, Post-doc\
 Abhayraj Joshi, Post-doc\
-Darko Kjiproski, Project manager
+Darko Kjiproski, Project manager  
+Hossein Helalat, visiting PhD student
 
 [Mijakovic lab at DTU Biosustain ](http://www.biosustain.dtu.dk/english/research/research-groups/bacterial-signal-transduction)
 
