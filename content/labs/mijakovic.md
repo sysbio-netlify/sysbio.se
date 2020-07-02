@@ -56,6 +56,7 @@ Abderahmane Derouiche, Post-doc\
 Shadi Rahimi, Post-doc\
 Yanyan Chen, Post-doc\
 Avlant Nilsson, Post-doc  \
+Caroline Wasén, Post-doc  
 Mahdis Noori, visiting PhD student
 
 **Current Members of the Mijakovic lab at DTU Biosustain:**\
