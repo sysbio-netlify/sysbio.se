@@ -1,7 +1,7 @@
 ---
 title: Chen Lab
 name: Chen
-picture: img/lab-chen.jpg
+picture: img/lab_chen.jpg
 card: Our research focus is on reprogramming cellular metabolism to produce
   biochemicals, fuels and pharmaeuceticals.
 template: labs/single
