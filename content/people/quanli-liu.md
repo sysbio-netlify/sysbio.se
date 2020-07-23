@@ -1,13 +1,12 @@
 ---
-name: 'Quanli Liu, PhD'
+name: Quanli Liu, PhD
 title: Quanli-Liu
 lastname: Liu
 picture: /img/pic_quanli-liu.jpg
-position: PostDoc
-email: 'quanli [at] chalmers.se'
+position: Researcher
+email: quanli [at] chalmers.se
 flags:
   - cn China
-person-category: E Postdocs
+person-category: H Visiting researchers
 template: people/profile
 ---
-
