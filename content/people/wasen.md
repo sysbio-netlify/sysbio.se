@@ -1,5 +1,5 @@
 ---
-name: Caroline Wasén
+name: Caroline Wasén, PhD
 title: Wasen
 lastname: Wasen
 picture: img/pic_caroline-wasen.jpg
