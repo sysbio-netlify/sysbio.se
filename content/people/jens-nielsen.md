@@ -95,7 +95,11 @@ template: people/profile
 2016 	\*\*Novozymes Prize\*\*, Novo Nordisk Foundation, Denmark  
 2017 	\*\*ENI Award\*\*, ENI, Italy  
 2017 	\*\*Gold Medal\*\*, Royal Swedish Academy of Engineering Sciences, Sweden  
-2017 	\*\*Eric and Sheila Samson Prime Ministers Prize for Innovation in Alternative Fuels for Transportation\*\*, Fuels and Smart Mobility Initiative, Israel  
+2017 	\*\*Eric and Sheila Samson Prime Ministers Prize for Innovation in Alternative Fuels for Transportation\*\*, Fuels and Smart Mobility Initiative, Israel
+2019	\*\*Emil Chr. Hansen’s Gold Medal for Microbiological Research\*\*, Denmark
+2019	\*\*Arvid Carlsson Award\*\*, Sahlgrenska Science Park, Sweden
+2019	\*\*James E. Bailey Award\*\*, American Institute for Chemical Engineering, USA
+2020	\*\*Gregory Stephanopoulos Award for Metabolic Engineering\*\*, IMES, USA
 
 <br/>
 #### Academies  
@@ -108,7 +112,8 @@ template: people/profile
 2012 	\*\*Fellow of the American Academy of Microbiology\*\*, USA  
 2014 	\*\*Member of the Royal Swedish Academy of Sciences\*\*, Sweden  
 2019 	\*\*National Academy of Sciences\*\*, USA    
-2019 	\*\*Royal Physiographic Society of Lund\*\*, Sweden    
+2019 	\*\*Royal Physiographic Society of Lund\*\*, Sweden
+2019	\*\*Chinese Academy of Engineering\*\*, China    
 
 <br/>
 #### Other Honors  
@@ -124,7 +129,11 @@ template: people/profile
 2017 	\*\*Adjunct Professor\*\*, Jiangnan University, Wuxi, China  
 2017, 2018 	\*\*Highly Cited Researcher\*\*, Clarivate   
 2019 	\*\*Honorary Professor\*\*, Jiangnan University, Wuxi, China   
-2019 	\*\*Ridder af Dannebrog\*\* (Knight of the order of Dannebrog), Queen Margrethe II, Denmark 
+2019 	\*\*Ridder af Dannebrog\*\* (Knight of the order of Dannebrog), Queen Margrethe II, Denmark
+2019	\*\*Honorary Professor\*\*, Tianjin University, Tianjin, China
+2019	\*\*Peiyang Lectureship\*\*, Tianjin University, Tianjin, China
+2019	\*\*Honorary Professor\*\*, Nankai University, Tianjin, China
+2019	\*\*Highly Cited Researcher\*\*, Web-of-Science 
 
 <br/>
 #### Memberships in Societies  
@@ -138,10 +147,10 @@ template: people/profile
 
 <br/>
 #### Publications, Patents & Presentations  
-\_Google Scholar: H-factor of 115; >62,000 citations and >35,000 citations since 2014   
-Web of Science Highly Cited Researcher in 2015-2018\_  
-558 	\*\*Original Papers in Peer Reviewed Journals\*\*  
-112 	\*\*Review Papers in Peer Reviewed Journals\*\*  
+\_Google Scholar: H-factor of 124; >74,000 citations and >38,000 citations since 2015   
+Web of Science Highly Cited Researcher in 2015-2019\_  
+609 	\*\*Original Papers in Peer Reviewed Journals\*\*  
+120 	\*\*Review Papers in Peer Reviewed Journals\*\*  
 31 	\*\*Commentaries in Peer Reviewed Journals\*\*  
 46 	\*\*Book Contributions\*\*  
 3 	\*\*Text books\*\*: Bioreaction Engineering (1994,2003) (English & Chineese), Metabolic Engineering (1998) (English, Chineese & Japaneese), Metabolome Analysis (2007)  
@@ -149,8 +158,8 @@ Web of Science Highly Cited Researcher in 2015-2018\_
 4 	\*\*Edited books\*\*  
 38 	\*\*Issue patents (12 patent families)\*\*  
 36 	\*\*Patent applications\*\*  
-214 	\*\*Invited oral presentations at international conferences\*\*  
-129 	\*\*Invited seminars at universities and companies\*\*  
+221 	\*\*Invited oral presentations at international conferences\*\*  
+134 	\*\*Invited seminars at universities and companies\*\*  
 
 <br/>
 #### Key Grants  
@@ -227,12 +236,12 @@ Prof Nielsen has extensive experience with developing, organizing and running ne
 
 <br/>
 #### Mentoring  
-Main supervisor of \_graduated\_ PhD students 	83  
-Main supervisor of \_current\_ PhD students 	21  
+Main supervisor of \_graduated\_ PhD students 	85  
+Main supervisor of \_current\_ PhD students 	17  
 Examiner of \_current\_ PhD students 	7   
-Co-supervisor of graduated PhD students (including visiting PhD students and as Examiner) 	46  
-Former affiliated post docs 	87  
-Current affiliated post docs and senior researchers 	27  
+Co-supervisor of graduated PhD students (including visiting PhD students and as Examiner) 	49 
+Former affiliated post docs 	96  
+Current affiliated post docs and senior researchers 	13  
 
 <br/>
 #### Business Experience  
@@ -249,7 +258,8 @@ Current affiliated post docs and senior researchers 	27
 2013- 	\*\*Evolva SA\*\*, Switzerland, Member of SAB  
 2014- 	\*\*Biopetrolia AB\*\*, Sweden, Founder and Chairman of BoD  
 2014- 	\*\*Novogy\*\*, Inc., USA, Member of SAB  
-2017- 	\*\*Elypta AB\*\*, Sweden, Founder and Chairman of BoD  
+2017- 	\*\*Elypta AB\*\*, Sweden. A cancer diagnostic company. Founder, Chairman of BoD (2017-2018) and member of BoD (2018-). Raised >13 MEUR in VC capital and soft funding. 
+2019-	\*\*Chrysea Labs Inc.\*\*, Ireland. A yeast synthetic biology company. Raised >9 MEUR in VC capital. 
 
 <br/>
 #### Organization of Conferences  
@@ -265,7 +275,8 @@ Current affiliated post docs and senior researchers 	27
 2011 	\*\*Key Symposium on Systems Medicine\*\*, Sweden, Chairman (\\~100 delegates)  
 2013 	\*\*Copenhagen Bioscience Conference\*\*, Denmark, Co-Chairman (\\~150 delegates)  
 2015 	\*\*Copenhagen Bioscience Conference\*\*, Denmark, Chairman (\~150 delegates)  
-2017 	\*\*Metabolic Engineering Summit\*\*, Beijing, China (\~600 delegates) 
+2017 	\*\*Metabolic Engineering Summit\*\*, Beijing, China (\~600 delegates)
+2019	\*\*Copenhagen Bioscience Conference\*\*, Denmark, Chairman (~150 delegates) 
 
 <br/>
 
