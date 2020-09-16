@@ -95,11 +95,11 @@ template: people/profile
 2016 	**Novozymes Prize**, Novo Nordisk Foundation, Denmark  
 2017 	**ENI Award**, ENI, Italy  
 2017 	**Gold Medal**, Royal Swedish Academy of Engineering Sciences, Sweden  
-2017 	**Eric and Sheila Samson Prime Ministers Prize for Innovation in Alternative Fuels for Transportation**, Fuels and Smart Mobility Initiative, Israel
-2019	**Emil Chr. Hansen’s Gold Medal for Microbiological Research**, Denmark
-2019	**Arvid Carlsson Award**, Sahlgrenska Science Park, Sweden
-2019	**James E. Bailey Award**, American Institute for Chemical Engineering, USA
-2020	**Gregory Stephanopoulos Award for Metabolic Engineering**, IMES, USA
+2017 	**Eric and Sheila Samson Prime Ministers Prize for Innovation in Alternative Fuels for Transportation**, Fuels and Smart Mobility Initiative, Israel  
+2019	**Emil Chr. Hansen’s Gold Medal for Microbiological Research**, Denmark  
+2019	**Arvid Carlsson Award**, Sahlgrenska Science Park, Sweden  
+2019	**James E. Bailey Award**, American Institute for Chemical Engineering, USA  
+2020	**Gregory Stephanopoulos Award for Metabolic Engineering**, IMES, USA  
 
 <br/>
 #### Academies  
