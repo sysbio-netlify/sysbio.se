@@ -112,8 +112,8 @@ template: people/profile
 2012 	**Fellow of the American Academy of Microbiology**, USA  
 2014 	**Member of the Royal Swedish Academy of Sciences**, Sweden  
 2019 	**National Academy of Sciences**, USA    
-2019 	**Royal Physiographic Society of Lund**, Sweden
-2019	**Chinese Academy of Engineering**, China    
+2019 	**Royal Physiographic Society of Lund**, Sweden  
+2019	**Chinese Academy of Engineering**, China      
 
 <br/>
 #### Other Honors  
@@ -129,11 +129,11 @@ template: people/profile
 2017 	**Adjunct Professor**, Jiangnan University, Wuxi, China  
 2017, 2018 	**Highly Cited Researcher**, Clarivate   
 2019 	**Honorary Professor**, Jiangnan University, Wuxi, China   
-2019 	**Ridder af Dannebrog** (Knight of the order of Dannebrog), Queen Margrethe II, Denmark
-2019	**Honorary Professor**, Tianjin University, Tianjin, China
-2019	**Peiyang Lectureship**, Tianjin University, Tianjin, China
-2019	**Honorary Professor**, Nankai University, Tianjin, China
-2019	**Highly Cited Researcher**, Web-of-Science 
+2019 	**Ridder af Dannebrog** (Knight of the order of Dannebrog), Queen Margrethe II, Denmark  
+2019	**Honorary Professor**, Tianjin University, Tianjin, China  
+2019	**Peiyang Lectureship**, Tianjin University, Tianjin, China  
+2019	**Honorary Professor**, Nankai University, Tianjin, China  
+2019	**Highly Cited Researcher**, Web-of-Science   
 
 <br/>
 #### Memberships in Societies  
@@ -258,8 +258,8 @@ Current affiliated post docs and senior researchers 	13
 2013- 	**Evolva SA**, Switzerland, Member of SAB  
 2014- 	**Biopetrolia AB**, Sweden, Founder and Chairman of BoD  
 2014- 	**Novogy**, Inc., USA, Member of SAB  
-2017- 	**Elypta AB**, Sweden. A cancer diagnostic company. Founder, Chairman of BoD (2017-2018) and member of BoD (2018-). Raised >13 MEUR in VC capital and soft funding. 
-2019-	**Chrysea Labs Inc.**, Ireland. A yeast synthetic biology company. Raised >9 MEUR in VC capital. 
+2017- 	**Elypta AB**, Sweden. A cancer diagnostic company. Founder, Chairman of BoD (2017-2018) and member of BoD (2018-). Raised >13 MEUR in VC capital and soft funding.   
+2019-	**Chrysea Labs Inc.**, Ireland. A yeast synthetic biology company. Raised >9 MEUR in VC capital.  
 
 <br/>
 #### Organization of Conferences  
@@ -275,8 +275,8 @@ Current affiliated post docs and senior researchers 	13
 2011 	**Key Symposium on Systems Medicine**, Sweden, Chairman (~100 delegates)  
 2013 	**Copenhagen Bioscience Conference**, Denmark, Co-Chairman (~150 delegates)  
 2015 	**Copenhagen Bioscience Conference**, Denmark, Chairman (~150 delegates)  
-2017 	**Metabolic Engineering Summit**, Beijing, China (~600 delegates)
-2019	**Copenhagen Bioscience Conference**, Denmark, Chairman (~150 delegates) 
+2017 	**Metabolic Engineering Summit**, Beijing, China (~600 delegates)  
+2019	**Copenhagen Bioscience Conference**, Denmark, Chairman (~150 delegates)   
 
 <br/>
 
