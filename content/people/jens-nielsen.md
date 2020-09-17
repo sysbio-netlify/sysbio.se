@@ -351,6 +351,7 @@ S. Vaga; S. Lee; B. Ji: A. Andreasson; N.J. Talley; L. Agreus; G. Bidkhori; P. K
 J. Hellgren; A. Godina; O. Vidalin; **J. Nielsen**; V. Siewers (2020) Promiscuous phosphoketolase and metabolic rewiring enables non-oxidative glycolysis in yeast for high yield production of acetyl-CoA products. *Met. Eng.*, in press
 
 J. Gustafsson; F. Held; J. Robinson; E. Björnson; R. Jörnsten; **J. Nielsen** (2020) Sources of variation in cell-type RNA-seq profiles. *PLOS One*, in press
+
 <br/>
 
 ##### 2019
