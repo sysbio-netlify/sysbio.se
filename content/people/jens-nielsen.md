@@ -445,40 +445,43 @@ A. Nilsson; E. Björnson; M. Flockhart; F.J. Larsen; **J. Nielsen** (2019) Compl
 
 <br/>
 
+##### 2020
+
+Z. Liu; K. Wang; Y. Chen; T. Tan; **J. Nielsen** (2020) Third-generation biorefineries as a mean to produce fuels and chemicals from CO2. *Nature Cat.* **3**:274-288
+
+Q. Liu; Y. Liu; Y. Chen; **J. Nielsen** (2020) Current state of aromatics production using yeast: Achievements and challenges. *Curr. Opion. Biotechnol.*, in press
+
+Z. Lin; **J. Nielsen**; Z. Liu (2020) Bioprospecting through cloning of whole natural product biosynthetic gene clusters. *Fron. Bioeng. Biotechnol.*, in press
+
+<br/>
+
 ##### 2019
 
-L. Zihe; Y. Zhang; **J. Nielsen** (2019) Synthetic biology of yeast. *Biochem.*, in press
+R. Ferreira; A. Limeta; **J. Nielsen** (2019) Tackling cancer with yeast based technologies. *Trends Biotechnol.* **37**:592-603
 
-X. Li; Y. Chen; **J. Nielsen** (2019) Harnessing xylose pathways for biofuels production. *Curr. Opion. Biotechnol.*, in press
+L. Zihe; Y. Zhang; **J. Nielsen** (2019) Synthetic biology of yeast. *Biochem.* **58**:1511-1520
 
-**J. Nielsen** (2019) Yeast Cell Factory: Model Organism and Cell Factory. *Biotechnol. J.*, in press
+X. Li; Y. Chen; **J. Nielsen** (2019) Harnessing xylose pathways for biofuels production. *Curr. Opion. Biotechnol.* **57**:56-65
 
-T. Yu; Y. Dabirian; Q. Liu; V. Siewers; **J. Nielsen** (2019) Challenges and strategies for metabolic rewiring. *Curr. Op. Systems Biol.* **15**:30-38
+**J. Nielsen** (2019) Yeast Cell Factory: Model Organism and Cell Factory. *Biotechnol. J.* **14**:1800421
+
+T. Yu; Y. Dabirian; Q. Liu; V. Siewers; *J. Nielsen* (2019) Challenges and strategies for metabolic rewiring. *Curr. Op. Systems Biol.* **15**:30-38
 
 Y. Hu; Z. Zhu; **J. Nielsen**; V. Siewers (2019) Engineering *Saccharomyces cerevisiae* cells for production of fatty acid derived biofuels and chemicals. *Open Biol.* **9**:190049
 
 M. Kumar; B. Ji; K. Zengler; **J. Nielsen** (2019) Modeling approaches for studying the gut microbiota. *Nature Microbiol.* **4**:1253-1267
 
-Y. Liu; **J. Nielsen** (2019) Recent trends in metabolic engineering of microbial chemical factories. *Curr. Op. Biotechnol.* **60**:188-197\
-<br/>
+Y. Liu; **J. Nielsen** (2019) Recent trends in metabolic engineering of microbial chemical factories. *Curr. Op. Biotechnol.* **60**:188-197
 
-##### 2018
+B. Turanli; O. Altay; J. Boren; H. Turkez; **J. Nielsen**; M. Uhlen; K.Y. Arga; A. Mardinoglu (2019) Systems biology based drug repositioning for development of cancer therapy. *Sem. Cancer Biol.*, in press
 
-A. Mardinoglu; J. Boren; U. Smith; M. Uhlen; **J. Nielsen** (2018) The employment of  systems biology in gastroenterology and hepatology. *Nature Rev. Gastro. Hep.* **15**:365-377  
+R. Yu; **J. Nielsen** (2019) Big data in yeast systems biology. *FEMS Yeast Res.* **19**:foz070
 
-R. Ferreira; F. David; **J. Nielsen** (2018) Advancing biotechnology with CRISPR/Cas9: Recent  applications and patent landscape. *J.  Ind. Microbiol. Biotechnol.* **45**:467-480   
+M. Palmnäs; C. Brunius; L. Shi; A. Rostgaard-Hansen; N.E. Torres; R. Gonzalez-Dominguez; R. Zamra-Ros; Y. Lingqun; J. Halkjær; A. Tjønneland; G. Riccardi; T. Giacco; G. Costabile; C. Vetrani; **J. Nielsen**; C. Andres-Lacueva; R. Landberg (2019) Metabotyping: A potential personalized nutrition strategy for precision prevention of cardiometabolic disease. *Adv. Nutrition* **11**:524-532
 
-F.R. Pinu; N. Granucci; J. Daniell; T.-L. Han; S.  Carneiro; I. Rocha; **J. Nielsen**; S.G.  Villas-Boas (2018) Metabolite secretion in microorganisms: The theory of  metabolic overflow put to the test. *Metabolomics* **14**:43  
+S. Bratulic; F. Gatto; **J. Nielsen** (2019) The translational status of cancer liquid biopsies. *Reg. Eng. Transl. Med.*, in press
 
-C. Malina; C. Larsson; **J. Nielsen** (2018) Yeast mitochondria:  An overview of mitochondrial biology and the potential of mitochondrial systems  biology. *FEMS Yeast Res.* **18**:foy040  
-
-B. Turanli; M. Grøtli; J.  Boren; **J. Nielsen**; M. Uhlen; K.Y.  Arga; A. Mardinoglu (2018) Drug repositioning for effective prostate cancer  treatment. *Fron. Physiol.*  **9**:500
-
-Y. Zhang; **J. Nielsen**; L. Zihe (2018) Metabolic engineering of *Saccharomyces cerevisiae* for production of fatty acid derived hydrocarbons. *Biotechnol. Bioeng.* **115**:2139-2147
-
-Y. Zhou; E. Kerkhoven; **J. Nielsen** (2018) Barriers and opportunities in bio-based production of hydrocarbons. *Nature Energy* **3**:925-935
-
-R. Ferreira; A. Limeta; **J. Nielsen** (2018) Tackling cancer with yeast based technologies. *Trends Biotechnol.* **37**:592-603  
+R. Yu; **J. Nielsen** (2019) Yeast systems biology in understanding principles of physiology underlying complex human diseases. *Curr. Op. Biotechnol.* **121**:1-9  
 
 <br/>
 
@@ -490,9 +493,12 @@ R. Ferreira; A. Limeta; **J. Nielsen** (2018) Tackling cancer with yeast based t
 
 **J. Nielsen** (2019) Designer Microbes Serving Society. *Cell Met.* **29**:509
 
-**J. Nielsen** (2019) Cell factory engineering for improved production of natural products. *Nat. Prod. Rep.*, in press
+**J. Nielsen** (2019) Cell factory engineering for improved production of natural products. *Nat. Prod. Rep.* **36**:1233-1236
 
-**J. Nielsen** (2019) Antibiotic lethality is impacted by nutrient availabilities: New insights from machine learning. *Cell*, in press\
+**J. Nielsen** (2019) Antibiotic lethality is impacted by nutrient availabilities: New insights from machine learning. *Cell* **177**:1373-1374
+
+**J. Nielsen** (2019) A stress-coping strategy for yeast cells. *Nature* **572**:184-185
+
 <br/>  
 
 ##### 2018
