@@ -7,11 +7,11 @@ card: Through model-driven analysis of experimental data we aim to understand,
   and antibiotic producing bacteria.
 template: labs/single
 profileleftbox: |-
-  Researcher\
+  Docent  
   **Eduard Kerkhoven**
 
-  Phone: -\
-  E-mail: eduardk \[at] chalmers.se\
+  Phone: -  
+  E-mail: eduardk [at] chalmers.se  
   Office: Room 3054A (Fysik Origo, Kemigården 1)
 ---
 [CV](/img/cv_ejk2006.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_ejk2006.pdf) <br/><br/>  
