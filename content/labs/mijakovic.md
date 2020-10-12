@@ -49,26 +49,28 @@ Please note that our group does not admit internships/student projects shorter t
 
 ![Mijakovic Lab](/img/pic_imgroup19_720.png)
 
-**Current members of the Mijakovic Lab:**\
-Lei Shi, researcher\
-Santosh Pandit, researcher\
-Abderahmane Derouiche, Post-doc\
-Shadi Rahimi, Post-doc\
-Yanyan Chen, Post-doc\
-Avlant Nilsson, Post-doc  \
+**Current members of the Mijakovic Lab:**  
+Lei Shi, researcher  
+Santosh Pandit, researcher  
+Abderahmane Derouiche, Post-doc  
+Shadi Rahimi, Post-doc  
+Yanyan Chen, Post-doc  
+Avlant Nilsson, Post-doc  
 Caroline Wasén, Post-doc  
+Mohsen Zareian, Post-doc    
 Mahdis Noori, visiting PhD student
 
-**Current Members of the Mijakovic lab at DTU Biosustain:**\
-Carsten Jers, senior researcher\
-Priyanka Singh, Post-doc\
-Vaishnavi Ravikumar, Post-doc\
-Abhroop Garg, Post-doc\
-Mériem Senissar, Post-doc\
-Julie Bonne Køhler, Post-doc\
-Abhayraj Joshi, Post-doc\
+**Current Members of the Mijakovic lab at DTU Biosustain:**  
+Carsten Jers, senior researcher  
+Priyanka Singh, Post-doc  
+Vaishnavi Ravikumar, Post-doc  
+Abhroop Garg, Post-doc  
+Mériem Senissar, Post-doc  
+Julie Bonne Køhler, Post-doc  
+Abhayraj Joshi, Post-doc  
 Darko Kjiproski, Project manager  
-Hossein Helalat, visiting PhD student
+Hossein Helalat, visiting PhD student  
+Samira Ebrahimi, visiting PhD student
 
 [Mijakovic lab at DTU Biosustain ](http://www.biosustain.dtu.dk/english/research/research-groups/bacterial-signal-transduction)
 
