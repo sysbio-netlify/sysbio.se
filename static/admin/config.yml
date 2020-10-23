@@ -44,12 +44,12 @@ collections: # A list of collections the CMS should be able to edit
     label_singular: "PEST-BIN page"
     folder: "content/pest-bin_eu" # The path to the folder where the documents are stored
     slug: "{{title}}"
-    filter: { field: "template", value: "pest-bin_eu/pest_bin_eu_page"}
+    filter: { field: "template", value: "pest-bin_eu/single"}
     create: true # Allow users to create new documents in this collection
     extension: md
     fields: # The fields each document in this collection have
       - {label: "Page Title", name: "title", widget: "string"}
-      - {label: "Template", name: "template", widget: "select", options: ["pest-bin_eu/pest_bin_eu_page"]}
+      - {label: "Template", name: "template", widget: "select", options: ["pest-bin_eu/single"]}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "labs" # Used in routes, ie.: /admin/collections/:slug/edit

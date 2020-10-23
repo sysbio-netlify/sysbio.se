@@ -1,6 +1,7 @@
 ---
 title: Test
-template: pest-bin_eu/pest_bin_eu_page
+menu: pest_bin_eu
+template: pest-bin_eu/single
 ---
 <b>Test</b>
 

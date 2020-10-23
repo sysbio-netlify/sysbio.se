@@ -1,0 +1,13 @@
+<aside>
+    <ul>
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.pest_bin_eu }}
+            <li>
+                <a href="{{ .URL }}">
+                    {{ .Pre }}
+                    <span>{{ .Name }}</span>
+                </a>
+            </li>
+        {{ end }}
+    </ul>
+</aside>
