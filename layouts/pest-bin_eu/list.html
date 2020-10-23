@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all">
+        {{ partial "breadcrumbs.html"  .Title}} 
+
+        <div id="content">
+          {{ if isset .Params "template" }}
+            {{ partial .Params.template . }}
+          {{ end }}
+        </div>
+        <!-- /#content -->
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
