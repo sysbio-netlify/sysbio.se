@@ -6,6 +6,7 @@
   <body>
 
     <div id="all">
+        
         {{ partial "breadcrumbs.html"  .Title}} 
 
         <div id="content">
@@ -13,10 +14,10 @@
             {{ partial .Params.template . }}
           {{ end }}
         </div>
-        <!-- /#content -->
+        
+        {{ partial "pest-bin_eu/footer.html" . }}
 
     </div>
-    <!-- /#all -->
 
     {{ partial "scripts.html" . }}
 

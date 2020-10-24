@@ -1,0 +1,36 @@
+<div id="footer">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-2">
+      </div>  
+      
+      <div class="col-md-8">
+        <hr class="hidden-md hidden-lg hidden-sm">
+        <table>
+          <tr>
+              <td>
+                <img src="/static/img/flags/eu_flag.jpg" />
+              </td>
+              <td style="padding: 25px;">
+                "This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the <TODO> grant agreement No <TODO>"
+              </td>
+          </tr>
+        </table>
+        
+      </div>
+      
+      <div class="col-md-2">
+      </div>  
+
+    </div>
+  </div>
+</div>
+
+<div id="copyright">
+  <div class="container">
+    <div class="col-md-12">
+      <p class="text-center">{{ .Site.Params.copyright | safeHTML }}  {{ dateFormat "2006" now }} &nbsp;|&nbsp; website updated {{ dateFormat "2 January 2006" now }} </p>
+    </div>
+  </div>
+</div>
