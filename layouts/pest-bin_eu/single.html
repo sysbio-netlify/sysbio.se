@@ -9,10 +9,18 @@
         
         {{ partial "pest-bin_eu/breadcrumbs.html"  "PEST-BIN EU"}} 
 
-        <div id="content">
-          {{ if isset .Params "template" }}
-            {{ partial .Params.template . }}
-          {{ end }}
+        <div class="container" style="margin-bottom:8em;">
+          <div class="row">
+            
+            <div class="col-md-2">
+              {{ partial "pest-bin_eu/menu.html" . }}
+            </div>
+            
+            <div class="col-md-10">
+              {{ .Content }}
+            </div>
+
+          </div>
         </div>
         
         {{ partial "pest-bin_eu/footer.html" . }}
