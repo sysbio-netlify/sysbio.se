@@ -1,6 +1,7 @@
 ---
 title: Partners
 menu: pest_bin_eu
+weight: 20
 template: "pest-bin_eu/single"
 ---
 

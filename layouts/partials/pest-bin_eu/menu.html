@@ -1,7 +1,7 @@
 <aside>
     <ul>
         {{ $currentPage := . }}
-        {{ range .Site.Menus.pest_bin_eu }}
+        {{ range .Site.Menus.pest_bin_eu.ByWeight }}
             <li>
                 <a href="{{ .URL }}">
                     {{ .Pre }}
