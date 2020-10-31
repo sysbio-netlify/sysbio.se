@@ -51,7 +51,7 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Page Title", name: "title", widget: "string"}
       - {label: "Template", name: "template", widget: "select", options: ["pest-bin_eu/single"]}
-      - {label: "Image", name: "image", widget: "iamge"}
+      - {label: "Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "labs" # Used in routes, ie.: /admin/collections/:slug/edit
