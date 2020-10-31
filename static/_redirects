@@ -18,3 +18,10 @@ https://sysbiowebsite.netlify.com/* https://www.sysbio.se/:splat 301!
 /Lab_Nielsen/lab_nielsen.html			  /labs/nielsen/             301!
 /Lab_Petranovic/lab_dina.html			  /labs/petranovic/          301!
 /Lab_Zelezniak/lab_zelezniak.html		/labs/zelezniak/           301!
+
+# Netlify Identity role management for CMS access
+/news/*	200!	Role=admin
+/people/*	200!	Role=admin
+/labs/*	200!	Role=admin
+/pages/*	200!	Role=admin
+/pest-bin_eu/*	200! Role=admin,PEST-BIN
