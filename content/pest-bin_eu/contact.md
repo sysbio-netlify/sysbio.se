@@ -54,13 +54,25 @@ template: "pest-bin_eu/single"
           zoom: 17
         })
       });
+
+      var marker = new ol.Feature({
+          geometry: new ol.geom.Point(ol.proj.fromLonLat(coordinates))
+      })
+      marker.setStyle(
+          new ol.style.Style({
+            image: new ol.style.Icon({
+              //color: 'red',
+              crossOrigin: 'anonymous',
+              // For Internet Explorer 11
+              imgSize: [40, 40],
+              src: 'https://api.tiles.mapbox.com/mapbox.js/v2.4.0/images/marker-icon.png',
+            }),
+          })
+        );
+
       var marker_layer = new ol.layer.Vector({
         source: new ol.source.Vector({
-             features: [
-                 new ol.Feature({
-                     geometry: new ol.geom.Point(ol.proj.fromLonLat(coordinates))
-                 })
-             ]
+             features: [marker]
          })
       });
       map.addLayer(marker_layer);
