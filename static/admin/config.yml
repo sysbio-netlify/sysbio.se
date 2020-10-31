@@ -1,7 +1,7 @@
-backend:
-  name: github
-  repo: SysBioChalmers/sysbio.se
-  branch: develop
+#backend:
+#  name: github
+#  repo: SysBioChalmers/sysbio.se
+#  branch: develop
 
 backend:
   name: git-gateway
