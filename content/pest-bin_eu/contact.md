@@ -55,7 +55,6 @@ template: pest-bin_eu/single
         })
       });
 
-```
   var marker = new ol.Feature({
       geometry: new ol.geom.Point(ol.proj.fromLonLat(coordinates))
   })
@@ -78,7 +77,6 @@ template: pest-bin_eu/single
   });
   map.addLayer(marker_layer);
 </script>
-```
 
   </div>
 
