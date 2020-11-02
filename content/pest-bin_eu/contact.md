@@ -2,7 +2,7 @@
 title: Contact
 menu: pest_bin_eu
 weight: 60
-template: "pest-bin_eu/single"
+template: pest-bin_eu/single
 ---
 <style>
     .column {
@@ -33,7 +33,7 @@ template: "pest-bin_eu/single"
 <div class="row">
   <div class="column">
    <div>
-    ADRESSS
+    ADRESSS 
 
    </div>
    <br><br>
@@ -41,10 +41,10 @@ template: "pest-bin_eu/single"
    <div id="map" class="map"></div>
     <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.4.3/build/ol.js"></script>
     <script type="text/javascript">
-      coordinates = [11.975564, 57.691472];
+      coordinates = \[11.975564, 57.691472];
       var map = new ol.Map({
         target: 'map',
-        layers: [
+        layers: \[
           new ol.layer.Tile({
             source: new ol.source.OSM()
           })
@@ -55,28 +55,31 @@ template: "pest-bin_eu/single"
         })
       });
 
-      var marker = new ol.Feature({
-          geometry: new ol.geom.Point(ol.proj.fromLonLat(coordinates))
+```
+  var marker = new ol.Feature({
+      geometry: new ol.geom.Point(ol.proj.fromLonLat(coordinates))
+  })
+  marker.setStyle(
+      new ol.style.Style({
+        image: new ol.style.Icon({
+          //color: 'red',
+          crossOrigin: 'anonymous',
+          // For Internet Explorer 11
+          imgSize: [40, 40],
+          src: 'https://api.tiles.mapbox.com/mapbox.js/v2.4.0/images/marker-icon.png',
+        }),
       })
-      marker.setStyle(
-          new ol.style.Style({
-            image: new ol.style.Icon({
-              //color: 'red',
-              crossOrigin: 'anonymous',
-              // For Internet Explorer 11
-              imgSize: [40, 40],
-              src: 'https://api.tiles.mapbox.com/mapbox.js/v2.4.0/images/marker-icon.png',
-            }),
-          })
-        );
+    );
 
-      var marker_layer = new ol.layer.Vector({
-        source: new ol.source.Vector({
-             features: [marker]
-         })
-      });
-      map.addLayer(marker_layer);
-    </script>
+  var marker_layer = new ol.layer.Vector({
+    source: new ol.source.Vector({
+         features: [marker]
+     })
+  });
+  map.addLayer(marker_layer);
+</script>
+```
+
   </div>
 
   <div class="column">
@@ -93,4 +96,4 @@ template: "pest-bin_eu/single"
       <input type="submit" value="Submit">
     </form>
   </div>
-</div> 
+</div>
