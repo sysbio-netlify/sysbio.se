@@ -33,7 +33,7 @@ template: pest-bin_eu/single
 <div class="row">
   <div class="column">
    <div>
-    ADRESSS 
+    ADDRESS
 
    </div>
    <br><br>
@@ -41,10 +41,10 @@ template: pest-bin_eu/single
    <div id="map" class="map"></div>
     <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.4.3/build/ol.js"></script>
     <script type="text/javascript">
-      coordinates = [11.975564, 57.691472];
+      coordinates = \[11.975564, 57.691472];
       var map = new ol.Map({
         target: 'map',
-        layers: [
+        layers: \[
           new ol.layer.Tile({
             source: new ol.source.OSM()
           })
@@ -64,7 +64,7 @@ template: pest-bin_eu/single
           //color: 'red',
           crossOrigin: 'anonymous',
           // For Internet Explorer 11
-          imgSize: [40, 40],
+          imgSize: \[40, 40],
           src: 'https://api.tiles.mapbox.com/mapbox.js/v2.4.0/images/marker-icon.png',
         }),
       })
@@ -72,7 +72,7 @@ template: pest-bin_eu/single
 
   var marker_layer = new ol.layer.Vector({
     source: new ol.source.Vector({
-         features: [marker]
+         features: \[marker]
      })
   });
   map.addLayer(marker_layer);
