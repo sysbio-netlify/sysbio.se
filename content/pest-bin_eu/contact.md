@@ -47,17 +47,17 @@ Kemitorvet
    <div id="map" class="map"></div>
     <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.4.3/build/ol.js"></script>
     <script type="text/javascript">
-      coordinates = \\\[11.975564, 57.691472];
+      coordinates = [12.5198771, 55.7877781];
       var map = new ol.Map({
         target: 'map',
-        layers: \\\[
+        layers: [
           new ol.layer.Tile({
             source: new ol.source.OSM()
           })
         ],
         view: new ol.View({
           center: ol.proj.fromLonLat(coordinates),
-          zoom: 17
+          zoom: 16
         })
       });
 
@@ -70,7 +70,7 @@ Kemitorvet
           //color: 'red',
           crossOrigin: 'anonymous',
           // For Internet Explorer 11
-          imgSize: \[40, 40],
+          imgSize: [40, 40],
           src: 'https://api.tiles.mapbox.com/mapbox.js/v2.4.0/images/marker-icon.png',
         }),
       })
@@ -78,7 +78,7 @@ Kemitorvet
 
   var marker_layer = new ol.layer.Vector({
     source: new ol.source.Vector({
-         features: \[marker]
+         features: [marker]
      })
   });
   map.addLayer(marker_layer);
