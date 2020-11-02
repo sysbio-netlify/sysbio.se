@@ -7,4 +7,4 @@ image: construction.jpg
 ---
 SITE UNDER CONSTRUCTION
 
-![](construction.jpg)
+![](img/construction.jpg)
