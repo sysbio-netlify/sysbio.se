@@ -34,13 +34,12 @@ template: pest-bin_eu/single
   <div class="column">
    <div>
     Novo Nordisk Foundation Center for Biosustainability (DTU Biosustain)  
-
-Kemitorvet   
- 
-2800 Kgs. Lyngby  
-<br>
-+45 4525 8000
-
+    <br>
+    Kemitorvet   
+    <br>
+    2800 Kgs. Lyngby  
+    <br>
+    +45 4525 8000
    </div>
    <br><br>
    
