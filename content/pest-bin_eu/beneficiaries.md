@@ -4,7 +4,9 @@ menu: pest_bin_eu
 weight: 10
 template: pest-bin_eu/single
 ---
-# 1.Goteborg University/Sahlgrenska University Hospital
+# Beneficiaries
+
+## 1. Goteborg University/Sahlgrenska University Hospital
 
 Host for: ESR1
 
@@ -20,7 +22,7 @@ We are interested in using genomics and proteomics for the identification and ch
 
 [Culture collection of the University of Gothenburg (CCUG)](https://www.ccug.se/)
 
-# Chalmers University of Technology
+## 2. Chalmers University of Technology
 
 Host for: ESR2, ESR3, ESR14 
 
@@ -44,11 +46,9 @@ Host for: ESR2, ESR3, ESR14
 
 [Nina Kann](https://research.chalmers.se/en/person/kann) is professor in organic chemistry, heading a research group involved in areas such as organometallic chemistry, asymmetric synthesis and green chemistry. Research focus includes method development using reactions catalysed by ruthenium, iron, palladium and enzymes, with applications in the synthesis of foldamers and antivirals. A recent project also looks at the use of biobased precursors for organic synthesis.
 
-# INRAE: National Research Institute for Agriculture, Food and Environment
-
+## 3. INRAE: National Research Institute for Agriculture, Food and Environment
 
 Host for: ESR4
-
 
 **Recruiting PI:** Céline Henry, Hélène Bierne 
 
@@ -58,29 +58,38 @@ Host for: ESR4
 
 The Plateforme d'Analyse Protéomique de Paris Sud-Ouest (PAPPSO facility) provides research teams with equipments, skills and expertises in the field of proteomics, to allow them to respond to the most simple questions (identification of proteins from an organism the genome of which is entirely sequenced) as well as to complex questions (protein quantification in complex samples, dynamics of post-translational modifications,…) in the framework of collaborative projects and contracts. PAPPSO is specialized in high throughput proteomics (quantitative analysis of large cohorts of samples) and in the analysis of highly complex samples (métaprotéomics). The platform develops bioinformatics tools that allow the processing of these experiments and provides asistance to users for data interpretation.
 
-Lab website:   
+Lab website:\
 [Plateforme d’Analyse Protéomique de Paris Sud Ouest (PAPPSO)](http://pappso.inra.fr/)
 
-
-Institute website:  
+Institute website:\
 [Micalis Institute](https://www.micalis.fr/micalis_eng/Micalis-Institute)
-
 
 [INRAE](https://www.inrae.fr/)
 <br>
 
 <br>  
 
-### Hélène Bierne 
+### Hélène Bierne
 
 ![Hélène Bierne](img/helene_bierne.jpg)
 
 Our team is exploring the long-term effects of the bacterial pathogen Listeria monocytogenes on mammalian hosts. Using microbiology, cellular and molecular biology, genetics and biochemistry techniques, we study how bacteria and host cells reprogram themselves phenotypically, genetically and epigenetically, to allow Listeria to infect and persist in the host over the long term. This research aims to find new ways to detect asymptomatic infections and treat acute infections. 
 
-Lab website:  
+Lab website:\
 [Epigenetics and Cellular Microbiology / Helene Bierne](https://www.micalis.fr/micalis_eng/Poles-and-teams/Pole-Bacterial-Adaptation-and-Pathogenesis/Epigenetics-and-Cellular-Microbiology-Helene-Bierne)
 
- 
-
-Institute website:  
+Institute website:\
 [Micalis Institute](https://www.micalis.fr/micalis_eng/Micalis-Institute)
+
+## 4. Technical University of Denmark
+
+Host for: ESR5, ESR7, ESR12 
+
+### Recruiting PI: Prof. Ivan Mijakovic
+
+Professor Ivan Mijakovic leads an interdisciplinary research team implanted at two sites: DTU Biosustain in Denmark and Chalmers University of Technology in Sweden. Our core competence is bacteriology and our research interests range from very basic to applied ones. On the basic research side, we are interested in bacterial signaling and cellular regulation based on protein phosphorylation and we also explore biochemistry of early cells in relation to the genetic code and establishment of early genomes. On the applied side, we are pioneering new approaches to curb bacterial infections, based on advanced 2D materials, nanoparticles and genome mining for discovery of new antibiotics and their targets. We are a gender-balanced and very international team (20 group members from 11 different countries), and we provide a stimulating and supportive research environment for young scientists.   
+
+Lab websites:\
+[Mijakovic lab](https://www.sysbio.se/labs/mijakovic/)
+
+[Bacterial Signal Transduction group](https://www.biosustain.dtu.dk/research/research-groups/bacterial-signal-transduction)
