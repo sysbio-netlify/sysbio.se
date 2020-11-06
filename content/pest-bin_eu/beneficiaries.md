@@ -87,9 +87,23 @@ Host for: ESR5, ESR7, ESR12
 
 ### Recruiting PI: Prof. Ivan Mijakovic
 
+![Ivan Mijakovic](img/ivan_mijakovic.jpg)
+
 Professor Ivan Mijakovic leads an interdisciplinary research team implanted at two sites: DTU Biosustain in Denmark and Chalmers University of Technology in Sweden. Our core competence is bacteriology and our research interests range from very basic to applied ones. On the basic research side, we are interested in bacterial signaling and cellular regulation based on protein phosphorylation and we also explore biochemistry of early cells in relation to the genetic code and establishment of early genomes. On the applied side, we are pioneering new approaches to curb bacterial infections, based on advanced 2D materials, nanoparticles and genome mining for discovery of new antibiotics and their targets. We are a gender-balanced and very international team (20 group members from 11 different countries), and we provide a stimulating and supportive research environment for young scientists.   
 
 Lab websites:\
 [Mijakovic lab](https://www.sysbio.se/labs/mijakovic/)
 
 [Bacterial Signal Transduction group](https://www.biosustain.dtu.dk/research/research-groups/bacterial-signal-transduction)
+
+## 5. AltraBio
+
+Host for: ESR6
+
+### Recruiting PI: Simon de Bernard
+
+![Simon de Bernard](img/simon_de_bernard.jpg)
+
+Dr. Simon de Bernard, Ph.D. (Biochemistry and Molecular Biology) and graduate of the "École Polytechnique", started his career as Project Manager at ValiGen (Paris, France) and Senior Project Manager at IT.Omics (Lille, France). In 2006, he co-founded AltraBio, a biotechnology SME in Lyon, France. AltraBio's main focus is the development and implementation of innovative approaches for the analysis, mining and interpretation of life science data, especially resulting from omics technologies.
+
+[AltraBio website](https://www.altrabio.com)
