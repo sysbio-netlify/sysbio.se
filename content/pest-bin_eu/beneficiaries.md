@@ -107,3 +107,19 @@ Host for: ESR6
 Dr. Simon de Bernard, Ph.D. (Biochemistry and Molecular Biology) and graduate of the "École Polytechnique", started his career as Project Manager at ValiGen (Paris, France) and Senior Project Manager at IT.Omics (Lille, France). In 2006, he co-founded AltraBio, a biotechnology SME in Lyon, France. AltraBio's main focus is the development and implementation of innovative approaches for the analysis, mining and interpretation of life science data, especially resulting from omics technologies.
 
 [AltraBio website](https://www.altrabio.com)
+
+
+
+## 6. CNRS - French National Centre for Scientific Research
+
+Host for: ESR8
+
+### Recruiting PI: Christophe Grangeasse 
+
+![Christophe Grangeasse](img/christophe_grangeasse.jpg)
+
+The team’s work focuses on the biology of the human bacterial pathogen *Streptococcus pneumoniae* (pneumococcus). We study not only the processes governing the cell cycle (cell division, morphogenesis and genome duplication), but also the assembly and export processes of the polysaccharide capsule, which is the main factor of virulence of the pneumococcus. Using an integrated and multidisciplinary approach involving molecular biology, biochemistry, bacterial genetics, structural biology and cell imaging, we also study the regulatory mechanisms coordinating these processes. Among these, a particular attention is dedicated to protein phosphorylation and especially to the role of the serine-, threonine- or tyrosine-kinases.
+
+Lab website:  
+
+[Bacterial Pathogens and Protein Phosphorylation (C. Grangeasse)](https://mmsb.cnrs.fr/en/team/bacterial-pathogens-and-protein-phosphorylation/)
