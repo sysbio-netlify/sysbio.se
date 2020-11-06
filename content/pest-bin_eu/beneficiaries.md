@@ -132,7 +132,7 @@ Host for: ESR9
 
 ### Recruiting PI: Prof. Dr. Boris Macek
 
-![](img/boris_macek.jpg)
+![Boris Macek](img/boris_macek.jpg)
 
 The Chair of Quantitative Proteomics at the University of Tuebingen performs research in areas of proteogenomics, phosphoproteomics, biological signal transduction and quantitative analysis of protein modifications. It is held by Prof. Boris Macek, who moved to Tuebingen in 2008 after completing his education at Universities of Zagreb, Muenster and Odense, as well as at the Max Planck Institute of Biochemistry in Martinsried. We gather an international team of researchers with core expertise in shotgun mass spectrometry-based proteomics. Quantitative workflows are mainly based on stable isotope labeling of cells and tissues and measurements of resulting protein digests using high resolution mass spectrometry. In addition, we possess considerable infrastructure and expertise in protein/peptide separation technologies based on various analytical HPLC methods, as well as bioinformatic analysis of shotgun proteomics data. We apply this technology to a range of biomedical topics such as the influence of point mutations on signal transduction in cancer, influence of the gut microbiome on neuroinflammation in autism-spectrum disorders, and role of bacterial S/T/Y kinases in persistence.
 
