@@ -136,4 +136,64 @@ Host for: ESR9
 
 The Chair of Quantitative Proteomics at the University of Tuebingen performs research in areas of proteogenomics, phosphoproteomics, biological signal transduction and quantitative analysis of protein modifications. It is held by Prof. Boris Macek, who moved to Tuebingen in 2008 after completing his education at Universities of Zagreb, Muenster and Odense, as well as at the Max Planck Institute of Biochemistry in Martinsried. We gather an international team of researchers with core expertise in shotgun mass spectrometry-based proteomics. Quantitative workflows are mainly based on stable isotope labeling of cells and tissues and measurements of resulting protein digests using high resolution mass spectrometry. In addition, we possess considerable infrastructure and expertise in protein/peptide separation technologies based on various analytical HPLC methods, as well as bioinformatic analysis of shotgun proteomics data. We apply this technology to a range of biomedical topics such as the influence of point mutations on signal transduction in cancer, influence of the gut microbiome on neuroinflammation in autism-spectrum disorders, and role of bacterial S/T/Y kinases in persistence.
 
-[Quantitative Proteomics & Proteome Center Tuebingen website](http://www.pct.uni-tuebingen.de/)
+[Quantitative Proteomics & Proteome Center Tuebingen website](http://www.pct.uni-tuebingen.de/) 
+
+
+
+## 8. Clinical Microbiomics A/S
+
+Host for: ESR10 
+
+### Recruiting PI: H. Bjørn Nielsen, PhD, Chief Scientific Officer
+
+![Bjørn Nielsen](img/bjorn_nielsen.jpg)
+
+H. Bjørn Nielsen and Clinical Microbiomics focus on delivering world leading microbiome research to our academic and industrial clients. To that end we develop rigorous and powerfull laboratory, business and computational frameworks. Using machine learning for linking within-specie phylogenetic diversity to host health is one such framework. Importantly, our research is directed by marked pull and our visions for the future, ensuring its utility and relevance. 
+At Clinical Microbiomics we work as a cross-disciplinary team (science, sales and management) and we strive to have a healthy life/work balance. We have backgrounds in microbiome research, lifescience, physics, data science, communication and management.
+
+[Clinical Microbiomics website](https://clinical-microbiomics.com)  
+
+
+
+## 9. University of the Balearic Islands
+
+Host for: ESR11
+
+### Recruiting PI: Professor Margarita Gomila
+
+![Margarita Gomila](img/margarita_gomila.jpg)
+
+My training as a researcher and my participation in several research projects have consolidated my professional experience in the field of molecular microbial ecology, particularly in the study of the microbiota present in aquatic habitats. In our lab we opened a pioneering research line in the analysis of pure hospital waters, applying molecular techniques to the study of haemodialysis water and considering the hospital as another “environment”, available for bacterial growth.
+We have strong experience working on ecology, epidemiology, taxonomy and identification of microorganisms from environmental and clinically interest, as i.e. Achromobacter, Corynebacterium, Pseudomonas, Streptococcus, Mycobacterium or Xylella. 
+My currently research interests involve (meta)genomics and computational biology in the context of microbial ecology with the goal to broaden understanding of the genetic and metabolic potential of the microorganisms. We are working in the analysis of whole genomes of microorganisms of interest, mainly Pseudomonas, Mycobacterium and Xylella, in order to characterize the mobile genetic elements (phages, plasmids) and their associated virulence and antibiotic resistance genes, detection of new antibiotic resistances. Finally, we have experienced in metagenomics, using NGS methodologies in hospital haemodialysis waters and plants, with the aim to address the complexity of these samples, characterizing the organisms present in these systems and identifying their role in the microbial community.
+
+[MICROBIO website](https://www.uib.es/es/recerca/estructures/grups/grup/MICROBIO/)
+
+
+
+## 10. Rudjer Boskovic Institute
+
+Host for: ESR12
+
+### Recruiting PI: Tomislav Domazet-Lošo
+
+![Tomislav Domazet-Lošo](img/tomislav_domazet-loso.jpg)
+
+Our lab focuses on macroevolutionary patterns across the tree of life. We combine experimental and computational approaches to understand macroevolutionary dynamics in different clades including animals, plants, fungi and bacteria. Recently, we are trying to bring phylostratigraphic technology to the evolutionary and functional questions in bacteria, especially focusing on the bacterial multicellular behavior and its links to the multicellularity in animals. Our latest results show that developing Bacillus biofilms have embryo-like features.
+
+Institute website:
+[Ruđer Bošković Institute](https://www.irb.hr/eng)
+
+
+
+## 11. NAICONS
+
+Host for: ESR15
+
+### Recruiting PI: Stefano Donadio, PhD, Founder, CEO, & President of the Board
+
+![Stefano Donadio](img/stefano_donadio.jpg)
+
+NAICONS owns a large and diversified collection of 45,000 actinomycetes, soil-dwelling bacteria with a remarkable capacity to produce antibiotics and other bioactive metabolites. The research team consists of scientists with experience in microbiology and natural products, with a strong track record in the discovery, purification and structural determination of microbial metabolites. Our own research programs are supported by regional, national and European grants.
+
+[NAICONS website](http://naicons.com/)
