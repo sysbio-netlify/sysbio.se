@@ -6,21 +6,24 @@ template: pest-bin_eu/single
 ---
 # Beneficiaries
 
-## 1. Goteborg University/Sahlgrenska University Hospital
+## 1. Technical University of Denmark
 
-Host for: ESR1
+Host for: ESR5, ESR7, ESR12 
 
-### Recruiting PI: Roger Karlsson
+### Recruiting PI: Prof. Ivan Mijakovic
 
-![Roger Karlsson](img/roger_karlsson.jpg)
+![Ivan Mijakovic](img/ivan_mijakovic.jpg)
 
-We are interested in using genomics and proteomics for the identification and characterization of microorganisms. More specifically, we are interested in developing rapid diagnostic tools for infectious diseases, identifying and characterizing pathogens directly in clinical patient samples, by the discovery of unique peptide biomarkers. Benefits of using proteomics-based identification of pathogens, also known as proteotyping, is that not only can the species or even the strain of the pathogen be identified, by direct analysis of a clinical sample, but also traits such as expressed antibiotic resistance and virulence may be identified, without time-consuming culturing steps or multiple analyses steps.
+Professor Ivan Mijakovic leads an interdisciplinary research team implanted at two sites: DTU Biosustain in Denmark and Chalmers University of Technology in Sweden. Our core competence is bacteriology and our research interests range from very basic to applied ones. On the basic research side, we are interested in bacterial signaling and cellular regulation based on protein phosphorylation and we also explore biochemistry of early cells in relation to the genetic code and establishment of early genomes. On the applied side, we are pioneering new approaches to curb bacterial infections, based on advanced 2D materials, nanoparticles and genome mining for discovery of new antibiotics and their targets. We are a gender-balanced and very international team (20 group members from 11 different countries), and we provide a stimulating and supportive research environment for young scientists.   
 
-[Department of infectious diseases, Institute of Biomedicine, University of Gothenburg](https://www.gu.se/en/biomedicine/about-us/department-of-infectious-diseases)
+Lab websites:\
+[Mijakovic lab](https://www.sysbio.se/labs/mijakovic/)
 
-[Clinical microbiology, Sahlgrenska University Hospital, Västra Götaland Region, Gothenburg](https://www.sahlgrenska.se/omraden/omrade-4/verksamhet-klinisk-mikrobiologi/molekylar-mikrobiologi/)
+[Bacterial Signal Transduction group](https://www.biosustain.dtu.dk/research/research-groups/bacterial-signal-transduction)
 
-[Culture collection of the University of Gothenburg (CCUG)](https://www.ccug.se/)
+<br>
+
+<br>  
 
 ## 2. Chalmers University of Technology
 
@@ -46,7 +49,148 @@ Host for: ESR2, ESR3, ESR14
 
 [Nina Kann](https://research.chalmers.se/en/person/kann) is professor in organic chemistry, heading a research group involved in areas such as organometallic chemistry, asymmetric synthesis and green chemistry. Research focus includes method development using reactions catalysed by ruthenium, iron, palladium and enzymes, with applications in the synthesis of foldamers and antivirals. A recent project also looks at the use of biobased precursors for organic synthesis.
 
-## 3. INRAE: National Research Institute for Agriculture, Food and Environment
+<br>
+
+<br>  
+
+## 3. Rudjer Boskovic Institute
+
+Host for: ESR12
+
+### Recruiting PI: Tomislav Domazet-Lošo
+
+![Tomislav Domazet-Lošo](img/tomislav_domazet-loso.jpg)
+
+Our lab focuses on macroevolutionary patterns across the tree of life. We combine experimental and computational approaches to understand macroevolutionary dynamics in different clades including animals, plants, fungi and bacteria. Recently, we are trying to bring phylostratigraphic technology to the evolutionary and functional questions in bacteria, especially focusing on the bacterial multicellular behavior and its links to the multicellularity in animals. Our latest results show that developing Bacillus biofilms have embryo-like features.
+
+Institute website:
+[Ruđer Bošković Institute](https://www.irb.hr/eng)
+
+<br>
+
+<br>  
+
+## 4. Goteborg University/Sahlgrenska University Hospital
+
+Host for: ESR1
+
+### Recruiting PI: Roger Karlsson
+
+![Roger Karlsson](img/roger_karlsson.jpg)
+
+We are interested in using genomics and proteomics for the identification and characterization of microorganisms. More specifically, we are interested in developing rapid diagnostic tools for infectious diseases, identifying and characterizing pathogens directly in clinical patient samples, by the discovery of unique peptide biomarkers. Benefits of using proteomics-based identification of pathogens, also known as proteotyping, is that not only can the species or even the strain of the pathogen be identified, by direct analysis of a clinical sample, but also traits such as expressed antibiotic resistance and virulence may be identified, without time-consuming culturing steps or multiple analyses steps.
+
+[Department of infectious diseases, Institute of Biomedicine, University of Gothenburg](https://www.gu.se/en/biomedicine/about-us/department-of-infectious-diseases)
+
+[Clinical microbiology, Sahlgrenska University Hospital, Västra Götaland Region, Gothenburg](https://www.sahlgrenska.se/omraden/omrade-4/verksamhet-klinisk-mikrobiologi/molekylar-mikrobiologi/)
+
+[Culture collection of the University of Gothenburg (CCUG)](https://www.ccug.se/)
+
+<br>
+
+<br>  
+
+## 5. University of the Balearic Islands
+
+Host for: ESR11
+
+### Recruiting PI: Professor Margarita Gomila
+
+![Margarita Gomila](img/margarita_gomila.jpg)
+
+My training as a researcher and my participation in several research projects have consolidated my professional experience in the field of molecular microbial ecology, particularly in the study of the microbiota present in aquatic habitats. In our lab we opened a pioneering research line in the analysis of pure hospital waters, applying molecular techniques to the study of haemodialysis water and considering the hospital as another “environment”, available for bacterial growth.
+We have strong experience working on ecology, epidemiology, taxonomy and identification of microorganisms from environmental and clinically interest, as i.e. Achromobacter, Corynebacterium, Pseudomonas, Streptococcus, Mycobacterium or Xylella. 
+My currently research interests involve (meta)genomics and computational biology in the context of microbial ecology with the goal to broaden understanding of the genetic and metabolic potential of the microorganisms. We are working in the analysis of whole genomes of microorganisms of interest, mainly Pseudomonas, Mycobacterium and Xylella, in order to characterize the mobile genetic elements (phages, plasmids) and their associated virulence and antibiotic resistance genes, detection of new antibiotic resistances. Finally, we have experienced in metagenomics, using NGS methodologies in hospital haemodialysis waters and plants, with the aim to address the complexity of these samples, characterizing the organisms present in these systems and identifying their role in the microbial community.
+
+[MICROBIO website](https://www.uib.es/es/recerca/estructures/grups/grup/MICROBIO/)
+
+<br>
+
+<br>  
+
+## 6. NAICONS
+
+Host for: ESR15
+
+### Recruiting PI: Stefano Donadio, PhD, Founder, CEO, & President of the Board
+
+![Stefano Donadio](img/stefano_donadio.jpg)
+
+NAICONS owns a large and diversified collection of 45,000 actinomycetes, soil-dwelling bacteria with a remarkable capacity to produce antibiotics and other bioactive metabolites. The research team consists of scientists with experience in microbiology and natural products, with a strong track record in the discovery, purification and structural determination of microbial metabolites. Our own research programs are supported by regional, national and European grants.
+
+[NAICONS website](http://naicons.com/)
+<br>
+
+<br>  
+
+## 7. AltraBio
+
+Host for: ESR6
+
+### Recruiting PI: Simon de Bernard
+
+![Simon de Bernard](img/simon_de_bernard.jpg)
+
+Dr. Simon de Bernard, Ph.D. (Biochemistry and Molecular Biology) and graduate of the "École Polytechnique", started his career as Project Manager at ValiGen (Paris, France) and Senior Project Manager at IT.Omics (Lille, France). In 2006, he co-founded AltraBio, a biotechnology SME in Lyon, France. AltraBio's main focus is the development and implementation of innovative approaches for the analysis, mining and interpretation of life science data, especially resulting from omics technologies.
+
+[AltraBio website](https://www.altrabio.com)
+
+<br>
+
+<br>  
+
+## 8. CNRS - French National Centre for Scientific Research
+
+Host for: ESR8
+
+### Recruiting PI: Christophe Grangeasse 
+
+![Christophe Grangeasse](img/christophe_grangeasse.jpg)
+
+The team’s work focuses on the biology of the human bacterial pathogen *Streptococcus pneumoniae* (pneumococcus). We study not only the processes governing the cell cycle (cell division, morphogenesis and genome duplication), but also the assembly and export processes of the polysaccharide capsule, which is the main factor of virulence of the pneumococcus. Using an integrated and multidisciplinary approach involving molecular biology, biochemistry, bacterial genetics, structural biology and cell imaging, we also study the regulatory mechanisms coordinating these processes. Among these, a particular attention is dedicated to protein phosphorylation and especially to the role of the serine-, threonine- or tyrosine-kinases.
+
+Lab website:  
+
+[Bacterial Pathogens and Protein Phosphorylation (C. Grangeasse)](https://mmsb.cnrs.fr/en/team/bacterial-pathogens-and-protein-phosphorylation/)
+
+<br>
+
+<br>  
+
+## 9. University of Tübingen
+
+Host for: ESR9
+
+### Recruiting PI: Prof. Dr. Boris Macek
+
+![Boris Macek](img/boris_macek.jpg)
+
+The Chair of Quantitative Proteomics at the University of Tuebingen performs research in areas of proteogenomics, phosphoproteomics, biological signal transduction and quantitative analysis of protein modifications. It is held by Prof. Boris Macek, who moved to Tuebingen in 2008 after completing his education at Universities of Zagreb, Muenster and Odense, as well as at the Max Planck Institute of Biochemistry in Martinsried. We gather an international team of researchers with core expertise in shotgun mass spectrometry-based proteomics. Quantitative workflows are mainly based on stable isotope labeling of cells and tissues and measurements of resulting protein digests using high resolution mass spectrometry. In addition, we possess considerable infrastructure and expertise in protein/peptide separation technologies based on various analytical HPLC methods, as well as bioinformatic analysis of shotgun proteomics data. We apply this technology to a range of biomedical topics such as the influence of point mutations on signal transduction in cancer, influence of the gut microbiome on neuroinflammation in autism-spectrum disorders, and role of bacterial S/T/Y kinases in persistence.
+
+[Quantitative Proteomics & Proteome Center Tuebingen website](http://www.pct.uni-tuebingen.de/) 
+
+<br>
+
+<br>  
+
+## 10. Clinical Microbiomics A/S
+
+Host for: ESR10 
+
+### Recruiting PI: H. Bjørn Nielsen, PhD, Chief Scientific Officer
+
+![Bjørn Nielsen](img/bjorn_nielsen.jpg)
+
+H. Bjørn Nielsen and Clinical Microbiomics focus on delivering world leading microbiome research to our academic and industrial clients. To that end we develop rigorous and powerfull laboratory, business and computational frameworks. Using machine learning for linking within-specie phylogenetic diversity to host health is one such framework. Importantly, our research is directed by marked pull and our visions for the future, ensuring its utility and relevance. 
+At Clinical Microbiomics we work as a cross-disciplinary team (science, sales and management) and we strive to have a healthy life/work balance. We have backgrounds in microbiome research, lifescience, physics, data science, communication and management.
+
+[Clinical Microbiomics website](https://clinical-microbiomics.com)  
+
+<br>
+
+<br>  
+
+## 11. INRAE: National Research Institute for Agriculture, Food and Environment
 
 Host for: ESR4
 
@@ -81,119 +225,5 @@ Lab website:\
 Institute website:\
 [Micalis Institute](https://www.micalis.fr/micalis_eng/Micalis-Institute)
 
-## 4. Technical University of Denmark
-
-Host for: ESR5, ESR7, ESR12 
-
-### Recruiting PI: Prof. Ivan Mijakovic
-
-![Ivan Mijakovic](img/ivan_mijakovic.jpg)
-
-Professor Ivan Mijakovic leads an interdisciplinary research team implanted at two sites: DTU Biosustain in Denmark and Chalmers University of Technology in Sweden. Our core competence is bacteriology and our research interests range from very basic to applied ones. On the basic research side, we are interested in bacterial signaling and cellular regulation based on protein phosphorylation and we also explore biochemistry of early cells in relation to the genetic code and establishment of early genomes. On the applied side, we are pioneering new approaches to curb bacterial infections, based on advanced 2D materials, nanoparticles and genome mining for discovery of new antibiotics and their targets. We are a gender-balanced and very international team (20 group members from 11 different countries), and we provide a stimulating and supportive research environment for young scientists.   
-
-Lab websites:\
-[Mijakovic lab](https://www.sysbio.se/labs/mijakovic/)
-
-[Bacterial Signal Transduction group](https://www.biosustain.dtu.dk/research/research-groups/bacterial-signal-transduction)
-
-## 5. AltraBio
-
-Host for: ESR6
-
-### Recruiting PI: Simon de Bernard
-
-![Simon de Bernard](img/simon_de_bernard.jpg)
-
-Dr. Simon de Bernard, Ph.D. (Biochemistry and Molecular Biology) and graduate of the "École Polytechnique", started his career as Project Manager at ValiGen (Paris, France) and Senior Project Manager at IT.Omics (Lille, France). In 2006, he co-founded AltraBio, a biotechnology SME in Lyon, France. AltraBio's main focus is the development and implementation of innovative approaches for the analysis, mining and interpretation of life science data, especially resulting from omics technologies.
-
-[AltraBio website](https://www.altrabio.com)
 
 
-
-## 6. CNRS - French National Centre for Scientific Research
-
-Host for: ESR8
-
-### Recruiting PI: Christophe Grangeasse 
-
-![Christophe Grangeasse](img/christophe_grangeasse.jpg)
-
-The team’s work focuses on the biology of the human bacterial pathogen *Streptococcus pneumoniae* (pneumococcus). We study not only the processes governing the cell cycle (cell division, morphogenesis and genome duplication), but also the assembly and export processes of the polysaccharide capsule, which is the main factor of virulence of the pneumococcus. Using an integrated and multidisciplinary approach involving molecular biology, biochemistry, bacterial genetics, structural biology and cell imaging, we also study the regulatory mechanisms coordinating these processes. Among these, a particular attention is dedicated to protein phosphorylation and especially to the role of the serine-, threonine- or tyrosine-kinases.
-
-Lab website:  
-
-[Bacterial Pathogens and Protein Phosphorylation (C. Grangeasse)](https://mmsb.cnrs.fr/en/team/bacterial-pathogens-and-protein-phosphorylation/)
-
-
-
-## 7. University of Tübingen
-
-Host for: ESR9
-
-### Recruiting PI: Prof. Dr. Boris Macek
-
-![Boris Macek](img/boris_macek.jpg)
-
-The Chair of Quantitative Proteomics at the University of Tuebingen performs research in areas of proteogenomics, phosphoproteomics, biological signal transduction and quantitative analysis of protein modifications. It is held by Prof. Boris Macek, who moved to Tuebingen in 2008 after completing his education at Universities of Zagreb, Muenster and Odense, as well as at the Max Planck Institute of Biochemistry in Martinsried. We gather an international team of researchers with core expertise in shotgun mass spectrometry-based proteomics. Quantitative workflows are mainly based on stable isotope labeling of cells and tissues and measurements of resulting protein digests using high resolution mass spectrometry. In addition, we possess considerable infrastructure and expertise in protein/peptide separation technologies based on various analytical HPLC methods, as well as bioinformatic analysis of shotgun proteomics data. We apply this technology to a range of biomedical topics such as the influence of point mutations on signal transduction in cancer, influence of the gut microbiome on neuroinflammation in autism-spectrum disorders, and role of bacterial S/T/Y kinases in persistence.
-
-[Quantitative Proteomics & Proteome Center Tuebingen website](http://www.pct.uni-tuebingen.de/) 
-
-
-
-## 8. Clinical Microbiomics A/S
-
-Host for: ESR10 
-
-### Recruiting PI: H. Bjørn Nielsen, PhD, Chief Scientific Officer
-
-![Bjørn Nielsen](img/bjorn_nielsen.jpg)
-
-H. Bjørn Nielsen and Clinical Microbiomics focus on delivering world leading microbiome research to our academic and industrial clients. To that end we develop rigorous and powerfull laboratory, business and computational frameworks. Using machine learning for linking within-specie phylogenetic diversity to host health is one such framework. Importantly, our research is directed by marked pull and our visions for the future, ensuring its utility and relevance. 
-At Clinical Microbiomics we work as a cross-disciplinary team (science, sales and management) and we strive to have a healthy life/work balance. We have backgrounds in microbiome research, lifescience, physics, data science, communication and management.
-
-[Clinical Microbiomics website](https://clinical-microbiomics.com)  
-
-
-
-## 9. University of the Balearic Islands
-
-Host for: ESR11
-
-### Recruiting PI: Professor Margarita Gomila
-
-![Margarita Gomila](img/margarita_gomila.jpg)
-
-My training as a researcher and my participation in several research projects have consolidated my professional experience in the field of molecular microbial ecology, particularly in the study of the microbiota present in aquatic habitats. In our lab we opened a pioneering research line in the analysis of pure hospital waters, applying molecular techniques to the study of haemodialysis water and considering the hospital as another “environment”, available for bacterial growth.
-We have strong experience working on ecology, epidemiology, taxonomy and identification of microorganisms from environmental and clinically interest, as i.e. Achromobacter, Corynebacterium, Pseudomonas, Streptococcus, Mycobacterium or Xylella. 
-My currently research interests involve (meta)genomics and computational biology in the context of microbial ecology with the goal to broaden understanding of the genetic and metabolic potential of the microorganisms. We are working in the analysis of whole genomes of microorganisms of interest, mainly Pseudomonas, Mycobacterium and Xylella, in order to characterize the mobile genetic elements (phages, plasmids) and their associated virulence and antibiotic resistance genes, detection of new antibiotic resistances. Finally, we have experienced in metagenomics, using NGS methodologies in hospital haemodialysis waters and plants, with the aim to address the complexity of these samples, characterizing the organisms present in these systems and identifying their role in the microbial community.
-
-[MICROBIO website](https://www.uib.es/es/recerca/estructures/grups/grup/MICROBIO/)
-
-
-
-## 10. Rudjer Boskovic Institute
-
-Host for: ESR12
-
-### Recruiting PI: Tomislav Domazet-Lošo
-
-![Tomislav Domazet-Lošo](img/tomislav_domazet-loso.jpg)
-
-Our lab focuses on macroevolutionary patterns across the tree of life. We combine experimental and computational approaches to understand macroevolutionary dynamics in different clades including animals, plants, fungi and bacteria. Recently, we are trying to bring phylostratigraphic technology to the evolutionary and functional questions in bacteria, especially focusing on the bacterial multicellular behavior and its links to the multicellularity in animals. Our latest results show that developing Bacillus biofilms have embryo-like features.
-
-Institute website:
-[Ruđer Bošković Institute](https://www.irb.hr/eng)
-
-
-
-## 11. NAICONS
-
-Host for: ESR15
-
-### Recruiting PI: Stefano Donadio, PhD, Founder, CEO, & President of the Board
-
-![Stefano Donadio](img/stefano_donadio.jpg)
-
-NAICONS owns a large and diversified collection of 45,000 actinomycetes, soil-dwelling bacteria with a remarkable capacity to produce antibiotics and other bioactive metabolites. The research team consists of scientists with experience in microbiology and natural products, with a strong track record in the discovery, purification and structural determination of microbial metabolites. Our own research programs are supported by regional, national and European grants.
-
-[NAICONS website](http://naicons.com/)
