@@ -6,6 +6,10 @@ template: pest-bin_eu/single
 ---
 # Non-recruiting Principal Investigators
 
+<br>
+
+<br>  
+
 ## 1. Nanoxis Consulting AB
 
 ![Nanoxis Consulting AB](img/logo_nanoxis-consulting-copy.png)
