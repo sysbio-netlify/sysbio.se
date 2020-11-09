@@ -44,7 +44,7 @@ collections: # A list of collections the CMS should be able to edit
     label_singular: "PEST-BIN page"
     folder: "content/pest-bin_eu" # The path to the folder where the documents are stored
     media_folder: "img/"
-    public_folder: "/pest-bin_eu/img/"
+    public_folder: "../img/"
     slug: "{{title}}"
     filter: { field: "template", value: "pest-bin_eu/single"}
     create: true # Allow users to create new documents in this collection
