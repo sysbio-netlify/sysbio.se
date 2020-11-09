@@ -2,21 +2,22 @@
 title: Partners
 menu: pest_bin_eu
 weight: 20
-template: "pest-bin_eu/single"
+template: pest-bin_eu/single
 ---
-
 # Non-recruiting Principal Investigators
 
+## 1. Nanoxis Consulting AB
 
-## FirstName LastName
+![Nanoxis Consulting AB](img/logo_nanoxis-consulting-copy.png)
 
-![FirstName LastName](/img/flags/eu_flag.jpg) A few sentences about the PI. A few sentences about the PI.A few sentences about the PI.A few sentences about the PI.A few sentences about the PI.
+## 2. Wellspect
 
-Website: http://www.echo-systems.eu/home.html
+![Wellspect](img/logo_wellspect.png)
 
+## 3. Faculty of Science, University of Zagreb
 
-## FirstName LastName
+![Faculty of Science](img/logo-pmf.jpg)
 
-![FirstName LastName](/img/flags/eu_flag.jpg) A few sentences about the PI. A few sentences about the PI.A few sentences about the PI.A few sentences about the PI.A few sentences about the PI.
+## 4. University of Milano-Bicocca
 
-Website: http://www.echo-systems.eu/home.html
+![University of Milano-Bicocca](img/logo-bicocca.jpg)
