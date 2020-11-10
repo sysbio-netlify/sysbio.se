@@ -3,7 +3,7 @@ title: Home
 menu: pest_bin_eu
 weight: -10
 template: pest-bin_eu/single
-image: img/pb-home.png
+image: img/pb-homepic.png
 ---
 PEST-BIN is a Marie Skłodowska-Curie Innovation Training Network (ITN), funded by the European Commission, Horizon 2020 Program. The Network provides PhD training to 15 Early Stage Researchers (ESRs). \
 <br>
