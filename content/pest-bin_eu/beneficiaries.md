@@ -14,7 +14,7 @@ Host for: ESR5, ESR7, ESR12
 
 ### Recruiting PI: Prof. Ivan Mijakovic
 
-![Ivan Mijakovic](img/ivan_mijakovic.jpg)
+![Ivan Mijakovic](../img/ivan_mijakovic.jpg)
 
 Professor Ivan Mijakovic leads an interdisciplinary research team implanted at two sites: DTU Biosustain in Denmark and Chalmers University of Technology in Sweden. Our core competence is bacteriology and our research interests range from very basic to applied ones. On the basic research side, we are interested in bacterial signaling and cellular regulation based on protein phosphorylation and we also explore biochemistry of early cells in relation to the genetic code and establishment of early genomes. On the applied side, we are pioneering new approaches to curb bacterial infections, based on advanced 2D materials, nanoparticles and genome mining for discovery of new antibiotics and their targets. We are a gender-balanced and very international team (20 group members from 11 different countries), and we provide a stimulating and supportive research environment for young scientists.   
 
