@@ -6,4 +6,4 @@ template: pest-bin_eu/single
 ---
 test
 
-![ivan-pic](img/ivan_mijakovic.jpg)
+![ivan-pic](../img/ivan_mijakovic.jpg)
