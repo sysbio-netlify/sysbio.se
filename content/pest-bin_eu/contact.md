@@ -37,9 +37,7 @@ template: pest-bin_eu/single
     <br>
     Kemitorvet   
     <br>
-    2800 Kgs. Lyngby  
-    <br>
-    +45 4525 8000
+    2800 Kgs. Lyngby
    </div>
    <br><br>
    
