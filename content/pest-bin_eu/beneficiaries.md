@@ -27,7 +27,7 @@ Lab websites:\
 
 <br>  
 
-## 2. Chalmers University of Technology
+## 2. Chalmers University of Technology {#chalmers}
 
 Host for: ESR2, ESR3, ESR14 
 
@@ -55,7 +55,7 @@ Host for: ESR2, ESR3, ESR14
 
 <br>  
 
-## 3. Rudjer Boskovic Institute
+## 3. Rudjer Boskovic Institute {#rudjer}
 
 Host for: ESR12
 
@@ -72,7 +72,7 @@ Institute website:
 
 <br>  
 
-## 4. Goteborg University/Sahlgrenska University Hospital
+## 4. Goteborg University/Sahlgrenska University Hospital {#gu}
 
 Host for: ESR1
 
@@ -92,7 +92,7 @@ We are interested in using genomics and proteomics for the identification and ch
 
 <br>  
 
-## 5. University of the Balearic Islands
+## 5. University of the Balearic Islands {#ubi}
 
 Host for: ESR11
 
@@ -110,7 +110,7 @@ My currently research interests involve (meta)genomics and computational biology
 
 <br>  
 
-## 6. NAICONS
+## 6. NAICONS {#naicons}
 
 Host for: ESR15
 
@@ -125,7 +125,7 @@ NAICONS owns a large and diversified collection of 45,000 actinomycetes, soil-dw
 
 <br>  
 
-## 7. AltraBio
+## 7. AltraBio {#altrabio}
 
 Host for: ESR6
 
@@ -141,7 +141,7 @@ Dr. Simon de Bernard, Ph.D. (Biochemistry and Molecular Biology) and graduate of
 
 <br>  
 
-## 8. CNRS - French National Centre for Scientific Research
+## 8. CNRS - French National Centre for Scientific Research {#cnrs}
 
 Host for: ESR8
 
@@ -159,7 +159,7 @@ Lab website:
 
 <br>  
 
-## 9. University of Tübingen
+## 9. University of Tübingen {#ut}
 
 Host for: ESR9
 
@@ -175,7 +175,7 @@ The Chair of Quantitative Proteomics at the University of Tuebingen performs res
 
 <br>  
 
-## 10. Clinical Microbiomics A/S
+## 10. Clinical Microbiomics A/S {#cm}
 
 Host for: ESR10 
 
@@ -192,7 +192,7 @@ At Clinical Microbiomics we work as a cross-disciplinary team (science, sales an
 
 <br>  
 
-## 11. INRAE: National Research Institute for Agriculture, Food and Environment
+## 11. INRAE: National Research Institute for Agriculture, Food and Environment {#inrae}
 
 Host for: ESR4
 
