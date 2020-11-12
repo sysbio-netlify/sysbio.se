@@ -24,7 +24,7 @@ test
                       <td>2. <img src="img/logo_wellspect_140px.png" width="140" height="32" alt="Wellspect"/></td>
                     </tr>
                     <tr>
-                      <td>3. <a href="/beneficiaries#rudjer"><img src="img/logo-irb_80px.png" width="80" height="56" alt="Rudjer Boskovic Institute"/></a></td>
+                      <td>3. <a href="/pest-bin_eu/beneficiaries#rudjer"><img src="img/logo-irb_80px.png" width="80" height="56" alt="Rudjer Boskovic Institute"/></a></td>
                       <td>9. <img src="img/logo-ut_160px.png" width="160" height="62" alt="University of Tübingen"/></td>
                       <td>3. <img src="img/logo-pmf_80px.jpg" width="80" height="80" alt="PMF"/></td>
                     </tr>
