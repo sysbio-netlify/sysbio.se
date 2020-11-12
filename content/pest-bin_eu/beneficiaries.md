@@ -12,7 +12,7 @@ template: pest-bin_eu/single
 
 Host for: ESR5, ESR7, ESR12 
 
-### Recruiting PI: Prof. Ivan Mijakovic
+### Recruiting PI: Prof. Ivan Mijakovic - Project Coordinator
 
 ![Ivan Mijakovic](../img/ivan_mijakovic.jpg)
 
@@ -33,6 +33,12 @@ Host for: ESR2, ESR3, ESR14
 
 **Recruiting PI:** Prof. August Yurgens, Associate Prof. Roland Kádár, Prof. Nina Kann
 
+### Prof. Nina Kann
+
+![Nina Kann](../img/nina_kann.jpg)
+
+[Nina Kann](https://research.chalmers.se/en/person/kann) is professor in organic chemistry, heading a research group involved in areas such as organometallic chemistry, asymmetric synthesis and green chemistry. Research focus includes method development using reactions catalysed by ruthenium, iron, palladium and enzymes, with applications in the synthesis of foldamers and antivirals. A recent project also looks at the use of biobased precursors for organic synthesis.
+
 ### Prof. August Yurgens
 
 ![August Yurgens](../img/august_yurgens.jpg)
@@ -44,12 +50,6 @@ Host for: ESR2, ESR3, ESR14
 ![Roland Kádár](../img/roland_kadar.jpg)
 
 [Kádár’s group](https://www.chalmers.se/en/staff/Pages/roland-kadar.aspx) is focused on the Rheology and processing of soft matter. Understanding flow-field-matter/compositional interactions in relation to fundamental rheological properties is essential for obtaining products with favorable performance. General research activities of interest are: (i) Advanced characterization methods, method development, (ii) Tailoring multifunctional properties in nanostructured materials and (iii) Dynamics of simple and complex fluids for processing applications.
-
-### Prof. Nina Kann
-
-![Nina Kann](../img/nina_kann.jpg)
-
-[Nina Kann](https://research.chalmers.se/en/person/kann) is professor in organic chemistry, heading a research group involved in areas such as organometallic chemistry, asymmetric synthesis and green chemistry. Research focus includes method development using reactions catalysed by ruthenium, iron, palladium and enzymes, with applications in the synthesis of foldamers and antivirals. A recent project also looks at the use of biobased precursors for organic synthesis.
 
 <br>
 
