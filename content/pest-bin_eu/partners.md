@@ -12,7 +12,7 @@ template: pest-bin_eu/single
 
 ## 1. Nanoxis Consulting AB {#nanoxis}
 
-![Nanoxis Consulting AB](../img/logo_nanoxis-consulting-copy.png)
+![Nanoxis Consulting AB](../img/logo_nanoxis-consulting_350px.png)
 
 ## 2. Wellspect {#wellspect}
 
