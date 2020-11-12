@@ -14,7 +14,7 @@ test
                       <td width="190">Partners</td>
                     </tr>
                     <tr>
-                      <td>1. <img src="img/logo-DTU_160.png" width="160" height="42" alt=“DTU/></td>
+                      <td>1. <img src="img/logo-DTU_160.png" width="160" height="42" alt="DTU"></td>
                       <td>7. <img src="img/logo-altrabio_160px.png" width="160" height="37" alt="AltraBio"/></td>
                       <td>1. <img src="img/logo_nanoxis-consulting_160px.png" width="160" height="21" alt="Nanoxis Consulting AB"/></td>
                     </tr>
