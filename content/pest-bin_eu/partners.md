@@ -10,18 +10,18 @@ template: pest-bin_eu/single
 
 <br>  
 
-## 1. Nanoxis Consulting AB
+## 1. Nanoxis Consulting AB {#nanoxis}
 
 ![Nanoxis Consulting AB](../img/logo_nanoxis-consulting-copy.png)
 
-## 2. Wellspect
+## 2. Wellspect {#wellspect}
 
 ![Wellspect](../img/logo_wellspect.png)
 
-## 3. Faculty of Science, University of Zagreb
+## 3. Faculty of Science, University of Zagreb {#pmf}
 
 ![Faculty of Science](../img/logo-pmf.jpg)
 
-## 4. University of Milano-Bicocca
+## 4. University of Milano-Bicocca {#bicocca}
 
 ![University of Milano-Bicocca](../img/logo-bicocca.jpg)
