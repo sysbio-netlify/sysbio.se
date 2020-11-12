@@ -13,7 +13,7 @@ profileleftbox: |-
   E-mail: Ivan.Mijakovic \[at] chalmers.se\
   Office: Room 3056A (Fysik Origo, Kemigården 1)
 ---
-[CV](/img/cv_im2009.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2009.pdf) <br/><br/>
+[CV](/img/cv_im2011.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2011.pdf) <br/><br/>
 
 #### Current research
 
@@ -57,8 +57,7 @@ Shadi Rahimi, Post-doc
 Yanyan Chen, Post-doc  
 Avlant Nilsson, Post-doc  
 Caroline Wasén, Post-doc  
-Mohsen Zareian, Post-doc    
-Mahdis Noori, visiting PhD student
+Mohsen Zareian, Post-doc
 
 **Current Members of the Mijakovic lab at DTU Biosustain:**  
 Carsten Jers, senior researcher  
