@@ -20,7 +20,7 @@ test
                       <td><p style="color:red">1. <a href="/pest-bin_eu/partners#nanoxis"><img src="../img/logo_nanoxis-consulting_350px.png" width="160" height="21" alt="Nanoxis Consulting AB"></p></a></td>
                     </tr>
                     <tr>
-                      <td>2. <a href="/pest-bin_eu/beneficiaries#chalmers"><img src="../img/logo-chalmers_160.png" width="160" height="38" alt="Chalmers University of Technology"></a></td>
+                      <td>2. <a href="/pest-bin_eu/beneficiaries#chalmers"><img src="../img/logo-chalmers_160.png" width="160" height="51" alt="Chalmers University of Technology"></a></td>
                       <td>8. <a href="/pest-bin_eu/beneficiaries#cnrs"><img src="../img/logo-cnrs_80px.png" width="80" height="80" alt="CNRS"></a></td>
                       <td><p style="color:red">2. <a href="/pest-bin_eu/partners#wellspect"><img src="../img/logo_wellspect.png" width="140" height="32" alt="Wellspect"></p></a></td>
                     </tr>
