@@ -25,3 +25,18 @@ template: pest-bin_eu/single
 ## 4. University of Milano-Bicocca {#bicocca}
 
 ![University of Milano-Bicocca](../img/logo-bicocca.jpg)
+
+
+<br>
+
+<br>  
+
+<br>
+
+<br> 
+ 
+<br>  
+
+<br>
+
+<br> 
