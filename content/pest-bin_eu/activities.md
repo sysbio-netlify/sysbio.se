@@ -3,7 +3,7 @@ title: Activities
 menu: pest_bin_eu
 weight: 40
 template: pest-bin_eu/single
-image: img/logo-dtu_160.png
+image: img/logo-chalmers_160.png
 ---
 test
 
