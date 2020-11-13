@@ -55,3 +55,6 @@ Antibiotic resistance has been named as one of the greatest threats to global he
                     </tr>
                   </tbody>
                 </table>
+
+<meta name="keywords" content="pest-bin, pest-bin project, Pioneering strategies against bacterial infections, Ivan Mijakovic">
+<meta name="description" content="PEST-BIN Pioneering Strategies Against Bacterial Infections">
