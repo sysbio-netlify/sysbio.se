@@ -23,6 +23,11 @@ Antibiotic resistance has been named as one of the greatest threats to global he
                       <td width="190"><b>6.</b> <a href="/pest-bin_eu/beneficiaries#naicons"><img src="img/logo-naicons_160px.png" width="160" height="34" alt="NAICONS"></a></td>
                       <td width="190"><p style="color:red"><b>Partners</b></p></td>
                     </tr>
+ <tr>
+                      <td>&nbsp;</td>
+                      <td>&nbsp;</td>
+                      <td>&nbsp;</td>
+                    </tr>
                     <tr>
                       <td><b>1.</b> <a href="/pest-bin_eu/beneficiaries#DTU"><img src="img/logo-DTU_160.png" width="160" height="42" alt="DTU"></a></td>
                       <td><b>7.</b> <a href="/pest-bin_eu/beneficiaries#altrabio"><img src="img/logo-altrabio_140px.png" width="140" height="32" alt="AltraBio"></a></td>
