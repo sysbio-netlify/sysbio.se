@@ -10,9 +10,9 @@ test
 <table width="584" border="0">
                   <tbody>
                     <tr>
-                      <td width="190">Beneficiaries</td>
+                      <td width="190"><strong>Beneficiaries</strong></td>
                       <td width="190">6. <a href="/pest-bin_eu/beneficiaries#naicons"><img src="../img/logo-naicons_160px.png" width="160" height="34" alt="NAICONS"></a></td>
-                      <td width="190"><p style="color:red">Partners</p></td>
+                      <td width="190"><p style="color:red"><strong>Partners</strong></p></td>
                     </tr>
                     <tr>
                       <td>1. <a href="/pest-bin_eu/beneficiaries#DTU"><img src="../img/logo-DTU_160.png" width="160" height="42" alt="DTU"></a></td>
