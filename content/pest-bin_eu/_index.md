@@ -13,4 +13,6 @@ Antibiotic resistance has been named as one of the greatest threats to global he
 
 **Network composition**
 
-![](img/pb-homepic.png)
+![](img/pb-map.png)
+
+
