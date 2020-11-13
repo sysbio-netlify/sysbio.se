@@ -3,6 +3,7 @@ title: Activities
 menu: pest_bin_eu
 weight: 40
 template: pest-bin_eu/single
+image: img/logo-dtu_160.png
 ---
 test
 
@@ -10,7 +11,7 @@ test
                   <tbody>
                     <tr>
                       <td width="190">Beneficiaries</td>
-                      <td width="190">6. <a href="/pest-bin_eu/beneficiaries#naicons"><img src="/img/logo-naicons_160px.png" width="160" height="34" alt="NAICONS"></a></td>
+                      <td width="190">6. <a href="/pest-bin_eu/beneficiaries#naicons"><img src="../img/logo-naicons_160px.png" width="160" height="34" alt="NAICONS"></a></td>
                       <td width="190"><p style="color:red">Partners</p></td>
                     </tr>
                     <tr>
