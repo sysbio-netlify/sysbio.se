@@ -19,8 +19,6 @@ DTU has three open positions. Please see the details below for each of them.
 
 3. [Open position for ESR13](https://www.dtu.dk/english/about/job-and-career/vacant-positions/job?id=b16373c8-0825-4f63-9b1e-8f379c954c35)
 
-<br>
-
 <br>  
 
 ## 2. Chalmers University of Technology {#chalmers}
@@ -35,8 +33,6 @@ CUT has three open positions. Please see the details below for each of them.
 
 3. [Open position for ESR14](https://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=9004&rmlang=UK)
 
-<br>
-
 <br>  
 
 ## 3. Rudjer Boskovic Institute {#rudjer}
@@ -46,8 +42,6 @@ Host for: ESR12
 IRB has one open position. Please check the details on the link below.
 
 1. [Open position for ESR12.](https://www.irb.hr/Zavodi/Zavod-za-molekularnu-biologiju/Laboratorij-za-evolucijsku-genetiku-LEG/Novosti/Preannouncement-of-a-PhD-Position-Laboratory-of-evolutionary-genetics-Domazet-Loso-research-group)
-
-<br>
 
 <br>  
 
@@ -59,8 +53,6 @@ UGOT has one open position. Please check the details on the link below.
 
 1. Open position for ESR1.
 
-<br>
-
 <br>  
 
 ## 5. University of the Balearic Islands {#ubi}
@@ -71,8 +63,6 @@ UIB has one open position. Please check the details on the link below.
 
 1. [Open position for ESR11. ](https://www.uib.es/es/recerca/ajuts/doc/pest_bin/PhD_positions_at_UIB_vs3.pdf)
 
-<br>
-
 <br>  
 
 ## 6. NAICONS {#naicons}
@@ -82,8 +72,6 @@ Host for: ESR15
 NAOICONS has one open position. Please check the details on the link below.
 
 1. [Open position for ESR15.](http://naicons.com/2020/11/03/position-available-at-naicons/)
-
-<br>
 
 <br>  
 
@@ -97,8 +85,6 @@ AltraBio has one open position. Please check the details on the link below.
 
 <br>
 
-<br>  
-
 ## 8. CNRS - French National Centre for Scientific Research {#cnrs}
 
 Host for: ESR8
@@ -107,9 +93,7 @@ CNRS has one open position. Please check the details on the link below.
 
 1. [Open position for ESR8.](https://mmsb.cnrs.fr/equipe/bacteries-pathogenes-et-phosphorylation-des-proteines/jobteam/)
 
-<br>
-
-<br>  
+<br> 
 
 ## 9. University of Tübingen {#ut}
 
@@ -121,8 +105,6 @@ EKUT has one open position. Please check the details on the link below.
 
 <br>
 
-<br>  
-
 ## 10. Clinical Microbiomics A/S {#cm}
 
 Host for: ESR10 
@@ -132,8 +114,6 @@ CM has one open position. Please check the details on the link below.
 1. Open position for ESR10. 
 
 <br>
-
-<br>  
 
 ## 11. INRAE: National Research Institute for Agriculture, Food and Environment {#inrae}
 
