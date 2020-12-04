@@ -5,6 +5,7 @@ weight: 10
 template: pest-bin_eu/single
 ---
 # Beneficiaries
+
 <br>
 
 <br>  
@@ -31,7 +32,7 @@ Lab websites:\
 
 Host for: ESR2, ESR3, ESR14 
 
-**Recruiting PI:** Prof. August Yurgens, Associate Prof. Roland Kádár, Prof. Nina Kann
+### **Recruiting PI:** Prof. August Yurgens, Associate Prof. Roland Kádár, Prof. Nina Kann
 
 ### Prof. Nina Kann
 
@@ -145,7 +146,7 @@ Dr. Simon de Bernard, Ph.D. (Biochemistry and Molecular Biology) and graduate of
 
 Host for: ESR8
 
-### Recruiting PI: Christophe Grangeasse 
+### Recruiting PI: Christophe Grangeasse
 
 ![Christophe Grangeasse](../img/christophe_grangeasse.jpg)
 
@@ -226,6 +227,3 @@ Lab website:\
 
 Institute website:\
 [Micalis Institute](https://www.micalis.fr/micalis_eng/Micalis-Institute)
-
-
-
