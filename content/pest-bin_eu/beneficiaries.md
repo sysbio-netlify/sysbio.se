@@ -9,7 +9,7 @@ template: pest-bin_eu/single
 <br>
 
 <br>  
-## 1. Technical University of Denmark ,Kongens Lyngby, Denmark {#DTU}
+## 1. Technical University of Denmark, Kongens Lyngby, Denmark {#DTU}
 
 Host for: ESR5, ESR7, ESR12 
 
@@ -28,7 +28,7 @@ Lab websites:\
 
 <br>  
 
-## 2. Chalmers University of Technology {#chalmers},Gothenburg, Sweden
+## 2. Chalmers University of Technology, Gothenburg, Sweden {#chalmers}
 
 Host for: ESR2, ESR3, ESR14 
 
@@ -56,7 +56,7 @@ Host for: ESR2, ESR3, ESR14
 
 <br>  
 
-## 3. Rudjer Boskovic Institute {#rudjer},Zagreb, Croatia
+## 3. Rudjer Boskovic Institute, Zagreb, Croatia  {#rudjer}
 
 Host for: ESR12
 
@@ -73,7 +73,7 @@ Institute website:
 
 <br>  
 
-## 4. Gothenburg University/Sahlgrenska University Hospital {#gu},Gothenburg, Sweden
+## 4. Gothenburg University/Sahlgrenska University Hospital, Gothenburg, Sweden {#gu}
 
 Host for: ESR1
 
@@ -93,7 +93,7 @@ We are interested in using genomics and proteomics for the identification and ch
 
 <br>  
 
-## 5. University of the Balearic Islands {#ubi},Palma, Spain
+## 5. University of the Balearic Islands, Palma, Spain {#ubi}
 
 Host for: ESR11
 
@@ -111,7 +111,7 @@ My currently research interests involve (meta)genomics and computational biology
 
 <br>  
 
-## 6. NAICONS {#naicons},Milano, Italy
+## 6. NAICONS, Milano, Italy {#naicons}
 
 Host for: ESR15
 
@@ -126,7 +126,7 @@ NAICONS owns a large and diversified collection of 45,000 actinomycetes, soil-dw
 
 <br>  
 
-## 7. AltraBio {#altrabio},Lyon, France
+## 7. AltraBio, Lyon, France {#altrabio}
 
 Host for: ESR6
 
@@ -142,7 +142,7 @@ Dr. Simon de Bernard, Ph.D. (Biochemistry and Molecular Biology) and graduate of
 
 <br>  
 
-## 8. CNRS - French National Centre for Scientific Research {#cnrs},Lyon, France
+## 8. CNRS - French National Centre for Scientific Research, Lyon, France {#cnrs}
 
 Host for: ESR8
 
@@ -160,7 +160,7 @@ Lab website:
 
 <br>  
 
-## 9. University of Tübingen {#ut},Tübingen, Germany
+## 9. University of Tübingen, Tübingen, Germany {#ut}
 
 Host for: ESR9
 
@@ -176,7 +176,7 @@ The Chair of Quantitative Proteomics at the University of Tuebingen performs res
 
 <br>  
 
-## 10. Clinical Microbiomics A/S {#cm},Copenhagen, Denmark
+## 10. Clinical Microbiomics A/S, Copenhagen, Denmark {#cm}
 
 Host for: ESR10 
 
@@ -193,7 +193,7 @@ At Clinical Microbiomics we work as a cross-disciplinary team (science, sales an
 
 <br>  
 
-## 11. INRAE: National Research Institute for Agriculture, Food and Environment {#inrae},Paris, France
+## 11. INRAE: National Research Institute for Agriculture, Food and Environment, Paris, France {#inrae}
 
 Host for: ESR4
 
