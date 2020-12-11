@@ -4,9 +4,9 @@ title: Alexander-Gower
 lastname: Gower
 picture: img/pic_alexander-gower.jpg
 position: PhD student
-email: gb United Kingdom
+email: gower [at] chalmers.se
 flags:
-  - gower [at] chalmers.se
+  - gb United Kingdom
 person-category: F PhD students
 template: people/profile
 ---
