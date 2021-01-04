@@ -7,6 +7,6 @@ position: Researcher
 email: yanyanc [at] chalmers.se
 flags:
   - cn China
-person-category: H Visiting researchers
+person-category: E Postdocs
 template: people/profile
 ---
