@@ -1,13 +1,12 @@
 ---
-name: 'Sinisa Bratulic, PhD'
+name: Sinisa Bratulic, PhD
 title: Sinisa-Bratulic
 lastname: Bratulic
 picture: /img/pic_sinisa-bratulic.jpg
-position: PostDoc
-email: 'bratulic [at] chalmers.se'
+position: Researcher
+email: bratulic [at] chalmers.se
 flags:
   - hr Croatia
-person-category: E Postdocs
+person-category: D Researchers
 template: people/profile
 ---
-
