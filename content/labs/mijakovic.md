@@ -51,8 +51,8 @@ Please note that our group does not admit internships/student projects shorter t
 
 **Current members of the Mijakovic Lab:**  
 Lei Shi, researcher  
-Santosh Pandit, researcher  
-Abderahmane Derouiche, Post-doc  
+Santosh Pandit, researcher
+Xin Chen, researcher     
 Shadi Rahimi, Post-doc  
 Yanyan Chen, Post-doc  
 Avlant Nilsson, Post-doc  
@@ -67,9 +67,14 @@ Abhroop Garg, Post-doc
 Mériem Senissar, Post-doc  
 Julie Bonne Køhler, Post-doc  
 Abhayraj Joshi, Post-doc  
+Pedro Aragón Fernández, PhD student  
+Chenxhi Zhang, PhD student  
+Mukil Madhusudanan, PhD student  
+Mariia Kokina, PhD student  
 Darko Kjiproski, Project manager  
 Hossein Helalat, visiting PhD student  
-Samira Ebrahimi, visiting PhD student
+Samira Ebrahimi, visiting PhD student  
+
 
 [Mijakovic lab at DTU Biosustain ](http://www.biosustain.dtu.dk/english/research/research-groups/bacterial-signal-transduction)
 
@@ -88,7 +93,8 @@ Valentina Cantatore\
 Aida Kalantari\
 Hee Jin Hwang\
 Raghu Mokkapati\
-Abida Sultan
+Abida Sultan  
+Abderahmane Derouiche
 
 ***PhD students:***\
 Mette Erichsen Hansen\
