@@ -51,7 +51,7 @@ Please note that our group does not admit internships/student projects shorter t
 
 **Current members of the Mijakovic Lab:**  
 Lei Shi, researcher  
-Santosh Pandit, researcher
+Santosh Pandit, researcher  
 Xin Chen, researcher     
 Shadi Rahimi, Post-doc  
 Yanyan Chen, Post-doc  
