@@ -57,7 +57,8 @@ Shadi Rahimi, Post-doc
 Yanyan Chen, Post-doc  
 Avlant Nilsson, Post-doc  
 Caroline Wasén, Post-doc  
-Mohsen Zareian, Post-doc
+Mohsen Zareian, Post-doc  
+Sophie Antonsson, visiting MSc student
 
 **Current Members of the Mijakovic lab at DTU Biosustain:**  
 Carsten Jers, senior researcher  
