@@ -11,11 +11,7 @@ template: pest-bin_eu/single
 
 Host for: ESR5, ESR7, ESR13
 
-DTU has three open positions. Please see the details below for each of them.
-
-1. [Open position for ESR5](https://www.dtu.dk/english/about/job-and-career/vacant-positions/job?id=6e5a44e2-3c06-4d71-b743-9ced1e6a5cfa)
-2. [Open position for ESR7](https://www.dtu.dk/english/about/job-and-career/vacant-positions/job?id=89af1bb0-56f3-4e85-b23c-d1eec0d41308)
-3. [Open position for ESR13](https://www.dtu.dk/english/about/job-and-career/vacant-positions/job?id=b16373c8-0825-4f63-9b1e-8f379c954c35)
+DTU has no longer open positions. 
 
 <br>  
 
