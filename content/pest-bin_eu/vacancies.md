@@ -19,11 +19,9 @@ DTU has no longer open positions.
 
 Host for: ESR2, ESR3, ESR14 
 
-CUT has three open positions. Please see the details below for each of them.
+CUT has only one open position left. Please see the details below for each of them.
 
-1. [Open position for ESR2](https://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=9003&rmlang=UK)
-2. [Open position for ESR3](https://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=9001&rmlang=UK)
-3. [Open position for ESR14](https://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=9004&rmlang=UK)
+1. [Open position for ESR14](https://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=9004&rmlang=UK)
 
 <br>  
 
@@ -51,9 +49,7 @@ UGOT has one open position. Please check the details on the link below.
 
 Host for: ESR11
 
-UIB has one open position. Please check the details on the link below.
-
-1. [Open position for ESR11. ](https://www.uib.es/es/recerca/ajuts/doc/pest_bin/PhD_positions_at_UIB_vs3.pdf)
+UIB has no longer open position. 
 
 <br>  
 
@@ -81,7 +77,7 @@ AltraBio has one open position. Please check the details on the link below.
 
 Host for: ESR8
 
-CNRS has filled in the the position. 
+CNRS has no longer open position.  
 
 <br> 
 
@@ -89,9 +85,7 @@ CNRS has filled in the the position.
 
 Host for: ESR9
 
-EKUT has one open position. Please check the details on the link below.
-
-1. [Open position for ESR9. ](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/interfakultaere-einrichtungen/interfakultaeres-institut-fuer-zellbiologie-ifiz/proteome-center-tuebingen/home/newsfullview-aktuelles/article/we-have-an-opening-for-an-early-stage-researcher-phd-fellow/)
+EKUT has no longer open position. 
 
 <br>
 
