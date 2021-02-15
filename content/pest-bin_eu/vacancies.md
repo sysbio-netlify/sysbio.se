@@ -85,9 +85,7 @@ AltraBio has one open position. Please check the details on the link below.
 
 Host for: ESR8
 
-CNRS has one open position. Please check the details on the link below.
-
-1. [Open position for ESR8.](https://mmsb.cnrs.fr/equipe/bacteries-pathogenes-et-phosphorylation-des-proteines/jobteam/)
+CNRS has filled in the the position. 
 
 <br> 
 
