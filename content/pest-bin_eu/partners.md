@@ -1,10 +1,10 @@
 ---
-title: Partners
+title: Partner Organisations
 menu: pest_bin_eu
 weight: 20
 template: pest-bin_eu/single
 ---
-# Non-recruiting Principal Investigators
+# Non-recruiting Partner Organisations
 
 <br>
 
