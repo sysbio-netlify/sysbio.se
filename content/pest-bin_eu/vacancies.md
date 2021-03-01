@@ -87,9 +87,7 @@ EKUT has no longer open position.
 
 Host for: ESR10 
 
-CM has one open position. Please check the details on the link below.
-
-1. [Open position for ESR10](https://clinical-microbiomics.com/career/esr-phd-position/). 
+CM has no longer open position.
 
 <br>
 
@@ -97,6 +95,4 @@ CM has one open position. Please check the details on the link below.
 
 Host for: ESR4
 
-INRAE has one open position. Please check the details on the link below.
-
-1. [Open position for ESR4.](https://jobs.inrae.fr/en/ot-10747)
+INRAE has no longer open position.
