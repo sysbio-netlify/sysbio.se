@@ -19,9 +19,7 @@ DTU has no longer open positions.
 
 Host for: ESR2, ESR3, ESR14 
 
-CUT has only one open position left. Please see the details below for each of them.
-
-1. [Open position for ESR14](https://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=9004&rmlang=UK)
+CUT has no longer open positions. 
 
 <br>  
 
@@ -29,9 +27,7 @@ CUT has only one open position left. Please see the details below for each of th
 
 Host for: ESR12
 
-IRB has one open position. Please check the details on the link below.
-
-1. [Open position for ESR12.](https://www.irb.hr/Zavodi/Zavod-za-molekularnu-biologiju/Laboratorij-za-evolucijsku-genetiku-LEG/Novosti/Preannouncement-of-a-PhD-Position-Laboratory-of-evolutionary-genetics-Domazet-Loso-research-group)
+IRB has no longer open position.
 
 <br>  
 
@@ -39,9 +35,7 @@ IRB has one open position. Please check the details on the link below.
 
 Host for: ESR1
 
-UGOT has one open position. Please check the details on the link below.
-
-1. [Open position for ESR1](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=17781).
+UGOT has no longer open position. 
 
 <br>  
 
