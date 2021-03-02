@@ -3,10 +3,10 @@ name: Yuika Matsushita
 title: Yuika-Matsushita
 lastname: Matsushita
 picture: img/pic_yuika-matsushita.jpg
-position: MSc student
-email: gusmatsyu [at] student.gu.se
+position: Research Assistant, Biopetrolia
+email: yuikam [at] chalmers.se
 flags:
   - jp Japan
-person-category: G Master students
+person-category: I Guests
 template: people/profile
 ---
