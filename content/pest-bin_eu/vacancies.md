@@ -51,9 +51,7 @@ UIB has no longer open position.
 
 Host for: ESR15
 
-NAOICONS has one open position. Please check the details on the link below.
-
-1. [Open position for ESR15.](http://naicons.com/2020/11/03/position-available-at-naicons/)
+NAOICONS has no longer open position
 
 <br>  
 
