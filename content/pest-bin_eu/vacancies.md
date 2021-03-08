@@ -59,9 +59,7 @@ NAOICONS has no longer open position
 
 Host for: ESR6
 
-AltraBio has one open position. Please check the details on the link below.
-
-1. [Open position for ESR6.](https://www.altrabio.com/phd-position-pest-bin-project)
+AltraBio has no longer open positions
 
 <br>
 
