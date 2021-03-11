@@ -6,8 +6,6 @@ template: pest-bin_eu/single
 ---
 # Non-recruiting Partner Organisations
 
-<br>
-
 <br>  
 
 ## 1. [Nanoxis Consulting AB](https://nanoxisconsulting.com/) {#nanoxis}
