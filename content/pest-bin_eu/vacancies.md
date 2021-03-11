@@ -9,86 +9,72 @@ template: pest-bin_eu/single
 <br>  
 ## 1. Technical University of Denmark {#DTU}
 
-Host for: ESR5, ESR7, ESR13
+ESR5
 
-DTU has no longer open positions. 
+ESR7
+
+ESR13
 
 <br>  
 
 ## 2. Chalmers University of Technology {#chalmers}
 
-Host for: ESR2, ESR3, ESR14 
+ESR2
 
-CUT has no longer open positions. 
+ESR3
+
+ESR14
 
 <br>  
 
 ## 3. Rudjer Boskovic Institute {#rudjer}
 
-Host for: ESR12
-
-IRB has no longer open position.
+ESR12
 
 <br>  
 
 ## 4. Goteborg University/Sahlgrenska University Hospital {#gu}
 
-Host for: ESR1
-
-UGOT has no longer open position. 
+ESR1
 
 <br>  
 
 ## 5. University of the Balearic Islands {#ubi}
 
-Host for: ESR11
-
-UIB has no longer open position. 
+ESR11
 
 <br>  
 
 ## 6. NAICONS {#naicons}
 
-Host for: ESR15
-
-NAOICONS has no longer open position
+ESR15
 
 <br>  
 
 ## 7. AltraBio {#altrabio}
 
-Host for: ESR6
-
-AltraBio has no longer open positions
+ESR6
 
 <br>
 
 ## 8. CNRS - French National Centre for Scientific Research {#cnrs}
 
-Host for: ESR8
-
-CNRS has no longer open position.  
+ESR8
 
 <br> 
 
 ## 9. University of Tübingen {#ut}
 
-Host for: ESR9
-
-EKUT has no longer open position. 
+ESR9 
 
 <br>
 
 ## 10. Clinical Microbiomics A/S {#cm}
 
-Host for: ESR10 
-
-CM has no longer open position.
+ESR10 
 
 <br>
 
 ## 11. INRAE: National Research Institute for Agriculture, Food and Environment {#inrae}
 
-Host for: ESR4
-
-INRAE has no longer open position.
+ESR4
