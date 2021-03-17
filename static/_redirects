@@ -18,3 +18,5 @@ https://sysbiowebsite.netlify.com/* https://www.sysbio.se/:splat 301!
 /Lab_Nielsen/lab_nielsen.html			  /labs/nielsen/             301!
 /Lab_Petranovic/lab_dina.html			  /labs/petranovic/          301!
 /Lab_Zelezniak/lab_zelezniak.html		/labs/zelezniak/           301!
+
+/labs/enqvist/            /people/martin-engqvist/             301!
