@@ -1,7 +1,7 @@
 ---
 title: Mijakovic Lab
 name: mijakovic
-picture: img/pic_ivan_mijakovic-lab.png
+picture: img/lab_mijakovic.jpg
 card: We work on signaling and regulation in bacterial cells, focusing in
   particular on regulatory phenomena based on protein phosphorylation.
 template: labs/single
