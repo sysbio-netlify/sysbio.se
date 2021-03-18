@@ -1,7 +1,7 @@
 ---
 title: Mijakovic Lab
 name: mijakovic
-picture: /img/lab_mijakovic.jpg
+picture: img/pic_ivan_mijakovic-lab.png
 card: We work on signaling and regulation in bacterial cells, focusing in
   particular on regulatory phenomena based on protein phosphorylation.
 template: labs/single
@@ -15,31 +15,29 @@ profileleftbox: |-
 ---
 [CV](/img/cv_im2011.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2011.pdf) <br/><br/>
 
-#### Current research
+### The Mijakovic lab – who are we and what do we do?
 
-**Protein phosphorylation**
+The work in our lab is driven by scientific curiosity: we seek to understand and describe how biology works. We sometimes also modify and engineer biological systems for various purposes useful to the society.
 
-We are interested in signaling and regulation in bacterial cells, focusing in particular on regulatory phenomena based on protein phosphorylation. Most of our research activities are carried out on *Bacillus subtilis*, a model organism for Firmicutes. *B. subtilis* is a wonderful model for studying complex signaling circuits in developmental phenomena, since it displays a wide array of “survival” strategies: motility, versatile degradative functions, production of bacteriocins, natural competence, biofilm formation, cannibalism and spore development. Our laboratory specializes in bacterial protein-tyrosine kinases (BY-kinases), serine/threonine kinases of the Hanks-family, phosphoproteomics other “omics” approaches aiming at global studies of the phosphorylation-based regulatory networks in both model and pathogenic bacteria. We are also interested in the evolution of protein kinases and their relationship with substrates.
+There are currently about 25 team members in the Mijakovic lab, working at two sites: Chalmers (Sweden) and DTU (Denmark), and they come from very diverse scientific and cultural backgrounds. Our lab started out as a microbiology group, but as our ambitions and curiosity grew, we expanded into several other areas of life science, often using interdisciplinary approaches. Today, in addition to general bacteriology, we work with applications of various nanomaterials in biomedicine and biotechnology, metabolic engineering of microbial cell factories and experimental evolution.  
 
-**Graphene-based bio-applications**
+The spirit in which we work together as a team is that of scientific freedom. With that freedom come many responsibilities: to strive for scientific excellence, to guarantee the quality and reproducibility of our results, to always be aware of ethical dimensions of our research and to ensure support for our research, which is financed with external funding from national public research councils and private foundations. 
 
-In collaboration with the Chalmers Graphene Centre, we are developing advanced graphene-based antibacterial coatings, bio-sensors and procedures for extraction of oleochemicals from microbial cell factories.
+Another important aspect of working in the Mijakovic lab is the spirit or collaboration. Since we all come from diverse scientific disciplines, we all have a lot to learn from each other. We all help and support each other - our best work is done when we work together.
 
-**Metabolic engineering**
-
-We are implementing a wide array of metabolic engineering tools in order to optimize *B. subtilis* as a cell factory for the production of platform chemicals, industrially relevant enzymes and nanoparticles.
-
-**Experimental evolution**
-
-We are working with evolutionary approaches that could improve genome mining and we explore biochemistry of early cells in relation to the genetic code and establishment of early genomes.
+**If you want to learn more about our current research activities** – click on the “Publications” tab above and check the latest papers from the Mijakovic lab.
 
 <br/>
 
-**HIGHLIGHTS:**
+#### HIGHLIGHTS:
 
-* We are organizing the 4<sup>th</sup> International conference on post-translational modifications in Bacteria in Copenhagen, 16-17 September 2021. [PTMBact 2021 conference website](https://www.sysbio.se/ptmbact2020/).    
+* The Mijakovic lab is organizing the 4<sup>th</sup> International conference on post-translational modifications in Bacteria in Copenhagen, in May September 2022. [PTMBact 2021 conference website](https://www.sysbio.se/ptmbact2020/).
 
 * Prof. Mijakovic is coordinator of an EU ITN consortium “PEST-BIN” – working on new methods to fight bacterial infections.
+
+* Prof. Mijakovic is coordinator of a Nord Forsk consortium GRAMI – working on combining nanotechnology and antibiotics to fight biofilm-related infections.
+
+* Prof. Mijakovic is the winner of the 2021 Spiridon Brusina Medal awarded by the Croatian Society of Natural Sciences.
 
 <br/>
 
