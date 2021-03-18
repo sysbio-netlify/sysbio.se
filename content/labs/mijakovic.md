@@ -15,6 +15,8 @@ profileleftbox: |-
 ---
 [CV](/img/cv_im2011.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2011.pdf) <br/><br/>
 
+![Ivan Mijakovic](img/pic_ivan_mijakovic-lab.png)
+
 ### The Mijakovic lab – who are we and what do we do?
 
 The work in our lab is driven by scientific curiosity: we seek to understand and describe how biology works. We sometimes also modify and engineer biological systems for various purposes useful to the society.
