@@ -33,7 +33,7 @@ Another important aspect of working in the Mijakovic lab is the spirit or collab
 
 #### HIGHLIGHTS:
 
-* The Mijakovic lab is organizing the 4<sup>th</sup> International conference on post-translational modifications in Bacteria in Copenhagen, in May September 2022. [PTMBact 2021 conference website](https://www.sysbio.se/ptmbact2020/).
+* The Mijakovic lab is organizing the 4<sup>th</sup> International conference on post-translational modifications in Bacteria in Copenhagen, in May 2022. [PTMBact 2021 conference website](https://www.sysbio.se/ptmbact2020/).
 
 * Prof. Mijakovic is coordinator of an EU ITN consortium “PEST-BIN” – working on new methods to fight bacterial infections.
 
