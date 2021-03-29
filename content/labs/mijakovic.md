@@ -49,7 +49,7 @@ Please note that our group does not admit internships/student projects shorter t
 
 ![Mijakovic Lab](/img/pic_imgroup19_720.png)
 
-**Current members of the Mijakovic Lab:**  
+**Current members of the Mijakovic Lab at Chalmers SysBio:**  
 Lei Shi, researcher  
 Santosh Pandit, researcher  
 Xin Chen, researcher     
