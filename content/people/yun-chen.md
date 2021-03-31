@@ -7,6 +7,6 @@ position: Senior researcher, Systems Metabolic Engineering
 email: yunc [at] chalmers.se
 flags:
   - cn China
-person-category: C Project leaders
+person-category: C Extended faculty group leaders
 template: people/profile
 ---
