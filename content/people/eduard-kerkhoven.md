@@ -3,7 +3,7 @@ name: Eduard Kerkhoven, PhD
 title: Eduard-Kerkhoven
 lastname: Kerkhoven
 picture: /img/pic_Eduard-Kerkhoven.jpg
-position: Docent, Computational Metabolic Engineering
+position: Senior researcher, Computational Metabolic Engineering
 email: eduardk [at] chalmers.se
 flags:
   - nl Netherlands
