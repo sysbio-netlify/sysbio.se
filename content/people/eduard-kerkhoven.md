@@ -7,7 +7,7 @@ position: Senior researcher, Computational Metabolic Engineering
 email: eduardk [at] chalmers.se
 flags:
   - nl Netherlands
-person-category: C Project leaders
+person-category: C Extended faculty group leaders
 template: people/profile
 ---
 Information about me is available on [my lab page.] (/labs/kerkhoven-lab/)
