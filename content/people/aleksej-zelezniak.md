@@ -1,10 +1,10 @@
 ---
-name: 'Aleksej Zelezniak, PhD'
+name: Aleksej Zelezniak, PhD
 title: Aleksej-Zelezniak
 lastname: Zelezniak
 picture: /img/pic_Aleksej-Zelezniak.jpg
-position: Assistant Professor
-email: 'alezel [at] chalmers.se'
+position: Associate Professor
+email: alezel [at] chalmers.se
 flags:
   - lt Lithuania
 person-category: A Faculty
