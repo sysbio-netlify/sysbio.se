@@ -17,12 +17,12 @@ profileleftbox: |-
 
 <br/>
 
-Our research focus is on systems biology of metabolism. The yeast _Saccharomyces cerevisiae_ is our key organism for experimental research, but we also have experimental research on _Aspergilli oryzae_.  [Interview about some of our work](https://www.youtube.com/watch?v=KkPeGhbh5F0)
+Our research focus is on systems biology of metabolism. The yeast *Saccharomyces cerevisiae* is our key organism for experimental research, but we also have experimental research on *Aspergilli oryzae*.  [Interview about some of our work](https://www.youtube.com/watch?v=KkPeGhbh5F0)
 
 Our research activities fall in three areas:
 
 * Studying regulatory pathways that are conserved in the Eukaryal kingdom such as the Snf1/AMPK pathway, the Tor1/mTOR pathway, protein folding, secretion and degradation and regulation of lipid biosynthesis and degradation.
-* Developing efficient cell factories (yeast and _Aspergilli_) for sustainable production of fuels and chemicals. We are looking into both the production of high-value chemicals such as isoprenoids that can be used as fine chemicals, commodity chemicals that can be used as feedstocks in the chemical industry for polymer production, and novel advanced biofuels.
+* Developing efficient cell factories (yeast and *Aspergilli*) for sustainable production of fuels and chemicals. We are looking into both the production of high-value chemicals such as isoprenoids that can be used as fine chemicals, commodity chemicals that can be used as feedstocks in the chemical industry for polymer production, and novel advanced biofuels.
 * Developing metabolic models for Eukaryal cells, including rodent and human cells, and using these models as scaffolds for analysis of omics data with the objective to understand global responses to nutrient and disease. Experimental work is carried out in collaboration with other research groups.
 
 Several of our research activities are part of the Novo Nordisk Foundation Center for Biosustainability. See [www.biosustain.dtu.dk](http://www.biosustain.dtu.dk/english) and [video ](https://www.youtube.com/watch?v=8-R3HCHQI9I&feature=player_embedded)for more information
@@ -41,10 +41,10 @@ We are analyzing the gut metagenome in different cohort studies and aim to ident
 Genome-scale metabolic models are developed for different microorganisms and we are in particular advancing genome-scale modeling of the yeast Saccharomyces cerevisiae. All our models are available through [www.sysbio.se/BioMet](http://www.sysbio.se/BioMet/).
 
 **Stress and Regulation**\
-Key signal transduction pathways in _S. cerevisiae_ are analyzed using systems biology approaches. Our focus is on energy and lipid metabolism.
+Key signal transduction pathways in *S. cerevisiae* are analyzed using systems biology approaches. Our focus is on energy and lipid metabolism.
 
 **Protein production**\
-Using systems biology and metabolic engineering we are advancing the use of _S. cerevisiae_ for recombinant protein production. Through a combination of advanced modeling and engineering of the secretory pathway we are developing yeasts that can be used for production of human therapeutic proteins and for consolidated bioprocesses.
+Using systems biology and metabolic engineering we are advancing the use of *S. cerevisiae* for recombinant protein production. Through a combination of advanced modeling and engineering of the secretory pathway we are developing yeasts that can be used for production of human therapeutic proteins and for consolidated bioprocesses.
 
 **Advanced Biofuel Production**\
 We have a large and focuses effort on developing yeast cell factories for production of advanced biofuels that can be used as diesel and jet fuels.
@@ -105,23 +105,23 @@ We are part of the Swedish Universities Metabolomics Infrastructure (hosted by U
 ##### 2009
 
 Wanwipa Vongsangnak:\
-[SYSBIOMICS of _Aspergilli_: SYStems Biology, BIoinformatics and OMICS analysis of Aspergilli cell factories](/img/thesis_Wanwipa-Vongsangnak.pdf) (ISBN 978-91-7385-330-9)
+[SYSBIOMICS of *Aspergilli*: SYStems Biology, BIoinformatics and OMICS analysis of Aspergilli cell factories](/img/thesis_Wanwipa-Vongsangnak.pdf) (ISBN 978-91-7385-330-9)
 
 José Manuel Otero Romero:\
-[Industrial Systems Biology and Metabolic Engineering of _Saccharomyces cerevisiae_](/img/thesis_Jose-Manuel-Otero-Romero.pdf) (ISBN 978-91-7385-346-0)
+[Industrial Systems Biology and Metabolic Engineering of *Saccharomyces cerevisiae*](/img/thesis_Jose-Manuel-Otero-Romero.pdf) (ISBN 978-91-7385-346-0)
 
 ##### 2010
 
 Margarita Salazar:\
-[Systems Biology of Glucose Sensing and Repression in _Aspergillus niger_: Lessons from Genomics and Transcriptomics](/img/thesis_Margarita-Salazar-Pena.pdf) (ISBN 978-91-7385-439-9)
+[Systems Biology of Glucose Sensing and Repression in *Aspergillus niger*: Lessons from Genomics and Transcriptomics](https://research.chalmers.se/en/publication/127099) (ISBN 978-91-7385-439-9)
 
 ##### 2011
 
 Jie Zhang:\
-[Global Regulation of Snf1 in _Saccharomyces cerevisiae_: A case study of experimental systems biology](/img/thesis_Jie-Zhang.pdf) (ISBN 978-91-7385-558-7)
+[Global Regulation of Snf1 in *Saccharomyces cerevisiae*: A case study of experimental systems biology](/img/thesis_Jie-Zhang.pdf) (ISBN 978-91-7385-558-7)
 
 Roberto Olivares Hernandez:\
-Systems Biology in _Saccharomyces cerevisiae_. Statistical data analysis and mathematical methods (ISBN 978-91-7385-624-9)
+Systems Biology in *Saccharomyces cerevisiae*. Statistical data analysis and mathematical methods (ISBN 978-91-7385-624-9)
 
 ##### 2012
 
@@ -129,54 +129,54 @@ Pramote Chumnanpuen:\
 [Systems Biology of Yeast Lipid Metabolism](/img/thesis_Pramote-Chumnanpuen.pdf) (ISBN 978-91-7385-661-4)
 
 Marta Papini:\
-[Metabolic Engineering of Central Carbon Metabolism in _Saccharomyces cerevisiae_ \
-The contribution of systems biology to physiological studies Metabolic Engineering of _Saccharomyces cerevisiae_ for Sesquiterpene Production](/img/thesis_Marta-Papini.pdf) (ISBN 978-91-7385-698-0)
+[Metabolic Engineering of Central Carbon Metabolism in *Saccharomyces cerevisiae* \
+The contribution of systems biology to physiological studies Metabolic Engineering of *Saccharomyces cerevisiae* for Sesquiterpene Production](https://research.chalmers.se/en/publication/157579) (ISBN 978-91-7385-698-0)
 
 Gionata Scalcinati:\
-[Metabolic Engineering of _Saccharomyces cerevisiae_ for Sesquiterpene Production](/img/thesis_Gionata-Scalcinati.pdf) (ISBN 978-91-7385-720-8)
+[Metabolic Engineering of *Saccharomyces cerevisiae* for Sesquiterpene Production](/img/thesis_Gionata-Scalcinati.pdf) (ISBN 978-91-7385-720-8)
 
 Siavash Partow:\
-[Novel Synthetic Biology Tools for Metabolic Engineering of _Saccharomyces cerevisiae_](/img/thesis_Siavash-Partow.pdf) (ISBN 978-91-7385-727-7)
+[Novel Synthetic Biology Tools for Metabolic Engineering of *Saccharomyces cerevisiae*](https://research.chalmers.se/en/publication/162789) (ISBN 978-91-7385-727-7)
 
 Kuk-ki Hong:\
-[Advancing Metabolic Engineering through Combination of Systems Biology and Adaptive Evolution](/img/thesis_KukKi-Hong.pdf) (ISBN 978-91-7385-735-2)
+[Advancing Metabolic Engineering through Combination of Systems Biology and Adaptive Evolution](https://research.chalmers.se/en/publication/162738) (ISBN 978-91-7385-735-2)
 
 Zihe Liu:\
-[Metabolic Engineering of Recombinant Protein Production by _Saccharomyces cerevisiae_](/img/thesis_Zihe-Liu.pdf) (ISBN 978-91-7385-741-3)
+[Metabolic Engineering of Recombinant Protein Production by *Saccharomyces cerevisiae*](/img/thesis_Zihe-Liu.pdf) (ISBN 978-91-7385-741-3)
 
 ##### 2013
 
 Kanokarn Kocharin:\
-[Metabolic Engineering of _Saccharomyces cerevisiae_ for Polyhydroxybutyrate Production](/img/thesis_Kanokarn-Kocharin.pdf) (ISBN 978-91-7385-819-9)
+[Metabolic Engineering of *Saccharomyces cerevisiae* for Polyhydroxybutyrate Production](https://research.chalmers.se/en/publication/174965) (ISBN 978-91-7385-819-9)
 
 Rasmus Ågren:\
-[On metabolic networks and multi-omics integration](/img/thesis_Rasmus-Agren.pdf) (ISBN 978-91-7385-839-7)
+[On metabolic networks and multi-omics integration](https://research.chalmers.se/en/publication/175874) (ISBN 978-91-7385-839-7)
 
 ##### 2014
 
 Tobias Österlund:\
 [Reconstruction of Biological Networks for Integrative analysis\
-Reconstruction and Analysis of the Metabolic, Protein Secretion and Regulatory Network in Yeast](/img/thesis_Tobias-Osterlund.pdf) (ISBN 978-91-7385-960-8)
+Reconstruction and Analysis of the Metabolic, Protein Secretion and Regulatory Network in Yeast](https://research.chalmers.se/en/publication/191903) (ISBN 978-91-7385-960-8)
 
 Fredrik Karlsson:\
 [Systems Biology of the Gut Microbiome in Metabolic Diseases](/img/thesis_Fredrik-Karlsson.pdf) (ISBN 978-91-7385-965-3)
 
 Christoph Knuf:\
-[Malic acid production by _Aspergillus oryzae_](/img/thesis_Christoph-Knuf.pdf) (ISBN 978-91-7385-984-4)
+[Malic acid production by *Aspergillus oryzae*](https://research.chalmers.se/en/publication/195327) (ISBN 978-91-7385-984-4)
 
 Natapol Pornputtapong:\
 [Database and Visualization for Advanced Systems Biology](/img/thesis_Natapol-Pornputtapong.pdf) (ISBN 978-91-7385-983-7)
 
 Lifang Liu:\
-[Systems Biology of Recombinant Protein Production by Fungi](/img/thesis_Lifang-Liu.pdf) (ISBN 978-91-7597-038-7)
+[Systems Biology of Recombinant Protein Production by Fungi](https://research.chalmers.se/en/publication/201974) (ISBN 978-91-7597-038-7)
 
 ##### 2015
 
 Bouke Wim de Jong:\
-[A study on fatty acid ethyl ester production in a _Saccharomyces cerevisiae_ cell factory](/img/thesis_Bouke-Wim-de-Jong.pdf) (ISBN 978-91-7597-132-2)
+[A study on fatty acid ethyl ester production in a *Saccharomyces cerevisiae* cell factory](https://research.chalmers.se/en/publication/209271) (ISBN 978-91-7597-132-2)
 
 Yiming Zhang:\
-[Engineering Cytosolic Acetyl-CoA Metabolism in _Saccharomyces cerevisiae_](/img/thesis_Yiming-Zhang.pdf) (ISBN: 978-91-7597-147-6)
+[Engineering Cytosolic Acetyl-CoA Metabolism in *Saccharomyces cerevisiae*](https://research.chalmers.se/en/publication/214802) (ISBN: 978-91-7597-147-6)
 
 Francesco Gatto:\
 [The Origin of Symmetry in the Matabolism of Cancer](/img/thesis_Francesco-Gatto.pdf) (ISBN: 978-91-7597-225-1)
@@ -190,10 +190,10 @@ Amir Feizi:\
 Systems Analysis of the Protein Secretory Pathway in Yeast and Human Cells (ISBN: 978-91-7597-313-5)
 
 Leif Väremo:\
-[Systems Biology of Type 2 Diabetes in Skeletal Muscle](/img/thesis_Leif-Varemo.pdf) (ISBN: 978-91-7597-322-7)
+[Systems Biology of Type 2 Diabetes in Skeletal Muscle](https://research.chalmers.se/en/publication/231245) (ISBN: 978-91-7597-322-7)
 
 Nicolaas A. A. (Klaas) Buijs:\
-[Metabolic engineering of the yeast _Saccharomyces cerevisiae_ to enable biosynthesis of long-chain alkanes and olefins](/img/thesis_Nicolaas-Buijs.pdf) (ISBN: 978-91-7597-402-6)
+[Metabolic engineering of the yeast *Saccharomyces cerevisiae* to enable biosynthesis of long-chain alkanes and olefins](/img/thesis_Nicolaas-Buijs.pdf) (ISBN: 978-91-7597-402-6)
 
 Stefan Tippmann:\
 [Engineering Yeast Metabolism for Production of Sesquiterpenes](/img/thesis_Stefan-Tippmann.pdf) (ISBN: 978-91-7597-459-0)
@@ -201,39 +201,57 @@ Stefan Tippmann:\
 ##### 2017
 
 Pouyan Ghaffari Nouran:\
-[Heterogeneity of human metabolism in health and disease: a modelling perspective](/img/thesis_Pouyan-Ghaffari-Nouran.pdf) (ISBN: 978-91-7597-586-3) 
+[Heterogeneity of human metabolism in health and disease: a modelling perspective](https://research.chalmers.se/en/publication/249424) (ISBN: 978-91-7597-586-3) 
 
 Joachim Almquist:\
-[Kinetic Models in Life Science - Contributions to Methods and Applications](/img/thesis_Joachim-Almquist.pdf) (ISBN 978-91-7597-653-2)
+[Kinetic Models in Life Science - Contributions to Methods and Applications](https://research.chalmers.se/en/publication/253263) (ISBN 978-91-7597-653-2)
 
 ##### 2018
 
 Jens Christian Nielsen:\
-[Systems Biology of the Secondary Metabolism in Filamentous Fungi](/img/thesis_Jens-Christian-Nielsen.pdf) (ISBN 978-91-7597-671-6)
+[Systems Biology of the Secondary Metabolism in Filamentous Fungi](https://research.chalmers.se/en/publication/500004) (ISBN 978-91-7597-671-6)
 
 Paulo Gonçalves Teixeira:\
-[Engineering Lipid Metabolism for Production of Oleochemicals in _Saccharomyces cerevisiae_](/img/thesis_Paulo-Teixeira.pdf) (ISBN 978-91-7597-686-0)
+[Engineering Lipid Metabolism for Production of Oleochemicals in *Saccharomyces cerevisiae*](https://research.chalmers.se/en/publication/500044) (ISBN 978-91-7597-686-0)
 
 Jichen Bao:\
-[Engineering the Secretory Pathway for Recombinant Protein Secretion in _Saccharomyces cerevisiae_](/img/thesis_Jichen-Bao.pdf) (ISBN 978-91-7597-598-6)
+[Engineering the Secretory Pathway for Recombinant Protein Secretion in *Saccharomyces cerevisiae*](https://research.chalmers.se/en/publication/500034) (ISBN 978-91-7597-598-6)
 
 ##### 2019
 
-Avlant Nilsson:  
-[Constraint-based modeling of metabolism - interpreting predictions of growth and ATP synthesis in human and yeast](https://www.sysbio.se/img/thesis_Avlant-Nilsson.pdf) (ISBN 978-91-7597-853-6)
+Avlant Nilsson:\
+[Constraint-based modeling of metabolism - interpreting predictions of growth and ATP synthesis in human and yeast](https://research.chalmers.se/en/publication/507692) (ISBN 978-91-7597-853-6)
 
-Parizad Babaei:  
-[_In silico_ analysis of microbial communities through constraint-based metabolic modelling](https://www.sysbio.se/img/thesis_Parizad-Babaei.pdf) (ISBN 978-91-7597-876-5)
+Parizad Babaei:\
+[*In silico* analysis of microbial communities through constraint-based metabolic modelling](https://research.chalmers.se/en/publication/508838) (ISBN 978-91-7597-876-5)
 
-Benjamín José Sánchez Barja:  
-Computing abundance constraints in _Saccharomyces cerevisiae’s_ metabolism 
+Benjamín José Sánchez Barja:\
+[Computing abundance constraints in *Saccharomyces cerevisiae’s* metabolism] (https://research.chalmers.se/en/publication/508870)
 (ISBN 978-91-7597-863-5)
 
-Promi Das:  
-[Systems and Synthetic Biology: ​“Mining human gut microbial metabolism through _in vitro_ and _in silico_ approaches”](https://www.sysbio.se/img/thesis_Promi-Das.pdf) (ISBN 978-91-7597-875-8)
+Promi Das:\
+[Systems and Synthetic Biology: ​“Mining human gut microbial metabolism through *in vitro* and *in silico* approaches”](https://research.chalmers.se/en/publication/509918) (ISBN 978-91-7597-875-8)
 
-Alexandra Bergman:  
-[Evaluation of precursor and cofactor engineering strategies influencing fatty acid metabolism in _Saccharomyces cerevisiae_] (https://www.sysbio.se/img/thesis_Alexandra-Bergman.pdf) (ISBN 978-91-7597-868-0)
+Alexandra Bergman:\
+[Evaluation of precursor and cofactor engineering strategies influencing fatty acid metabolism in *Saccharomyces cerevisiae*](https://research.chalmers.se/en/publication/510267) (ISBN 978-91-7597-868-0)
+
+Raphael Ferreira:\
+[Advancing CRISPR technologies to engineer yeast metabolism](https://research.chalmers.se/en/publication/511518) (ISBN 978-91-7905-148-8)
+
+##### 2020
+
+David Bergenholm:\
+[A holistic view on transcriptional regulatory networks in *S. cerevisiae*: Implications and utilization](https://research.chalmers.se/en/publication/514800) (ISBN 978-91-7905-211-9)
+
+Gang Li:\
+[Application of machine learning in systems biology](https://research.chalmers.se/en/publication/518453) (ISBN 978-91-7905-290-4)
+
+Simonas Marcisauskas:\
+[An insight towards food-related microbial sets through metabolic modelling and functional analysis] (https://research.chalmers.se/en/publication/518435)
+(ISBN 978-91-7905-276-8)
+
+Christoph Börlin:\
+[An analytical framework for studying transcriptional regulation](https://research.chalmers.se/en/publication/518755) (ISBN 978-91-7905-332-1)
 
 <br/>
 <br/>
@@ -329,7 +347,6 @@ Alexandra Bergman:
 85. Ibrahim El-Semman, DTU (2015-2018)
 86. Francesca Di Bartolomeo, Chalmers (2017-2019)
 
-
 **Graduated PhD Students (main supervisor)**
 
 1. Henrik Jørgensen, DTU (1991-1993)
@@ -416,7 +433,6 @@ Alexandra Bergman:
 82. Promi Das, Chalmers (2015-2019)
 83. Alexandra Bergman, Chalmers (2013-2019)
 
-
 **Graduated PhD Students (examiner)**
 
 1. Joachim Almquist, FCC, Sweden (2010-2017)
@@ -471,7 +487,6 @@ Alexandra Bergman:
 28. Zhengming Zhu, Jiangnan University, China (2017-2018)
 29. Chunjun Zhan, Jiangnan University, China (2017-2018)
 
-
 **Other affiliated researchers and staff**
 
 1. Tina Johansen, Research Engineer, DTU (1990-2008)
@@ -503,4 +518,3 @@ Alexandra Bergman:
 27. Marie Nordqvist, Research Engineering and Lab Manager (2008-2017)
 28. Takayoshi Fujii, Visiting Researcher, Chalmers (2016-2018)
 29. Marie-Louise Wennerhag, Financial Officer, Chalmers (2008-2018)
-
