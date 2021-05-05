@@ -49,13 +49,13 @@ ESR11
 
 ESR15 
 
+![](img/facepic-thomas-vernay.png)
+
 Thomas Vernay is a french "Ecole de l'Inserm" PharmD/PhD fellow.
 He graduated from both [Institut Pasteur](https://research.pasteur.fr/en/), Paris in 2018 (MSc in Microbiology) and [University of Rennes 1](https://www.univ-rennes1.fr/) in 2021 (PharmD). His past works mostly involved the study of host-pathogen relationship with an emphasis on gut microbiota and nutrition ([UMR1241 NuMeCan](https://numecan.fr/homepage/), Rennes), genital innate immunity ([Institut Pasteur](https://research.pasteur.fr/en/team/cellular-biology-of-microbial-infection/), Paris) and bacterial intracellular persistance ([U1230 BRM](https://biochpharma.univ-rennes1.fr/), Rennes). He also have worked in translational research on pharmacology of antibiotics ([U1070 Phar](https://phar.labo.univ-poitiers.fr/), Poitiers) and vaccination remediation ([CHU Pontchaillou](https://www.chu-rennes.fr/), Rennes).
 He is currently working as a PhD student at [Naicons Srl](http://naicons.com/), Milano under the supervision of Dr. Stefano Donadio and Pr. Cristina Airoldi from the [University of Milano-Bicocca](https://www.unimib.it/).
 
-
 **Project title : Discovery of novel antibiotics from microbes**
-
 
 The aim of his project is to accelerate the discovery of new antibiotics, by characterizing over 8000 Actinomycetes strains from the Naicons library by metabolomic profiling.
 Two approaches, using molecular networking and paired -omics tools, will be considered : identification of “talented” strains & systematic analysis of a "rare" genus.
