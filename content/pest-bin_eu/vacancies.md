@@ -9,7 +9,15 @@ template: pest-bin_eu/single
 <br>  
 ## 1. Technical University of Denmark {#DTU}
 
-ESR5
+ESR5 Pedro Aragón Fernández
+
+![](img/pedro-dtu.png)
+
+I have a bachelor’s ´degree in biochemistry from the [Technical University of Munich](https://www.tum.de/) (TUM). During my course of study, I got interested in understanding the biological context in which proteins play a role, not individually but as a whole entity; and in particular, how this complex system differs in aberrant and healthy states. This is how I became familiar with mass spectrometry-based proteomics and in that way, how this technique can be used to characterize the proteome under any given circumstance. In 2018 I enrolled in the master’s degree program also in biochemistry with major focus in bio-organic chemistry and immunology at the TUM. During this phase I became very interested about post-translational modifications (PTMs) and their role in the context-dependent plasticity of the proteome. I gained more practical experience in the field of proteomics by joining Prof. Stephan Sieber’s lab where I learned how MS-based Activity Based Protein Profiling (ABPP) can be used to obtain a first insight into certain PTMs and the identification of protein targets of small drug inhibitors. I then wrote my master’s thesis at the group of Prof. Dr. Thomas Carell at the [Ludwig Maximillian’s University](https://www.lmu.de/en/) where, on one hand, I continued to improve my learning in chemical synthesis and, on the other hand, I sought to gain a better understanding of the role the interactome of a Methylcytosine dioxygenase has in DNA demethylation. For the last, I performed different MS-based experiments such as affinity purification-MS and Cross linking-MS. 
+
+**Project title: Proteome dynamics of bacterial pathogens during infection: new drug targets.** 
+
+The PhD project is part of a work package that aims to generate MS proteomics datasets that are more relevant, comprehensive and time-resolved from the perspective of infections. We will use a wide array of computational tools to extract relevant information about mechanism of infection from these proteomics datasets – ultimately leading to identification of new druggable targets.
 
 ESR7
 
@@ -47,7 +55,7 @@ ESR11
 
 ## 6. NAICONS {#naicons}
 
-ESR15 
+ESR15 Thomas Vernay
 
 ![](img/facepic-thomas-vernay.jpg)
 
