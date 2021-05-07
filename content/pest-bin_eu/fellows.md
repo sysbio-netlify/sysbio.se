@@ -9,9 +9,9 @@ template: pest-bin_eu/single
 <br>  
 ## 1. Technical University of Denmark {#DTU}
 
-ESR5 
+**ESR5** 
 
-ESR7 Pedro Aragón Fernández
+**ESR7 Pedro Aragón Fernández**
 
 ![](../img/pedro-dtu.png)
 
@@ -21,41 +21,41 @@ Pedro Aragon has a bachelor’s degree in biochemistry from the [Technical Unive
 
 The PhD project is part of a work package that aims to generate MS proteomics datasets that are more relevant, comprehensive and time-resolved from the perspective of infections. We will use a wide array of computational tools to extract relevant information about mechanism of infection from these proteomics datasets – ultimately leading to identification of new druggable targets.
 
-ESR13
+**ESR13**
 
 <br>  
 
 ## 2. Chalmers University of Technology {#chalmers}
 
-ESR2
+**ESR2**
 
-ESR3
+**ESR3**
 
-ESR14
+**ESR14**
 
 <br>  
 
 ## 3. Rudjer Boskovic Institute {#rudjer}
 
-ESR12
+**ESR12**
 
 <br>  
 
 ## 4. Goteborg University/Sahlgrenska University Hospital {#gu}
 
-ESR1
+**ESR1**
 
 <br>  
 
 ## 5. University of the Balearic Islands {#ubi}
 
-ESR11
+**ESR11**
 
 <br>  
 
 ## 6. NAICONS {#naicons}
 
-ESR15 Thomas Vernay
+**ESR15 Thomas Vernay**
 
 ![](../img/facepic-thomas-vernay.jpg)
 
@@ -73,28 +73,28 @@ Promising metabolites with antibacterial properties will be targeted for purific
 
 ## 7. AltraBio {#altrabio}
 
-ESR6
+**ESR6**
 
 <br>
 
 ## 8. CNRS - French National Centre for Scientific Research {#cnrs}
 
-ESR8
+**ESR8**
 
 <br> 
 
 ## 9. University of Tübingen {#ut}
 
-ESR9 
+**ESR9** 
 
 <br>
 
 ## 10. Clinical Microbiomics A/S {#cm}
 
-ESR10 
+**ESR10** 
 
 <br>
 
 ## 11. INRAE: National Research Institute for Agriculture, Food and Environment {#inrae}
 
-ESR4
+**ESR4**
