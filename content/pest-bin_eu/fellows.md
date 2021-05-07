@@ -9,7 +9,9 @@ template: pest-bin_eu/single
 <br>  
 ## 1. Technical University of Denmark {#DTU}
 
-ESR5 Pedro Aragón Fernández
+ESR5 
+
+ESR7 Pedro Aragón Fernández
 
 ![](../img/pedro-dtu.png)
 
@@ -18,8 +20,6 @@ Pedro Aragon has a bachelor’s degree in biochemistry from the [Technical Unive
 **Project title: Proteome dynamics of bacterial pathogens during infection: new drug targets.** 
 
 The PhD project is part of a work package that aims to generate MS proteomics datasets that are more relevant, comprehensive and time-resolved from the perspective of infections. We will use a wide array of computational tools to extract relevant information about mechanism of infection from these proteomics datasets – ultimately leading to identification of new druggable targets.
-
-ESR7
 
 ESR13
 
