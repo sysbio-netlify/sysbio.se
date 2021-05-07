@@ -11,7 +11,7 @@ template: pest-bin_eu/single
 
 ESR5 Pedro Aragón Fernández
 
-![](img/pedro-dtu.png)
+![](../img/pedro-dtu.png)
 
 Pedro Aragon has a bachelor’s degree in biochemistry from the [Technical University of Munich ](https://www.tum.de/en/)(TUM). In 2018, he enrolled in the master’s degree program at the TUM, also in biochemistry, with major focus in bio-organic chemistry and immunology. In 2021 Pedro joined the group of Prof. Ivan Mijakovic as a PhD student at DTU Biosustain, The Novo Nordisk Center for Biosustainability, Kongens Lyngby – Denmark, where his current work focuses on deciphering unprecedented antibiotic targets yet lacking resistance strategies based on the context-dependent plasticity of the host-pathogen-proteomes. Using a combination of organic chemistry and Mass Spectrometry-based proteomics, a powerful analytical platform can be generated to approach specific markers for disease relevant to this threat.
 
@@ -57,7 +57,7 @@ ESR11
 
 ESR15 Thomas Vernay
 
-![](img/facepic-thomas-vernay.jpg)
+![](../img/facepic-thomas-vernay.jpg)
 
 Thomas Vernay is a french "Ecole de l'Inserm" PharmD/PhD fellow.
 He graduated from both [Institut Pasteur](https://research.pasteur.fr/en/), Paris in 2018 (MSc in Microbiology) and [University of Rennes 1](https://www.univ-rennes1.fr/) in 2021 (PharmD). His past works mostly involved the study of host-pathogen relationship with an emphasis on gut microbiota and nutrition ([UMR1241 NuMeCan](https://numecan.fr/homepage/), Rennes), genital innate immunity ([Institut Pasteur](https://research.pasteur.fr/en/team/cellular-biology-of-microbial-infection/), Paris) and bacterial intracellular persistance ([U1230 BRM](https://biochpharma.univ-rennes1.fr/), Rennes). He also have worked in translational research on pharmacology of antibiotics ([U1070 Phar](https://phar.labo.univ-poitiers.fr/), Poitiers) and vaccination remediation ([CHU Pontchaillou](https://www.chu-rennes.fr/), Rennes).
