@@ -29,7 +29,16 @@ The PhD project is part of a work package that aims to generate MS proteomics da
 
 **ESR2**
 
-**ESR3**
+**ESR3 Flavia Ferrara**
+
+Flavia Ferrara carried out her studies at La Sapienza University, in Rome, obtaining her bachelor-degree in Chemistry in October 2018. Her bachelor project involved library research in the field of supramolecular chemistry, more specifically on the functionalization of non-activated C-H bonds. Afterwards, she pursued a Master’s degree in Organic and Biomolecular chemistry, graduating in January 2021. During the Master, funded by an Erasmus+ scholarship, she carried out a six months thesis traineeship at the Organic Chemistry department of Stockholm University in the group of Prof. Pher Andersson. The main interest of the group was the iridium-catalyzed asymmetric hydrogenation of olefins and her project focused on the hydrogenation of in situ generated cyclic enamides, using these tandem reactions to develop a more sustainable synthetic method to access biologically relevant molecules as products. 
+
+**Project title: Functionalizing graphene sensors with receptors for diagnostic biomarkers for infection**
+
+
+The aim of the project is the preparation of synthetic receptors and the evaluation of their binding properties to diagnostic biomarker compounds, using organic synthesis and characterization of organic compounds as tools to attain this goal. In collaboration with another ESR in the project, she will functionalize graphene with synthetic receptors and evaluate the properties of the produced graphene devices as biosensors for infection. 
+
+
 
 **ESR14**
 
