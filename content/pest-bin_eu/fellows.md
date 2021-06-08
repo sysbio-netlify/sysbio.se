@@ -35,10 +35,7 @@ Flavia Ferrara carried out her studies at La Sapienza University, in Rome, obtai
 
 **Project title: Functionalizing graphene sensors with receptors for diagnostic biomarkers for infection**
 
-
 The aim of the project is the preparation of synthetic receptors and the evaluation of their binding properties to diagnostic biomarker compounds, using organic synthesis and characterization of organic compounds as tools to attain this goal. In collaboration with another ESR in the project, she will functionalize graphene with synthetic receptors and evaluate the properties of the produced graphene devices as biosensors for infection. 
-
-
 
 **ESR14**
 
@@ -58,7 +55,7 @@ The aim of the project is the preparation of synthetic receptors and the evaluat
 
 ## 5. University of the Balearic Islands {#ubi}
 
-**ESR11**
+**ESR11 Maria João Cardoso**
 
 ![](../img/maria-project-pest-bin-n.2.png)
 
