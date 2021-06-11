@@ -73,6 +73,7 @@ Mariia Kokina, PhD student\
 Darko Kjiproski, Project manager\
 Hossein Helalat, visiting PhD student\
 Samira Ebrahimi, visiting PhD student  
+Mugdha Bapat, intern  
 
 [Mijakovic lab at DTU Biosustain ](http://www.biosustain.dtu.dk/english/research/research-groups/bacterial-signal-transduction)
 
