@@ -13,7 +13,7 @@ profileleftbox: |-
   E-mail: Ivan.Mijakovic \[at] chalmers.se\
   Office: Room 3056A (Fysik Origo, Kemigården 1)
 ---
-[CV](/img/cv_im2103.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2103.pdf) <br/><br/>
+[CV](/img/cv_im2106.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2106.pdf) <br/><br/>
 
 ![Ivan Mijakovic](img/pic_ivan_mijakovic-lab.png)
 
@@ -34,11 +34,8 @@ Another important aspect of working in the Mijakovic lab is the spirit or collab
 #### HIGHLIGHTS:
 
 * The Mijakovic lab is organizing the 4<sup>th</sup> International conference on post-translational modifications in Bacteria in Copenhagen, in May 2022. [PTMBact 2021 conference website](https://www.sysbio.se/ptmbact2020/).
-
 * Prof. Mijakovic is coordinator of an EU ITN consortium “PEST-BIN” – working on new methods to fight bacterial infections.
-
 * Prof. Mijakovic is coordinator of a Nord Forsk consortium GRAMI – working on combining nanotechnology and antibiotics to fight biofilm-related infections.
-
 * Prof. Mijakovic is the winner of the 2021 Spiridon Brusina Medal awarded by the Croatian Society of Natural Sciences.
 
 <br/>
@@ -49,33 +46,33 @@ Please note that our group does not admit internships/student projects shorter t
 
 ![Mijakovic Lab](/img/pic_imgroup19_720.png)
 
-**Current members of the Mijakovic Lab at Chalmers SysBio:**  
-Lei Shi, researcher  
-Santosh Pandit, researcher  
-Xin Chen, researcher     
-Shadi Rahimi, Post-doc  
-Yanyan Chen, Post-doc  
-Avlant Nilsson, Post-doc  
-Caroline Wasén, Post-doc  
-Mohsen Zareian, Post-doc  
+**Current members of the Mijakovic Lab at Chalmers SysBio:**\
+Lei Shi, researcher\
+Santosh Pandit, researcher\
+Xin Chen, researcher\
+Shadi Rahimi, Post-doc\
+Yanyan Chen, Post-doc\
+Avlant Nilsson, Post-doc\
+Caroline Wasén, Post-doc\
+Mohsen Zareian, Post-doc\
+Amani Belaiba, visiting PhD student\
 Sophie Antonsson, visiting MSc student
 
-**Current Members of the Mijakovic lab at DTU Biosustain:**  
-Carsten Jers, senior researcher  
-Priyanka Singh, Post-doc  
-Vaishnavi Ravikumar, Post-doc  
-Abhroop Garg, Post-doc  
-Mériem Senissar, Post-doc  
-Julie Bonne Køhler, Post-doc  
-Abhayraj Joshi, Post-doc  
-Pedro Aragón Fernández, PhD student  
-Chenxhi Zhang, PhD student  
-Mukil Madhusudanan, PhD student  
-Mariia Kokina, PhD student  
-Darko Kjiproski, Project manager  
-Hossein Helalat, visiting PhD student  
+**Current Members of the Mijakovic lab at DTU Biosustain:**\
+Carsten Jers, senior researcher\
+Priyanka Singh, Post-doc\
+Vaishnavi Ravikumar, Post-doc\
+Abhroop Garg, Post-doc\
+Mériem Senissar, Post-doc\
+Julie Bonne Køhler, Post-doc\
+Abhayraj Joshi, Post-doc\
+Pedro Aragón Fernández, PhD student\
+Chenxhi Zhang, PhD student\
+Mukil Madhusudanan, PhD student\
+Mariia Kokina, PhD student\
+Darko Kjiproski, Project manager\
+Hossein Helalat, visiting PhD student\
 Samira Ebrahimi, visiting PhD student  
-
 
 [Mijakovic lab at DTU Biosustain ](http://www.biosustain.dtu.dk/english/research/research-groups/bacterial-signal-transduction)
 
@@ -94,7 +91,7 @@ Valentina Cantatore\
 Aida Kalantari\
 Hee Jin Hwang\
 Raghu Mokkapati\
-Abida Sultan  
+Abida Sultan\
 Abderahmane Derouiche
 
 ***PhD students:***\
