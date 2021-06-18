@@ -35,7 +35,6 @@ He completed his bachelor’s degree in Electronics and Communications Engineeri
 
 **Project Title: Biosensors based on CVD graphene and non-covalent functionalization.** 
 
-
 The objectives of his project are to develop cost effective platform for scalable fabrication of graphene biosensors with high specificity and sensitivity. Large-area graphene grown by CVD method will be transferred from the copper catalyst to a plastic carrier and patterned into multiple individual devices. The transfer process will include environmentally friendly technologies allowing for multiple use of the catalyst. Printed electrodes using carbon - or graphene inks will be employed to contact the devices, again avoiding heavy metals in the devices. Device clusters, up to six graphene sensor elements on a single carrier will be functionalized individually, to be able to detect several types of pathogens in a single analyte droplet placed on the sensor. It is expected that a non-covalent functionalization will preserve high sensitivity of graphene to adsorbates.
 
 **ESR3 Flavia Ferrara**
@@ -120,4 +119,17 @@ Promising metabolites with antibacterial properties will be targeted for purific
 
 ## 11. INRAE: National Research Institute for Agriculture, Food and Environment {#inrae}
 
-**ESR4**
+**ESR4 Lydia Palaiodimou** 
+
+![](img/lydia.jpg)
+
+Lydia Palaiodimou has graduated with a BSc Cell and Molecular Biology from Newcastle University (UK) in June 2019. She also holds an MSc Microbiology from Northumbria University (UK) from which she graduated in January 2021. During her MSc thesis, under the supervision of Dr Edward Fox, she addressed the mechanisms of persistence of Listeria species in the food processing environments by using a comparative genomics approach. This work resulted in a publication in the Journal of Applied Microbiology on March 2021. On May 2021, Lydia was recruited as a PhD student at the National Institute of Agricultural Research and Environment (INRAE, Micalis Institute) in affiliation with the University of Paris-Saclay (FR). She is currently working under the supervision of Dr Alessandro Pagliuso and Dr Celine Henry. Her project focuses on the proteomic analysis of L. monocytogenes in the VBNC state both in vitro and in vivo.
+
+**Project Title: The Listeria monocytogenes proteomic switch upon entry into the viable but nonculturable (VBNC) state in vitro and in human cells**
+
+
+The bacterial pathogen Listeria monocytogenes is the agent of listeriosis, one of the most dangerous food-borne diseases. Listeria contamination is essentially detected by classical microbiology tests based on enrichment steps, thus relying on the cultivability of bacteria. However, both extracellular and intracellular Listeria are able to enter a dormant state called VBNC, characterized by loss of bacterial growth in conventional culturing media. Although undetectable, VBNC bacteria maintain their pathogenic potential, thus representing a risk for human and animal health. By applying cutting edge techniques (RNA sequencing and quantitative proteomics), the project aims at defining the physiological markers of VBNC Listeria and providing fundamental knowledge on asymptomatic bacterial infections. This One Health project also intends to develop tools for the detection of silent VBNC Listeria in food, human and animal samples. 
+
+<br>
+
+<br>
