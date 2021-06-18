@@ -29,6 +29,8 @@ The PhD project is part of a work package that aims to generate MS proteomics da
 
 **ESR2 Munis Khan**
 
+![](img/munis-2.jpg)
+
 He completed his bachelor’s degree in Electronics and Communications Engineering from SMVD University, India in 2015.  In 2015 he enrolled for a master’s degree at TU Chemnitz, Germany with major focus on solid state physics. The main research focus during his masters was spectroscopic investigation of Graphene and it's derivatives with his master thesis focused on solid-state graphene-based supercapacitor. After finishing his masters he worked for 2 years in a semiconductor company in Austria (EV Group) working on nano-fabrication techniques to realize photonic devices and optical waveguides using nano-imprint lithography for AR/VR applications. Since June 2021 he have joined Quantum device physics laboratory at Chalmers University to pursue his PhD on below mentioned topic under the supervision of Prof.  August Yurgens.
 
 **Project Title: Biosensors based on CVD graphene and non-covalent functionalization.** 
