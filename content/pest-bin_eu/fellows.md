@@ -29,7 +29,7 @@ The PhD project is part of a work package that aims to generate MS proteomics da
 
 **ESR2 Munis Khan**
 
-![](img/munis-2.jpg)
+![](../img/munis-2.jpg)
 
 He completed his bachelor’s degree in Electronics and Communications Engineering from SMVD University, India in 2015.  In 2015 he enrolled for a master’s degree at TU Chemnitz, Germany with major focus on solid state physics. The main research focus during his masters was spectroscopic investigation of Graphene and it's derivatives with his master thesis focused on solid-state graphene-based supercapacitor. After finishing his masters he worked for 2 years in a semiconductor company in Austria (EV Group) working on nano-fabrication techniques to realize photonic devices and optical waveguides using nano-imprint lithography for AR/VR applications. Since June 2021 he have joined Quantum device physics laboratory at Chalmers University to pursue his PhD on below mentioned topic under the supervision of Prof.  August Yurgens.
 
@@ -121,7 +121,7 @@ Promising metabolites with antibacterial properties will be targeted for purific
 
 **ESR4 Lydia Palaiodimou** 
 
-![](img/lydia.jpg)
+![](../img/lydia.jpg)
 
 Lydia Palaiodimou has graduated with a BSc Cell and Molecular Biology from Newcastle University (UK) in June 2019. She also holds an MSc Microbiology from Northumbria University (UK) from which she graduated in January 2021. During her MSc thesis, under the supervision of Dr Edward Fox, she addressed the mechanisms of persistence of Listeria species in the food processing environments by using a comparative genomics approach. This work resulted in a publication in the Journal of Applied Microbiology on March 2021. On May 2021, Lydia was recruited as a PhD student at the National Institute of Agricultural Research and Environment (INRAE, Micalis Institute) in affiliation with the University of Paris-Saclay (FR). She is currently working under the supervision of Dr Alessandro Pagliuso and Dr Celine Henry. Her project focuses on the proteomic analysis of L. monocytogenes in the VBNC state both in vitro and in vivo.
 
