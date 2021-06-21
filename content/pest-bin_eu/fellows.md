@@ -39,6 +39,8 @@ The objectives of his project are to develop cost effective platform for scalabl
 
 **ESR3 Flavia Ferrara**
 
+![](../img/flavia.jpg)
+
 Flavia Ferrara carried out her studies at La Sapienza University, in Rome, obtaining her bachelor-degree in Chemistry in October 2018. Her bachelor project involved library research in the field of supramolecular chemistry, more specifically on the functionalization of non-activated C-H bonds. Afterwards, she pursued a Master’s degree in Organic and Biomolecular chemistry, graduating in January 2021. During the Master, funded by an Erasmus+ scholarship, she carried out a six months thesis traineeship at the Organic Chemistry department of Stockholm University in the group of Prof. Pher Andersson. The main interest of the group was the iridium-catalyzed asymmetric hydrogenation of olefins and her project focused on the hydrogenation of in situ generated cyclic enamides, using these tandem reactions to develop a more sustainable synthetic method to access biologically relevant molecules as products. 
 
 **Project title: Functionalizing graphene sensors with receptors for diagnostic biomarkers for infection**
@@ -126,7 +128,6 @@ Promising metabolites with antibacterial properties will be targeted for purific
 Lydia Palaiodimou has graduated with a BSc Cell and Molecular Biology from Newcastle University (UK) in June 2019. She also holds an MSc Microbiology from Northumbria University (UK) from which she graduated in January 2021. During her MSc thesis, under the supervision of Dr Edward Fox, she addressed the mechanisms of persistence of Listeria species in the food processing environments by using a comparative genomics approach. This work resulted in a publication in the Journal of Applied Microbiology on March 2021. On May 2021, Lydia was recruited as a PhD student at the National Institute of Agricultural Research and Environment (INRAE, Micalis Institute) in affiliation with the University of Paris-Saclay (FR). She is currently working under the supervision of Dr Alessandro Pagliuso and Dr Celine Henry. Her project focuses on the proteomic analysis of L. monocytogenes in the VBNC state both in vitro and in vivo.
 
 **Project Title: The Listeria monocytogenes proteomic switch upon entry into the viable but nonculturable (VBNC) state in vitro and in human cells**
-
 
 The bacterial pathogen Listeria monocytogenes is the agent of listeriosis, one of the most dangerous food-borne diseases. Listeria contamination is essentially detected by classical microbiology tests based on enrichment steps, thus relying on the cultivability of bacteria. However, both extracellular and intracellular Listeria are able to enter a dormant state called VBNC, characterized by loss of bacterial growth in conventional culturing media. Although undetectable, VBNC bacteria maintain their pathogenic potential, thus representing a risk for human and animal health. By applying cutting edge techniques (RNA sequencing and quantitative proteomics), the project aims at defining the physiological markers of VBNC Listeria and providing fundamental knowledge on asymptomatic bacterial infections. This One Health project also intends to develop tools for the detection of silent VBNC Listeria in food, human and animal samples. 
 
