@@ -105,7 +105,7 @@ Promising metabolites with antibacterial properties will be targeted for purific
 
 **ESR8 Margaux Demuysere**
 
-![](img/margaux.jpg)
+![](../img/margaux.jpg)
 
 Margaux Demuysere is a PhD candidate at the CNRS under the supervision of Dr. Christophe Grangeasse, whose research group studies the regulation of S. pneumoniae cell cycle. Before moving to Lyon (FR), she graduated from a BSc and a MSc in Biomedical Sciences, at the University of Namur (BE) and Utrecht university (NL), respectively. During her master, she specialized in microbiology and immunology. She will now benefit from the expertise of Dr. Grangeasse’s team in biochemistry, bacterial genetics, proteomics and cell imaging to study the cell cycle of S. pneumoniae during competence, a genetic differentiation program recognized as the leading force of bacterial adaptation to stresses such as antibiotic treatments.
 
