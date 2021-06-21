@@ -103,7 +103,17 @@ Promising metabolites with antibacterial properties will be targeted for purific
 
 ## 8. CNRS - French National Centre for Scientific Research {#cnrs}
 
-**ESR8**
+**ESR8 Margaux Demuysere**
+
+![](img/margaux.jpg)
+
+Margaux Demuysere is a PhD candidate at the CNRS under the supervision of Dr. Christophe Grangeasse, whose research group studies the regulation of S. pneumoniae cell cycle. Before moving to Lyon (FR), she graduated from a BSc and a MSc in Biomedical Sciences, at the University of Namur (BE) and Utrecht university (NL), respectively. During her master, she specialized in microbiology and immunology. She will now benefit from the expertise of Dr. Grangeasse’s team in biochemistry, bacterial genetics, proteomics and cell imaging to study the cell cycle of S. pneumoniae during competence, a genetic differentiation program recognized as the leading force of bacterial adaptation to stresses such as antibiotic treatments.
+
+**Project Title: Coordination and regulation by phosphorylation of genetic transformation and cell division in Streptococcus pneumoniae (the pneumococcus)**
+
+
+Despite the availability of vaccines and antibiotic treatments, efforts to control Streptococcus pneumoniae infection are hampered by the great genomic plasticity of S. pneumoniae. Indeed, S. pneumoniae is able to undergo natural transformation, a mechanism allowing the acquisition of new traits, including antibiotic resistance genes, through the uptake and chromosomal integration of exogenous DNA.
+Natural transformation is dependent on the induction of competence, a genetic program triggered by various environmental stresses, including antibiotic treatments. The objective of this project is to refine the regulatory networks at play during the induction of competence by using comparative phosphoproteomics, as well as investigate the coordination between transformation and cell division. Ultimately, this could lead to the development of innovative strategies to tackle antibiotic resistance.
 
 <br> 
 
