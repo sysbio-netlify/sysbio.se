@@ -65,9 +65,9 @@ paginate = 10
 
 # Enable or disable top bar with social icons
 [params.topbar]
-  enable = false
+  enable = true
   text = """
-    <p class="text-center"><a href="/news/2019/01/16/sysbio-core-values-in-nature">Breaking news: SysBio Core Values featured in Nature</a></p>
+    <p class="text-center"><a href="/eulogy-hohmann">Eulogy for Professor Stefan Hohmann</a></p>
     """
 # Top bar social links menu
 [[menu.topbar]]
