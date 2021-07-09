@@ -17,11 +17,7 @@ template: pest-bin_eu/single
 
 **Project title: Proteome dynamics of bacterial pathogens during infection: biomarkers for diagnostics**
 
- 
-
 Mariia will carry out MS proteomics analyses on a subset of prioritized pathogens. Peptides identified in the MS analysis will be used to detect bacterial surfaces using antibodies or other molecular receptors.
-
-
 
 <!--EndFragment-->
 
