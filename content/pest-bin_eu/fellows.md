@@ -19,6 +19,8 @@ template: pest-bin_eu/single
 
 Mariia will carry out MS proteomics analyses on a subset of prioritized pathogens. Peptides identified in the MS analysis will be used to detect bacterial surfaces using antibodies or other molecular receptors.
 
+<br>  
+
 **ESR7 Pedro Aragón Fernández**
 
 ![](../img/pedro-dtu.png)
@@ -28,6 +30,8 @@ Pedro Aragon has a bachelor’s degree in biochemistry from the [Technical Unive
 **Project title: Proteome dynamics of bacterial pathogens during infection: new drug targets.** 
 
 The PhD project is part of a work package that aims to generate MS proteomics datasets that are more relevant, comprehensive and time-resolved from the perspective of infections. We will use a wide array of computational tools to extract relevant information about mechanism of infection from these proteomics datasets – ultimately leading to identification of new druggable targets.
+
+<br>  
 
 **ESR13**
 
@@ -45,6 +49,8 @@ He completed his bachelor’s degree in Electronics and Communications Engineeri
 
 The objectives of his project are to develop cost effective platform for scalable fabrication of graphene biosensors with high specificity and sensitivity. Large-area graphene grown by CVD method will be transferred from the copper catalyst to a plastic carrier and patterned into multiple individual devices. The transfer process will include environmentally friendly technologies allowing for multiple use of the catalyst. Printed electrodes using carbon - or graphene inks will be employed to contact the devices, again avoiding heavy metals in the devices. Device clusters, up to six graphene sensor elements on a single carrier will be functionalized individually, to be able to detect several types of pathogens in a single analyte droplet placed on the sensor. It is expected that a non-covalent functionalization will preserve high sensitivity of graphene to adsorbates.
 
+<br>  
+
 **ESR3 Flavia Ferrara**
 
 ![](../img/flavia.jpg)
@@ -54,6 +60,8 @@ Flavia Ferrara carried out her studies at La Sapienza University, in Rome, obtai
 **Project title: Functionalizing graphene sensors with receptors for diagnostic biomarkers for infection**
 
 The aim of the project is the preparation of synthetic receptors and the evaluation of their binding properties to diagnostic biomarker compounds, using organic synthesis and characterization of organic compounds as tools to attain this goal. In collaboration with another ESR in the project, she will functionalize graphene with synthetic receptors and evaluate the properties of the produced graphene devices as biosensors for infection. 
+
+<br>  
 
 **ESR14**
 
