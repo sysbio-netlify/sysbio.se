@@ -22,7 +22,7 @@ Our feelings and our thoughts go to the entire Hohmann family. We, the yeast and
 <br/><br/> 
 Professor Jens Nielsen, Chalmers University of Technology
 
-<sub>***If you would like to leave your condolences to the family or share a memory, you may do so in person at the Department of Biology and Biological Engineering, Fysikgården 1 (outside of Stefan’s office), or send the message digitally at memories.stefanhohmann@chalmers.se   
+<sub>***If you would like to leave your condolences to the family or share a memory, you may do so in person at the Department of Biology and Biological Engineering, Fysikgården 1 (outside of Stefan’s office), or send the message digitally at <a href="mailto:memories.stefanhohmann@chalmers.se">memories.stefanhohmann@chalmers.se</a>   
 This email address will be active until end of August 2021.***</sub>
 
 <sub>***Feel free to share this information with other colleagues.***</sub>
