@@ -19,12 +19,6 @@ template: pest-bin_eu/single
 
 Mariia will carry out MS proteomics analyses on a subset of prioritized pathogens. Peptides identified in the MS analysis will be used to detect bacterial surfaces using antibodies or other molecular receptors.
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-<!--EndFragment-->
-
 **ESR7 Pedro Aragón Fernández**
 
 ![](../img/pedro-dtu.png)
