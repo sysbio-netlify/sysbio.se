@@ -63,16 +63,15 @@ Carsten Jers, senior researcher\
 Priyanka Singh, Post-doc\
 Vaishnavi Ravikumar, Post-doc\
 Abhroop Garg, Post-doc\
-Mériem Senissar, Post-doc\
 Julie Bonne Køhler, Post-doc\
 Abhayraj Joshi, Post-doc\
 Pedro Aragón Fernández, PhD student\
+Suvasini Balasubramanian, PhD student\
 Chenxhi Zhang, PhD student\
 Mukil Madhusudanan, PhD student\
 Mariia Kokina, PhD student\
 Darko Kjiproski, Project manager\
-Hossein Helalat, visiting PhD student\
-Samira Ebrahimi, visiting PhD student  
+Ema Svetlicic, visiting PhD student\
 Mugdha Bapat, intern  
 
 [Mijakovic lab at DTU Biosustain ](http://www.biosustain.dtu.dk/english/research/research-groups/bacterial-signal-transduction)
@@ -93,7 +92,8 @@ Aida Kalantari\
 Hee Jin Hwang\
 Raghu Mokkapati\
 Abida Sultan\
-Abderahmane Derouiche
+Abderahmane Derouiche\
+Mériem Senissar
 
 ***PhD students:***\
 Mette Erichsen Hansen\
@@ -106,7 +106,9 @@ Charlotte Cousin\
 Aida Kalantari
 
 ***Visiting PhD students:***\
-Alireza Neissi
+Alireza Neissi\
+Hossein Helalat\
+Samira Ebrahimi
 
 ***Technicians:***\
 Violeta Djekic\
