@@ -1,0 +1,50 @@
+<!--
+    This is the layout for the GraMI home page (_index.md).
+    Set as collection list layout in order to have some special elements and
+    give a clean URL ../GraMI
+    This layout overrides the default website one with a custom layout for the GraMI subfolder.
+  -->
+
+
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "GraMI/head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        {{ partial "GraMI/breadcrumbs.html"  "GraMI"}}
+
+        <div class="container" style="margin-bottom:8em;">
+          <div class="row">
+
+            <div class="col-md-2">
+              {{ partial "GraMI/menu.html" . }}
+            </div>
+
+            <div class="col-md-6">
+              {{ .Content }}
+            </div>
+
+            <div class="col-md-4">
+
+              <!-- <a class="twitter-timeline"
+                  data-width="400"
+                  data-height="600"
+                  href="https://twitter.com/GraMI_twitter_handle?ref_src=twsrc%5Etfw"></a>
+              <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+
+            </div>
+          </div>
+        </div>
+
+        {{ partial "GraMI/footer.html" . }}
+
+    </div>
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

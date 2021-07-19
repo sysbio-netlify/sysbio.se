@@ -1,0 +1,38 @@
+<!--
+    This layout overrides the default website one with a custom layout for the GraMI subfolder.
+    This is for a single page.
+  -->
+
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "GraMI/head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        {{ partial "GraMI/breadcrumbs.html" }}
+
+        <div class="container" style="margin-bottom:8em;">
+          <div class="row">
+
+            <div class="col-md-2">
+              {{ partial "GraMI/menu.html" . }}
+            </div>
+
+            <div class="col-md-10">
+              {{ .Content }}
+            </div>
+
+          </div>
+        </div>
+
+        {{ partial "GraMI/footer.html" . }}
+
+    </div>
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
