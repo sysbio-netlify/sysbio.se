@@ -180,3 +180,10 @@ paginate = 10
 [blackfriday]
   fractions = false
   hrefTargetBlank = true
+
+
+# # Only for local HUGO building - comment out when publishing
+# [markup]
+#   [markup.goldmark]
+#     [markup.goldmark.renderer]
+#       unsafe = true
