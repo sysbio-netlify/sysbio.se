@@ -9,7 +9,7 @@ template: GraMI/single
 <br>
 <br>
  
-## Chalmers University of Technology (Sweden)
+### Chalmers University of Technology (Sweden)
 
 ![Chalmers group](img/grami_chalmers-group.jpg)
 
@@ -20,7 +20,7 @@ This partner will carry out the synthesis of high-quality graphene, development 
 
 <br>  
 
-## SINTEF (Norway)
+### SINTEF (Norway)
 
 ![SINTEF group](img/grami_sintef-group.jpg)
 
@@ -31,7 +31,7 @@ This partner will contribute antimicrobials to be loaded on drug delivery system
 
 <br>  
 
-## Technical University of Denmark - DTU (Denmark)
+### Technical University of Denmark - DTU (Denmark)
 
 ![Priyanka Singh](img/grami_priyanka-singh.jpg)
 
