@@ -54,6 +54,20 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Image", name: "image", widget: "image", required: false, allow_multiple: true}
       - {label: "Body", name: "body", widget: "markdown"}
 
+  - name: "GraMI" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "GraMI" # Used in the UI, ie.: "New Post"
+    label_singular: "GraMI page"
+    folder: "content/GraMI" # The path to the folder where the documents are stored
+    slug: "{{title}}"
+    filter: { field: "template", value: "GraMI/single"}
+    create: true # Allow users to create new documents in this collection
+    extension: md
+    fields: # The fields each document in this collection have
+      - {label: "Page Title", name: "title", widget: "string"}
+      - {label: "Template", name: "template", widget: "select", options: ["GraMI/single"]}
+      - {label: "Image", name: "image", widget: "image", required: false, allow_multiple: true}
+      - {label: "Body", name: "body", widget: "markdown"}
+
   - name: "labs" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Labs" # Used in the UI, ie.: "New Post"
     label_singular: "Lab"
