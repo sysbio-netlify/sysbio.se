@@ -18,7 +18,6 @@ This partner will carry out the synthesis of high-quality graphene, development 
 
 <br>
 
-<br>  
 
 ### SINTEF (Norway)
 
