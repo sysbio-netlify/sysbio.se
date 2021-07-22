@@ -7,7 +7,6 @@ template: GraMI/single
 # Partners
 
 <br>
-<br>
  
 ### Chalmers University of Technology (Sweden)
 
