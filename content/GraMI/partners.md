@@ -25,8 +25,6 @@ This partner will carry out the synthesis of high-quality graphene, development 
 Drs. Andreas Åslund, Wilhelm Glomm, Francesca Di Bartolomeo, Kristin Degnes and Geir Klinkenberg provide expertise with synthesis of novel antimicrobial compounds, polymer composite design, synthesis, functionalization and characterization of magnetic and plasmonic nanoparticles. SINTEF is currently the coordinator of the reorganization of EU-nanocharacterization laboratory (EUNCL).   
 This partner will contribute antimicrobials to be loaded on drug delivery systems, assist with loading of on graphene carriers, provide nanoparticles to be used for graphene coating, perform polymer composite design and *in vivo* assessment of bioactivity and effect on wound healing.
 
-<br>
-
 <br>  
 
 ### Technical University of Denmark - DTU (Denmark)
