@@ -12,8 +12,5 @@ Our interdisciplinary team will develop the technology for production of graphen
 
 This consortium will bring various experts from disciplines in the areas of Physical Sciences and Life Science (physics of 2D materials, nanomaterials science, polymer chemistry, microbiology and biotechnology) under one roof, working together to develop the next generation of antimicrobial drug delivery systems. To accomplish this, we built a Nordic research and innovation hub.
 
-Here we put the Fig 0 – provided as PDF or PPT.
-
-
 
 ![GraMI project partners](img/grami-homepic.png "GraMI project partners")
