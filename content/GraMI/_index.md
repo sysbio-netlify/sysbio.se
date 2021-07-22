@@ -4,7 +4,6 @@ menu: GraMI
 weight: -10
 template: GraMI/single
 ---
-
 GraMI is an Interdisciplinary Research Project funded by NordForsk.  
 
 The main goal of this project is to combat the increasing drug-resistant microbial infections by developing novel methods for sustained delivery of antimicrobials. Specifically, we will be focusing on methicillin-resistant Staphylococcus aureus (MRSA), which causes devastating intravascular infections.   
@@ -15,3 +14,6 @@ This consortium will bring various experts from disciplines in the areas of Phys
 
 Here we put the Fig 0 – provided as PDF or PPT.
 
+
+
+![GraMI project partners](img/grami-homepic.png "GraMI project partners")
