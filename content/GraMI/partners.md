@@ -4,9 +4,8 @@ menu: GraMI
 weight: 10
 template: GraMI/single
 ---
-
-
-<br>  
+<br>
+ 
 ## Chalmers University of Technology (Sweden)
 
 ![Chalmers group](img/grami_chalmers-group.jpg)
