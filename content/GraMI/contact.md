@@ -62,7 +62,7 @@ template: GraMI/single
    <div id="map" class="map"></div>
     <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.4.3/build/ol.js"></script>
     <script type="text/javascript">
-      coordinates = [11.9773494, 57.6908956];
+      coordinates = [11.9763403, 57.6904139];
       var map = new ol.Map({
         target: 'map',
         layers: [
