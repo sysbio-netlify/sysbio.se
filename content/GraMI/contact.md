@@ -33,7 +33,7 @@ template: GraMI/single
 <div class="row">
   <div class="column">
    <div>
-    <h2>Postal and delivery address</h2>
+    <h3>Postal and delivery address</h3>
     Chalmers University of Technology
     <br>
     Department of Biology and Biological Engineering
@@ -46,7 +46,7 @@ template: GraMI/single
     <br>
     Sweden
     <br>
-    <h2>Visiting address</h2>
+    <h3>Visiting address</h3>
     Chalmers University of Technology
     <br>
     Department of Biology and Biological Engineering
