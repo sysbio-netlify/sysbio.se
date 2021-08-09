@@ -57,7 +57,6 @@ Caroline Wasén, Post-doc\
 Mohsen Zareian, Post-doc\
 Jian Zhang, Post-doc\
 Mutusankar Eswaran, Post-doc\
-Avisek Mahapa, Post-doc\
 Zheijan Cao, Post-doc\
 Amani Belaiba, visiting PhD student\
 Sophie Antonsson, visiting MSc student
