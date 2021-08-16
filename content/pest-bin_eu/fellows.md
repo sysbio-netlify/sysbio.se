@@ -69,7 +69,17 @@ The aim of the project is the preparation of synthetic receptors and the evaluat
 
 ## 3. Rudjer Boskovic Institute {#rudjer}
 
-**ESR12**
+**ESR12 Anja Tušar**
+
+![](../img/anja-tusar-3.jpg)
+
+Anja Tušar obtained BSc in Microbiology and MSc in Biotechnology at the Biotechnical Faculty, University of Ljubljana, Slovenia. She acquired additional experiences in the field of Microbiology during two Erasmus internships (Max-Planck Institute, Germany and Technical University of Denmark) and ASEF fellowship (University of Queensland, Australia). During her MSc research at the National Institute of Chemistry, Slovenia (2017-2019) and the internship with Kobe’s research team at the University of Queensland (2019), she was discovering diverse molecular cloning methods, protein production in Escherichia coli, protein isolation, and protein characterization. At the Technical University of Denmark (2018), she was working with Bacillus subtilis, one of the model organisms for biofilm formation. The research included another process that Bacillus subtilis undergoes, sporulation.
+Anja Tušar is now a PhD fellow at the Institute Ruđer Boškovič, Croatia and is carrying out her research project under the supervision of Prof. Dr. Tomislav Domazet Lošo. 
+
+**Project title: Evolutionary patterns in the biofilms of pathogenic bacteria.**
+
+
+The aim of the project is to establish in vitro biofilm models for pathogenic bacteria and to determine their evolutionary patterns. We will pursue to detect evolutionary imprints in biofilm growth of medically important pathogenic bacteria by studying their transcriptome, proteome, and phosphoproteome. As a starting point, we will estimate the phylogenetic age of all genes in the genomes of studied pathogens by phylostratigraphic approach and then link this information to the experimentally collected omics data. Our goal is to identify candidate genes that play a critical role in medical outcomes related to biofilm formation under different environmental factors. Experiments and analyses will be carried out at the Ruđer Bošković Institute with secondments at the Faculty of Science, University of Zagreb, and at the Technical University of Denmark.
 
 <br>  
 
