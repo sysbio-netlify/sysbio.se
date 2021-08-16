@@ -13,7 +13,7 @@ template: pest-bin_eu/single
 
 ![](../img/mariia.jpg)
 
-<!--StartFragment-->
+Mariia has a bachelor’s degree in chemical engineering and master’s degree in bioengineering from the St. Petersburg University of Technology.  During her studies, Mariia was engaged in various student activities and mobility programmes. As a result, Mariia collaborated with several institutions across the globe, broadening her competence in analytical chemistry, food technology, microbiology, computational biology and big data analysis. She considers PEST-BIN as an opportunity for young researchers to impact the development of new technologies, which can enable many research facilities to achieve their self-reliance in medical research and biosciences.
 
 **Project title: Proteome dynamics of bacterial pathogens during infection: biomarkers for diagnostics**
 
