@@ -33,7 +33,18 @@ The PhD project is part of a work package that aims to generate MS proteomics da
 
 <br>  
 
-**ESR13**
+**ESR13 Mukil Madhusudanan**
+
+![](../img/mukil-2.png)
+
+Mukil is from New Delhi, India and has a bachelor’s and master’s degree in Nanotechnology from Amity University Noida, India. He is fascinated by the potential of nanotechnology and endeavours to make a tangible contribution in the scientific evolution of this field.
+During his master’s thesis, he worked on the development of biodegradable block-copolymer based drug delivery system for controlled and targeted delivery of hydrophobic anticancer drug, Bortezomib. He then worked on a two-year project to enhance uptake and bioavailability of zinc micronutrient in cereal crops, employing engineered nanoparticles.
+He has joined DTU Biosustain as a PhD student under the supervision of Prof. Ivan Mijakovic wherein he aims to develop hybrid antimicrobial nanostructures to overcome antibiotics resistance and aid biofilm inhibition.
+
+**Project Title: Conjugation of Graphene-Coated Nanoparticles & Antibiotics: Nano- Weapon Against Biofilms** 
+
+
+Mukil will engineer green synthesized antimicrobial magnetic nanoparticles, spiked with antibacterial graphene coating which will in turn be loaded with antibiotics to be able to physically penetrate deep into bacterial biofilms, where it will ensure steady and sustained release of antibiotics in the otherwise protected heart of the biofilm.
 
 <br>  
 
