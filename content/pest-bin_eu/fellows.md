@@ -43,7 +43,6 @@ He has joined DTU Biosustain as a PhD student under the supervision of Prof. Iva
 
 **Project Title: Conjugation of Graphene-Coated Nanoparticles & Antibiotics: Nano- Weapon Against Biofilms** 
 
-
 Mukil will engineer green synthesized antimicrobial magnetic nanoparticles, spiked with antibacterial graphene coating which will in turn be loaded with antibiotics to be able to physically penetrate deep into bacterial biofilms, where it will ensure steady and sustained release of antibiotics in the otherwise protected heart of the biofilm.
 
 <br>  
@@ -154,7 +153,17 @@ Natural transformation is dependent on the induction of competence, a genetic pr
 
 ## 9. University of Tübingen {#ut}
 
-**ESR9** 
+**ESR9 Payal Nashier** 
+
+![](../img/payalnashier-n1.jpg)
+
+Payal Nashier holds a Bachelor’s and Master’s degree in Zoology from Miranda House, University of Delhi, India. During her graduation, she has done a number of internships including one at IIT Guwahati, India awarded by Indian Academy of Sciences, Indian National Science Academy and National Academy of Sciences India. After completing her master’s in 2019, she joined a research lab as Junior Research Fellow (JRF) where she worked on deciphering the role of Serine/Threonine phosphorylation in Bacillus anthracis for developing novel anthrax spore vaccine under the supervision of Prof. Yogendra Singh at Department of Zoology, University of Delhi, India. Her work there also resulted in a publication in Journal of Bacteriology in May 2021. Payal is now a PhD student in the PEST-BIN project under the supervision of Prof. Boris Macek at the University of Tübingen, Germany. Her project focuses on the studying the effect of kinases at proteome and phosphoproteome levels to find out the underlying pathways regulated by them. 
+
+
+**Project Title: Regulation of bacterial persistence and metabolism by Serine/Threonine kinases (STK).**
+
+
+The aim of her project is to get new insights into the role of STK in regulating bacterial persistence, metabolism, dormancy and other cellular pathways as well as expanding the applicability of MS-based quantitative proteomics to single cell level by using established (phospho)proteomics and microbiology approaches to characterize several bacterial STK and, development of sample preparation methods that increase sensitivity of (phospho)proteomics measurements. 
 
 <br>
 
