@@ -59,7 +59,7 @@ Jian Zhang, Post-doc\
 Mutusankar Eswaran, Post-doc\
 Zheijan Cao, Post-doc\
 Amani Belaiba, visiting PhD student\
-Sophie Antonsson, visiting MSc student
+Iza Erzar, intern
 
 **Current Members of the Mijakovic lab at DTU Biosustain:**\
 Carsten Jers, senior researcher\
@@ -136,4 +136,5 @@ Kristina Kovac\
 Sanja Tunjic\
 Alessandra Merlo\
 Anja Tusar\
-Li Xu
+Li Xu\
+Sophie Antonsson
