@@ -73,7 +73,13 @@ The aim of the project is the preparation of synthetic receptors and the evaluat
 
 <br>  
 
-**ESR14**
+**ESR14 Hengzhi Ruan** 
+
+Hengzhi Ruan carries out his researches at Chalmers (SE) in the lab of Rheology and Processing of Soft Matter supervised by Prof. Roland Kádár whose research group studies tailoring multifunctional properties in nanostructured materials - focused on the process structuring of polymer nanocomposites based on graphene. Before joining the research group, Hengzhi obtained his bachelor degree and master degree from the University of Science and Technology Liaoning (CN) and the East China University of Science and Technology (CN) with a national award winning. During his master study, his academic interests are in the area advanced functional material science to help address key challenges faced by the engineering world, such as wearable biosensors for personalized medicine, antifreeze artificial muscle and antibacterial hydrogel materials.
+
+**Project title: Commercializing a new class of antibacterial surfaces: polymer graphene nanocomposites**
+
+Infectious diseases are predicted to rise in the next year due to antibiotic resistance. As a result, there is a pressing need for disruptive technologies to tackle this medical challenge. The EU-funded PEST-BIN project bridges academia and industry to deliver new diagnostics tools that can detect infection with the accuracy and speed required in a clinical setting. Proteomics analysis with the help of artificial intelligence will provide insight into the mechanisms of bacterial infection and unveil new targets for antibiotic development. Moreover, partners will employ nanotechnology loaded with antibiotics to tackle bacterial biofilms, an inherently difficult structure to penetrate with drugs.
 
 <br>  
 
@@ -159,9 +165,7 @@ Natural transformation is dependent on the induction of competence, a genetic pr
 
 Payal Nashier holds a Bachelor’s and Master’s degree in Zoology from Miranda House, University of Delhi, India. During her graduation, she has done a number of internships including one at IIT Guwahati, India awarded by Indian Academy of Sciences, Indian National Science Academy and National Academy of Sciences India. After completing her master’s in 2019, she joined a research lab as Junior Research Fellow (JRF) where she worked on deciphering the role of Serine/Threonine phosphorylation in Bacillus anthracis for developing novel anthrax spore vaccine under the supervision of Prof. Yogendra Singh at Department of Zoology, University of Delhi, India. Her work there also resulted in a publication in Journal of Bacteriology in May 2021. Payal is now a PhD student in the PEST-BIN project under the supervision of Prof. Boris Macek at the University of Tübingen, Germany. Her project focuses on the studying the effect of kinases at proteome and phosphoproteome levels to find out the underlying pathways regulated by them. 
 
-
 **Project Title: Regulation of bacterial persistence and metabolism by Serine/Threonine kinases (STK).**
-
 
 The aim of her project is to get new insights into the role of STK in regulating bacterial persistence, metabolism, dormancy and other cellular pathways as well as expanding the applicability of MS-based quantitative proteomics to single cell level by using established (phospho)proteomics and microbiology approaches to characterize several bacterial STK and, development of sample preparation methods that increase sensitivity of (phospho)proteomics measurements. 
 
