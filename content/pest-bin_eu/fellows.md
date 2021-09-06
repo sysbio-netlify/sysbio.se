@@ -75,7 +75,7 @@ The aim of the project is the preparation of synthetic receptors and the evaluat
 
 **ESR14 Hengzhi Ruan** 
 
-![](../img/hengzhi-n1.jpg)
+![](../img/hengzhi-new-pic-1.jpg)
 
 Hengzhi Ruan carries out his researches at Chalmers (SE) in the lab of Rheology and Processing of Soft Matter supervised by Prof. Roland Kádár whose research group studies tailoring multifunctional properties in nanostructured materials - focused on the process structuring of polymer nanocomposites based on graphene. Before joining the research group, Hengzhi obtained his bachelor degree and master degree from the University of Science and Technology Liaoning (CN) and the East China University of Science and Technology (CN) with a national award winning. During his master study, his academic interests are in the area advanced functional material science to help address key challenges faced by the engineering world, such as wearable biosensors for personalized medicine, antifreeze artificial muscle and antibacterial hydrogel materials.
 
