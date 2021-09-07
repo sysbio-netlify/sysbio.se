@@ -102,7 +102,17 @@ The aim of the project is to establish in vitro biofilm models for pathogenic ba
 
 ## 4. Goteborg University/Sahlgrenska University Hospital {#gu}
 
-**ESR1**
+**ESR1 Leonarda Achá Alarcón**
+
+![](../img/leonarda-1.jpg)
+
+Leonarda is a biochemist from Bolivia, educated at the Universidad Privada del Valle, where she received training with a clinical focus. During her Master’s Studies in Biological and Biomedical Sciences (Universidad Mayor de San Andrés) she worked on the development of a home-made ELISA for the detection of group A rotavirus in fecal samples of children and domestic South American camelids under the supervision of Professors Volga Iñiguez and Ewald Beck. In 2019 Leonarda did an internship at CCUG with Edward Moore’s group, Sweden, where she received training in bacterial genomics. In 2020 and 2021 she worked at Instituto de Biologia Molecular y Biotecnologia (IBMB-UMSA) as part of the group who had identified the SASRS-COV2 Gamma variant circulating in Bolivia.
+Leonarda has joined PEST-BIN project as a Ph.D. student under the supervision of Docent Roger Karlsson to work on the identification of biomarkers from surface proteins of clinically relevant pathogens enlisted as prioritized antibiotic resistant bacteria by the WHO.
+
+**Project title: Discovery of Biomarkers for infectious disease pathogens.**
+
+
+The project is focused on the identification and discovery of biomarkers present in bacterial pathogens resistant to antibiotics, identified to be a threat by the WHO. Representative strains from the selected species will be investigated through genomics. Subsequently, strains will be investigated by proteomics and mass spectrometry, with a special focus on surface proteins, by performing surface shaving of intact bacterial cells, enabled by the lipid-based protein immobilization (LPI) methodology. The discovered peptide/protein biomarkers will then be used for generating sensors to detect the bacteria. 
 
 <br>  
 
