@@ -66,7 +66,6 @@ Iza Erzar, intern
 Carsten Jers, senior researcher\
 Priyanka Singh, Post-doc\
 Vaishnavi Ravikumar, Post-doc\
-Abhroop Garg, Post-doc\
 Julie Bonne Køhler, Post-doc\
 Abhayraj Joshi, Post-doc\
 Pedro Aragón Fernández, PhD student\
@@ -97,7 +96,8 @@ Hee Jin Hwang\
 Raghu Mokkapati\
 Abida Sultan\
 Abderahmane Derouiche\
-Mériem Senissar
+Mériem Senissar\
+Abhroop Garg
 
 ***PhD students:***\
 Mette Erichsen Hansen\
