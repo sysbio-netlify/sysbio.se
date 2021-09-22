@@ -14,9 +14,9 @@ profileleftbox: |-
   E-mail: eduardk [at] chalmers.se  
   Office: Room 3054A (Fysik Origo, Kemigården 1)
 ---
-[CV](/img/cv_ejk2006.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_ejk2006.pdf) <br/><br/>  
+[CV](/img/cv_ejk2109.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_ejk2109.pdf) <br/><br/>  
 
-
+### Kerkhoven lab – who are we and what do we do?
 
 Our research revolves around computational metabolic engineering, where model-driven analysis of experimental data is used to understand, predict and engineer biology.
 
@@ -25,3 +25,11 @@ With a particular focus on metabolism we bridge the gap between *in silico* pred
 Most of our work aims to develop microbes as cell factories for sustainable production of chemicals. We work a lot with oleaginous yeasts (such as *Yarrowia lipolytica*) as they are able to accumulate large amount of lipids, and these lipids can either be directly used as product, or we rewire the metabolic network to produce other high-value chemicals.
 
 Computational analysis of metabolism helps us to come up with strategies for metabolic engineering. We reconstruct and curate genome-scale metabolic models (GEMs) for various organisms (yeasts, bacteria, human) using our RAVEN Toolbox. These models are combined with omics analyses (primarily RNAseq and proteomics), either directly or through the use of enzyme-constrained models.
+
+**Current members of Kerkhoven lab:**\
+Naghmeh Poorinmohammad, postdoc
+Jing Fu, postdoc
+Cheewin Kittikunapong, PhD student
+Le Yuan, PhD student
+Simone Zaghen, PhD student
+Hanna Östermark, MSc student
