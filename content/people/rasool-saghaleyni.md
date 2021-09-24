@@ -3,11 +3,10 @@ name: Rasool Saghaleyni
 title: Rasool-Saghaleyni
 lastname: Saghaleyni
 picture: /img/pic_rasool-saghaleyni.jpg
-position: ' PhD student'
-email: 'rasools [at] chalmers.se'
+position: PostDoc
+email: rasools [at] chalmers.se
 flags:
   - ir Iran
-person-category: F PhD students
+person-category: E Postdocs
 template: people/profile
 ---
-
