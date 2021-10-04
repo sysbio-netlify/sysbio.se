@@ -7,6 +7,6 @@ position: Researcher
 email: lixiaow [at] chalmers.se
 flags:
   - cn China
-person-category: D Researchers
+person-category: H Visiting researchers
 template: people/profile
 ---
