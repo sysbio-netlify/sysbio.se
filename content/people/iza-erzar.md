@@ -3,7 +3,7 @@ name: Iza Erzar
 title: Iza-Erzar
 lastname: Erzar
 picture: img/pic_iza-erzar.jpg
-position: visiting BSc student
+position: BSc student
 email: erzar [at] chalmers.se
 flags:
   - si Slovenia
