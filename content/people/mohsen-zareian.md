@@ -5,7 +5,8 @@ lastname: Zareian
 picture: img/pic_mohsen-zareian.jpg
 position: Researcher
 email: mohsen.zareian [at] chalmers.se
-flags: []
+flags:
+  - ir Iran
 person-category: H Visiting researchers
 template: people/profile
 ---
