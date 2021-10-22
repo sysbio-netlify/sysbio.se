@@ -26,7 +26,6 @@ Most of our work aims to develop microbes as cell factories for sustainable prod
 Computational analysis of metabolism helps us to come up with strategies for metabolic engineering. We reconstruct and curate genome-scale metabolic models (GEMs) for various organisms (yeasts, bacteria, human) using our [RAVEN Toolbox](https://github.com/SysBioChalmers/RAVEN). Our model development is tracked on [GitHub](https://github.com/search?q=org%3ASysBioChalmers+%22-GEM%22&type=Repositories), and important models are those for [*S. cerevisiae*](https://github.com/SysBioChalmers/yeast-GEM), [*Y. lipolytica*](https://github.com/SysBioChalmers/Yarrowia_lipolytica_W29-GEM), [*S. coelicolor*](https://github.com/SysBioChalmers/Sco-GEM) and [*Homo sapiens*](https://github.com/SysBioChalmers/human-GEM). These models are combined with omics analyses (primarily RNAseq and proteomics), either directly or through the use of enzyme-constrained models using our [GECKO Toolbox](https://github.com/SysBioChalmers/GECKO). In addition to biotechnological applications, we have also been using our approaches to investigate for instance evolution of the yeast subphylum, and prediction of kcat values through deep learning.
 
 **Current members of Kerkhoven lab:**\
-Naghmeh Poorinmohammad, postdoc\
 Jing Fu, postdoc\
 Cheewin Kittikunapong, PhD student\
 Le Yuan, PhD student\
