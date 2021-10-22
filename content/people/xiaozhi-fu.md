@@ -1,5 +1,5 @@
 ---
-name: Xiaozhi Fu
+name: Xiaozhi Fu, PhD
 title: Xiaozhi-Fu
 lastname: Fu
 picture: img/pic_xiaozhi-fu.jpg
