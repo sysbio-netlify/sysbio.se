@@ -1,5 +1,5 @@
 ---
-name: Mauro Moreno Beltrán
+name: Mauro Moreno Beltrán, PhD
 title: Mauro-Moreno
 lastname: Moreno
 picture: img/pic_mauro-moreno.jpg
