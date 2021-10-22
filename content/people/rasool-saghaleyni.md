@@ -1,5 +1,5 @@
 ---
-name: Rasool Saghaleyni
+name: Rasool Saghaleyni, PhD
 title: Rasool-Saghaleyni
 lastname: Saghaleyni
 picture: /img/pic_rasool-saghaleyni.jpg
