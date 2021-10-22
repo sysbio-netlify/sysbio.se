@@ -1,5 +1,5 @@
 ---
-name: Shan Jiang
+name: Shan Jiang, PhD
 title: Shan-Jiang
 lastname: Jiang
 picture: img/pic_shan-jiang.jpg
