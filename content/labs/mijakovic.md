@@ -58,9 +58,9 @@ Mohsen Zareian, Post-doc\
 Jian Zhang, Post-doc\
 Mutusankar Eswaran, Post-doc\
 Zheijan Cao, Post-doc\
+Julie Couillaud, Post-doc\
 Hengzi Ruan, PhD student\
 Leonarda Acha Alarcon, PhD student\
-Amani Belaiba, visiting PhD student\
 Iza Erzar, intern
 
 **Current Members of the Mijakovic lab at DTU Biosustain:**\
@@ -73,9 +73,8 @@ Pedro Aragón Fernández, PhD student\
 Suvasini Balasubramanian, PhD student\
 Chenxhi Zhang, PhD student\
 Mukil Madhusudanan, PhD student\
-Mariia Kokina, PhD student\
+Ema Svetlicic, PhD student\
 Darko Kjiproski, Project manager\
-Ema Svetlicic, visiting PhD student\
 Mugdha Bapat, intern  
 
 [Mijakovic lab at DTU Biosustain ](http://www.biosustain.dtu.dk/english/research/research-groups/bacterial-signal-transduction)
@@ -113,7 +112,8 @@ Aida Kalantari
 ***Visiting PhD students:***\
 Alireza Neissi\
 Hossein Helalat\
-Samira Ebrahimi
+Samira Ebrahimi\
+Amani Belaiba
 
 ***Technicians:***\
 Violeta Djekic\
