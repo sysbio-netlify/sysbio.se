@@ -65,9 +65,9 @@ paginate = 10
 
 # Enable or disable top bar with social icons
 [params.topbar]
-  enable = false
+  enable = true
   text = """
-    <p class="text-center"><a href="/eulogy-hohmann">Eulogy for Professor Stefan Hohmann</a></p>
+    <p class="text-center"><a href="/eulogy-christer">Eulogy for Professor Christer Larsson</a></p>
     """
 # Top bar social links menu
 [[menu.topbar]]
