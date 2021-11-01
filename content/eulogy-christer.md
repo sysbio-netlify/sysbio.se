@@ -2,7 +2,7 @@
 title: Eulogy for Professor Christer Larsson
 template: projects
 ---
-Christer Larsson, Professor of Microbial Physiology at SysBio, passed away on October 12<sup>th</sup> 2021. 
+**Christer Larsson**, Professor of Microbial Physiology at SysBio, passed away on October 12<sup>th</sup> 2021. 
 
 Christer was as a true scientist, a supportive mentor to younger colleagues, an inspiring teacher and an accomplished manager who led by example. 
 
