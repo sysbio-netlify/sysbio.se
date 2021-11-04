@@ -1,13 +1,12 @@
 ---
-name: 'Yating Hu, PhD'
+name: Yating Hu, PhD
 title: Yating-Hu
 lastname: Hu
 picture: /img/pic_yating-hu19.jpg
-position: PostDoc
-email: 'yating [at] chalmers.se'
+position: Researcher
+email: yating [at] chalmers.se
 flags:
   - cn China
-person-category: E Postdocs
+person-category: D Researchers
 template: people/profile
 ---
-
