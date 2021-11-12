@@ -44,7 +44,7 @@ Another important aspect of working in the Mijakovic lab is the spirit or collab
 
 Please note that our group does not admit internships/student projects shorter than one semester (5-6 months). Master projects carried out in our laboratory are not remunerated, so international students have to secure their own scholarships before applying.
 
-![Mijakovic Lab](/img/pic_imgroup21_720.jpg)
+![Mijakovic Lab](/img/pic_imgroup21_720.jpg "Lab outing 2021")
 
 **Current members of the Mijakovic Lab at Chalmers SysBio:**\
 Lei Shi, researcher\
