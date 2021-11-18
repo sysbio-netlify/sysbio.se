@@ -10,9 +10,9 @@ flags:
 person-category: A Faculty
 template: people/profile
 ---
-* [Curriculum Vitae](/img/cv_jn2009.pdf) (PDF)
+* [Curriculum Vitae](/img/cv_jn2111.pdf) (PDF)
 * [Short Biography](/img/bio_jnshort_2009.pdf) (PDF)
-* Publications - [selection on this website](#publications) ([PDF](/img/pub_jn2009.pdf) for download full list of publications)  
+* Publications - [selection on this website](#publications) ([PDF](/img/pub_jn2111.pdf) for download full list of publications)  
 
 <br/>
 #### Education and degrees  
@@ -30,12 +30,13 @@ template: people/profile
 1996-1998 	**Associate Professor**, Department of Biotechnology, DTU, Denmark  
 1998-2008 	**Professor**, BioCentrum, DTU, Denmark  
 2005-2011 	**Adjunct Professor**, Department of Biotechnology, NTNU, Norway  
-2008- 	**Professor**, Department of Chemical and Biological Engineering, Chalmers  
+2008-2015 	**Professor**, Department of Chemical and Biological Engineering, Chalmers, Sweden  
 2011-2019 	**Professor**, Novo Nordisk Foundation Center for Biosustainability, DTU, Denmark  
 2012-2017 	**Adjunct Professor**, Department of Biotechnology, Royal Institute of Technology (KTH), Sweden  
 2013-2019 	**Chief Science Officer**, Novo Nordisk Foundation Center for Biosustainability, DTU, Denmark  
 2015 	**Founding Head of Department**, Department of Biology and Biological Engineering, Chalmers, Sweden (served 9 months as Head of Department and structured a department of 150 people)  
-2016- 	**Adjunct Professor**, Beijing University of Chemical Technology (BUCT), China   
+2015- 	**Professor**, Department of Biology and Biological Engineering, Chalmers, Sweden  
+2016-2019 	**Adjunct Professor**, Beijing University of Chemical Technology (BUCT), China   
 2019- 	**CEO**, BioInnovation Institute, Copenhagen, Denmark  
 
 <br/>
@@ -58,7 +59,7 @@ template: people/profile
 2006-2007 	**Founder and Board Member**, Danish Biotechnological Society, Denmark  
 2008-2011 	**Member of Review Panel of SystemsX.ch**, Switzerland (100 million CHF)  
 2008-2011 	**Co-ordinator**, Systems Biology as a Driver for Industrial Biotechnology, EU Framework VII  
-2009- 	**SAB Member**, Netherlands Institute for Systems Biology, The Netherlands  
+2009-2014 	**SAB Member**, Netherlands Institute for Systems Biology, The Netherlands  
 2010-2016 	**Director Area of Advance Life Science**, Chalmers University of Technology, Sweden  
 2010- 	**Member of World Council for Industrial Biotechnology**, World Economic Forum  
 2011-2012 	**Member of Industrial Biotechnology and Bioenergy Strategy Advisory Panel**, BBSRC, UK  
@@ -72,8 +73,8 @@ template: people/profile
 2012-2013 	**Evaluation panel of Academy of Finland**, Finland  
 2012-2014 	**International Advisory Board**, Thailands National Center for Genetic Engineering  and Biotechnology, Bangkok, Thailand  
 2014 	**Scientific Advisory Board**, Energy Biosciences Institute, UC Berkeley, Berkeley, USA  
-2015- 	**Advisory Board**, Gothia Forum, Sahlgrenska University Hospital, Gothenburg, Sweden  
-2016- 	**Director of Life Science**, Beijing Advanced Center for Soft Matter Science and Engineering, Beijing University of Chemical Technology, China  
+2015-2018 	**Advisory Board**, Gothia Forum, Sahlgrenska University Hospital, Gothenburg, Sweden  
+2016-2019 	**Director of Life Science**, Beijing Advanced Center for Soft Matter Science and Engineering, Beijing University of Chemical Technology, China  
 2016- 	**Advisory Committee**, Joint Bioenergy Institute, Lawrence Berkeley Laboratory, USA  
 2016- 	**Committee chairma** for Novozymes Award for Excellence in Biochemical and Chemical Engineering, Novozymes, Denmark   
 2016- 	**Novozymes Prize award committee**, Novo Nordisk Foundation, Denmark (chairman since 2018)     
@@ -133,7 +134,9 @@ template: people/profile
 2019	**Honorary Professor**, Tianjin University, Tianjin, China  
 2019	**Peiyang Lectureship**, Tianjin University, Tianjin, China  
 2019	**Honorary Professor**, Nankai University, Tianjin, China  
-2019	**Highly Cited Researcher**, Web-of-Science   
+2019,2020	**Highly Cited Researcher**, Web-of-Science 
+2020	**Most cited researcher on fungi** in the World over the period 2010-2020, ExpertScape  
+2020	**The KAIST CBE Global Distinguished Lectureship**, KAIST, South Korea  
 
 <br/>
 #### Memberships in Societies  
@@ -147,19 +150,19 @@ template: people/profile
 
 <br/>
 #### Publications, Patents & Presentations  
-_Google Scholar: H-factor of 124; >74,000 citations and >38,000 citations since 2015   
-Web of Science Highly Cited Researcher in 2015-2019_  
-609 	**Original Papers in Peer Reviewed Journals**  
-120 	**Review Papers in Peer Reviewed Journals**  
+_Google Scholar: H-factor of 132; >85,000 citations and >42,000 citations since 2016   
+Web of Science Highly Cited Researcher in 2015-2020_  
+637 	**Original Papers in Peer Reviewed Journals**  
+123 	**Review Papers in Peer Reviewed Journals**  
 31 	**Commentaries in Peer Reviewed Journals**  
-46 	**Book Contributions**  
+49 	**Book Contributions**  
 3 	**Text books**: Bioreaction Engineering (1994,2003) (English & Chineese), Metabolic Engineering (1998) (English, Chineese & Japaneese), Metabolome Analysis (2007)  
 1 	**Monograph**  
 4 	**Edited books**  
 38 	**Issue patents (12 patent families)**  
 36 	**Patent applications**  
-221 	**Invited oral presentations at international conferences**  
-134 	**Invited seminars at universities and companies**  
+225 	**Invited oral presentations at international conferences**  
+137 	**Invited seminars at universities and companies**  
 
 <br/>
 #### Key Grants  
@@ -227,7 +230,8 @@ Web of Science Highly Cited Researcher in 2015-2019_
 2016- 	**Applied and Environmental Microbiology**, Editorial Board  
 2017- 	**Cell Stress**, Editorial Board  
 2017- 	**Biotechnology and Bioprocess Engineering**, Editorial Board  
-2019- 	**Frontiers in Chemical Science and Engineering**, Editorial Board
+2019- 	**Frontiers in Chemical Science and Engineering**, Editorial Board  
+2019- 	**QRB Discovery**, Editorial Board
 
 <br/>
 #### Teaching Experience  
@@ -236,12 +240,13 @@ Prof Nielsen has extensive experience with developing, organizing and running ne
 
 <br/>
 #### Mentoring  
-Main supervisor of _graduated_ PhD students 	85  
-Main supervisor of _current_ PhD students 	17  
-Examiner of _current_ PhD students 	7   
+Main supervisor of _graduated_ PhD students 	88  
+Main supervisor of _current_ PhD students 	13  
+Examiner of _current_ PhD students 	4   
 Co-supervisor of graduated PhD students (including visiting PhD students and as Examiner) 	49 
-Former affiliated post docs 	96  
-Current affiliated post docs and senior researchers 	13  
+_Former_ affiliated post docs 	105  
+_Current_ affiliated post docs 	4
+_Former_ other affiliated staff 	45
 
 <br/>
 #### Business Experience  
@@ -288,6 +293,84 @@ Current affiliated post docs and senior researchers 	13
 #### Research papers in international journals with peer review
 <br/>
 
+##### 2021
+
+C.C. van Olden; A.W. van de Laar; A.S. Meijnikman; O. Aydin; N. van Olst; J. Hoozemans; L.M. de Brauw; S.C. Bruin; Y.I.Z. Acherman; J. Verheij; M. Hoogendoorn; **J. Nielsen**; T. Schwartz; A.K. Groen; V.E.A. Gerdes; F. Bäckhed; M. Nieuwdorp (2020) Systems Biology and Gut Microbiota in understanding the metabolic effects of Bariatric Surgery: The BARIA Longitudinal Cohort Study. *J. Int. Med.* **289**:340-354
+
+G. Li; Y. Hu; J. Zrimec; H. Lou; H. Wang; A. Zelezniak; B. Ji; **J. Nielsen** (2021) Bayesian genome scale modeling identifies termal determinants of yeast metabolism. *Nature Com.* **12**:190
+
+H.G. Blitzblau; A. Consiglio; P. Teixeira; D.V. Crabtree; S. Chen: O. Konzokck; G. Chifamba; A. Su; A. Kamineni; K.M.S. MacEwen; M. Hamilton; V. Tsakraklides; **J. Nielsen**; V. Siewers; J. Shaw (2021) Production of 10-methyl branched fatty acids in yeast. *Biotechnol. Biofuels* **14**:12
+
+S. Blasche; Y. Kim; R. Mars; D, Machado; M. Maansson; E. Kafkia; A. Milanese; G. Zeller; B. Teusink; **J. Nielsen**; V. Benes; R. Neves; U. Sauer; K.R. Patil (2021) Metabolic cooperation and spatiotemporal niche partitioning in a kefir microbial community. *Nature Microbiol.* **6**:196-208
+
+X. Li: W. Kim; M. Arif; C. Gao; A. Hober; D. Kotol; L. Strandberg; B. Forsström; A. Sivertsson; P. Oksvold; H. Turkez; M. Grottli; Y. Sato; H. Kume; S. Ogawa; J. Boren; **J. Nielsen**; M. Uhlen; Z. Chang; A. Mardinoglu (2021) Dicovery of functional alternatively spliced PKM transcripts in human cancers. *Cancers* **13**:348
+
+B.J. Sanchez; P.-J. Lahtvee; K. Campbell; S. Kasvandik; R. Yu; I. Domenzain; A. Zelezniak; **J. Nielsen** (2021) Benchmarking accuracy and precision of intensity-based absolute quantification of protein abundances in *Saccharomyces cerevisiae*. *Proteomics* **21**:2000093
+
+J. Qin, A. Krivoruchko; B. Ji; Y. Chen; M. Kristensen, E. Özdemir; J. D. Keasling; M.K. Jensen; **J. Nielsen** (2021) Engineering yeast metabolism for the discovery and production of polyamines and polyamine analogues. *Nature Cat.* **4**:498-509
+
+L. Baumann; T. Doughty; V. Siewers; **J. Nielsen**; E. Boles; M. Oreb (2021) Transcriptomic response of *Saccharomyces cerevisiae* to octanoic acid production. *FEMS Yeast Res.* **21**:foab011
+
+Y. Zhao; Y. Zhang; **J. Nielsen**; Z. Liu (2021) Production of β-carotene in *Saccharomyces cerevisiae* through altering yeast lipid metabolism. *Biotechnol. Bioeng.* **118**:2043-2052
+
+Y. Chen; F. Li; J. Mao; Y. Chen; **J. Nielsen** (2021) Yeast optimizes metal utilization based on metabolic network and enzyme kinetics. *Proc. Nat. Acad. Sci. USA* **118**:e2020154118
+
+G.B. Ferraro; A. Ali; A. Luengo; D.P. Kodack; A. Deik; K.K. Abbott; D. Bezwada; L. Blanc; B. Prideaux; X. Jin; J.M. Possada; J. Chen; C.R. Chin; Z. Amoozgar; R. Ferreira; I. Chen; K. Nexerova; C. Ng; A.M. Westermark; M. Duquette; S. Roberge; N.I. Lindeman; C.A. Lyssiotis; **J. Nielsen**; D.E. Housman; D.G. Duda; E. Brachtel; T.R. Golub; L.C. Cantley; J.M. Asara; S.M. Davidson; D. Fukumura; V.A. Dartois; C.B. Clish; R.K. Jain; M.G. Vander Heiden (2021) Fatty acid synthesis is required for breast cancer brain metastasis. *Nature Cancer* **2**:414-428
+P. Li; D. Sundh; B. Ji; D. Lappa; L. Ye; **J. Nielsen**; M. Lorentzon (2021) Metabolic alterations in older women supplemented with *Lactobacillus reuteri* or with low bone mineral density. *JBMR Plus* **5**:e10478
+
+J. Geng; B. Ji: G. Li; F. Lopez-Isunza; **J. Nielsen** (2021) CODY enables quantitatively spatiotemporal predictions on *in vivo* gut microbial variability induced by diet-intervention. *Proc. Nat. Acad. Sci. USA* **118**:e2019336118
+
+Y. Chen; E. van Pelt-KleinJan; B. van Olst; S. Douwenga; S. Boeren; H. Bachmann; D. Molenaar; **J. Nielsen**; B. Teusink (2021) Proteome constraints reveal targets for improving microbial fitness in nutrient-rich environments. *Mol. Systems Biol.* **17**:e10093
+
+R. Yu; E. Vorontsov; C. Sihlbom; **J. Nielsen** (2021) Quantifying absolute gene expression profiles reveals distinct regulation of central carbon metabolism genes in yeast. *eLife* **10**:e65722
+
+L. Österberg; I. Domenzain; J. Münch; **J. Nielsen**; S. Hohmann; M. Cvijovic (2021) A novel hybrid modeling framework integrating Boolean and enzyme constrained networks enables exploration of the interplay between signaling and metabolism. *PLOS Comp. Biol.* **17**:e1008891
+
+R. Saghaleyni; M.A. Sheikh; P. Bangalore; **J. Nielsen**; J.L. Robinson (2021) Machine learning-based investigation of the cancer protein secretory pathway. *PLOS Comp. Biol.* **17**:e1008898
+
+H.O. Altay; C. Zhang; H. Turkez; **J. Nielsen**; M. Uhlen; A. Mardinoglu (2021) Revealing the metabolic alterations during biofilm development of *Burkholderia cenocepacia* based on genome-scale metabolic modeling. *Metabolites* **11**:221
+
+S. Marcisauskas; Y. Kim; S. Blasche; K.R. Patil; B. Ji; **J. Nielsen** (2021) Draft genome sequences of five fungal strains isolated from Kefir. *Microb. Res. Announcements* **10**:e0019521
+
+D. Tamburro; S. Bratulic; S.A. Shameh; N.K. Soni; A. Bacooni; F. Maccari; F. Galeotti; K. Mattsson; N. Volpi; **J. Nielsen**; F. Gatto (2021) Analytical performance of a standardized kit for mass spectrometry-based measurements of human glycosaminoglycans. *J. Chromat. B* **1177**:122761
+
+J. Gustafsson; J. Robinson; **J. Nielsen**; L. Pachter (2021) BUTTERFLY: Addressing the pooled amplification paradox with unique molecular identifiers in single-cell RNA-seq. *Genom. Biol.* **22**:174
+
+O. Altay; M. Arif; X. Li; H. Yang; M. Aydin; G. Alkurt; W. Kim; D. Akyol; C. Zhang; G. Dinler-Doganay; H. Turkez; S. Shoaie; **J. Nielsen**; J. Boren; O. Olmuscelik; L. Doganay; M. Uhlen; A. Mardinoglu (2021) Combined metabolic activators (CMA) accelerates recovery in mild-to-moderate COVID-19. *Adv. Science* **8**:2101222
+
+D. Bergenholm; Y. Dabirian; R. Ferreira; V. Siewers; F. David; **J. Nielsen** (2021) Rational gRNA design based on transcription factor binding data (2021) *Syn. Biol.*, in press
+
+G. Gong; Y. Zhang; Z- Wang; L. Liu; S. Shi; V. Siewers; Q. Yuan; **J. Nielsen**; X. Zhang; Z. Liu (2021) GTR 2.0: gRNA-tRNA Array and Cas9-NG based genome disruption and single-nucleotide conversion in *Saccharomyces cerevisiae*. *ACS Syn. Biol.* **10**:1328-1337
+
+G. Li; J. Zrimec; B. Ji; J. Geng; J. Larsbrink; A. Zelezniak; **J. Nielsen**; M.K.M. Engqvist (2021) Performance of regression models as a function of experiment noise. *Bioinf. Biol. Insights* **15**:1-10
+
+S. Alseekh; A. Aharoni; Y. Brotman; K. Contrepois; J. D’Auria; J. Ewald, J. Ewald; P. Frase; P. Giavalisco; R. Hall; M. Heinemann; H. Link; J. Luo; S. Neumann; **J. Nielsen**; L.P. de Souza; K. Saito; U. Sauer; F. Schroeder; S. Schuster; G. Siuzdak; A. Skirycz; L. Sumner; M. Snyder; H. Tang; T. Tohge; Y. Wang; W. Wen; S. Wu; G. Xu; N. Zamboni (2021) Mass spectrometry-based metabolomics: A guide for annotation, quantification and best report practices. *Naure Met.* **18**:747-756
+
+X. Li; W. Kim; K. Juszczak; M. Arif; Y. Sato; H. Kume; S. Ogawa; H. Turkez; J. Boren; **J. Nielsen**; M. Uhlen; C. Zhang; A. Mardinoglu (2021) Stratification of clear cell renal cell carcinoma patients to facilitate drug repositioning. *iScience* **24**:102772
+
+H. Wang; J.L. Robinson; P. Kocabas; J. Gustafsson; M. Anton; P.-E. Cholley; S. Huang; J. Gobom; T. Svensson; M. Uhlen; H. Zetterberg; **J. Nielsen** (2021) Genome-scale metabolic network reconstruction of model animals as a platform for translational research. *Proc. Nat. Acad. Sci. USA* **118**:e2102344118
+
+Y. Wang; X. Li; X. Chen; **J. Nielsen**; D. Petranovic; V. Siewers (2021) Expression of antibody fragments in *Saccharomyces cerevisiae* strains evolved for enhanced protein secretion. *Mic. Cell Fac.*, in press
+
+X. Li; Y. Wang; G. Lo; Q. Liu; R. Pereira; Y. Chen; **J. Nielsen** (2021) Metabolic network remodeling enhances yeast’s fitness on xylose using aerobic glycolysis. *Nature Cat.*, in press
+
+Y. Chen; **J. Nielsen** (2021) In vitro turnover numbers do not reflect in vivo activities of yeast enzymes. *Proc. Nat. Acad. Sci. USA* **118**:e2108391118:
+
+T.W. Doughty; R. Yu; L. F.-I. Chao; Z. Qin; V. Siewers; **J. Nielsen** (2021) A single chromosome strain of *S. cerevisiae* exhibits dimished ethanol metabolism and tolerance. *BMC Genom.* **22**:688
+
+L. Caspeta; E.J. Kerkhoven; A. Martinez; **J. Nielsen** (2021) The yeastGemMap: A process diagram to assist yeast systems-metabolic studies. *Biotechnol. Bioeng.*, in press
+
+C. Malina; F. Di Barolomeo; E. Kerkhoven; **J. Nielsen** (2021) Constraint-based modeling of yeast mitochondria reveals the dynamics of protein impot and iron-sulfur cluster biogenesis. *iScience*, in press
+
+M. Zeybel; H. Yang; O. Altay; M. Arif; C. Fredolini; M. Akyildiz; B. Saglam; M.G. Gonenli; D. Ural; W. Kim; X. Li; J.M. Schwenk; C. Zhang; S.Shoaie; **J. Nielsen**; M. Uhlen; J. Boren; A. Mardinoglu (2021) Combined metabolic cofactor supplementation ameliorates liver fat in NAFLD. *Mol. Systems Biol.*, in press
+
+H. Lu; F. Li; L. Yuan; I. Domenzain; R. Yu; H. Wang; G. Li; Y. Chen; B. Ji; E.J. Kerkhoven; **J. Nielsen** (2021) Yeast metabolic innovatiions emerged via expanded metabolic network and gene positive selection. *Mol. Systems Biol.*, in press
+
+Q. Liu; Y. Liu; G. Li; O. Savolaiinen; Y. Chen; **J. Nielsen** (2021) *De novo* biosynthesis of bioactive isoflavonoids by engineered yeast cell factories. *Nature Com.* **2**:6085
+
+
+<br/>
+
 ##### 2020
 
 N. Raethong; H. Wang; **J. Nielsen**; W. Vongsangnak (2020) Optimizing cultivation of *Cordyceps militaris* for fast growth and cordyceptin overproduction using rational design of synthetic media. *Comp. Struc. Biotechnol. J*. **18**:1-8
@@ -304,19 +387,19 @@ C. Lieven; M.E. Beber; B.G. Olivier; F.T. Bergmann; M. Ataman; P. Babaei; J.A. B
 
 Z. Zhu; Y. Hu; P.G. Teixeira; R. Pereira; Y. Chen; V. Siewers; **J. Nielsen** (2020) Multidimensional engineering of *Saccharomyces cerevisiae* for efficient synthesis of medium-chain fatty acids. *Nature Cat.* **3**:64-74
 
-S. Lam; S. Doran; H. Yuksel; O. Altay; H. Turkez; **J. Nielsen**; J. Boren; M. Uhlen; A. Mardinoglu (2020) Addressing the heterogeneity in liver diseases using biological networks. *Brief. Bioinform.*, in press
+S. Lam; S. Doran; H. Yuksel; O. Altay; H. Turkez; **J. Nielsen**; J. Boren; M. Uhlen; A. Mardinoglu (2020) Addressing the heterogeneity in liver diseases using biological networks. *Brief. Bioinform.* Bbaa002
 
 X. Li; B. Turanli; K. Juszczak; W. Kim; M. Arif; Y. Sato; S. Ogawa; H. Turkez; **J. Nielsen**; J. Boren; M. Uhlen; C. Zhang; A. Mardinoglu (2020) *Heliyon* **6**:e03440
 
-K. Campbell; J. Westholm; S. Kasvendik; F. Di Bartolomei; M. Mormino; **J. Nielsen** (2020) Building blocks are synthesized on demand during the yeast cell cycle. *Proc. Nat. Acad. Sci. USA*, in press
+K. Campbell; J. Westholm; S. Kasvendik; F. Di Bartolomei; M. Mormino; **J. Nielsen** (2020) Building blocks are synthesized on demand during the yeast cell cycle. *Proc. Nat. Acad. Sci. USA* **117**:7575-7583
 
-F. Di Bartolomeo; C. Malina; K. Campbell; M. Mormini; J. Fuchs; E. Vorontsov; C.M. Gustafsson; **J. Nielsen** (2020) Absolute yeast mitochondrial proteome quantification reveals trade-off between biosynthesis and energy generation during diauxic shift. *Proc. Nat. Acad. Sci. USA*, in press
+F. Di Bartolomeo; C. Malina; K. Campbell; M. Mormini; J. Fuchs; E. Vorontsov; C.M. Gustafsson; **J. Nielsen** (2020) Absolute yeast mitochondrial proteome quantification reveals trade-off between biosynthesis and energy generation during diauxic shift. *Proc. Nat. Acad. Sci. USA* **117**:7524-7535
 
-C. Zhang; E. Björnson; M. Arif; A. Tebani; A. Lovric; R. Benfeitas; M. Ozcan; K. Juszczak; W. Kim; J.T. Kim; G. Bidkhori; M. Ståhlman; P.-O. Bergh; M. Adiels; H. Turkez; M.-R. Taskinen; J. Bosley; H.-U. Marschall; **J. Nielsen**; M. Uhlen; J. Boren; A. Mardinoglu (2020) The acute effect of naturally occurring metabolic cofactor supplementation. *Mol. Systems Biol.*, in press
+C. Zhang; E. Björnson; M. Arif; A. Tebani; A. Lovric; R. Benfeitas; M. Ozcan; K. Juszczak; W. Kim; J.T. Kim; G. Bidkhori; M. Ståhlman; P.-O. Bergh; M. Adiels; H. Turkez; M.-R. Taskinen; J. Bosley; H.-U. Marschall; **J. Nielsen**; M. Uhlen; J. Boren; A. Mardinoglu (2020) The acute effect of naturally occurring metabolic cofactor supplementation. *Mol. Systems Biol.* **16**:e9495
 
 D.J. Cook; J. Kallus; R. Jörnsten; **J. Nielsen** (2020) Molecular natural history of breast cancer: leveraging transcriptomics to predict breast cancer diagnosis and aggressiveness. (2020) *Cancer Med.* **9**:3551-3562
 
-K.S. Pedersen; F. Gatto; B. Zerahn; **J. Nielsen**; B.K. Pedersen; P. Hojman; J. Gehl (2020) Exercise-mediated lowering of glutamine availability suppresses tumor growth and attenuates muscle wasting. *iScience*, in press
+K.S. Pedersen; F. Gatto; B. Zerahn; **J. Nielsen**; B.K. Pedersen; P. Hojman; J. Gehl (2020) Exercise-mediated lowering of glutamine availability suppresses tumor growth and attenuates muscle wasting. *iScience* **23**:100978
 
 J.L. Robinson; P. Kocabas; H. Wang; P.-E. Cholly; D. Cook; A. Nilsson; M. Anton; R. Ferreira; I. Domenzain; V. Billa; A. Limeta; A. Hedin; J. Gustafsson; E.J. Kerkhoven; L.T. Svensson; B.O. Palsson; A. Mardinoglu; L. Hansson; M. Uhlen; **J. Nielsen** (2020) An Atlas of Human Metabolism. *Science Signal.* **13**:eaaz1482
 
@@ -326,119 +409,29 @@ R. Yu; K. Campbell; R. Pereira; J. Björkeroth; Q. Qi; E. Vorontsov; C. Sihlbom;
 
 T.W. Doughty; I. Domenzain; A. Millan-Oropeza; N. Montini; P.A. de Groot; R. Pereira; **J. Nielsen**; C. Henry; J.-M.G. Daran; V. Siewers; J.P. Morriseey (2020) Stress-induced expression is enriched for evolutionarily young genes in diverse budding yeasts. *Nature Com.* **11**:2144
 
-C. Zhang; E. Bjornson; M. Arif; A. Tebani; A. Lovric; R. Benfeitas; M. Ozcan; K. Juszczak; E. Kim; J.T. Kim; G. Bidkhori; M. Ståhlman; P.-O. Bergh; M. Adiels; M.-R. Taskinen; J. Bosley; H.-U. Marschall; **J. Nielsen**; M. Uhlen; J. Boren; A. Mardinoglu (2020) The acute effect of naturally occurring metabolic cofactors supplementation. *Mol. Systems Biol.* **16**:e9495
-
 L. Dzanaeva; B. Kruk; J. Ruchala; **J. Nielsen**; A. Sibirny; K. Dmytruk (2020) The role of peroxisomes in xylose alcoholic fermentation in the engineered *Saccharomyces cerevisiae*. *Cell Biol. Int.* **44**:1606-1615
 
 S. Vieira-Silva; G. Falony; E. Belda; T. Nielsen; J. Aron-Wisnewsky; R. Chakaroun; S.K. Forslund; K. Assmann; M. Valles-Colomer; T.T.D. Nguyen; S. Proost; E. Prifti; V. Tremaroli; N. Pons: E. Le Chatelier; F. Andreelli; J.-P. Bastard; L.P. Coelho; N. Galleron; T.H. Hansen; J.-S. Hulot1; C. Lewinter; H.K. Pedersen; B. Quinquis; C. Rouault; H. Roume; J.-E. Salem; N.B. Søndertoft; S. Touch; MetaCardis Consortium*, M.-E. Dumas; S.D. Ehrlich; P. Galan; J.P. Gøtze; T. Hansen; J.J. Holst; L. Køber; I. Letunic; **J. Nielsen**; J.-M. Oppert; M. Stumvoll; H. Vestergaard; J.-D. Zucker; P. Bork; O. Pedersen; F. Bäckhed; K. Clément; J. Raes (2020) Statin therapy is associated with a lower prevalence of gut microbiota dysbiosis. *Nature* **581**:310-315
 
-J. Hou; C. Gao; L. Guo; **J. Nielsen**; Q. Ding; W. Tang; G. Hu; X. Chen; L. Liu (2020) Rewiring carbon flux in *Escherichia coli* using a bifunctional molecular switch. *Met. Eng.*, in press
+J. Hou; C. Gao; L. Guo; **J. Nielsen**; Q. Ding; W. Tang; G. Hu; X. Chen; L. Liu (2020) Rewiring carbon flux in *Escherichia coli* using a bifunctional molecular switch. *Met. Eng.* **61**:47-57
 
-C. Börlin; **J. Nielsen**; V. Siewers (2020) The transcription factor Leu3 shows differential binding behavior in response to changing leucine availability. *FEMS Microbiol. Lett.*, in press
+C. Börlin; **J. Nielsen**; V. Siewers (2020) The transcription factor Leu3 shows differential binding behavior in response to changing leucine availability. *FEMS Microbiol. Lett.* **367**:fnaa107
 
-M. Babaei; G.B. Zamfir; X. Chen; H.B. Christensen; M. Kristensen; **J. Nielsen**; I. Borodina (2020) Metabolic engineering of *Saccharomyces cerevisiae*. *ACS Syn. Biol.*, in press
+M. Babaei; G.B. Zamfir; X. Chen; H.B. Christensen; M. Kristensen; **J. Nielsen**; I. Borodina (2020) Metabolic engineering of *Saccharomyces cerevisiae*. *ACS Syn. Biol.* **9**:1978-1988
 
-C.C. van Olden; A.W. van de Laar; A.S. Meijnikman; O. Aydin; N. van Olst; J. Hoozemans; L.M. de Brauw; S.C. Bruin; Y.I.Z. Acherman; J. Verheij; M. Hoogendoorn; **J. Nielsen**; T. Schwartz; A.K. Groen; V.E.A. Gerdes; F. Bäckhed; M. Nieuwdorp (2020) Systems Biology and Gut Microbiota in understanding the metabolic effects of Bariatric Surgery: The BARIA Longitudinal Cohort Study. *J. Int. Med.*, in press
+J. Björkeroth; K. Campbell; C. Malina; R. Yu; F. Di Bartolomeo; **J. Nielsen** (2020) Proteome re-allocation from amino acid biosynthesis to ribosomes enables yeast to grow faster in rich media. *Proc. Nat. Acad. Sci. USA* **117**:21804-21812  
 
-J. Björkeroth; K. Campbell; C. Malina; R. Yu; F. Di Bartolomeo; **J. Nielsen** (2020) Proteome re-allocation from amino acid biosynthesis to ribosomes enables yeast to grow faster in rich media. *Proc. Nat. Acad. Sci. USA* **117**:21804-21812
-A.A.-Haleem; V. Ravikumar; B. Ji; K. Mineta; X. Gao; **J. Nielsen**; T. Gojobori; I. Mijakovic (2020) Integrated metabolic modeling, culturing and transcriptomics explains enhanced virulence of *V. cholerae* during co-infection with ETEC. *mSystems*, in press
-J. Zhang; S. Petersen; T. Radivojevic; A. Ramirez; A. Perez-Manriquez; E. Abeliuk; B. Sanchez; Z. Costello; Y. Chen; M. Fero; M.G. Martin; **J. Nielsen**; J. Keasling; M. Jensen (2020) Combining mechanistic and machine learning models for predictive engineering and optimization of tryptophan metabolism. *Nature Com.*, in press
+A.A.-Haleem; V. Ravikumar; B. Ji; K. Mineta; X. Gao; **J. Nielsen**; T. Gojobori; I. Mijakovic (2020) Integrated metabolic modeling, culturing and transcriptomics explains enhanced virulence of *V. cholerae* during co-infection with ETEC. *mSystems* **5**:e00491-20  
 
-Y. Hu; Z. Zhu; D. Gradischnig; M. Winkler; **J. Nielsen**; V. Siewers (2020) Engineering carboxylic acid reductase for selective synthesis of medium-chain fatty alcohols in yeast. *Proc. Nat. Acad. Sci. USA*, in press
+J. Zhang; S. Petersen; T. Radivojevic; A. Ramirez; A. Perez-Manriquez; E. Abeliuk; B. Sanchez; Z. Costello; Y. Chen; M. Fero; M.G. Martin; **J. Nielsen**; J. Keasling; M. Jensen (2020) Combining mechanistic and machine learning models for predictive engineering and optimization of tryptophan metabolism. *Nature Com.* **11**:4880
 
-S. Vaga; S. Lee; B. Ji: A. Andreasson; N.J. Talley; L. Agreus; G. Bidkhori; P. Kovatcheva-Datchary; J. Park; D. Lee; G. Proctor; D. Eherlich: **J. Nielsen**; L. Engstrand; S. Shoaie (2020) Composition and functional differences of the mucosal microbiota along the intestine of healthy individuals. *Sci. Rep.*, in press
+Y. Hu; Z. Zhu; D. Gradischnig; M. Winkler; **J. Nielsen**; V. Siewers (2020) Engineering carboxylic acid reductase for selective synthesis of medium-chain fatty alcohols in yeast. *Proc. Nat. Acad. Sci. USA* **17**:22974-22983
 
-J. Hellgren; A. Godina; O. Vidalin; **J. Nielsen**; V. Siewers (2020) Promiscuous phosphoketolase and metabolic rewiring enables non-oxidative glycolysis in yeast for high yield production of acetyl-CoA products. *Met. Eng.*, in press
+S. Vaga; S. Lee; B. Ji: A. Andreasson; N.J. Talley; L. Agreus; G. Bidkhori; P. Kovatcheva-Datchary; J. Park; D. Lee; G. Proctor; D. Eherlich: **J. Nielsen**; L. Engstrand; S. Shoaie (2020) Composition and functional differences of the mucosal microbiota along the intestine of healthy individuals. *Sci. Rep.* **10**:14977
 
-J. Gustafsson; F. Held; J. Robinson; E. Björnson; R. Jörnsten; **J. Nielsen** (2020) Sources of variation in cell-type RNA-seq profiles. *PLOS One*, in press
+J. Hellgren; A. Godina; O. Vidalin; **J. Nielsen**; V. Siewers (2020) Promiscuous phosphoketolase and metabolic rewiring enables non-oxidative glycolysis in yeast for high yield production of acetyl-CoA products. *Met. Eng.* **62**:150-160
 
-<br/>
-
-##### 2019
-
-T. Ma; B. Shi; Z. Ye; X. Li; M. Liu; Y. Chen; J. Xia; **J. Nielsen**; Z. Deng; T. Liu (2018) Lipid engineering combined with systematic metabolic engineering of Saccharomyces cerevisiae for high-yield production of lycopene. *Met. Eng.* **52**:134-142
-
-P. Holland; **J. Nielsen**; T.D.G.A. Mondeel; M. Barberis (2019) Coupling cell division to metabolic pathways through transcription. *Encyclopedia Bioinf. Comp. Biol.* **3**:74-92
-
-B.J. Sanchez; F. Li; E. Kerkhoven; **J. Nielsen** (2019) SLIMEr: Probing flexibility of lipid metabolism in yeast with an improved constraint-based modeling framework. *BMC Systems Biol.* **13**:4
-
-C. Börlin; N. Cvetesic; P. Holland; D. Bergenholm; V. Siewers; B. Lenhard; **J. Nielsen** (2019) *Saccharomyces cerevisiae* displays a stable transcription start site landscape in multiple conditions. *FEMS Yeast Res.* **19**:foy128
-
-R. Benfeitas; G. Bidkhori; B. Mukhopadhyay; M. Klevstig; M. Arif; C. Zhang; S. Lee; R. Cinar; **J. Nielsen**; M. Uhlen; J. Boren; G. Kunos; A. Mardinoglu (2019) Characterization of heterogeneous redox responses in hepatocellular carcinoma patients using network analysis. *E Biomed.* **40**:471-487
-
-Z. Liu; C. Zhang; S. Lee; W. Kim; M. Klevstig; A.M. Harzandi; N. Sikanic; M. Arif; M. Stählman; **J. Nielsen**; M. Uhlen; J. Boren; A. Mardinoglu (2019) Pyruvate kinase L/R is a regulator of lipid metabolism and mitochondrial function. *Met. Eng.* **52**:263-272
-
-D. Bergenholm; G. Liu; D. Hansson; **J. Nielsen** (2019) Construction of mini-chemostats for high-throughput strain characterization. *Biotechnol. Bioeng.* **116**:1029-1038
-
-A. Bergman; J. Hellgren; T. Moritz; V. Siewers; **J. Nielsen**; Y. Chen (2019) Heterologous phosphoketolase expression redirects flux towards acetate, perturbs sugar phosphate pools and increases respiratory demand in *Saccharomyces cerevisiae*. *Microb. Cell Fac.* **18**:25
-
-P. Kovatcheva-Datchary; S. Shoaie; S. Lee; A. Wahlström; I. Nookaew; A. Hallen; R. Perkins; **J. Nielsen**; F. Bäckhed (2019) Simplified intestinal microbiota to study microbe-diet-host interactions in a mouse model. *Cell Rep.* **26**:3772-3783
-
-J.L. Robinson; A. Feizi; M. Uhlen; **J. Nielsen** (2019) A systematic investigation of the malignant functions and diagnostic potential of the cancer secretome. *Cell Rep.* **10**:2622-2635
-
-Y. Wei; B. Ji; V. Siewers; D. Xu; B.A. Halkier; **J. Nielsen** (2019) Identification of genes involved in shea butter biosynthesis from *Vitellaria paradoxa* fruits through transcriptomics and functional heterologous expression. *Appl. Mic. Biotechnol.* **103**:3727-3736
-
-L. Wenning; C.S. Ejsing; F. David; R.R. Sprenger; **J. Nielsen**; V. Siewers (2019) Increasing jojoba-like wax ester production in *Saccharomyces cerevisiae* by enhancing very long-chain, monosaturated fatty acid synthesis. *Microb. Cell Factories* **18**:49
-
-P. Das; P. Babaei; **J. Nielsen** (2019) Metagenomic analysis of microbe-mediated vitamin metabolism in the human gut microbiome. *BMC Genom.* **20**:208
-
-J.C. Nielsen; S. Prigent; S. Grijseels; M. Workman; B. Ji; **J. Nielsen** (2019) Comparative transcriptome analysis shows conserved metabolic regulations during production of secondary metabolites in filamentous fungi. *mSystems* **4**:e00012-19
-
-G. Wang; G. S.M. Björk; M. Huang; Q. Liu; K. Campbell; **J. Nielsen**; H.N. Jönsson; D. Petranovic (2019) RNAi expression tuning, microfluidic screening, and genome recombineering for improved protein production in *Saccharomyces cerevisiae*. *Proc. Nat. Acad. Sci. USA* **116**:9324-9332
-
-A. Bergman; D. Vitay; J. Hellgren; Y. Chen; **J. Nielsen**; V. Siewers (2019) Effects of overexpression of *STB5* in *Saccharomyces cerevisiae* on fatty acid biosynthesis, physiology and transcriptome. *FEMS Yeast Res.* **19**:foz027
-
-P. Holland; D. Bergenholm; C. Börlin; G. Liu; **J. Nielsen** (2019) Predictive models of eukaryotic transcriptional regulation reveals changes in transcription factor roles and promoter usage between metabolic conditions. *Nuc. Acid Res.* **47**:4986-5000
-
-R. Pereira; P. Vilaca; P. Maia; **J. Nielsen**; I. Rocha (2019) TDPS – Turnover dependent phenotypic simulation: a quantitative constraint-based simulation method that accommodates all main strain design strategies. *ACS Syn. Biol.* **8**:976-988
-
-I.A. Tiukova; M.E. Pettersson; M.P. Hoeppner; R.-A. Olsen; M. Käller; **J. Nielsen**; J. Dainat; H. Lantz; J. Söderberg; V. Passoth (2019) Chromosomal genome assembly of the ethanol production strain CBS 11270 indicates a highly dynamic genome structure in the yeast species *Bretanomyces bruxellensis*. *PLOS One* **14**:e0215077
-
-I.A. Tiukova; J. Brandenburg; J. Blomqvist; S. Samples; N. Mikkelsen; M. Skaugen; M.Ø. Arntzen; **J. Nielsen**; M. Sandgren; E.J. Kerkhoven (2019) Proteome analysis of xylose metabolism in *Rhodotorula toruloides* during lipid production. *Biotechnol. Bioeng.* **12**:137
-
-T.I. Henriksen; L.V. Wigge; **J. Nielsen**; B.K. Pedersen; M. Sandri; C. Scheele (2019) Dysregulated autophagy in muscle precursor cells from humans with type 2 diabetes. *Sci. Rep.* **9**:8169
-
-P. Das; S. Marcisauskas; B. Ji; **J. Nielsen** (2019) Metagenomic analysis of bile salt biotransformation in the human gut microbiome. *BMC Genom.* **20**:517
-
-T.D.G.A. Mondeel; P. Holland; **J. Nielsen**; M. Barberis (2019) ChIP-exo analysis highlights Fkh1 and Fkh2 transcription factors as hubs that integrate multi-scale networks in budding yeast. *Nuc. Acid Res.* **47**:7825-7841
-
-H. Lu; F. Li; B.J. Sanchez; Z. Zhu; G. Li; I. Domenzain; S. Marcisauskas; P.M. Anton; D. Lappa; C. Lieven; M.E. Beber; N. Sonnenschein; E.J. Kerkhoven; **J. Nielsen** (2019) A consensus *S. cerevisiae* metabolic model Yeast8 and its ecosystem for comprehensively probing cellular metabolism. *Nature Com.* **10**:3586
-
-Y. Dabirian; P.G. Teixeira; **J. Nielsen**; V. Siewers; F. David (2019) FadR-based biosensor assisted screening for genes enhancing fatty acyl-CoA pools in *Saccharomyces cerevisiae*. *ACS Syn. Biol.* **8**:1788-1800
-
-Y. Chen; **J. Nielsen** (2019) Energy metabolism controls phenotypes by protein efficiency and allocation. *Proc. Nat. Acad. Sci. USA* **116**:17592-17597
-
-C. Börlin; D. Bergenholm; P. Holland; **J. Nielsen** (2019) A bioinformatics pipeline to analyze ChIP-exo datasets. *Biol. Meth. Protoc.* **4**:bpz011
-
-Y. Dabirian; X. Li; Y. Chen; F. David; **J. Nielsen**; V. Siewers (2019) Expanding the dynamic range of a transcription factor-based biosensor in *Saccharomyces cerevisiae*. *ACS Syn. Biol.* **8**:1968-1975
-
-I. Tiukova; S. Prigent; **J. Nielsen**; M. Sandgren; E.J. Kerkhoven (2019) Genome-scale model of *Rhodotorula toruloides* metabolism. *Biotechnol. Bioeng.* **116**:3396-3408
-
-R. Pereira; Y. Wei; E. Mohamed; M. Radi; C. Malina; M.J. Herrgård; A.M. Feist; **J. Nielsen**; Y. Chen (2019) Adaptive laboratory evolution of tolerance to dicarboxylic acids in *Saccharomyces cerevisiae*. *Met. Eng.* **56**:130-141
-
-G. Li; B. Ji; **J. Nielsen** (2019) The pan-genome of *Saccharomyces cerevisiae*. *FEMS Yeast Res.* **19**:foz064
-
-R. Ferreira; C. Skrekas; A. Hedin; B. Sanchez; V. Siewers; **J. Nielsen**; F. David (2019) Model-assisted fine-tuning of central carbon metabolism in yeast through dCas9-based regulation. *ACS Syn. Biol.* **8**:2457-2463
-
-G. Li; K.S. Rabe; **J. Nielsen**; M.K.M. Engqvist (2019) Machine learning applied to predicting microorganism growth temperatures and enzyme catalytic optima. *ACS Syn. Biol.* **8**:1411-1420
-
-Q. Liu; T. Yu; X. Li; Y. Chen; K. Campbell; **J. Nielsen**; Y. Chen (2019) Rewiring carbon metabolism in yeast for high level production of aromatic chemicals. *Nature Com.* **10**:4976
-
-S. Marcisauskas; B. Ji; **J. Nielsen** (2019) Reconstruction and analysis of a *Klyveromyces marxianus* genome-scale metabolic model. *BMC Bioinfor.* **20:551**
-
-I. Tiukova; I Møller-Hansen; Z.M. Belew; D. Darbani: E. Boles; E. Nour; H. Hussam; T. Linder; **J. Nielsen**; I. Borodina (2019) Identification and characterization of two high-affinity glucose transporters from the spoilage yeast *Brettanomyces bruxellensis*. *FEMS Lett.* **366**:fnz222
-
-I.A. Tiukova; H. Jiang; J. Dainat; M.P. Hoeppner; H. Lantz; J. Piskur; M. Sandgren; **J. Nielsen**; Z. Gu; V. Passoth (2019) Assembly and analysis of the genome sequence of the yeast *Brettanomyces naardenensis* CBS7540. *Microorganisms* **7**:489
-
-G.M. Borja; A. Rodriguez; K. Campbell; I. Borodina; Y. Chen; **J. Nielsen** (2019) Metabolic engineering and transcriptomic analysis of *Saccharomyces cerevisiae* producing p-coumaric acid from xylose. *Microb. Cell Fac.* **18**:191
-
-M. Uhlen; H. Tegel; Å. Sivertsson; C.-C. Kuo; J.M. Gutierrez; N. Lewis; B. Forsström; M. Dannemeyer; L. Fagerberg; J. Rockberg; M. Malm; H. Vunk; F. Edfors; A. Hober; E. Sjöstedt; J. Mulder; A. Mardinoglu; J. Schwenk; P. Nilsson; M. Zwahlen; K. von Feilitzen; C. Lindskog; F. Ponten; **J. Nielsen**; B.G. Voldborg; B.O. Palsson; A.-L.R. Volk; M. Lundqvist; A. Berling; A.-S. Svensson; S. Kanje; H. Enstedt; D. Afshari; S. Ekblad; J. Scheffel; L. Xu; R. Mihai; L. Bremer; M. Westin; M. Muse; L. Mayr; S. Knight; S. Göpel; R. Davies; P. Varley; D. Hatton; J.O. Takanen; L.H. Schiavone; S. Hober (2019) The human secretome. *Science Signaling* **12**:eaaz0274
-
-L. Ye; P. Das; P. Li; B. Ji; **J. Nielsen** (2019) Carbohydrate active enzymes are affected by diet transition from milk to solid food in infant gut microbiota. *FEMS Microb. Eco.* **95**:fiz159
-
-G. Othoum; S. Prigent; A. Derouiche; L. Shi; A. Bokhari; S. Alamoudi; S. Bougouffa; X. Gao; R. Hoehndorf; S.T. Aroid; T. Gojobori; H. Hirt; F.F. Lafi; **J. Nielsen**; V.B. Bajic; I. Mijakovic; M. Essack (2019) Comparative genomics study reveals Red Sea *Bacillus* with characteristics associated with potential microbial cell factories (MCFs). *Sci. Rep.* **9**:19254
-
-A. Nilsson; E. Björnson; M. Flockhart; F.J. Larsen; **J. Nielsen** (2019) Complex I is bypassed during high intensity exercise. *Nature Com.* **10**:5072
+J. Gustafsson; F. Held; J. Robinson; E. Björnson; R. Jörnsten; **J. Nielsen** (2020) Sources of variation in cell-type RNA-seq profiles. *PLOS One* **15**:e0239495
 
 <br/>
 
