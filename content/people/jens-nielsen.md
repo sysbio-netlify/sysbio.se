@@ -243,9 +243,9 @@ Prof Nielsen has extensive experience with developing, organizing and running ne
 Main supervisor of _graduated_ PhD students 	88  
 Main supervisor of _current_ PhD students 	13  
 Examiner of _current_ PhD students 	4   
-Co-supervisor of graduated PhD students (including visiting PhD students and as Examiner) 	49 
-_Former_ affiliated post docs 	105  
-_Current_ affiliated post docs 	4
+Co-supervisor of graduated PhD students (including visiting PhD students and as Examiner) 	49   
+_Former_ affiliated post docs 	105    
+_Current_ affiliated post docs 	4  
 _Former_ other affiliated staff 	45
 
 <br/>
