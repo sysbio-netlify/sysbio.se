@@ -253,6 +253,19 @@ Simonas Marcisauskas:\
 Christoph Börlin:\
 [An analytical framework for studying transcriptional regulation](https://research.chalmers.se/en/publication/518755) (ISBN 978-91-7905-332-1)
 
+##### 2021
+
+Rasool Saghaleyni:\
+[Systems Biology of Protein Secretion in Human Cells: Multi-omics Analysis and Modeling of the Protein Secretion Process in Human Cells and its Application.](https://research.chalmers.se/en/publication/524959) (978-91-7905-517-2)
+
+Carl Malina:\
+[Systems biology of yeast metabolism - Understanding metabolism through proteomics and constraint-based modeling](https://research.chalmers.se/en/publication/525069) (978-91-7905-520-2)
+
+Qi Qi:\
+[Systems biology of protein synthesis and secretion in yeast](https://research.chalmers.se/en/publication/526384) (978-91-7905-556-1)
+
+Feiran Li:\
+[Constraint-based modeling of yeast metabolism and protein secretion](https://research.chalmers.se/en/publication/526385) (978-91-7905-557-8)
 <br/>
 <br/>
 
