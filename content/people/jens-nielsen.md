@@ -433,9 +433,50 @@ J. Hellgren; A. Godina; O. Vidalin; **J. Nielsen**; V. Siewers (2020) Promiscuou
 
 J. Gustafsson; F. Held; J. Robinson; E. Björnson; R. Jörnsten; **J. Nielsen** (2020) Sources of variation in cell-type RNA-seq profiles. *PLOS One* **15**:e0239495
 
+Q. Qi; F. Li; R. Yu; M.K.M. Engqvist; V. Siewers; J. Fuchs; **J. Nielsen** (2020) Different routes of protein folding converge on improved protein production in *Saccharomyces cerevisiae*. *mBio* **11**:e02743-20
+
+R. Pereira; E. Mohamed; M. Radi; M.J. Herrgård; A.M. Feist; **J. Nielsen**; Y. Chen (2020) Elucidating aromatic acid tolerance at low pH in *Saccharomyces cerevisiae* using adaptive laboratory evolution. *Proc. Nat. Acad. Sci. USA* **117**:27954-27961
+
+Y. Zhang; M. Su; N. Qin; **J. Nielsen**; Z. Liu (2020) Expressing a cytosolic pyruvate dehydrogensase complex to increase free fatty acid production in *Saccharomyces cerevisiae*. *Microb. Cell Fac.* **19**:226
+
+A. Limeta; B. Ji; M. Levin; F. Gatto; **J. Nielsen** (2020) Meta-analysis of the gut microbiota in predicting response to cancer immunotherapy in metastatic melanoma. *J. Clin. Inv. Insight* **5**:e140940
+
+M. Malm; R. Saghaleyni; M. Lundqvist; M. Giudici; V. Chotteau; R. Field; P.G. Varley; D. Hatton; L. Grassi; T, Svensson; **J. Nielsen**; J. Rockberg (2020) Evolution from adherent to suspension – systems biology of HEK293 cell line development. *Sci. Rep.* **10**:18996
+
+A. Molinaro; P.B. Lassen; M. Henricsson; H. Wu; S. Adriouch; E. Belda; R. Chakaroun; T. Nielsen; P.-O. Bergh; C. Rouault; S. André; F. Marquet; F. Andreelli; J.-E. Salem; K. Assmann; J.-P. Bastard; S. Forslund; E. Le Chatelier; G. Falony; N. Pons; E. Prifti; B. Quinquis; H. Roume; S. Vieira-Silva; T.H. Hansen; H.K. Pedersen; C. Lewinter; N.B. Sønderskov; MetaCardis Consortium; L. Køber; H. Vestergaard; T. Hansen; J.-D. Zucker; P. Galan; M.-E. Dumas; J. Raes; J.-M. Oppert; I. Letunic; **J. Nielsen**; P. Bork; S. Dusko Ehrlich; M. Stumvoll; O. Pedersen; J. Aron-Wisnewsky; K. Clément; F. Bäckhed (2020) Imidazole propionate is increased in diabetes and associated with dietary patterns and altered microbial ecology. *Nature Com.* **11**:5881
+
+M. Zhao; Y. Zhao; Q. Hu; H. Iqbal; M. Yao; H. Liu; B. Qiao; C.A.E. Skovbjerg; J.C.F. Nielsen; **J. Nielsen**; R.J.N. Frandsen; Y. Yuan; J.D. Boeke (2020) Pathway engineering in yeast for synthesizing the complex polyketide bikaverin. *Nature Com.* **11**:6197
+
+J. Zrimec; C. Börlin; F. Buric; A.S. Muhammad; R. Chen; V. Siewers; V. Verendel; **J. Nielsen**; M. Töpel; A. Zelezniak (2020) Deep learning suggests that gene expression is encoded in all parts of a co-evolving interacting gene regulatory structure. *Nature Com.* **11**:6141
+
+J. Gustafsson; J. Robinson; J.I. Diaz; E. Björnsson; R. Jörnsten; **J. Nielsen** (2020) DSAVE: Detection of misclassified cells in single-cell RNA-seq data. *PLOS ONE* **15**:e0243360
+
+N. Qin; L. Li; X. Ji; X. Li; Y. Zhang; C. Larsson; Y. Chen; **J. Nielsen**; Z. Liu (2020) Rewiring central carbon metabolism ensures increased provision of acetyl-CoA and NADPH required for 3-OH-propionic acid production. *ACS Syn. Biol.* **9**:3236-3244
+
+C. Ye; N. Xu; C. Gao; G. Liu; J. Xu; W. Zhang; X. Chen; **J. Nielsen**; L. Liu (2020) Comprehensive understanding of *Saccharomyces cerevisiae* with whole-cell model WM_S288C. *Biotechnol. Bioeng.* **117**:1562-1574
+
 <br/>
 
 #### Reviews in international journals with peer review
+
+<br/>
+
+##### 2021
+
+Y. Zhang; Z. Liu; **J. Nielsen** (2021) Yeast based biorefineries for oleochemical production. *Curr. Op. Biotechnol.* **67**:26-34
+
+Z. Liu; Z. Lin; **J. Nielsen** (2021) Expression of fungal biosynthetic gene clusters in *S. cerevisiae* for natural product discovery. *Syn. Systems Biotechnol.* **6**:20-22
+
+Y. Chen; **J. Nielsen** (2021) Mathematical modeling of proteome constraints within metabolism. *Curr. Op. Systems Biol.* **25**:50-56
+
+C. Zhan; X. Li; Y. Yang; **J. Nielsen**; Z. Bai; Y. Chen (2021) Strategies and challenges with the microbial conversion of methanol to high-value chemicals. *Biotechnol. Bioeng.* **118**:3655-3668
+
+S. Shi; N. Qi; **J. Nielsen** (2021) Microbial production of chemicals driven by CRISPR-Cas systems. *Curr. Op. Biotechnol.*, in press
+
+H. Lu; E.J. Kerkhoven; **J. Nielsen** (2021) Multiscale models quantifying yeast physiology: towards a whole-cell model. *Trends Biotechnol.*, in press
+
+Z. Liu; J. Wang; **J. Nielsen** (2021) Yeast synthetic biology advances biofuel production. *Curr. Op. Microbiol.*, in press
+
 
 <br/>
 
@@ -445,37 +486,9 @@ Z. Liu; K. Wang; Y. Chen; T. Tan; **J. Nielsen** (2020) Third-generation biorefi
 
 Q. Liu; Y. Liu; Y. Chen; **J. Nielsen** (2020) Current state of aromatics production using yeast: Achievements and challenges. *Curr. Opion. Biotechnol.*, in press
 
-Z. Lin; **J. Nielsen**; Z. Liu (2020) Bioprospecting through cloning of whole natural product biosynthetic gene clusters. *Fron. Bioeng. Biotechnol.*, in press
+Z. Lin; **J. Nielsen**; Z. Liu (2020) Bioprospecting through cloning of whole natural product biosynthetic gene clusters. *Fron. Bioeng. Biotechnol.*, in press  
 
-<br/>
-
-##### 2019
-
-R. Ferreira; A. Limeta; **J. Nielsen** (2019) Tackling cancer with yeast based technologies. *Trends Biotechnol.* **37**:592-603
-
-L. Zihe; Y. Zhang; **J. Nielsen** (2019) Synthetic biology of yeast. *Biochem.* **58**:1511-1520
-
-X. Li; Y. Chen; **J. Nielsen** (2019) Harnessing xylose pathways for biofuels production. *Curr. Opion. Biotechnol.* **57**:56-65
-
-**J. Nielsen** (2019) Yeast Cell Factory: Model Organism and Cell Factory. *Biotechnol. J.* **14**:1800421
-
-T. Yu; Y. Dabirian; Q. Liu; V. Siewers; *J. Nielsen* (2019) Challenges and strategies for metabolic rewiring. *Curr. Op. Systems Biol.* **15**:30-38
-
-Y. Hu; Z. Zhu; **J. Nielsen**; V. Siewers (2019) Engineering *Saccharomyces cerevisiae* cells for production of fatty acid derived biofuels and chemicals. *Open Biol.* **9**:190049
-
-M. Kumar; B. Ji; K. Zengler; **J. Nielsen** (2019) Modeling approaches for studying the gut microbiota. *Nature Microbiol.* **4**:1253-1267
-
-Y. Liu; **J. Nielsen** (2019) Recent trends in metabolic engineering of microbial chemical factories. *Curr. Op. Biotechnol.* **60**:188-197
-
-B. Turanli; O. Altay; J. Boren; H. Turkez; **J. Nielsen**; M. Uhlen; K.Y. Arga; A. Mardinoglu (2019) Systems biology based drug repositioning for development of cancer therapy. *Sem. Cancer Biol.*, in press
-
-R. Yu; **J. Nielsen** (2019) Big data in yeast systems biology. *FEMS Yeast Res.* **19**:foz070
-
-M. Palmnäs; C. Brunius; L. Shi; A. Rostgaard-Hansen; N.E. Torres; R. Gonzalez-Dominguez; R. Zamra-Ros; Y. Lingqun; J. Halkjær; A. Tjønneland; G. Riccardi; T. Giacco; G. Costabile; C. Vetrani; **J. Nielsen**; C. Andres-Lacueva; R. Landberg (2019) Metabotyping: A potential personalized nutrition strategy for precision prevention of cardiometabolic disease. *Adv. Nutrition* **11**:524-532
-
-S. Bratulic; F. Gatto; **J. Nielsen** (2019) The translational status of cancer liquid biopsies. *Reg. Eng. Transl. Med.*, in press
-
-R. Yu; **J. Nielsen** (2019) Yeast systems biology in understanding principles of physiology underlying complex human diseases. *Curr. Op. Biotechnol.* **121**:1-9  
+E. Mohammadi; R. Benfeitas; H. Turkez, J. Boren; **J. Nielsen**; M. Uhlen; A. Mardinoglu (2020) Applications of genome-wide screening and systems biology approaches in drug repositioning. *Cancers* **12**:2694  
 
 <br/>
 
