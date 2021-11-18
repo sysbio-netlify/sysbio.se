@@ -1,5 +1,5 @@
 ---
-name: Feiran Li
+name: Feiran Li, PhD
 title: Feiran-Li
 lastname: Li
 picture: /img/pic_Feiran-Li.jpg
