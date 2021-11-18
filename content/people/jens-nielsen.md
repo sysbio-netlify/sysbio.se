@@ -134,7 +134,7 @@ template: people/profile
 2019	**Honorary Professor**, Tianjin University, Tianjin, China  
 2019	**Peiyang Lectureship**, Tianjin University, Tianjin, China  
 2019	**Honorary Professor**, Nankai University, Tianjin, China  
-2019,2020	**Highly Cited Researcher**, Web-of-Science 
+2019,2020	**Highly Cited Researcher**, Web-of-Science   
 2020	**Most cited researcher on fungi** in the World over the period 2010-2020, ExpertScape    
 2020	**The KAIST CBE Global Distinguished Lectureship**, KAIST, South Korea  
 
