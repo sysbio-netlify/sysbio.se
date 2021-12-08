@@ -9,13 +9,9 @@ template: pest-bin_eu/single
 <br>  
 ## 1. Technical University of Denmark {#DTU}
 
-**ESR5** ****
+**ESR5** 
 
-
-
-**Project title: **
-
-
+**Project title:** 
 
 <br>  
 
@@ -109,22 +105,17 @@ Leonarda has joined PEST-BIN project as a Ph.D. student under the supervision of
 
 **Project title: Discovery of Biomarkers for infectious disease pathogens.**
 
-
 The project is focused on the identification and discovery of biomarkers present in bacterial pathogens resistant to antibiotics, identified to be a threat by the WHO. Representative strains from the selected species will be investigated through genomics. Subsequently, strains will be investigated by proteomics and mass spectrometry, with a special focus on surface proteins, by performing surface shaving of intact bacterial cells, enabled by the lipid-based protein immobilization (LPI) methodology. The discovered peptide/protein biomarkers will then be used for generating sensors to detect the bacteria. 
 
 <br>  
 
 ## 5. University of the Balearic Islands {#ubi}
 
-**ESR11 Maria João Cardoso**
+**ESR11** 
 
-![](../img/maria-project-pest-bin-n.2.png)
+**Thesis title:** 
 
-Maria João Cardoso holds a BSc in Nutritional Sciences and a MSc in Foodservice Management from University of Porto. In 2017, she enrolled in a MSc in Applied Microbiology from the Portuguese Catholic University, which led her to start conducting research in Food Microbiology, studying prevalence, cross contamination events and antibiotic resistance of Campylobacter spp. isolates. In 2019, she joined the European Reference Laboratory for Escherichia coli including VTEC at Istituto Superiore di Sanità, in Rome. During her stay, she followed the activities related with the surveillance and epidemiology of Haemolytic Uremic Syndrome, the most severe form of human Shiga toxin-producing E. coli (STEC) infection, and the routine application in place for the diagnosis of human diseases caused by this microorganism. Apart from that, she collaborated in one project focused on the development of a biosensor for personalized medicine, aiming at the detection of the Shiga toxins in stools and serum samples from patients with STEC infections. Maria João is now a PhD student in the PEST-BIN project and is carrying out her research project at the University of the Balearic Islands under the supervision of Professor Margarita Gomila Ribas, with secondments at the University of Gothenburg, under the supervision of Professor Edward Moore, and Nanoxis, under the supervision of Professor Roger Karlsson.
 
-**Thesis title: Role of clinical environment as a reservoir of nosocomial infections**
-
-Maria João’s project will focus on the role of clinical environment as a reservoir of nosocomial infections. The objective will be to identify the microbial composition of clinical environments, characterize the mobile genetic elements associated to virulence and antibiotic resistance as well as to detect new antibiotic resistance genes. The project will provide deep insight into the genomic potential for the metabolic processes, evolutionary relationships, epidemiology and factors associated with the mobilomes and resistomes of pathogenic and opportunistic bacteria.
 
 <br>  
 
