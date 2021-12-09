@@ -13,7 +13,7 @@ profileleftbox: |-
   E-mail: Ivan.Mijakovic \[at] chalmers.se\
   Office: Room 3056A (Fysik Origo, Kemigården 1)
 ---
-[CV](/img/cv_im2110.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2110.pdf) <br/><br/>
+[CV](/img/cv_im2112.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2112.pdf) <br/><br/>
 
 ![Ivan Mijakovic](img/pic_ivan_mijakovic-lab.png)
 
@@ -21,7 +21,7 @@ profileleftbox: |-
 
 The work in our lab is driven by scientific curiosity: we seek to understand and describe how biology works. We sometimes also modify and engineer biological systems for various purposes useful to the society.
 
-There are currently about 25 team members in the Mijakovic lab, working at two sites: Chalmers (Sweden) and DTU (Denmark), and they come from very diverse scientific and cultural backgrounds. Our lab started out as a microbiology group, but as our ambitions and curiosity grew, we expanded into several other areas of life science, often using interdisciplinary approaches. Today, in addition to general bacteriology, we work with applications of various nanomaterials in biomedicine and biotechnology, metabolic engineering of microbial cell factories and experimental evolution.  
+There are currently about 30 team members in the Mijakovic lab, working at two sites: Chalmers (Sweden) and DTU (Denmark), and they come from very diverse scientific and cultural backgrounds. Our lab started out as a microbiology group, but as our ambitions and curiosity grew, we expanded into several other areas of life science, often using interdisciplinary approaches. Today, in addition to general bacteriology, we work with applications of various nanomaterials in biomedicine and biotechnology, metabolic engineering of microbial cell factories and experimental evolution.  
 
 The spirit in which we work together as a team is that of scientific freedom. With that freedom come many responsibilities: to strive for scientific excellence, to guarantee the quality and reproducibility of our results, to always be aware of ethical dimensions of our research and to ensure support for our research, which is financed with external funding from national public research councils and private foundations. 
 
@@ -60,6 +60,7 @@ Mutusankar Eswaran, Post-doc\
 Zheijan Cao, Post-doc\
 Julie Couillaud, Post-doc\
 Paula Martínez Pérez, Post-doc\
+Golnaz Mobasseri, Post-doc\
 Hengzi Ruan, PhD student\
 Leonarda Acha Alarcon, PhD student\
 Iza Erzar, intern
