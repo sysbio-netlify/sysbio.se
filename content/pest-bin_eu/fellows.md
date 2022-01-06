@@ -9,9 +9,15 @@ template: pest-bin_eu/single
 <br>  
 ## 1. Technical University of Denmark {#DTU}
 
-**ESR5** 
+**ESR5** **Ema Svetlicic**
 
-**Project title:** 
+![](../img/emas-1.png)
+
+Ema obtained her master´s degree in Molecular Biotechnology from the Faculty of Food Technology and Biotechnology at University of Zagreb, Croatia. Her master´s thesis concerned metaproteomic and metagenomic studies of gut microbiota. Since then, she has been working with mass spectrometry-based methods to identify and characterize microorganisms.  Ema joined the group of Professor Ivan Mijakovic at DTU Biosustain in 2021 to pursue her PhD in the discovery of diagnostic biomarkers of pathogenic bacteria. In her project she will model the host-pathogen interaction and then use mass spectrometry and bioinformatics to unravel potential pathogen biomarkers.
+
+**Project title:** **Proteome dynamics of bacterial pathogens during infection: biomarkers for diagnostics**
+
+The PhD project is part of a work package focused on identifying surface biomarkers of various clinically relevant pathogens which will be exploited for development of novel biosensors. Pathogenic bacteria will be grown in contact with human cell lines relevant for the infection. Following the infection modeling, mass spectrometry-based quantitative proteomics will be used in conjunction with surface shaving to detect differentially expressed proteins on the bacterial surface.
 
 <br>  
 
@@ -115,8 +121,6 @@ The project is focused on the identification and discovery of biomarkers present
 
 **Thesis title:** 
 
-
-
 <br>  
 
 ## 6. NAICONS {#naicons}
@@ -182,7 +186,16 @@ The aim of her project is to get new insights into the role of STK in regulating
 
 ## 10. Clinical Microbiomics A/S {#cm}
 
-**ESR10** 
+**ESR10 Sara Rodrigues Pita**
+
+![](img/sara_portrait.jpg)
+
+Sara Pita is a PhD student at Clinical Microbiomics (CM) under the primary supervision of Henrik Bjørn Nielsen, PhD. CM is a research contract organisation (CRO) focusing on microbiome analyses from DNA extraction and taxonomic profiling to linking the microbiome to clinical outcomes. She’ll be working on identifying and prioritizing microbiome-based targets by leveraging metagenomic datasets. Prior to commencing this PhD, she completed an MSc in Quantitative Genetics & Genome Analysis at the University of Edinburgh. This followed by a 2-year long computational research assistant post within an early cancer detection lab. Her work encompassed erecting bioinformatic pipelines for methylation sequencing processing and applying methods to identify differentially methylated loci between tumor and benign tissue.  
+
+**Project Title: Phenotype predictions using machine learning and ultra-high resolution microbiomics** 
+
+
+The project aims to utilize ultra-high resolution – strain-level base-pair resolution - microbiomics data to predict microbiome characteristics (e.g. alpha diversity) and host phenotypes (e.g. Infection absence or presence). Strain-level metagenomic analyses enable (1) the dissection of detailed functional information from the gut microbiome and (2) pinpointing interactions amongst gut microbial strains. Particularly interesting in the context of infection, would be identifying bacterial strains that arrest pathogen colonization.
 
 <br>
 
