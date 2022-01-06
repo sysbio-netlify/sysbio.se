@@ -188,7 +188,7 @@ The aim of her project is to get new insights into the role of STK in regulating
 
 **ESR10 Sara Rodrigues Pita**
 
-![](img/sara_pita-1.jpg)
+![](../img/sara_pita-nr2.jpg)
 
 Sara Pita is a PhD student at Clinical Microbiomics (CM) under the primary supervision of Henrik Bjørn Nielsen, PhD. CM is a research contract organisation (CRO) focusing on microbiome analyses from DNA extraction and taxonomic profiling to linking the microbiome to clinical outcomes. She’ll be working on identifying and prioritizing microbiome-based targets by leveraging metagenomic datasets. Prior to commencing this PhD, she completed an MSc in Quantitative Genetics & Genome Analysis at the University of Edinburgh. This followed by a 2-year long computational research assistant post within an early cancer detection lab. Her work encompassed erecting bioinformatic pipelines for methylation sequencing processing and applying methods to identify differentially methylated loci between tumor and benign tissue.  
 
