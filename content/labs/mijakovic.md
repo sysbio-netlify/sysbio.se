@@ -71,6 +71,7 @@ Priyanka Singh, Post-doc\
 Vaishnavi Ravikumar, Post-doc\
 Julie Bonne Køhler, Post-doc\
 Abhayraj Joshi, Post-doc\
+Colleen Manyumwa, Post-doc\
 Pedro Aragón Fernández, PhD student\
 Suvasini Balasubramanian, PhD student\
 Chenxhi Zhang, PhD student\
