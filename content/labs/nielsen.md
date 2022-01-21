@@ -455,7 +455,7 @@ Feiran Li:\
 91.	Ning Qin, BUCT (2016-2021)
 92.	Qi Qi, Chalmers (2017-2021)
 93.	Feiran Li, Chalmers (2017-2021)
-
+94.	Yijin Zhao, BUCT (2017-2021)
 
 **Graduated PhD Students (examiner)**
 
@@ -481,6 +481,7 @@ Feiran Li:\
 15. Leonie Wenning, Chalmers (2014-2018)
 16.	Yating Hu, Chalmers (2015-2019)
 17.	Elias Björnson, Gothenburg University (2014-2021)
+18.	John Hellgren (2017-2022)
 
 
 **Visiting PhD Students (co-supervisor)**
