@@ -45,34 +45,12 @@ Key signal transduction pathways in *S. cerevisiae* are analyzed using systems b
 
 **Protein production**\
 Using systems biology and metabolic engineering we are advancing the use of *S. cerevisiae* for recombinant protein production. Through a combination of advanced modeling and engineering of the secretory pathway we are developing yeasts that can be used for production of human therapeutic proteins and for consolidated bioprocesses.
-
-**Advanced Biofuel Production**\
-We have a large and focuses effort on developing yeast cell factories for production of advanced biofuels that can be used as diesel and jet fuels.
-
-**Biochemical Production**\
-We are developing yeast cell factories for production of chemical building blocks and fine chemicals, e.g. 3-OH-propionic acid that can be used for sustainable production of super-adsorbent materials and isoprenoids used as perfumes and fine fragrances.
-
-**Synthetic Biology**\
-We are developing novel synthetic biology tools for metabolic engineering of yeast. These research activities are mainly carried out at the DTU site of Center for Biosustainability.
-
-#### Infrastructures
-
-We provide a number of infrastructures that are part of either Chalmers infrastructures or National infrastructures.
-
-**Databases, BioMet Toolbox, Bioinformatics**\
-We are developing a number of repositories and databases that are combined with advanced systems biology tools and bioinformatics tools. All tools and database are available through www.sysbio.se
-
-**Fermentation**\
-We host an extensive fermentation infrastructure consisting of 32 DASGIB bioreactors and more than 10 other highly instrumented bioreactors.
-
-**Metabolomics**\
-We are part of the Swedish Universities Metabolomics Infrastructure (hosted by Umeå University) and is also part of Chalmers infrastructure for metabolomics. Our infrastructure involves 2 GC-MS systems and 5 HPLC systems.
 <br/>
 <br/>
 
 #### Publications
 
-[Full list of publications](/img/pub_jn2111.pdf) (PDF)
+[Full list of publications](/img/pub_jn2201.pdf) (PDF)
 <br/>
 <br/>
 
