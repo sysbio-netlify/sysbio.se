@@ -4,7 +4,7 @@ title: jens-nielsen
 lastname: Nielsen
 picture: /img/pic_Jens-Nielsen.jpg
 position: Professor, Quantitative Systems Biology
-email: Nielsenj [at] chalmers.se
+email: nielsenj [at] chalmers.se
 flags:
   - dk Denmark
 person-category: A Faculty
