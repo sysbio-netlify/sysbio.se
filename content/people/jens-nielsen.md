@@ -12,10 +12,10 @@ template: people/profile
 ---
 * [Curriculum Vitae](/img/cv_jn2201.pdf) (PDF)
 * [Short Biography](/img/bio_jnshort_2009.pdf) (PDF)
-* Publications - [selection on this website](#publications) ([PDF](/img/pub_jn2201.pdf) for download full list of publications)  
+* Publications - [PDF](/img/pub_jn2201.pdf) for download full list of publications  
 
 <br/>
-#### Education and degrees  
+#### Education and degrees    
 1986 	**M.Sc. in Chemical Engineering**, Dept. of Biotechnology, DTU, Denmark    
 1989 	**Ph.D. in Biochemical Engineering**, DTU, Denmark  
 1995 	**dr.techn.**, DTU, Denmark  
