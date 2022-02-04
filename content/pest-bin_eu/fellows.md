@@ -119,7 +119,13 @@ The project is focused on the identification and discovery of biomarkers present
 
 **ESR11** 
 
-**Thesis title:** 
+![](../img/jlaço_photo-2.jpg)
+
+José Maria Serpa Laço holds a BSc in Biology and a MSc in Biochemistry from the University of Évora (Portugal) and University of Coimbra (Portugal), respectively. During his master’s degree, he had the opportunity to develop his master thesis at Microlab from the University of Aveiro (Portugal), entitled “Rivers as routes for the spread of antibiotic resistance: role of anthropogenic pressures and risks to human health”. In this work, he aimed to evaluate cefotaxime resistant Enterobacteriaceae in the Lis River (Leiria, Portugal) as well as the variety of blaCTX-M genes and their genomic context. José Maria is now a PhD student in the PEST-BIN project and is carrying out his research project at the University of the Balearic Islands under the supervision of Professor Margarita Gomila, with secondments at the University of Gothenburg, under the supervision of Docent Roger Karlsson, and Nanoxis Consulting AB, under the supervision of Dr Anders Karlsson.
+
+**Project Title:  Role of clinical environment as a reservoir of nosocomial infections**
+
+The aim of the project will be to identify the microbial composition of clinical environments, characterize the mobile genetic elements associated to virulence and antibiotic resistance as well as to detect new antibiotic resistance genes. The project will provide deep insight into the genomic potential for the metabolic processes, evolutionary relationships, epidemiology and factor associated with the mobilomes and resistomes of bacterial pathogens.
 
 <br>  
 
