@@ -11,6 +11,8 @@ template: pest-bin_eu/single
 
 **ESR5** **Ema Svetlicic**
 
+**e-mail:** emasve@biosustain.dtu.dk 
+
 ![](../img/emas-1.png)
 
 Ema obtained her master´s degree in Molecular Biotechnology from the Faculty of Food Technology and Biotechnology at University of Zagreb, Croatia. Her master´s thesis concerned metaproteomic and metagenomic studies of gut microbiota. Since then, she has been working with mass spectrometry-based methods to identify and characterize microorganisms.  Ema joined the group of Professor Ivan Mijakovic at DTU Biosustain in 2021 to pursue her PhD in the discovery of diagnostic biomarkers of pathogenic bacteria. In her project she will model the host-pathogen interaction and then use mass spectrometry and bioinformatics to unravel potential pathogen biomarkers.
@@ -23,6 +25,8 @@ The PhD project is part of a work package focused on identifying surface biomark
 
 **ESR7 Pedro Aragón Fernández**
 
+**e-mail:** pedarf@biosustain.dtu.dk
+
 ![](../img/pedro-dtu.png)
 
 Pedro Aragon has a bachelor’s degree in biochemistry from the [Technical University of Munich ](https://www.tum.de/en/)(TUM). In 2018, he enrolled in the master’s degree program at the TUM, also in biochemistry, with major focus in bio-organic chemistry and immunology. In 2021 Pedro joined the group of Prof. Ivan Mijakovic as a PhD student at DTU Biosustain, The Novo Nordisk Center for Biosustainability, Kongens Lyngby – Denmark, where his current work focuses on deciphering unprecedented antibiotic targets yet lacking resistance strategies based on the context-dependent plasticity of the host-pathogen-proteomes. Using a combination of organic chemistry and Mass Spectrometry-based proteomics, a powerful analytical platform can be generated to approach specific markers for disease relevant to this threat.
@@ -34,6 +38,8 @@ The PhD project is part of a work package that aims to generate MS proteomics da
 <br>  
 
 **ESR13 Mukil Madhusudanan**
+
+**e-mail:** mukmad@biosustain.dtu.dk
 
 ![](../img/mukil-2.png)
 
@@ -51,6 +57,8 @@ Mukil will engineer green synthesized antimicrobial magnetic nanoparticles, spik
 
 **ESR2 Munis Khan**
 
+**e-mail:** munis@chalmers.se
+
 ![](../img/munis-2.jpg)
 
 He completed his bachelor’s degree in Electronics and Communications Engineering from SMVD University, India in 2015.  In 2015 he enrolled for a master’s degree at TU Chemnitz, Germany with major focus on solid state physics. The main research focus during his masters was spectroscopic investigation of Graphene and it's derivatives with his master thesis focused on solid-state graphene-based supercapacitor. After finishing his masters he worked for 2 years in a semiconductor company in Austria (EV Group) working on nano-fabrication techniques to realize photonic devices and optical waveguides using nano-imprint lithography for AR/VR applications. Since June 2021 he have joined Quantum device physics laboratory at Chalmers University to pursue his PhD on below mentioned topic under the supervision of Prof.  August Yurgens.
@@ -63,6 +71,8 @@ The objectives of his project are to develop cost effective platform for scalabl
 
 **ESR3 Flavia Ferrara**
 
+**e-mail:** flaviaf@chalmers.se
+
 ![](../img/flavia.jpg)
 
 Flavia Ferrara carried out her studies at La Sapienza University, in Rome, obtaining her bachelor-degree in Chemistry in October 2018. Her bachelor project involved library research in the field of supramolecular chemistry, more specifically on the functionalization of non-activated C-H bonds. Afterwards, she pursued a Master’s degree in Organic and Biomolecular chemistry, graduating in January 2021. During the Master, funded by an Erasmus+ scholarship, she carried out a six months thesis traineeship at the Organic Chemistry department of Stockholm University in the group of Prof. Pher Andersson. The main interest of the group was the iridium-catalyzed asymmetric hydrogenation of olefins and her project focused on the hydrogenation of in situ generated cyclic enamides, using these tandem reactions to develop a more sustainable synthetic method to access biologically relevant molecules as products. 
@@ -74,6 +84,8 @@ The aim of the project is the preparation of synthetic receptors and the evaluat
 <br>  
 
 **ESR14 Hengzhi Ruan** 
+
+**e-mail:** hengzhi@chalmers.se
 
 ![](../img/hengzhi-new-pic-1.jpg)
 
@@ -88,6 +100,8 @@ Infectious diseases are predicted to rise in the next year due to antibiotic res
 ## 3. Rudjer Boskovic Institute {#rudjer}
 
 **ESR12 Anja Tušar**
+
+**e-mail:** Anja.Tusar@irb.hr
 
 ![](../img/anja-tusar-4.jpg)
 
@@ -104,6 +118,8 @@ The aim of the project is to establish in vitro biofilm models for pathogenic ba
 
 **ESR1 Leonarda Achá Alarcón**
 
+**e-mail:** leonarda.acha.alarcon@gu.se
+
 ![](../img/leonarda-1.jpg)
 
 Leonarda is a biochemist from Bolivia, educated at the Universidad Privada del Valle, where she received training with a clinical focus. During her Master’s Studies in Biological and Biomedical Sciences (Universidad Mayor de San Andrés) she worked on the development of a home-made ELISA for the detection of group A rotavirus in fecal samples of children and domestic South American camelids under the supervision of Professors Volga Iñiguez and Ewald Beck. In 2019 Leonarda did an internship at CCUG with Edward Moore’s group, Sweden, where she received training in bacterial genomics. In 2020 and 2021 she worked at Instituto de Biologia Molecular y Biotecnologia (IBMB-UMSA) as part of the group who had identified the SASRS-COV2 Gamma variant circulating in Bolivia.
@@ -117,7 +133,9 @@ The project is focused on the identification and discovery of biomarkers present
 
 ## 5. University of the Balearic Islands {#ubi}
 
-**ESR11** 
+**ESR11** **José Maria Serpa Laço**
+
+**e-mail:** j.serpa@uib.es
 
 ![](../img/jlaço_photo-2.jpg)
 
@@ -132,6 +150,8 @@ The aim of the project will be to identify the microbial composition of clinical
 ## 6. NAICONS {#naicons}
 
 **ESR15 Thomas Vernay**
+
+**e-mail:** tvernay@naicons.com
 
 ![](../img/facepic-thomas-vernay.jpg)
 
@@ -151,6 +171,8 @@ Promising metabolites with antibacterial properties will be targeted for purific
 
 **ESR6 Sara Ribeiro**
 
+**e-mail:** sara.ribeiro@altrabio.com
+
 ![](../img/sara-ribeiro.jpg)
 
 Sara holds a Bsc degree in Biology from the Faculty of Sciences of the University of Porto (FCUP), a specialization course in Biochemistry for Health from Escola Superior de Saude do Porto (ESS), and a Msc degree in Bioinformatics and computational biology from FCUP. In the final phase of this master’s degree she started to work for i3s/IPATIMUP on a research project called 'Biostroke'. This project focused on detecting important biomarkers for the proper diagnosis and prognosis of acute ischemic stroke. After performing both proteomics and transcriptomics data analysis from mouse models and human patients, several promising biomarkers were unravelled.
@@ -164,6 +186,8 @@ The main focus of Sara’s project is to develop analytical pipelines adapted to
 ## 8. CNRS - French National Centre for Scientific Research {#cnrs}
 
 **ESR8 Margaux Demuysere**
+
+**e-mail:** margaux.demuysere@ibcp.fr
 
 ![](../img/margaux.jpg)
 
@@ -180,6 +204,8 @@ Natural transformation is dependent on the induction of competence, a genetic pr
 
 **ESR9 Payal Nashier** 
 
+**e-mail:** payal.nashier@uni-tuebingen.de
+
 ![](../img/payalnashier-n1.jpg)
 
 Payal Nashier holds a Bachelor’s and Master’s degree in Zoology from Miranda House, University of Delhi, India. During her graduation, she has done a number of internships including one at IIT Guwahati, India awarded by Indian Academy of Sciences, Indian National Science Academy and National Academy of Sciences India. After completing her master’s in 2019, she joined a research lab as Junior Research Fellow (JRF) where she worked on deciphering the role of Serine/Threonine phosphorylation in Bacillus anthracis for developing novel anthrax spore vaccine under the supervision of Prof. Yogendra Singh at Department of Zoology, University of Delhi, India. Her work there also resulted in a publication in Journal of Bacteriology in May 2021. Payal is now a PhD student in the PEST-BIN project under the supervision of Prof. Boris Macek at the University of Tübingen, Germany. Her project focuses on the studying the effect of kinases at proteome and phosphoproteome levels to find out the underlying pathways regulated by them. 
@@ -194,6 +220,8 @@ The aim of her project is to get new insights into the role of STK in regulating
 
 **ESR10 Sara Rodrigues Pita**
 
+**e-mail:** sarap@clinical-microbiomics.com
+
 ![](../img/sara_pita-1.jpg)
 
 Sara Pita is a PhD student at Clinical Microbiomics (CM) under the primary supervision of Henrik Bjørn Nielsen, PhD. CM is a research contract organisation (CRO) focusing on microbiome analyses from DNA extraction and taxonomic profiling to linking the microbiome to clinical outcomes. She’ll be working on identifying and prioritizing microbiome-based targets by leveraging metagenomic datasets. Prior to commencing this PhD, she completed an MSc in Quantitative Genetics & Genome Analysis at the University of Edinburgh. This followed by a 2-year long computational research assistant post within an early cancer detection lab. Her work encompassed erecting bioinformatic pipelines for methylation sequencing processing and applying methods to identify differentially methylated loci between tumor and benign tissue.  
@@ -207,6 +235,8 @@ The project aims to utilize ultra-high resolution – strain-level base-pair res
 ## 11. INRAE: National Research Institute for Agriculture, Food and Environment {#inrae}
 
 **ESR4 Lydia Palaiodimou** 
+
+**e-mail:** lydia.palaiodimou@inrae.fr
 
 ![](../img/lydia.jpg)
 
