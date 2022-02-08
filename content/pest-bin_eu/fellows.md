@@ -236,7 +236,7 @@ The project aims to utilize ultra-high resolution – strain-level base-pair res
 
 **ESR4 Lydia Palaiodimou** 
 
-**e-mail:** [lydia.palaiodimou@inrae.fr](lydia.palaiodimou@inrae.fr)
+**e-mail:** lydia.palaiodimou@inrae.fr
 
 ![](../img/lydia.jpg)
 
