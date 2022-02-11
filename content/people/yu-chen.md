@@ -1,13 +1,12 @@
 ---
-name: 'Yu Chen, PhD'
+name: Yu Chen, PhD
 title: Yu-Chen
 lastname: Chen
 picture: /img/pic_Yu-Chen.jpg
-position: PostDoc
-email: 'cheyu [at] chalmers.se'
+position: Researcher
+email: cheyu [at] chalmers.se
 flags:
   - cn China
-person-category: E Postdocs
+person-category: D Researchers
 template: people/profile
 ---
-
