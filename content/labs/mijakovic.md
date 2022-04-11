@@ -64,7 +64,8 @@ Golnaz Mobasseri, Post-doc\
 Hengzi Ruan, PhD student\
 Leonarda Acha Alarcon, PhD student\
 Victor Lanai, MSc student\
-Iza Erzar, intern
+Iza Erzar, intern\
+Nisha Neupane, intern
 
 **Current Members of the Mijakovic lab at DTU Biosustain:**\
 Carsten Jers, senior researcher\
