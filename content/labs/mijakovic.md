@@ -13,7 +13,7 @@ profileleftbox: |-
   E-mail: Ivan.Mijakovic \[at] chalmers.se\
   Office: Room 3056A (Fysik Origo, Kemigården 1)
 ---
-[CV](/img/cv_im2202.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2202.pdf) <br/><br/>
+[CV](/img/cv_im2204.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2204.pdf) <br/><br/>
 
 ![Ivan Mijakovic](img/pic_ivan_mijakovic-lab.png)
 
@@ -57,7 +57,7 @@ Caroline Wasén, Post-doc\
 Mohsen Zareian, Post-doc\
 Jian Zhang, Post-doc\
 Mutusankar Eswaran, Post-doc\
-Zheijan Cao, Post-doc\
+Zhejian Cao, Post-doc\
 Julie Couillaud, Post-doc\
 Paula Martínez Pérez, Post-doc\
 Golnaz Mobasseri, Post-doc\
