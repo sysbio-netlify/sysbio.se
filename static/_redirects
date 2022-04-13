@@ -20,3 +20,5 @@ https://sysbiowebsite.netlify.com/* https://www.sysbio.se/:splat 301!
 /Lab_Zelezniak/lab_zelezniak.html		/labs/zelezniak/           301!
 
 /labs/enqvist/            /people/martin-engqvist/             301!
+
+/courses/courses/mesb       https://www.mesbcourse.se          301!
