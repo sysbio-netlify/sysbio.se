@@ -21,4 +21,4 @@ https://sysbiowebsite.netlify.com/* https://www.sysbio.se/:splat 301!
 
 /labs/enqvist/            /people/martin-engqvist/             301!
 
-/courses/courses/mesb       https://www.mesbcourse.se          301!
+/courses/mesb       https://www.mesbcourse.se          301!
