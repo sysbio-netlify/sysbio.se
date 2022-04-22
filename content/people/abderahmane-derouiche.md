@@ -1,9 +1,9 @@
 ---
-name: Abderahmane Derouiche
+name: Abderahmane Derouiche, PhD
 title: Abderahmane-Derouiche
 lastname: Derouiche
 picture: img/pic_abderahmane-derouiche.jpg
-position: Research Engineer
+position: Senior Research Engineer
 email: abdder [at] chalmers.se
 flags:
   - dz Algeria
