@@ -13,7 +13,7 @@ profileleftbox: |-
   E-mail: Ivan.Mijakovic \[at] chalmers.se\
   Office: Room 3056A (Fysik Origo, Kemigården 1)
 ---
-[CV](/img/cv_im2204.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2204.pdf) <br/><br/>
+[CV](/img/cv_im2205.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2205.pdf) <br/><br/>
 
 ![Ivan Mijakovic](img/pic_ivan_mijakovic-lab.png)
 
@@ -74,13 +74,12 @@ Vaishnavi Ravikumar, Post-doc\
 Julie Bonne Køhler, Post-doc\
 Abhayraj Joshi, Post-doc\
 Colleen Manyumwa, Post-doc\
-Pedro Aragón Fernández, PhD student\
 Suvasini Balasubramanian, PhD student\
 Chenxhi Zhang, PhD student\
 Mukil Madhusudanan, PhD student\
 Ema Svetlicic, PhD student\
-Darko Kjiproski, Project manager\
-Mugdha Bapat, intern  
+Belay Tilahun Tadesse, PhD student\
+Darko Kjiproski, Project manager\ 
 
 [Mijakovic lab at DTU Biosustain ](http://www.biosustain.dtu.dk/english/research/research-groups/bacterial-signal-transduction)
 
@@ -112,7 +111,8 @@ Sujata Vijay Sohoni\
 Ahasanul Kobir\
 Abderrahman Deroiuche\
 Charlotte Cousin\
-Aida Kalantari
+Aida Kalantari\
+Pedro Aragón Fernández
 
 ***Visiting PhD students:***\
 Alireza Neissi\
@@ -124,7 +124,7 @@ Amani Belaiba
 Violeta Djekic\
 Mohammad Abdellatif
 
-***Master students:***\
+***Master students/interns:***\
 Catarina Silva\
 Carsten Jers\
 Boumediene Soufi\
@@ -144,4 +144,5 @@ Sanja Tunjic\
 Alessandra Merlo\
 Anja Tusar\
 Li Xu\
-Sophie Antonsson
+Sophie Antonsson\
+Mugdha Bapat
