@@ -44,9 +44,9 @@ The lab has been involved in several software development efforts aiming to bett
 <br/>
 #### Lab members
 
-Johan Bengtsson-Palme, assistant professor
-Anna Abramova, postdoc
-Emil Burman, PhD student
-Mirjam Dannborg, PhD student
-Marcus Wenne, bioinformatician
-Lisa Teichmann, external associated PhD student
+Johan Bengtsson-Palme, assistant professor  
+Anna Abramova, postdoc  
+Emil Burman, PhD student  
+Mirjam Dannborg, PhD student  
+Marcus Wenne, bioinformatician  
+Lisa Teichmann, external associated PhD student  
