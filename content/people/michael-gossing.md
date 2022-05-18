@@ -1,13 +1,12 @@
 ---
-name: 'Michael Gossing, PhD'
+name: Michael Gossing, PhD
 title: Michael-Gossing
 lastname: Gossing
 picture: /img/pic_michael-gossing.jpg
-position: PostDoc
-email: 'gossing [at] chalmers.se'
+position: Head of strain engineering, Melt&Marble
+email: gossing [at] chalmers.se
 flags:
   - de Germany
-person-category: H Visiting researchers
+person-category: I Guests
 template: people/profile
 ---
-
