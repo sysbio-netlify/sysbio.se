@@ -1,5 +1,5 @@
 ---
-name: Peishun Li
+name: Peishun Li, PhD
 title: Peishun-Li
 lastname: Li
 picture: img/pic_Peishun-Li.jpg
