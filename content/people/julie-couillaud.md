@@ -1,5 +1,5 @@
 ---
-name: Julie Couillaud
+name: Julie Couillaud, PhD
 title: Julie-Couillaud
 lastname: Couillaud
 picture: img/pic_julie-couillaud.jpg
