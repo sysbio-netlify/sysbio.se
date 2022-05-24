@@ -1,13 +1,12 @@
 ---
-name: 'Louis Scott, PhD'
+name: Louis Scott, PhD
 title: Louis-Scott
 lastname: Scott
 picture: /img/pic_louis-scott.jpg
 position: PostDoc
-email: 'louis.scott [at] chalmers.se'
+email: louis.scott [at] chalmers.se
 flags:
   - au Australia
-person-category: H Visiting researchers
+person-category: E Postdocs
 template: people/profile
 ---
-
