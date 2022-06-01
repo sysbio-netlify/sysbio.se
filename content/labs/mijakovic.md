@@ -63,6 +63,7 @@ Paula Martínez Pérez, Post-doc\
 Golnaz Mobasseri, Post-doc\
 Hengzi Ruan, PhD student\
 Leonarda Acha Alarcon, PhD student\
+Pragati Rajendra More, visiting PhD student\
 Victor Lanai, MSc student\
 Iza Erzar, intern\
 Nisha Neupane, intern
