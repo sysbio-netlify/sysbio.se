@@ -27,7 +27,6 @@ The PhD project is part of a work package focused on identifying surface biomark
 
 **e-mail:** 
 
-![]()
 
 
 
