@@ -31,7 +31,7 @@ The PhD project is part of a work package focused on identifying surface biomark
 
 
 
-**Project title: Proteome dynamics of bacterial pathogens during infection: new drug targets.** 
+**Project title:** 
 
 
 
