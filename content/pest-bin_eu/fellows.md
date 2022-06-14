@@ -23,17 +23,17 @@ The PhD project is part of a work package focused on identifying surface biomark
 
 <br>  
 
-**ESR7 Pedro Aragón Fernández**
+**ESR7** 
 
-**e-mail:** pedarf@biosustain.dtu.dk
+**e-mail:** 
 
-![](../img/pedro-dtu.png)
+![]()
 
-Pedro Aragon has a bachelor’s degree in biochemistry from the [Technical University of Munich ](https://www.tum.de/en/)(TUM). In 2018, he enrolled in the master’s degree program at the TUM, also in biochemistry, with major focus in bio-organic chemistry and immunology. In 2021 Pedro joined the group of Prof. Ivan Mijakovic as a PhD student at DTU Biosustain, The Novo Nordisk Center for Biosustainability, Kongens Lyngby – Denmark, where his current work focuses on deciphering unprecedented antibiotic targets yet lacking resistance strategies based on the context-dependent plasticity of the host-pathogen-proteomes. Using a combination of organic chemistry and Mass Spectrometry-based proteomics, a powerful analytical platform can be generated to approach specific markers for disease relevant to this threat.
+
 
 **Project title: Proteome dynamics of bacterial pathogens during infection: new drug targets.** 
 
-The PhD project is part of a work package that aims to generate MS proteomics datasets that are more relevant, comprehensive and time-resolved from the perspective of infections. We will use a wide array of computational tools to extract relevant information about mechanism of infection from these proteomics datasets – ultimately leading to identification of new druggable targets.
+
 
 <br>  
 
