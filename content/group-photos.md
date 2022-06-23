@@ -3,6 +3,12 @@ title: "Group photos"
 template: "photos"
 ---
 
+##### June 2022
+<img src="/img/group_22.jpg">
+
+##### September 2019
+<img src="/img/group_19.jpg">
+
 ##### June 2018
 <img src="/img/group_18a.jpg">
 <img src="/img/group_18b.jpg">
