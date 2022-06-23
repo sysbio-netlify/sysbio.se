@@ -1,5 +1,5 @@
 ---
-name: Roberto Olivares Hernandez
+name: Roberto Olivares Hernandez, PhD
 title: Roberto-Olivares
 lastname: Olivares
 picture: img/pic_roberto-olivares.jpg
