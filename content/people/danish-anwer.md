@@ -3,7 +3,7 @@ name: Danish Anwer
 title: Danish-Anwer
 lastname: Anwer
 picture: img/pic_danish-anwer.jpg
-position: visiting MSc student
+position: Visiting MSc student
 email: anwer [at] chalmers.se
 flags:
   - de Germany
