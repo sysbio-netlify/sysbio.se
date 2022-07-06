@@ -72,3 +72,13 @@ ESR6 Sara Ribeiro presented the PEST-BIN project to high school students at the 
 ![](../img/declics1.1.jpg)
 
 <br>
+
+ESR8 Margaux Demuysere, on the 28th August 2021, took part in the event "Conference Embarquées" organized by CNRS, where researchers talk about their research to the general public on small boats. She gave a talk about antibiotic resistance and she talked to 5 different groups, which represents around 15 people. 
+
+![](../img/pic-1.png)
+
+<br>
+
+ESR8 also went to the high school "Lycée Public de St Just" on December 7th 2021 to talk about her research and research in general. The event was organized in the context of Declics, a French initiative aiming at establishing a dialogue between researchers and high school students. Around 70 students attended the event, and she talked to roughly half of them. 
+
+<br>
