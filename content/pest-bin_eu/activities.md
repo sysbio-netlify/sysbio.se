@@ -57,6 +57,10 @@ ESR12 Anja Tušar participated at the European Research Night in Slovenia – a 
 
 ![](../img/public-eevent-anja.jpg)
 
+<br>
+
 ESR12 Anja Tušar gave a lecture to primary school students about her work and showed how the laboratory looks like. In the end, she showed them some examples of useful and dangerous bacteria that we see in everyday life. The event was held online on 24th November 2021. 
 
 ![](../img/image-1.jpg)
+
+<br>
