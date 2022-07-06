@@ -14,3 +14,15 @@ The 1st PEST-BIN Summer school was held at the premises at DTU in Lyngby, Denmar
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 <br>
+
+**Popular science article**
+
+1.ESR12 Anja Tušar has published her first popular science article with title "How knowledge of evolution helps us fight bacteria". Check the article (in Slovenian) here -> <!--StartFragment-->
+
+[Kako nam znanje o evoluciji pomaga v boju z bakterijami | Alternator](https://www.alternator.science/sl/daljse/kako-nam-znanje-o-evoluciji-pomaga-v-boju-z-bakterijami/)
+
+<!--EndFragment--> 2. ESR2 Munis Khan published his first popular science article with title "Simpler graphene method paves way for new era of nanoelectronics". Check the article here -> <!--StartFragment-->
+
+[Simpler graphene method paves way for new era of nanoelectronics | Chalmers](https://www.chalmers.se/en/departments/mc2/news/Pages/simpler-graphene-method-paves-way-for-new-era-of-nanoelectronics.aspx)
+
+<!--EndFragment--> 3.
