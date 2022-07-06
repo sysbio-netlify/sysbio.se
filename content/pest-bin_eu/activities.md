@@ -5,6 +5,8 @@ weight: 40
 template: pest-bin_eu/single
 image: ""
 ---
+**Summer School/Annual meetings**
+
 ![](../img/summer-school-dtu-v2.jpg)
 
 ![](../img/annual-meeting-dtu-v3.jpg)
@@ -25,4 +27,16 @@ The 1st PEST-BIN Summer school was held at the premises at DTU in Lyngby, Denmar
 
 [Simpler graphene method paves way for new era of nanoelectronics | Chalmers](https://www.chalmers.se/en/departments/mc2/news/Pages/simpler-graphene-method-paves-way-for-new-era-of-nanoelectronics.aspx)
 
-<!--EndFragment-->
+<!--EndFragment--> 
+
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Conference participation**
+
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Public events**
