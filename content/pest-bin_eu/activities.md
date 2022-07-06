@@ -30,6 +30,7 @@ The 1st PEST-BIN Summer school was held at the premises at DTU in Lyngby, Denmar
 <!--EndFragment--> 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<br>
 
 **Conference participation**
 
@@ -37,12 +38,13 @@ ESR14 Hengzhi Ruan supervised by Associate Prof. Roland Kádár had a poster pre
 
 ![](../img/esr14-pic-1.jpg)
 
-
+<br>
 
 ESR1 Leonarda Acha Alarcon and ESR9 Payal Nashier, presented posters at the 4th International conference on post-translational modifications in Bacteria (PTMBact 2022) held in Copenhagen on 5th and 6th May 2022.
 
 ![](../img/payal-and-leo-pic-1.jpg)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<br>
 
 **Public events**
