@@ -5,10 +5,6 @@ weight: 40
 template: pest-bin_eu/single
 image: ""
 ---
-
-
-
-
 **Summer School/Annual meetings**
 
 ![](../img/summer-school-dtu-v2.jpg)
@@ -53,7 +49,7 @@ ESR1 Leonarda Acha Alarcon and ESR9 Payal Nashier, presented posters at the 4th 
 
 **Public events**
 
-ESR12 Anja Tušar participated at the European Research Night in Slovenia – a public event dedicated to the dissemination of science to the general public. 
+ESR12 Anja Tušar participated at the European Research Night in Slovenia – a public event dedicated to the dissemination of science to the general public. The event took place on 24th September 2021.
 
 ![](../img/public-eevent-anja.jpg)
 
@@ -62,5 +58,17 @@ ESR12 Anja Tušar participated at the European Research Night in Slovenia – a 
 ESR12 Anja Tušar gave a lecture to primary school students about her work and showed how the laboratory looks like. In the end, she showed them some examples of useful and dangerous bacteria that we see in everyday life. The event was held online on 24th November 2021. 
 
 ![](../img/image-1.jpg)
+
+<br>
+
+ESR4 Lydia Palaiodimou presented a poster at the European Research Night in Brussels, Belgium  – a public event dedicated to the dissemination of science to the general public The event took place on 24th September 2021.
+
+![](../img/lydia-2.1.jpg)
+
+<br>
+
+ESR6 Sara Ribeiro presented the PEST-BIN project to high school students at the high school 'Lycée Aux Lazaristes La Salle' on November 17th, 2021.
+
+![](../img/declics1.1.jpg)
 
 <br>
