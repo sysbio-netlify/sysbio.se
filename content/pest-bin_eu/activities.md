@@ -25,4 +25,4 @@ The 1st PEST-BIN Summer school was held at the premises at DTU in Lyngby, Denmar
 
 [Simpler graphene method paves way for new era of nanoelectronics | Chalmers](https://www.chalmers.se/en/departments/mc2/news/Pages/simpler-graphene-method-paves-way-for-new-era-of-nanoelectronics.aspx)
 
-<!--EndFragment--> 3.
+<!--EndFragment-->
