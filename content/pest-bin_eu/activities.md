@@ -5,6 +5,10 @@ weight: 40
 template: pest-bin_eu/single
 image: ""
 ---
+
+
+
+
 **Summer School/Annual meetings**
 
 ![](../img/summer-school-dtu-v2.jpg)
@@ -48,3 +52,11 @@ ESR1 Leonarda Acha Alarcon and ESR9 Payal Nashier, presented posters at the 4th 
 <br>
 
 **Public events**
+
+ESR12 Anja Tušar participated at the European Research Night in Slovenia – a public event dedicated to the dissemination of science to the general public. 
+
+![](../img/public-eevent-anja.jpg)
+
+ESR12 Anja Tušar gave a lecture to primary school students about her work and showed how the laboratory looks like. In the end, she showed them some examples of useful and dangerous bacteria that we see in everyday life. The event was held online on 24th November 2021. 
+
+![](../img/image-1.jpg)
