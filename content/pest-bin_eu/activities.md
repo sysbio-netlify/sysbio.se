@@ -29,13 +29,19 @@ The 1st PEST-BIN Summer school was held at the premises at DTU in Lyngby, Denmar
 
 <!--EndFragment--> 
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Conference participation**
 
+ESR14 Hengzhi Ruan supervised by Associate Prof. Roland Kádár had a poster presentation on NPD2022 in Chalmers about his work on rheology studies of antibacterial hydrogels. The conference took place on 1-3 June 2022 at Chalmers University of Technology in Sweden.
 
+![](../img/esr14-pic-1.jpg)
+
+
+
+ESR1 Leonarda Acha Alarcon and ESR9 Payal Nashier, presented posters at the 4th International conference on post-translational modifications in Bacteria (PTMBact 2022) held in Copenhagen on 5th and 6th May 2022.
+
+![](../img/payal-and-leo-pic-1.jpg)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
