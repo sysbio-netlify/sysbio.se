@@ -1,5 +1,7 @@
 ---
 title: Science Articles
+menu: pest_bin_eu
+weight: 55 
 template: pest-bin_eu/single
 ---
 **ESR 15 Thomas Vernay**
