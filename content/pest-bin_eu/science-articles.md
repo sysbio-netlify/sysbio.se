@@ -10,3 +10,4 @@ template: pest-bin_eu/single
 
 **[Extreme microbes could hold the keys of a greener and healthier world](/img/ThomasESR15.pdf)**
 
+<a href="/img/ThomasESR15.pdf" rel="noopener noreferrer" target="_blank">Extreme microbes could hold the keys of a greener and healthier world</a>
