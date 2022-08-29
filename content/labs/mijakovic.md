@@ -13,7 +13,7 @@ profileleftbox: |-
   E-mail: Ivan.Mijakovic \[at] chalmers.se\
   Office: Room 3056A (Fysik Origo, Kemigården 1)
 ---
-[CV](/img/cv_im2205.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2205.pdf) <br/><br/>
+[CV](/img/cv_im2208.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2205.pdf) <br/><br/>
 
 ![Ivan Mijakovic](img/pic_ivan_mijakovic-lab.png)
 
@@ -69,13 +69,11 @@ Hengzi Ruan, PhD student\
 Leonarda Acha Alarcon, PhD student\
 Pragati Rajendra More, visiting PhD student\
 Victor Lanai, MSc student\
-Iza Erzar, intern\
 Nisha Neupane, intern
 
 **Current Members of the Mijakovic lab at DTU Biosustain:**\
 Carsten Jers, senior researcher\
 Priyanka Singh, Post-doc\
-Vaishnavi Ravikumar, Post-doc\
 Julie Bonne Køhler, Post-doc\
 Abhayraj Joshi, Post-doc\
 Colleen Manyumwa, Post-doc\
@@ -84,6 +82,7 @@ Chenxhi Zhang, PhD student\
 Mukil Madhusudanan, PhD student\
 Ema Svetlicic, PhD student\
 Belay Tilahun Tadesse, PhD student\
+Mohammed Ghalib, PhD student\
 Anargyros Alexiou, PhD student\
 Darko Kjiproski, Project manager\ 
 
@@ -107,7 +106,8 @@ Raghu Mokkapati\
 Abida Sultan\
 Abderahmane Derouiche\
 Mériem Senissar\
-Abhroop Garg
+Abhroop Garg\
+Vaishnavi Ravikumar
 
 ***PhD students:***\
 Mette Erichsen Hansen\
@@ -151,4 +151,5 @@ Alessandra Merlo\
 Anja Tusar\
 Li Xu\
 Sophie Antonsson\
-Mugdha Bapat
+Mugdha Bapat\
+Iza Erzar
