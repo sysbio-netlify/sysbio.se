@@ -7,6 +7,6 @@ position: PhD student
 email: dannborg [at] chalmers.se
 flags:
   - se Sweden
-person-category: H Visiting researchers
+person-category: F PhD students
 template: people/profile
 ---
