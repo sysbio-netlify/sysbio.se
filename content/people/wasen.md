@@ -7,6 +7,6 @@ position: PostDoc
 email: caroline.wasen [at] gu.se
 flags:
   - se Sweden
-person-category: E Postdocs
+person-category: D Researchers
 template: people/profile
 ---
