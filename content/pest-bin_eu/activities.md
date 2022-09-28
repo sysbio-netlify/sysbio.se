@@ -7,11 +7,19 @@ image: ""
 ---
 **Summer School/Annual meetings**
 
+*1. Summer School at DTU, Denmark*
+
 ![](../img/summer-school-dtu-v2.jpg)
 
 ![](../img/annual-meeting-dtu-v3.jpg)
 
 The 1st PEST-BIN Summer school was held at the premises at DTU in Lyngby, Denmark from 11-15th October 2021. The ESRs had a full one week with interesting scientific lectures from both industry and academia speakers, workshop on how to write a scientific paper, gender equality talk as well as IP and Research ethics lectures. The summer school ended with project presentations from each ESR.
+
+*2. Summer School at CUT, Sweden*
+
+![](../img/pic-1.jpg)
+
+The 2nd PEST-BIN Summer school was held at the premises at Chalmers University of Technology in Gothenburg, Sweden from 19-23rd September 2022. The ESRs had a full one week with interesting scientific lectures from both industry and academia speakers, workshop on how to write a SoMe post and how to communicate their research to the media as well as EU research regulation lecture from the Ministry of Higher Education in Denmark. The summer school ended with project presentations from each ESR.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
