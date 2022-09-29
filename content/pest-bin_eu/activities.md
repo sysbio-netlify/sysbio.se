@@ -5,6 +5,8 @@ weight: 40
 template: pest-bin_eu/single
 image: ""
 ---
+
+
 **Summer School/Annual meetings**
 
 *1. Summer School at DTU, Denmark*
@@ -94,3 +96,11 @@ ESR8 also went to the high school "Lycée Public de St Just" on December 7th 202
 ESR2 Munik Khan presented a poster at the Excellence Initiative Nano Community Building Activity at Varbergs Kusthotell Sweden, on 22-24 August, 2022
 
 ![](img/poster-2022.png)
+
+<br>
+
+ESR1 Leonarda Acha Alarcon and ESR11 José Maria Serpa Laço participated at the European Research Night in Sweden – a public event dedicated to the dissemination of science to the general public.  The event took place on 26th September 2022. The activities were named "Borrow a researcher" and "Drottning Blanka – Malmö City".
+
+![](img/researchers-night-2022-sep.jpg)
+
+![](img/researchers-night-sep-2022.jpg)
