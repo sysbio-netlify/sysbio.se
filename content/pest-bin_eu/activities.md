@@ -90,3 +90,7 @@ ESR8 Margaux Demuysere, on the 28th August 2021, took part in the event "Confere
 ESR8 also went to the high school "Lycée Public de St Just" on December 7th 2021 to talk about her research and research in general. The event was organized in the context of Declics, a French initiative aiming at establishing a dialogue between researchers and high school students. Around 70 students attended the event, and she talked to roughly half of them. 
 
 <br>
+
+ESR2 Munik Khan presented a poster at the Excellence Initiative Nano Community Building Activity at Varbergs Kusthotell Sweden, on 22-24 August, 2022
+
+![](img/poster-2022.png)
