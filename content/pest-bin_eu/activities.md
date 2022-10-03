@@ -5,8 +5,6 @@ weight: 40
 template: pest-bin_eu/single
 image: ""
 ---
-
-
 **Summer School/Annual meetings**
 
 *1. Summer School at DTU, Denmark*
@@ -106,6 +104,10 @@ ESR1 Leonarda Acha Alarcon and ESR11 José Maria Serpa Laço participated at the
 ![](../img/researchers-night-sep-2022.jpg)
 
 <br>
+
+
 ESR Sara Pita gave students aged 13-18 a presentation on Mining the Human Gut Microbiome for Health at the Educational fair hosted by Danmarks Tekniske museum. The educational fair aimed to showcase school-aged children a range of future career paths. Our ESR contributed with illustrating the journey towards becoming a researcher, why gut microbiome research is important in understanding health and finally, the workflows she is developing to understand the role of the gut microbiome in health. 
 
+![](../img/sara-1.jpg)
 
+![](../img/sara-2.jpg)
