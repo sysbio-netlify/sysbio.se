@@ -1,7 +1,7 @@
 ---
 title: Project video
 menu: pest_bin_eu
-weight: 40
+weight: 45
 template: pest-bin_eu/single
 image: ""
 ---
