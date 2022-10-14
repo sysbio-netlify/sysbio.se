@@ -1,5 +1,5 @@
 ---
-title: Video_test
+title: Project video
 menu: pest_bin_eu
 weight: 40
 template: pest-bin_eu/single
@@ -9,6 +9,6 @@ image: ""
 
 *VIDEO BELOW:*
 
-![](../img/summer-school-dtu-v2.jpg)
+![](../video/test_yeast.mp4)
 
 <br>
