@@ -9,7 +9,7 @@ image: ""
 
 *VIDEO BELOW:*
 
-<video src="../video/test_yeast.mp4" controls />
+<video width="320" height="240" src="../video/test_yeast.mp4" controls />
 
 ![](../video/test_yeast.mp4)
 
