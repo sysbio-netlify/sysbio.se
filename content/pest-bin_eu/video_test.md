@@ -11,4 +11,6 @@ image: ""
 
 ![](../video/test_yeast.mp4)
 
+<video src="../video/test_yeast.mp4" controls />
+
 <br>
