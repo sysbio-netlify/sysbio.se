@@ -7,10 +7,6 @@ image: ""
 ---
 **Project video**
 
-*COMING SOON*
-
-*This video is for site testing purposes:*
-
-<iframe width="897" height="673" src="https://www.youtube.com/embed/OgxaUFsSM9U" title="Supercharged Rope Flow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RgAkHpc9WHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
