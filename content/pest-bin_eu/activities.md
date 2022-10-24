@@ -58,10 +58,6 @@ ESR11 Jose Maria Serpa Laço participated in a conference in Mallorca called "XI
 
 ![](../img/conf-2022.jpg)
 
-
-
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 <br>
 
@@ -124,3 +120,8 @@ ESR Sara Pita gave students aged 13-18 a presentation on Mining the Human Gut Mi
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 <br>
 
+**A﻿wards**
+
+ESR Leonarda Acha Alarcon received the Elisabeth Bollan Lindén-stipend 2022 (1 out of 4 awards) for doing quantitative #proteomics 📊 of Streptococcus pneumoniae 🦠 at the Proteomics Core Facilities of University of Gothenburg.  The topic was Virulence of Streptococcus pneumoniae - Comparison of differential protein expression levels of invasive vs non-invasive strains using quantitative proteomics.
+
+![](../img/bollan-leo.jpg)
