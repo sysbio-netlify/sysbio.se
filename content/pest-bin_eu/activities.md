@@ -52,6 +52,16 @@ ESR1 Leonarda Acha Alarcon and ESR9 Payal Nashier, presented posters at the 4th 
 
 ![](../img/payal-and-leo-pic-1.jpg)
 
+<br>
+
+ESR11 Jose Maria Serpa Laço participated in a conference in Mallorca called "XIX Reunión del grupo de Taxonomía, Filogenia y Biodiversidad", between 13-15 October 2022, where he made an oral presentation entitled "Bacterial diversity in the hospital environment as a potential reservoir of nosocomial infections". 
+
+![](../img/conf-2022.jpg)
+
+
+
+
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 <br>
 
@@ -104,7 +114,6 @@ ESR1 Leonarda Acha Alarcon and ESR11 José Maria Serpa Laço participated at the
 ![](../img/researchers-night-sep-2022.jpg)
 
 <br>
-
 
 ESR Sara Pita gave students aged 13-18 a presentation on Mining the Human Gut Microbiome for Health at the Educational fair hosted by Danmarks Tekniske museum. The educational fair aimed to showcase school-aged children a range of future career paths. Our ESR contributed with illustrating the journey towards becoming a researcher, why gut microbiome research is important in understanding health and finally, the workflows she is developing to understand the role of the gut microbiome in health. 
 
