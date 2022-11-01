@@ -1,5 +1,5 @@
 ---
-name: Hao-Wang, PhD
+name: Hao Wang, PhD
 title: Hao-Wang
 lastname: Wang
 picture: img/pic_hao-wang.jpg
