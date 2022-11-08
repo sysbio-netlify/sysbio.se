@@ -125,11 +125,19 @@ ESR5 Ema Svetlicic gave a one-hour talk to high school students as part of the S
 
 <br>
 
+E﻿SR3 Flavia Ferrara took part in a podcast organized at the Chalmers University of Technology where she explained her research project. You have the chance to hear the[ podcast here. ](https://poddradioscience.libsyn.com/77-chalmers-short-stories-iii)
+
+L﻿ink for the website is [here.](http://www.radioscience.se/forskningskommunikation/77-chalmers-short-stories-iii/)
+
+![](../img/pp2-flavia.jpg)
+
+<br>
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 <br>
 
 **A﻿wards**
 
-ESR Leonarda Acha Alarcon received the Elisabeth Bollan Lindén-stipend 2022 (1 out of 4 awards) for doing quantitative #proteomics 📊 of Streptococcus pneumoniae 🦠 at the Proteomics Core Facilities of University of Gothenburg.  The topic was Virulence of Streptococcus pneumoniae - Comparison of differential protein expression levels of invasive vs non-invasive strains using quantitative proteomics.
+ESR1 Leonarda Acha Alarcon received the Elisabeth Bollan Lindén-stipend 2022 (1 out of 4 awards) for doing quantitative #proteomics 📊 of Streptococcus pneumoniae 🦠 at the Proteomics Core Facilities of University of Gothenburg.  The topic was Virulence of Streptococcus pneumoniae - Comparison of differential protein expression levels of invasive vs non-invasive strains using quantitative proteomics.
 
 ![](../img/bollan-leo.jpg)
