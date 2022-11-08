@@ -133,6 +133,12 @@ L﻿ink for the website is [here.](http://www.radioscience.se/forskningskommunik
 
 <br>
 
+E﻿SR1 Leonarda Acha Alarcon and ESR11 Jose Serpa Laço were featured in the Akademiliv, the news of Sahlgrenska Academy. They explained their projects and how they are collaborating with each other. You can read more about this [here.](https://akademiliv.se/en/2022/10/86196/)
+
+![](img/capture-jose-and-leo.png)
+
+<br>
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 <br>
 
