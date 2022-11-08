@@ -117,11 +117,13 @@ ESR Sara Pita gave students aged 13-18 a presentation on Mining the Human Gut Mi
 
 ![](../img/sara-2.jpg)
 
+<br>
+
 ESR5 Ema Svetlicic gave a one-hour talk to high school students as part of the Studiepraktik at DTU. Studiepraktik is an annual event where high school students from all over Denmark learn about different study programs and PhD projects to help them choose their future study. Ema gave a talk on different methods of bacterial diagnostics and how her project can tackle the challenges of bacterial identification. 
 
 ![](../img/high-school-talk_emsv.jpg)
 
-
+<br>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 <br>
