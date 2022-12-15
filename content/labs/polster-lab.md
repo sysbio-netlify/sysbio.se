@@ -27,3 +27,9 @@ The theoretical approach addresses nosological questions by rethinking the way w
 The translational approach focuses on **data-driven computational modelling**, aiming to identify novel and personalized endotypes using patient-specific clinical and molecular features. Here we aim to understand how we can **link phenotype and pathomechanism in the respective individual**.
  
 To utilize our research, we then combine these two viewpoints to **identify which characteristics of a genome, transcriptome, traitome are most predictive for symptom-expression and/or treatment response in the individual patient**.
+
+Current members of the Polster Lab:
+
+Kleio Gkoutzomitrou, MSc student 
+Xinlei Li, MSc student
+Gaston Sandstig, MSc student
