@@ -28,8 +28,8 @@ The translational approach focuses on **data-driven computational modelling**, a
  
 To utilize our research, we then combine these two viewpoints to **identify which characteristics of a genome, transcriptome, traitome are most predictive for symptom-expression and/or treatment response in the individual patient**.
 
-Current members of the Polster Lab:
+**Current members of the Polster Lab:**
 
-Kleio Gkoutzomitrou, MSc student 
-Xinlei Li, MSc student
-Gaston Sandstig, MSc student
+Kleio Gkoutzomitrou, MSc student   
+Xinlei Li, MSc student  
+Gaston Sandstig, MSc student  
