@@ -13,7 +13,7 @@ profileleftbox: |-
   E-mail: Ivan.Mijakovic \[at] chalmers.se\
   Office: Room 3056A (Fysik Origo, Kemigården 1)
 ---
-[CV](/img/cv_im2208.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2205.pdf) <br/><br/>
+[CV](/img/cv_im2301.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2301.pdf) <br/><br/>
 
 ![Ivan Mijakovic](img/pic_ivan_mijakovic-lab.png)
 
@@ -33,7 +33,6 @@ Another important aspect of working in the Mijakovic lab is the spirit or collab
 
 #### HIGHLIGHTS:
 
-* The Mijakovic lab is organizing the 4<sup>th</sup> International conference on post-translational modifications in Bacteria in Copenhagen, in May 2022. [PTMBact 2021 conference website](https://www.sysbio.se/ptmbact2020/).
 * Prof. Mijakovic is coordinator of an EU ITN consortium “PEST-BIN” – working on new methods to fight bacterial infections.
 * Prof. Mijakovic is coordinator of a Nord Forsk consortium GRAMI – working on combining nanotechnology and antibiotics to fight biofilm-related infections.
 * Prof. Mijakovic is the winner of the 2021 Spiridon Brusina Medal awarded by the Croatian Society of Natural Sciences.
@@ -56,9 +55,7 @@ Santosh Pandit, researcher\
 Xin Chen, researcher\
 Shadi Rahimi, Post-doc\
 Yanyan Chen, Post-doc\
-Avlant Nilsson, Post-doc\
 Caroline Wasén, Post-doc\
-Mohsen Zareian, Post-doc\
 Jian Zhang, Post-doc\
 Mutusankar Eswaran, Post-doc\
 Zhejian Cao, Post-doc\
@@ -67,9 +64,9 @@ Paula Martínez Pérez, Post-doc\
 Golnaz Mobasseri, Post-doc\
 Hengzi Ruan, PhD student\
 Leonarda Acha Alarcon, PhD student\
+Martin Lovmar, Adjunct Professor\
 Pragati Rajendra More, visiting PhD student\
-Victor Lanai, MSc student\
-Nisha Neupane, intern
+Victor Lanai, MSc student
 
 **Current Members of the Mijakovic lab at DTU Biosustain:**\
 Carsten Jers, senior researcher\
@@ -107,7 +104,9 @@ Abida Sultan\
 Abderahmane Derouiche\
 Mériem Senissar\
 Abhroop Garg\
-Vaishnavi Ravikumar
+Vaishnavi Ravikumar\
+Mohsen Zareian\
+Avlant Nilsson
 
 ***PhD students:***\
 Mette Erichsen Hansen\
@@ -152,4 +151,5 @@ Anja Tusar\
 Li Xu\
 Sophie Antonsson\
 Mugdha Bapat\
-Iza Erzar
+Iza Erzar\
+Nisha Neupane
