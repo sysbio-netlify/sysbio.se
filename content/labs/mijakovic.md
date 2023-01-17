@@ -81,6 +81,7 @@ Ema Svetlicic, PhD student\
 Belay Tilahun Tadesse, PhD student\
 Mohammed Ghalib, PhD student\
 Anargyros Alexiou, PhD student\
+Saranya Nallapareddy, PhD student\
 Darko Kjiproski, Project manager\ 
 
 [Mijakovic lab at DTU Biosustain ](http://www.biosustain.dtu.dk/english/research/research-groups/bacterial-signal-transduction)
