@@ -66,6 +66,7 @@ Hengzi Ruan, PhD student\
 Leonarda Acha Alarcon, PhD student\
 Martin Lovmar, Adjunct Professor\
 Pragati Rajendra More, visiting PhD student\
+Nihal Kottan, MSc student\
 Victor Lanai, MSc student
 
 **Current Members of the Mijakovic lab at DTU Biosustain:**\
