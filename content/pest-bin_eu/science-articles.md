@@ -5,15 +5,13 @@ weight: 55
 template: pest-bin_eu/single
 image: null
 ---
-**ESR 15 Thomas Vernay**
-
-<a href="/img/tvernay.pdf"rel="noopener noreferrer" target="_blank">Extreme microbes could hold the keys of a greener and healthier world</a>
+**ESR 15 Thomas Vernay** has published her first popular science article with title <a href="/img/tvernay.pdf"rel="noopener noreferrer" target="_blank">Extreme microbes could hold the keys of a greener and healthier world</a>
 
 *21-07-2022*
 
 <br>
 
-**ESR12 Anja Tušar** has published her first popular science article with title "How knowledge of evolution helps us fight bacteria". Check the article (in Slovenian) here -> 
+**ESR12 Anja Tušar** "How knowledge of evolution helps us fight bacteria". Check the article (in Slovenian) here -> 
 
 [“How knowledge of evolution helps us fight bacteria”.](https://www.alternator.science/sl/daljse/kako-nam-znanje-o-evoluciji-pomaga-v-boju-z-bakterijami/)
 
