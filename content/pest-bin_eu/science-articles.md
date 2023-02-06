@@ -32,9 +32,7 @@ Clinical environments as a potential reservoir for nosocomial infections"
 
 <br>
 
-**ESR12 Anja Tušar** "Bacteria Are Social Creatures Too"
-
-[“Bacteria Are Social Creatures Too”.](https://www.alternator.science/sl/daljse/bacteria-are-social-creatures-too/)
+**ESR12 Anja Tušar** has published her second article, Bacteria Are Social Creatures Too. Check the article here -> (https://www.alternator.science/sl/daljse/bacteria-are-social-creatures-too/)
 
 *1﻿2-01-2023*
 
