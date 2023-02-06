@@ -29,5 +29,14 @@ image: null
 
 **ESR11 Jose Maria Serpa Laço**  published his first popular science article with title  "<a href="/img/concursodivulgacion_joselaco.pdf"rel="noopener noreferrer" target="_blank"> Clinical environments as a potential reservoir for nosocomial infections"</a>
 
+*0﻿8-11-2022*
+
 <br>
 
+**ESR12 Anja Tušar** "Bacteria Are Social Creatures Too"
+
+[“Bacteria Are Social Creatures Too”.](https://www.alternator.science/sl/daljse/bacteria-are-social-creatures-too/)
+
+*1﻿2-01-2023*
+
+<br>
