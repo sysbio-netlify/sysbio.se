@@ -23,16 +23,16 @@ The PhD project is part of a work package focused on identifying surface biomark
 
 <br>  
 
-**ESR7** 
+**ESR7** **Mohammed Ghalib Enayathullah**
 
-**e-mail:** 
-
-
+**e-mail:** mghalib@biosustain.dtu.dk
 
 
-**Project title:** 
+Short paragraph on your research background:  Ghalib graduated with an Integrated Master’s Degree in Biotechnology (2019) from SASTRA University, India. For his master thesis, Ghalib worked under the guidance of Dr. Gautham B.J., on developing a cost-effective method for lactic-acid production and its techno-economical understanding using simulations. In 2019, he joined Dr. Idris in CSIR-CCMB as a trainee to gain expertise in molecular biology techniques and because he wanted to delve into infection biology. As the COVID-19 hit India in 2020, Ghalib joined a national level Antiviral Drug Screening project with Dr. Kiran Kumar in CSIR-CCMB, gaining extensive experience in virology, cell culture, drug screening, molecular biology for 2 years and he developed a pipeline of proteomics out of self-interest. In 2022, he joined as a PhD student in Technical University of Denmark in Prof. Ivan Mijakovic’s Lab to continue pursuing and widen his understanding of infections as he gains proficiency. Like his mentors he wishes to educate himself and as many researchers and people as possible, but in understanding infection mechanisms to be able to fight against mutating persisters.
 
+**Project title: Proteome dynamics of bacterial pathogens during infection - New Drug Targets**
 
+His project aims at identifying differentially expressed and phosphorylated proteins in bacterial pathogens during an infection, and to validate these as potential new targets for antibiotics. His focus is built on the interaction of infectious pathogenic bacteria on a host system (preferentially human cell lines) and their (phosphor-)proteomes analyzed by quantitative MS proteomics approaches (SILAC, iBAC). Strains will be genetically engineered in which candidate proteins will be either inactivated or transformed into phospho-mimetic or phospho-ablative mutants. The mutant strains will be tested in virulence assays. In cases where impact on virulence will be proven, he will follow up with genetic and biochemical characterization of participation of these proteins in the infection process. He believes he will generate a list of differentially regulated proteins confirmed to be involved in infection – to be used as targets for antibiotics development
 
 <br>  
 
