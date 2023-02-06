@@ -28,7 +28,7 @@ image: null
 <br>
 
 **ESR11 Jose Maria Serpa Laço**  published his first popular science article with title  "<a href="/img/concursodivulgacion_joselaco.pdf"rel="noopener noreferrer" target="_blank"> 
-Clinical environments as a potential reservoir for nosocomial infections"
+Clinical environments as a potential reservoir for nosocomial infections"> 
 
 <br>
 
