@@ -1,5 +1,5 @@
 ---
-title: Science Articles
+title: Popular Science Articles
 menu: pest_bin_eu
 weight: 55
 template: pest-bin_eu/single
