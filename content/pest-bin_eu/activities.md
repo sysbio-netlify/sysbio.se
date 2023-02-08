@@ -60,6 +60,12 @@ ESR11 Jose Maria Serpa Laço participated in a conference in Mallorca called "XI
 
 <br>
 
+ESR14 Hengzhi Ruan from the Rheology and Processing of Soft Matter group in Chalmers presented his research at The Nordic Rheology Conference 2022 organized by University of Iceland. The event took place on 10th August 2022.
+
+![](../img/2.1-iceland.jpg)
+
+<br>
+
 ESR4 Lydia Palaiodimou poster presentation in the Analytics Congress 2022 which took part in Nantes, France, from the the 5th to the 8th of September 2022.
 
 ![](../img/lydia-1.jpg)
