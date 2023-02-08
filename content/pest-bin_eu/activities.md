@@ -147,6 +147,10 @@ E﻿SR1 Leonarda Acha Alarcon and ESR11 Jose Serpa Laço were featured in the Ak
 
 <br>
 
+ESR2 Munis Khan and ESR14 Hengzhi Ruan gave a seminar regarding the topics of bacteria/killing biofilm/biosensor at Hvitfeldtska gymnasiet and talked about antibacterial strategies and graphene technologies. The event took place on 13th Dec, 2022.
+
+![](../img/munis-and-hen-1.jpg)
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 <br>
 
