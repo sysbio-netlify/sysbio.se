@@ -58,6 +58,12 @@ ESR11 Jose Maria Serpa Laço participated in a conference in Mallorca called "XI
 
 ![](../img/conf-2022.jpg)
 
+<br>
+
+ESR4 Lydia Palaiodimou poster presentation in the Analytics Congress 2022 which took part in Nantes, France, from the the 5th to the 8th of September 2022.
+
+![](../img/lydia-1.jpg)
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 <br>
 
