@@ -1,5 +1,5 @@
 ---
-name: Christos Skrekas
+name: Christos Skrekas, PhD
 title: Christos-Skrekas
 lastname: Skrekas
 picture: /img/pic_christos-skrekas.jpg
