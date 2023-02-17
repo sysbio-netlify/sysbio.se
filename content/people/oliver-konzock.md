@@ -3,10 +3,10 @@ name: Oliver Konzock, PhD
 title: Oliver-Konzock
 lastname: Konzock
 picture: /img/pic_oliver-konzock.jpg
-position: PhD student
+position: PostDoc
 email: konzock [at] chalmers.se
 flags:
   - de Germany
-person-category: F PhD students
+person-category: E Postdocs
 template: people/profile
 ---
