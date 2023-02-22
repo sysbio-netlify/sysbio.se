@@ -38,3 +38,7 @@ image: null
 *1﻿2-01-2023*
 
 <br>
+
+**ESR4 Lydia Palaiodimou** has published her first article. [“The fantastic journey of *Listeria monocytogenes*”.]
+
+*1﻿5-02-2023*
