@@ -39,6 +39,6 @@ image: null
 
 <br>
 
-**ESR4 Lydia Palaiodimou** has published her first article. "<a href="static/img/lpalaiodimou.pdf"rel="noopener noreferrer" target="_blank"> The fantastic journey of *Listeria monocytogenes"</a>
+**ESR4 Lydia Palaiodimou** has published her first article. "<a href="/img/lpalaiodimou.pdf"rel="noopener noreferrer" target="_blank"> The fantastic journey of *Listeria monocytogenes"</a>
 
 *1﻿5-02-2023*
