@@ -42,3 +42,11 @@ image: null
 **ESR4 Lydia Palaiodimou** has published her first article. "<a href="/img/lpalaiodimou.pdf"rel="noopener noreferrer" target="_blank"> The fantastic journey of *Listeria monocytogenes"</a>
 
 *1﻿5-02-2023*
+
+<br>
+
+**ESR14 Hengzhi Ruan** published his first popular science article with title "New strategies for multifunctional antibacterial materials". Check the article here ->
+
+[Simpler graphene method paves way for new era of nanoelectronics | Chalmers](https://research.chalmers.se/en/publication/?created=true&id=0ce9a72d-e8c7-41c3-bfca-abbdde6d5a35)
+
+2*﻿3-03-2023*
