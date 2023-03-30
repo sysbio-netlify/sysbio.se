@@ -11,17 +11,13 @@ image: null
 
 <br>
 
-**ESR12 Anja Tušar** "How knowledge of evolution helps us fight bacteria". Check the article (in Slovenian) here -> 
-
-[“How knowledge of evolution helps us fight bacteria”.](https://www.alternator.science/sl/daljse/kako-nam-znanje-o-evoluciji-pomaga-v-boju-z-bakterijami/)
+**ESR12 Anja Tušar** "How knowledge of evolution helps us fight bacteria". Check the article (in Slovenian) here -> [“How knowledge of evolution helps us fight bacteria”.](https://www.alternator.science/sl/daljse/kako-nam-znanje-o-evoluciji-pomaga-v-boju-z-bakterijami/)
 
 *2﻿3-06-2022*
 
 <br>
 
-**ESR2 Munis Khan** published his first popular science article with title "Simpler graphene method paves way for new era of nanoelectronics". Check the article here ->
-
-[Simpler graphene method paves way for new era of nanoelectronics | Chalmers](https://www.chalmers.se/en/departments/mc2/news/Pages/simpler-graphene-method-paves-way-for-new-era-of-nanoelectronics.aspx)
+**ESR2 Munis Khan** published his first popular science article with title "Simpler graphene method paves way for new era of nanoelectronics". Check the article here -> [Simpler graphene method paves way for new era of nanoelectronics | Chalmers](https://www.chalmers.se/en/departments/mc2/news/Pages/simpler-graphene-method-paves-way-for-new-era-of-nanoelectronics.aspx)
 
 *0﻿7-03-2022*
 
@@ -45,8 +41,7 @@ image: null
 
 <br>
 
-**ESR14 Hengzhi Ruan** published his first popular science article with title "New strategies for multifunctional antibacterial materials". Check the article here ->
-
+**ESR14 Hengzhi Ruan** published his first popular science article with title "New strategies for multifunctional antibacterial materials". Check the article here -> 
 [New strategies for multifunctional antibacterial materials | Chalmers](https://research.chalmers.se/en/publication/?created=true&id=0ce9a72d-e8c7-41c3-bfca-abbdde6d5a35)
 
 2*﻿3-03-2023*
