@@ -47,6 +47,6 @@ image: null
 
 **ESR14 Hengzhi Ruan** published his first popular science article with title "New strategies for multifunctional antibacterial materials". Check the article here ->
 
-[Simpler graphene method paves way for new era of nanoelectronics | Chalmers](https://research.chalmers.se/en/publication/?created=true&id=0ce9a72d-e8c7-41c3-bfca-abbdde6d5a35)
+[New strategies for multifunctional antibacterial materials | Chalmers](https://research.chalmers.se/en/publication/?created=true&id=0ce9a72d-e8c7-41c3-bfca-abbdde6d5a35)
 
 2*﻿3-03-2023*
